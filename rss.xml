@@ -3,30 +3,30 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的播客</title>
-    <link>https://your-podcast.vercel.app</link>
-    <description>分享AI、科技与创业故事</description>
+    <title>虾闯天下</title>
+    <link>https://daikexing.work</link>
+    <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
-    <copyright>© 2026 我的播客</copyright>
+    <copyright>© 2026 虾闯天下</copyright>
     <lastBuildDate>Sat, 25 Apr 2026 18:51:00 +0800</lastBuildDate>
-    <atom:link href="https://your-podcast.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>EP002 - DeepSeek-V4与人形机器人背后的AI变局</title>
-      <link>https://your-podcast.vercel.app/episodes/ep002.mp3</link>
+      <link>https://daikexing.work/episodes/ep002.mp3</link>
       <description>DeepSeek V4 百万 Token 超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents 务实路线。三件事合在一起，透露AI从工具变劳动力的信号。</description>
       <pubDate>Sat, 25 Apr 2026 18:51:00 +0800</pubDate>
-      <enclosure url="https://your-podcast.vercel.app/episodes/ep002.mp3" type="audio/mpeg" length="3793560"/>
+      <enclosure url="https://daikexing.work/episodes/ep002.mp3" type="audio/mpeg" length="3793560"/>
       <itunes:duration>05:58</itunes:duration>
       <guid>ep002-2026-04-25</guid>
     </item>
 
     <item>
       <title>EP001 - OpenAI GPT-5.5与中国AI崛起</title>
-      <link>https://your-podcast.vercel.app/episodes/ep001.mp3</link>
+      <link>https://daikexing.work/episodes/ep001.mp3</link>
       <description>AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。</description>
       <pubDate>Fri, 25 Apr 2026 08:00:00 +0800</pubDate>
-      <enclosure url="https://your-podcast.vercel.app/episodes/ep001.mp3" type="audio/mpeg" length="4499700"/>
+      <enclosure url="https://daikexing.work/episodes/ep001.mp3" type="audio/mpeg" length="4499700"/>
       <itunes:duration>07:04</itunes:duration>
       <guid>ep001-2026-04-25</guid>
     </item>
