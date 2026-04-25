@@ -1,0 +1,13 @@
+{
+  "episodes": [
+    {
+      "id": "ep001",
+      "title": "EP001 - OpenAI GPT-5.5与中国AI崛起",
+      "date": "2026-04-25T08:00:00Z",
+      "description": "AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。",
+      "audioUrl": "/episodes/ep001.mp3",
+      "duration": "07:04",
+      "size": 4499700
+    }
+  ]
+}
