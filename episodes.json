@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "id": "ep004",
+      "title": "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
+      "date": "2026-04-26T22:00:00Z",
+      "description": "OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。",
+      "audioUrl": "/episodes/EP004.mp3",
+      "duration": "00:52",
+      "size": 310848
+    },
+    {
       "id": "ep003",
       "title": "EP003 - DeepSeek-V4与人形机器人闪电：AI爆发的两记重拳",
       "date": "2026-04-26T09:00:00Z",
