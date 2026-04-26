@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 18:51:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP003 - DeepSeek-V4与人形机器人闪电：AI爆发的两记重拳</title>
+      <link>https://daikexing.work/episodes/EP003.mp3</link>
+      <description>DeepSeek V4 发布：100万 Token 超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成 AI 从"回答问题"全面转向"替我完成任务"的明确信号。</description>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/EP003.mp3" type="audio/mpeg" length="3104304"/>
+      <itunes:duration>04:55</itunes:duration>
+      <guid>ep003-2026-04-26</guid>
+    </item>
+
     <item>
       <title>EP002 - DeepSeek-V4与人形机器人背后的AI变局</title>
       <link>https://daikexing.work/episodes/ep002.mp3</link>
