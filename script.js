@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep004",
+    title: "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
+    date: "2026-04-26",
+    description: "AI记忆经历了三个阶段：关键词搜索、QMD存储、向量语义搜索。OpenClaw引入本地向量模型，实现语义理解，不仅支撑单Agent连续对话，还支撑多Agent协作与信息共享。",
+    audioUrl: "/episodes/EP004.mp3",
+    duration: "05:13"
+  },
+  {
     id: "ep003",
     title: "EP003 - DeepSeek-V4与人形机器人闪电：AI爆发的两记重拳",
     date: "2026-04-26",
