@@ -4,7 +4,7 @@ const episodes = [
     id: "ep003",
     title: "EP003 - DeepSeek-V4与人形机器人闪电：AI爆发的两记重拳",
     date: "2026-04-26",
-    description: "DeepSeek V4 发布：100万 Token 超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成 AI 从"回答问题"全面转向"替我完成任务"的明确信号。",
+    description: "DeepSeek V4 发布：100万 Token 超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成 AI 从「回答问题」全面转向「替我完成任务」的明确信号。",
     audioUrl: "/episodes/EP003.mp3",
     duration: "04:55"
   },
