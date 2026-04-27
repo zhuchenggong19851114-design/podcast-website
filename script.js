@@ -42,10 +42,12 @@ const episodes = [
   }
 ];
 
-// 格式化日期
+// 格式化日期（使用北京时间）
 function formatDate(dateStr) {
-  const date = new Date(dateStr);
-  return date.toLocaleDateString('zh-CN', {
+  // 如果是纯日期（如 "2026-04-27"），补充时间并强制使用北京时区
+  const d = new Date(dateStr.includes('T') ? dateStr : dateStr + 'T00:00:00+08:00');
+  return d.toLocaleDateString('zh-CN', {
+    timeZone: 'Asia/Shanghai',
     year: 'numeric',
     month: 'long',
     day: 'numeric'
