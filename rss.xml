@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局</title>
+      <link>https://daikexing.work/episodes/EP005.mp3</link>
+      <description>英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。</description>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/EP005.mp3" type="audio/mpeg" length="3471720"/>
+      <itunes:duration>05:41</itunes:duration>
+      <guid>ep005-2026-04-27</guid>
+    </item>
+
     <item>
       <title>EP004 - OpenClaw的记忆机制：AI是如何记住一切的</title>
       <link>https://daikexing.work/episodes/EP004.mp3</link>

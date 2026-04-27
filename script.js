@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep005",
+    title: "EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局",
+    date: "2026-04-27",
+    description: "英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。",
+    audioUrl: "/episodes/EP005.mp3",
+    duration: "05:41"
+  },
+  {
     id: "ep004",
     title: "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
     date: "2026-04-26",
