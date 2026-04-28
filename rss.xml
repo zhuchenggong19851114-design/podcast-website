@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 22:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP007_2026-04-28_AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布</title>
+      <link>https://daikexing.work/episodes/EP007.mp3</link>
+      <description>过去24小时，AI 领域发生了三件大事：北京车展1451台展车创新高、DeepSeek V4 API 降价90%、卓益得发布情感陪护机器人 Moya。三件看似不相关的事，说的其实是同一个趋势——AI 正在从「能回答问题」全面转向「能进入生活」。</description>
+      <pubDate>Tue, 28 Apr 2026 22:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/EP007.mp3" type="audio/mpeg" length="2634576"/>
+      <itunes:duration>04:12</itunes:duration>
+      <guid>ep007-2026-04-28</guid>
+    </item>
+
     <item>
       <title>EP006_2026-04-27_OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉</title>
       <link>https://daikexing.work/episodes/ep006.mp3</link>
