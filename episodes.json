@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "id": "ep008",
+      "title": "EP008_2026-04-28_GPTImage2挑战扩散模型：AI生图战国时代谁主沉浮",
+      "date": "2026-04-28T12:00:00Z",
+      "description": "GPT Image 2 发布，Image Arena 1512分，甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊一个更实在的问题：GPT 官方的一体化生图方案，和 OpenClaw + Stable Diffusion 这类分体式专业架构，到底谁更强？现在谁更好用？未来谁会赢？",
+      "audioUrl": "/episodes/EP008.mp3",
+      "duration": "06:00",
+      "size": 3693912
+    },
+    {
       "id": "ep007",
       "title": "EP007_2026-04-28_AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布",
       "date": "2026-04-28T22:00:00Z",
