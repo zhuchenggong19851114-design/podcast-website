@@ -12,6 +12,16 @@
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>EP008_2026-04-28_GPTImage2挑战扩散模型：AI生图战国时代谁主沉浮</title>
+      <link>https://daikexing.work/episodes/EP008.mp3</link>
+      <description>GPT Image 2 发布，Image Arena 1512分，甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊一个更实在的问题：GPT 官方的一体化生图方案，和 OpenClaw + Stable Diffusion 这类分体式专业架构，到底谁更强？现在谁更好用？未来谁会赢？</description>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/EP008.mp3" type="audio/mpeg" length="3693912"/>
+      <itunes:duration>06:00</itunes:duration>
+      <guid>ep008-2026-04-28</guid>
+    </item>
+
+    <item>
       <title>EP007_2026-04-28_AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布</title>
       <link>https://daikexing.work/episodes/EP007.mp3</link>
       <description>过去24小时，AI 领域发生了三件大事：北京车展1451台展车创新高、DeepSeek V4 API 降价90%、卓益得发布情感陪护机器人 Moya。三件看似不相关的事，说的其实是同一个趋势——AI 正在从「能回答问题」全面转向「能进入生活」。</description>
