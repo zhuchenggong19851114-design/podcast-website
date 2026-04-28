@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep007",
+    title: "EP007_2026-04-28_AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布",
+    date: "2026-04-28",
+    description: "过去24小时，AI 领域发生了三件大事：北京车展1451台展车创新高、DeepSeek V4 API 降价90%、卓益得发布情感陪护机器人 Moya。三件看似不相关的事，说的其实是同一个趋势——AI 正在从「能回答问题」全面转向「能进入生活」。",
+    audioUrl: "/episodes/EP007.mp3",
+    duration: "04:12"
+  },
+  {
     id: "ep006",
     title: "EP006_2026-04-27_OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉",
     date: "2026-04-27",
