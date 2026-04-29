@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep009",
+    title: "EP009_2026-04-29_英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁",
+    date: "2026-04-29",
+    description: "英伟达 Nemotron 3 Nano Omni：全模态开源模型让企业级 AI Agent 效率提升 9 倍。同一天 OpenAI 销售额未达预期，概念股全线大跌。两件事合在一起，就是 AI 行业现在的真实状态：技术狂飙，商业磨合。",
+    audioUrl: "/episodes/ep009.mp3",
+    duration: "04:31"
+  },
+  {
     id: "ep008",
     title: "EP008_2026-04-28_GPTImage2挑战扩散模型：AI生图战国时代谁主沉浮",
     date: "2026-04-28",

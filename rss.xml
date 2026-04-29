@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 22:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP009_2026-04-29_英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁</title>
+      <link>https://daikexing.work/episodes/ep009.mp3</link>
+      <description>英伟达 Nemotron 3 Nano Omni：全模态开源模型让企业级 AI Agent 效率提升 9 倍。同一天 OpenAI 销售额未达预期，概念股全线大跌。两件事合在一起，就是 AI 行业现在的真实状态：技术狂飙，商业磨合。</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep009.mp3" type="audio/mpeg" length="2832936"/>
+      <itunes:duration>04:31</itunes:duration>
+      <guid>ep009-2026-04-29</guid>
+    </item>
+
     <item>
       <title>EP008_2026-04-28_GPTImage2挑战扩散模型：AI生图战国时代谁主沉浮</title>
       <link>https://daikexing.work/episodes/EP008.mp3</link>
