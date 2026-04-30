@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep011",
+    title: "EP011_2026-04-30_DeepSeek开源叫板三巨头：这就是AI战国风暴眼",
+    date: "2026-04-30",
+    description: "DeepSeek V4 开源对标 GPT-5、Claude 3.7、Gemini 2.5 Ultra，OpenAI 业绩未达标股价暴跌，美国众议院摸底中国 AI 实力。三条线同时竞争：技术、商业、监管。这就是 AI 战国时代的真实面貌。",
+    audioUrl: "/episodes/EP011.mp3",
+    duration: "03:47"
+  },
+  {
     id: "ep009",
     title: "EP009_2026-04-29_英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁",
     date: "2026-04-29",

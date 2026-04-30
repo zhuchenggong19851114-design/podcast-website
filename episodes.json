@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "id": "ep011",
+      "title": "EP011_2026-04-30_DeepSeek开源叫板三巨头：这就是AI战国风暴眼",
+      "date": "2026-04-30T12:00:00Z",
+      "description": "DeepSeek V4 开源对标 GPT-5、Claude 3.7、Gemini 2.5 Ultra，OpenAI 业绩未达标股价暴跌，美国众议院摸底中国 AI 实力。三条线同时竞争：技术、商业、监管。这就是 AI 战国时代的真实面貌。",
+      "audioUrl": "/episodes/EP011.mp3",
+      "duration": "03:47",
+      "size": 2319972
+    },
+    {
       "id": "ep009",
       "title": "EP009_2026-04-29_英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁",
       "date": "2026-04-29T12:00:00Z",
@@ -49,7 +58,7 @@
       "id": "ep004",
       "title": "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
       "date": "2026-04-26T22:00:00Z",
-      "description": "OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。",
+      "description": "AI记忆经历了三个阶段：关键词搜索、QMD存储、向量语义搜索。OpenClaw引入本地向量模型，实现语义理解，不仅支撑单Agent连续对话，还支撑多Agent协作与信息共享。",
       "audioUrl": "/episodes/EP004.mp3",
       "duration": "05:13",
       "size": 3252300
