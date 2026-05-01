@@ -2,11 +2,11 @@
 const episodes = [
   {
     id: "ep011",
-    title: "EP011_2026-04-30_DeepSeek开源叫板三巨头：这就是AI战国风暴眼",
-    date: "2026-04-30",
-    description: "DeepSeek V4 开源对标 GPT-5、Claude 3.7、Gemini 2.5 Ultra，OpenAI 业绩未达标股价暴跌，美国众议院摸底中国 AI 实力。三条线同时竞争：技术、商业、监管。这就是 AI 战国时代的真实面貌。",
-    audioUrl: "/episodes/EP011.mp3",
-    duration: "03:47"
+    title: "EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩",
+    date: "2026-05-01",
+    description: "花了一整天就为了搞定一个问题：怎么让 Hermes 正确调用 MiniMax 的月度计划 Key。api\_type 和 base\_url 必须同时改对，缺一个就 401。本期把踩的坑、交的学费全部告诉你。",
+    audioUrl: "/episodes/ep011.mp3",
+    duration: "05:42"
   },
   {
     id: "ep009",
