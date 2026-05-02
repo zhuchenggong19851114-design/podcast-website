@@ -8,15 +8,25 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Fri, 01 May 2026 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 09:45:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财</title>
+      <link>https://daikexing.work/episodes/ep012.mp3</link>
+      <description>AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部AI短剧48小时破3亿播放后一夜被全网下架，8亿播放量归零。本期深入剖析AI短剧的赚钱路径和监管红线。</description>
+      <pubDate>Sat, 02 May 2026 09:45:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep012.mp3" type="audio/mpeg" length="5315784"/>
+      <itunes:duration>09:26</itunes:duration>
+      <guid>ep012-2026-05-02</guid>
+    </item>
+
     <item>
       <title>EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩</title>
       <link>https://daikexing.work/episodes/ep011.mp3</link>
       <description>花了一整天就为了搞定一个问题：怎么让 Hermes 正确调用 MiniMax 的月度计划 Key。api_type 和 base_url 必须同时改对，缺一个就 401。本期把踩的坑、交的学费全部告诉你。</description>
       <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep011.mp3" type="audio/mpeg" length="3183489"/>
+      <enclosure url="https://daikexing.work/episodes/ep011.mp3" type="audio/mpeg" length="2098269"/>
       <itunes:duration>05:42</itunes:duration>
       <guid>ep011-2026-05-01</guid>
     </item>
