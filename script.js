@@ -6,7 +6,7 @@ const episodes = [
     date: "2026-05-03",
     description: "OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。",
     audioUrl: "/episodes/ep013.mp3",
-    duration: "04:36"
+    duration: "05:05"
   },
   {
     id: "ep012",
