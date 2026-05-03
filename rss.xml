@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 02 May 2026 09:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 14:51:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP013 - 我被自己的AI助手升级了三次，差点回不了家</title>
+      <link>https://daikexing.work/episodes/ep013.mp3</link>
+      <description>OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。</description>
+      <pubDate>Sun, 03 May 2026 14:51:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep013.mp3" type="audio/mpeg" length="2850072"/>
+      <itunes:duration>04:36</itunes:duration>
+      <guid>ep013-2026-05-03</guid>
+    </item>
+
     <item>
       <title>EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财</title>
       <link>https://daikexing.work/episodes/ep012.mp3</link>

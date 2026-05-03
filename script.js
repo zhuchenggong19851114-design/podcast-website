@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep013",
+    title: "EP013 - 我被自己的AI助手升级了三次，差点回不了家",
+    date: "2026-05-03",
+    description: "OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。",
+    audioUrl: "/episodes/ep013.mp3",
+    duration: "04:36"
+  },
+  {
     id: "ep012",
     title: "EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财",
     date: "2026-05-02",
