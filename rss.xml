@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 03 May 2026 14:51:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:20:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP014 - AI在狂奔，但安全正在被甩在身后</title>
+      <link>https://daikexing.work/episodes/ep014.mp3</link>
+      <description>五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全，4.8万亿美元的巨兽正在失控加速。为什么安全总是被甩在身后？具身智能为什么特别危险？</description>
+      <pubDate>Mon, 04 May 2026 11:20:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep014.mp3" type="audio/mpeg" length="2868432"/>
+      <itunes:duration>04:36</itunes:duration>
+      <guid>ep014-2026-05-04</guid>
+    </item>
+
     <item>
       <title>EP013 - 我被自己的AI助手升级了三次，差点回不了家</title>
       <link>https://daikexing.work/episodes/ep013.mp3</link>
