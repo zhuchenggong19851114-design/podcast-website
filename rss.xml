@@ -8,9 +8,19 @@
     <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 04 May 2026 11:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>EP015 - 多Agent协作的四种模式，听这一篇就够了</title>
+      <link>https://daikexing.work/episodes/ep015.mp3</link>
+      <description>Hermes多Agent协作框架：看板协作、群聊话题、并行调度、Cron串联。四种模式告诉你什么时候该让AI串行、并行、自动化还是实时讨论，让多AI协作不再是混乱的代名词，而是真正的效率放大器。</description>
+      <pubDate>Tue, 05 May 2026 18:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep015.mp3" type="audio/mpeg" length="6207597"/>
+      <itunes:duration>06:27</itunes:duration>
+      <guid>ep015-2026-05-05</guid>
+    </item>
+
     <item>
       <title>EP014 - AI在狂奔，但安全正在被甩在身后</title>
       <link>https://daikexing.work/episodes/ep014.mp3</link>

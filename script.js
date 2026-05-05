@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep015",
+    title: "EP015 - 多Agent协作的四种模式，听这一篇就够了",
+    date: "2026-05-05",
+    description: "Hermes多Agent协作框架：看板协作、群聊话题、并行调度、Cron串联。四种模式告诉你什么时候该让AI串行、并行、自动化还是实时讨论，让多AI协作不再是混乱的代名词，而是真正的效率放大器。",
+    audioUrl: "/episodes/ep015.mp3",
+    duration: "06:27"
+  },
+  {
     id: "ep014",
     title: "EP014 - AI在狂奔，但安全正在被甩在身后",
     date: "2026-05-04",
