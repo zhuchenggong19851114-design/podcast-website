@@ -8,7 +8,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 07 May 2026 04:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:45:15 +0000</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/podcast-cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,16 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI、科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
 
+    <item>
+      <title>EP018 - AI 三国杀：Agent 崛起、Cost 崩塌、监管元年</title>
+      <link>https://daikexing.work/episodes/ep018.mp3</link>
+      <description><![CDATA[GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。]]></description>
+      <pubDate>Thu, 07 May 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep018.mp3" type="audio/mpeg" length="5255808"/>
+      <itunes:duration>08:27</itunes:duration>
+      <guid>ep018-2026-05-08</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_18.jpg"/>
+    </item>
     <item>
       <title>EP015 - 多Agent协作的四种模式，听这一篇就够了</title>
       <link>https://daikexing.work/episodes/ep015.mp3</link>

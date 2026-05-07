@@ -1,6 +1,57 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep018",
+    size: 5255808,
+    title: "EP018 - AI 三国杀：Agent 崛起、Cost 崩塌、监管元年",
+    date: "2026-05-08",
+    description: "GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。",
+    audioUrl: "/episodes/ep018.mp3",
+    shownotes: `🎙️ 本期主题：AI三国杀——Agent崛起、Cost崩塌、监管元年
+
+三件事，同一周。
+
+第一，OpenAI发了GPT-5.5，Google发了Gemini 3.1 Ultra，Microsoft把Agent 365全面上市——三个巨头干了同一件事：把AI Agent从概念推进了实用。
+
+第二，DeepSeek融资估值干到450亿，Gemini Flash-Lite降到2毛5一百万token——推理成本在崩塌，而且崩得比预期的还快。
+
+第三，中国开始限制AI裁员了。全球第一个用法规管AI就业冲击的国家。
+
+━━━━━━━
+
+📰 核心要点
+
+🔹 Agent时代真的来了
+→ GPT-5.5 SWE-Bench Pro 58.6%：AI能独立完成完整bug修复流程
+→ Gemini 3.1 Ultra：200万token上下文，原生多模态
+→ Agent 365：AI直接集成进Office全家桶，从助手到员工
+
+🔹 成本在指数级崩塌
+→ DeepSeek V4：百万token上下文极具竞争力
+→ Gemini Flash-Lite：2毛5一百万token
+→ 当AI成本低于雇佣兼职实习生，整个商业逻辑要重写
+
+🔹 监管正式下场
+→ 中国：全球首个限制AI裁员法规
+→ Google、Microsoft、xAI同意让美国政府审查新模型
+→ DeepMind创始人拿11亿美元，目标是不依赖人类数据的AI
+
+━━━━━━━
+
+💡 核心观点
+
+当所有人都能用到顶级AI的时候，差异化在哪里？
+
+答案：在对行业的理解，在对场景的深耕，在能不能用AI解决一个真实的、具体的问题。
+
+✅ 总结
+
+AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在重写商业规则、社会规则"的当下事实。`,
+    cover: "https://daikexing.work/episodes/covers/ai_18.jpg",
+    duration: "08:27"
+  },
+
+  {
     id: "ep015",
     size: 6207597,
     title: "EP015 - 多Agent协作的四种模式，听这一篇就够了",
