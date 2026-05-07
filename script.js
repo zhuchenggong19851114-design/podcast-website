@@ -1,6 +1,14 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep017",
+    title: "EP017 - 苹果宣布换帅，库克9月卸任，AI时代的大考来了",
+    date: "2026-05-07",
+    description: "苹果宣布换帅：库克9月卸任，接棒的是硬件工程负责人John Ternus。苹果自2011年以来首次换CEO。Ternus接手的不是一艘平静的船——Apple Intelligence因夸大功能被起诉和解2.5亿美元，AI时代的大考苹果没能及格。Ternus做硬件出身，AI芯片与苹果生态整合或是翻盘关键。",
+    audioUrl: "/episodes/ep017.mp3",
+    duration: "04:36"
+  },
+  {
     id: "ep015",
     title: "EP015 - 多Agent协作的四种模式，听这一篇就够了",
     date: "2026-05-05",
