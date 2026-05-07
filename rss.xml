@@ -5,174 +5,171 @@
   <channel>
     <title>虾闯天下</title>
     <link>https://daikexing.work</link>
-    <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
+    <description>分享AI，科技与创业故事</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 07 May 2026 03:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     
-    <!-- iTunes 标签 -->
-    <itunes:image href="https://daikexing.work/podcast-cover.jpg"/>
-    <itunes:author>虾闯天下</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology"/>
-    <itunes:category text="Business"/>
-    <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
-    <itunes:summary><![CDATA[分享AI、科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
+    <item>
+      <title>EP017 - 苹果宣布换帅，库克9月卸任，AI时代的大考来了</title>
+      <link>https://daikexing.work/episodes/ep017.mp3</link>
+      <description>苹果宣布换帅：库克9月卸任，接棒的是硬件工程负责人John Ternus。苹果自2011年以来首次换CEO。Ternus接手的不是一艘平静的船——Apple Intelligence因夸大功能被起诉和解2.5亿美元，AI时代的大考苹果没能及格。Ternus做硬件出身，AI芯片与苹果生态整合或是翻盘关键。</description>
+      <pubDate>Thu, 07 May 2026 11:15:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep017.mp3" type="audio/mpeg" length="2837184"/>
+      <itunes:duration>04:36</itunes:duration>
+      <guid>ep017-2026-05-07</guid>
+    </item>
+
+    <item>
+          <item>
+      <title>EP016 - GPT-5.5 Ultra发布，四大科技巨头7250亿美元豪赌，AI正式进入干活时代</title>
+      <link>https://daikexing.work/episodes/ep016.mp3</link>
+      <description>GPT-5.5 Ultra不是更大的模型，是更会干活的模型。谷歌、亚马逊、微软、Meta四大科技巨头同一天宣布2026年AI投入合计7250亿美元，较去年增长77%。英伟达黄仁勋：软件行业规模将从现在的几万亿美元扩展到50万亿美元的实体经济领域。</description>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep016.mp3" type="audio/mpeg" length="3225300"/>
+      <itunes:duration>05:12</itunes:duration>
+      <guid>ep016-2026-05-07</guid>
+    </item>
 
     <item>
       <title>EP015 - 多Agent协作的四种模式，听这一篇就够了</title>
       <link>https://daikexing.work/episodes/ep015.mp3</link>
-      <description><![CDATA[AI工具越来越多，但多AI协作总是乱成一锅粥。Hermes框架总结出四种协作模式：看板协作、群聊话题、并行调度、Cron串联。听完你就知道什么时候让AI串行、并行、自动化还是实时讨论。]]></description>
-      <itunes:summary><![CDATA[AI工具越来越多，但多AI协作总是乱成一锅粥。Hermes框架总结出四种协作模式：看板协作、群聊话题、并行调度、Cron串联。听完你就知道什么时候让AI串行、并行、自动化还是实时讨论。]]></itunes:summary>
-      <pubDate>Mon, 04 May 2026 16:00:00 +0000</pubDate>
+      <description>Hermes多Agent协作框架：看板协作、群聊话题、并行调度、Cron串联。四种模式告诉你什么时候该让AI串行、并行、自动化还是实时讨论，让多AI协作不再是混乱的代名词，而是真正的效率放大器。</description>
+      <pubDate>Tue, 05 May 2026 18:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep015.mp3" type="audio/mpeg" length="6207597"/>
       <itunes:duration>06:27</itunes:duration>
       <guid>ep015-2026-05-05</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_15.jpg"/>
     </item>
+
     <item>
       <title>EP014 - AI在狂奔，但安全正在被甩在身后</title>
       <link>https://daikexing.work/episodes/ep014.mp3</link>
-      <description><![CDATA[五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全。为什么安全总是被甩在身后？]]></description>
-      <itunes:summary><![CDATA[五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全。为什么安全总是被甩在身后？]]></itunes:summary>
-      <pubDate>Sun, 03 May 2026 16:00:00 +0000</pubDate>
+      <description>五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全，4.8万亿美元的巨兽正在失控加速。为什么安全总是被甩在身后？具身智能为什么特别危险？</description>
+      <pubDate>Mon, 04 May 2026 11:20:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep014.mp3" type="audio/mpeg" length="2868432"/>
       <itunes:duration>04:36</itunes:duration>
       <guid>ep014-2026-05-04</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_14.jpg"/>
     </item>
+
     <item>
       <title>EP013 - 我被自己的AI助手升级了三次，差点回不了家</title>
       <link>https://daikexing.work/episodes/ep013.mp3</link>
-      <description><![CDATA[OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。]]></description>
-      <itunes:summary><![CDATA[OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。]]></itunes:summary>
-      <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
+      <description>OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。</description>
+      <pubDate>Sun, 03 May 2026 14:51:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep013.mp3" type="audio/mpeg" length="3137352"/>
       <itunes:duration>05:05</itunes:duration>
       <guid>ep013-2026-05-03</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_13.jpg"/>
     </item>
+
     <item>
       <title>EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财</title>
       <link>https://daikexing.work/episodes/ep012.mp3</link>
-      <description><![CDATA[AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部48小时破3亿播放后一夜下架，8亿播放量归零。深入剖析赚钱路径和监管红线。]]></description>
-      <itunes:summary><![CDATA[AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部48小时破3亿播放后一夜下架，8亿播放量归零。深入剖析赚钱路径和监管红线。]]></itunes:summary>
-      <pubDate>Fri, 01 May 2026 16:00:00 +0000</pubDate>
+      <description>AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部AI短剧48小时破3亿播放后一夜被全网下架，8亿播放量归零。本期深入剖析AI短剧的赚钱路径和监管红线。</description>
+      <pubDate>Sat, 02 May 2026 09:45:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep012.mp3" type="audio/mpeg" length="5315784"/>
       <itunes:duration>09:26</itunes:duration>
       <guid>ep012-2026-05-02</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_12.jpg"/>
     </item>
+
     <item>
       <title>EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩</title>
       <link>https://daikexing.work/episodes/ep011.mp3</link>
-      <description><![CDATA[花了一整天搞定一个问题：怎么让Hermes正确调用MiniMax月度计划Key。api_type和base_url必须同时改对，缺一个就401。踩坑实录。]]></description>
-      <itunes:summary><![CDATA[花了一整天搞定一个问题：怎么让Hermes正确调用MiniMax月度计划Key。api_type和base_url必须同时改对，缺一个就401。踩坑实录。]]></itunes:summary>
-      <pubDate>Thu, 30 Apr 2026 16:00:00 +0000</pubDate>
+      <description>花了一整天就为了搞定一个问题：怎么让 Hermes 正确调用 MiniMax 的月度计划 Key。api_type 和 base_url 必须同时改对，缺一个就 401。本期把踩的坑、交的学费全部告诉你。</description>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep011.mp3" type="audio/mpeg" length="2098269"/>
       <itunes:duration>05:42</itunes:duration>
       <guid>ep011-2026-05-01</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_11.jpg"/>
     </item>
+
     <item>
-      <title>EP009 - 英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁</title>
+      <title>EP009_2026-04-29_英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁</title>
       <link>https://daikexing.work/episodes/ep009.mp3</link>
-      <description><![CDATA[英伟达Nemotron 3 Nano Omni：全模态开源模型让企业级AI Agent效率提升9倍。同一天OpenAI销售额未达预期，概念股全线大跌。两件事合在一起，就是AI行业现在的真实状态：技术狂飙，商业磨合。]]></description>
-      <itunes:summary><![CDATA[英伟达Nemotron 3 Nano Omni：全模态开源模型让企业级AI Agent效率提升9倍。同一天OpenAI销售额未达预期，概念股全线大跌。两件事合在一起，就是AI行业现在的真实状态：技术狂飙，商业磨合。]]></itunes:summary>
-      <pubDate>Tue, 28 Apr 2026 16:00:00 +0000</pubDate>
+      <description>英伟达 Nemotron 3 Nano Omni：全模态开源模型让企业级 AI Agent 效率提升 9 倍。同一天 OpenAI 销售额未达预期，概念股全线大跌。两件事合在一起，就是 AI 行业现在的真实状态：技术狂飙，商业磨合。</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep009.mp3" type="audio/mpeg" length="2832936"/>
       <itunes:duration>04:31</itunes:duration>
       <guid>ep009-2026-04-29</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_09.jpg"/>
     </item>
+
     <item>
-      <title>EP008 - GPT Image 2挑战扩散模型：AI生图战国时代谁主沉浮</title>
+      <title>EP008_2026-04-28_GPTImage2挑战扩散模型：AI生图战国时代谁主沉浮</title>
       <link>https://daikexing.work/episodes/EP008.mp3</link>
-      <description><![CDATA[GPT Image 2发布，Image Arena 1512分甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊GPT官方一体化方案和OpenClaw+Stable Diffusion分体式架构，到底谁更强。]]></description>
-      <itunes:summary><![CDATA[GPT Image 2发布，Image Arena 1512分甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊GPT官方一体化方案和OpenClaw+Stable Diffusion分体式架构，到底谁更强。]]></itunes:summary>
-      <pubDate>Mon, 27 Apr 2026 16:00:00 +0000</pubDate>
+      <description>GPT Image 2 发布，Image Arena 1512分，甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊一个更实在的问题：GPT 官方的一体化生图方案，和 OpenClaw + Stable Diffusion 这类分体式专业架构，到底谁更强？现在谁更好用？未来谁会赢？</description>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/EP008.mp3" type="audio/mpeg" length="3693912"/>
       <itunes:duration>06:00</itunes:duration>
       <guid>ep008-2026-04-28</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_08.jpg"/>
     </item>
+
     <item>
-      <title>EP007 - AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布</title>
+      <title>EP007_2026-04-28_AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布</title>
       <link>https://daikexing.work/episodes/EP007.mp3</link>
-      <description><![CDATA[过去24小时三件大事：北京车展1451台展车创新高、DeepSeek V4 API降价90%、情感陪护机器人Moya发布。三件看似不相关的事，说的是同一个趋势——AI正在从「能回答问题」全面转向「能进入生活」。]]></description>
-      <itunes:summary><![CDATA[过去24小时三件大事：北京车展1451台展车创新高、DeepSeek V4 API降价90%、情感陪护机器人Moya发布。三件看似不相关的事，说的是同一个趋势——AI正在从「能回答问题」全面转向「能进入生活」。]]></itunes:summary>
-      <pubDate>Mon, 27 Apr 2026 16:00:00 +0000</pubDate>
+      <description>过去24小时，AI 领域发生了三件大事：北京车展1451台展车创新高、DeepSeek V4 API 降价90%、卓益得发布情感陪护机器人 Moya。三件看似不相关的事，说的其实是同一个趋势——AI 正在从「能回答问题」全面转向「能进入生活」。</description>
+      <pubDate>Tue, 28 Apr 2026 22:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/EP007.mp3" type="audio/mpeg" length="2634576"/>
       <itunes:duration>04:12</itunes:duration>
       <guid>ep007-2026-04-28</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_07.jpg"/>
     </item>
+
     <item>
-      <title>EP006 - OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉</title>
+      <title>EP006_2026-04-27_OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉</title>
       <link>https://daikexing.work/episodes/ep006.mp3</link>
-      <description><![CDATA[以为稳了，结果差点挂。自认为很熟悉OpenClaw的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚。]]></description>
-      <itunes:summary><![CDATA[以为稳了，结果差点挂。自认为很熟悉OpenClaw的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚。]]></itunes:summary>
-      <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
+      <description>以为稳了，结果差点挂。这就是我昨天的真实经历。一个自认为很熟悉 OpenClaw 的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚到4月23号。这期把踩坑完整复盘一遍。</description>
+      <pubDate>Mon, 27 Apr 2026 22:30:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep006.mp3" type="audio/mpeg" length="4783848"/>
       <itunes:duration>06:38</itunes:duration>
       <guid>ep006-2026-04-27</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_06.jpg"/>
     </item>
+
     <item>
       <title>EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局</title>
       <link>https://daikexing.work/episodes/EP005.mp3</link>
-      <description><![CDATA[英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。]]></description>
-      <itunes:summary><![CDATA[英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。]]></itunes:summary>
-      <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
+      <description>英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。</description>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/EP005.mp3" type="audio/mpeg" length="3471720"/>
       <itunes:duration>05:41</itunes:duration>
       <guid>ep005-2026-04-27</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_05.jpg"/>
     </item>
+
     <item>
       <title>EP004 - OpenClaw的记忆机制：AI是如何记住一切的</title>
       <link>https://daikexing.work/episodes/EP004.mp3</link>
-      <description><![CDATA[OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。]]></description>
-      <itunes:summary><![CDATA[OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。]]></itunes:summary>
-      <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
+      <description>OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。</description>
+      <pubDate>Sun, 26 Apr 2026 22:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/EP004.mp3" type="audio/mpeg" length="3252300"/>
-      <itunes:duration>05:13</itunes:duration>
+      <itunes:duration>00:52</itunes:duration>
       <guid>ep004-2026-04-26</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_04.jpg"/>
     </item>
+
     <item>
-      <title>EP003 - DeepSeek V4与人形机器人闪电：AI爆发的两记重拳</title>
+      <title>EP003 - DeepSeek-V4与人形机器人闪电：AI爆发的两记重拳</title>
       <link>https://daikexing.work/episodes/EP003.mp3</link>
-      <description><![CDATA[DeepSeek V4发布：100万Token超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成AI从「回答问题」全面转向「替我完成任务」的明确信号。]]></description>
-      <itunes:summary><![CDATA[DeepSeek V4发布：100万Token超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成AI从「回答问题」全面转向「替我完成任务」的明确信号。]]></itunes:summary>
-      <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
+      <description>DeepSeek V4 发布：100万 Token 超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成 AI 从「回答问题」全面转向「替我完成任务」的明确信号。</description>
+      <pubDate>Sun, 26 Apr 2026 09:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/EP003.mp3" type="audio/mpeg" length="3104304"/>
       <itunes:duration>04:55</itunes:duration>
       <guid>ep003-2026-04-26</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_03.jpg"/>
     </item>
+
     <item>
-      <title>EP002 - DeepSeek V4与人形机器人背后的AI变局</title>
+      <title>EP002 - DeepSeek-V4与人形机器人背后的AI变局</title>
       <link>https://daikexing.work/episodes/ep002.mp3</link>
-      <description><![CDATA[DeepSeek V4百万Token超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents务实路线。三件事合在一起，透露AI从工具变劳动力的信号。]]></description>
-      <itunes:summary><![CDATA[DeepSeek V4百万Token超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents务实路线。三件事合在一起，透露AI从工具变劳动力的信号。]]></itunes:summary>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+      <description>DeepSeek V4 百万 Token 超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents 务实路线。三件事合在一起，透露AI从工具变劳动力的信号。</description>
+      <pubDate>Sat, 25 Apr 2026 18:51:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep002.mp3" type="audio/mpeg" length="3793560"/>
       <itunes:duration>05:58</itunes:duration>
       <guid>ep002-2026-04-25</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_02.jpg"/>
     </item>
+
     <item>
       <title>EP001 - OpenAI GPT-5.5与中国AI崛起</title>
       <link>https://daikexing.work/episodes/ep001.mp3</link>
-      <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
-      <itunes:summary><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></itunes:summary>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+      <description>AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。</description>
+      <pubDate>Fri, 25 Apr 2026 08:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep001.mp3" type="audio/mpeg" length="4499700"/>
       <itunes:duration>07:04</itunes:duration>
       <guid>ep001-2026-04-25</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_01.jpg"/>
     </item>
   </channel>
 </rss>
