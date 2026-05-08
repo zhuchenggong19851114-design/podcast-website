@@ -109,3 +109,12 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+/* 封面图大小限制 */
+.episode-cover {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  display: block;
+}
