@@ -3,28 +3,64 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>我的播客</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>虾闯天下 - AI、科技与创业故事</title>
+  <meta name="description" content="分享AI、科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
+
   <header>
-    <h1>🎙️ 我的播客</h1>
-    <p>分享AI、科技与创业故事</p>
-    <a href="/rss.xml" class="rss-link">📡 订阅 RSS</a>
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-eyebrow">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49m-8.48-.01a6 6 0 0 1 0-8.49m11.31-2.82a10 10 0 0 1 0 14.14m-14.14 0a10 10 0 0 1 0-14.14"/></svg>
+          AI 播客
+        </span>
+        <h1 class="brand-title">虾<span>闯</span>天下</h1>
+        <p class="brand-desc">分享AI、科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</p>
+      </div>
+      <div class="header-meta">
+        <a href="/rss.xml" class="rss-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+          订阅 RSS
+        </a>
+        <div class="stats-row">
+          <div class="stat-item">
+            <span class="stat-num" id="stat-episodes">--</span>
+            <span class="stat-label">期节目</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">2026</span>
+            <span class="stat-label">开播年份</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-line"></div>
   </header>
 
   <main>
+    <div class="section-header">
+      <span class="section-title">节目列表</span>
+      <span class="section-count" id="ep-count">-- 期</span>
+    </div>
     <section id="episodes">
-      <h2>节目列表</h2>
-      <div id="episode-list">加载中...</div>
+      <div id="episode-list"></div>
     </section>
   </main>
 
   <footer>
-    <p>© 2026 我的播客 | <a href="/rss.xml">RSS 订阅</a></p>
+    <div class="footer-inner">
+      <p class="footer-text">
+        <span>&copy; 2026 虾闯天下</span>
+        <span style="margin: 0 0.5rem; color: var(--border);">|</span>
+        <a href="/rss.xml">RSS 订阅</a>
+      </p>
+    </div>
   </footer>
 
-  <script src="script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="/script.js"></script>
 </body>
 </html>
