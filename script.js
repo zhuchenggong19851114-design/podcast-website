@@ -81,7 +81,16 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
     cover: "https://daikexing.work/episodes/covers/ai_18.jpg",
     duration: "08:27"
   },
-
+  {
+    id: "ep020",
+    size: 3746400,
+    title: "EP020 - AI商业化落地与产业变局",
+    date: "2026-05-08",
+    description: "特斯拉停产旗舰轿车转向物理世界AI、豆包收费终结免费时代、国产算力被资本追捧、软银布局日本算力自主——五个信号指向同一件事：AI正在从炫技走向落地。本期音频因API限制，LEAPTIC Cube及总结部分未能完整录制。",
+    audioUrl: "/episodes/ep020.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_20.jpg",
+    duration: "06:02"
+  },
   {
     id: "ep015",
     size: 6207597,
