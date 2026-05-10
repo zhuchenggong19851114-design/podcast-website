@@ -7,6 +7,7 @@ const episodes = [
     date: "2026-05-10",
     description: "国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。",
     audioUrl: "/episodes/ep022.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_22.jpg",
     shownotes: `🎙️ 本期主题：AI大政府时代——监管、资本、地缘三重变局同时到来
 
 三个新闻同时发生，指向同一个方向：AI行业正在被政府深度接管。
