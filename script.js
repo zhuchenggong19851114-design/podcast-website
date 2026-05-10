@@ -36,6 +36,7 @@ const episodes = [
     date: "2026-05-08",
     description: "GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。",
     audioUrl: "/episodes/ep018.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_18.jpg",
     shownotes: `🎙️ 本期主题：AI三国杀——Agent崛起、Cost崩塌、监管元年
 
 三件事，同一周。
