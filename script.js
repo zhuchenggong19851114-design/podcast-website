@@ -837,23 +837,73 @@ function renderEpisodes() {
   const container = document.getElementById('episode-list');
   
   if (episodes.length === 0) {
-    container.innerHTML = '<p>暂无节目，敬请期待！</p>';
+    container.innerHTML = '<p style="text-align:center;padding:4rem;color:var(--text-muted)">暂无节目，敬请期待！</p>';
     return;
   }
 
-  container.innerHTML = episodes.map(ep => `
-    <div class="episode-card">
-      ${ep.cover ? `<img src="${ep.cover}" class="episode-cover" alt="${ep.title}" />` : ''}
-      <h3 class="episode-title">${ep.title}</h3>
-      <p class="episode-date">📅 ${formatDate(ep.date)} | ⏱ ${ep.duration}</p>
-      <p class="episode-desc">${ep.description}</p>
-      ${ep.shownotes ? `<details class="shownotes"><summary>📝 Show Notes</summary><div class="shownotes-content">${ep.shownotes.replace(/\n/g, '<br>')}</div></details>` : ''}
-      <audio controls class="audio-player">
-        <source src="${ep.audioUrl}" type="audio/mpeg">
-        您的浏览器不支持音频播放
-      </audio>
+  // Update stats
+  document.getElementById('stat-episodes').textContent = episodes.length;
+  document.getElementById('ep-count').textContent = episodes.length + ' 期';
+
+  container.innerHTML = episodes.map((ep, index) => `
+    <div class="episode-card" data-index="${index}">
+      <div class="ep-cover-wrap">
+        ${ep.cover ? `<img src="${ep.cover}" class="ep-cover" alt="${ep.title}" loading="lazy" />` : ''}
+      </div>
+      <div class="episode-body">
+        <div class="ep-meta-row">
+          <span class="ep-number">${ep.id.toUpperCase().replace('EP', 'EP ')}</span>
+          <span class="ep-date">${formatDate(ep.date)}</span>
+          ${ep.duration ? `<span class="ep-duration">${ep.duration}</span>` : ''}
+        </div>
+        <h3 class="ep-title">${ep.title}</h3>
+        <p class="ep-desc">${ep.description || ''}</p>
+        <div class="ep-footer">
+          ${ep.shownotes ? `<details class="shownotes"><summary>Show Notes</summary><div class="shownotes-content">${ep.shownotes.replace(/\n/g, '<br>')}</div></details>` : ''}
+        </div>
+        <audio controls class="audio-player">
+          <source src="${ep.audioUrl}" type="audio/mpeg">
+          您的浏览器不支持音频播放
+        </audio>
+      </div>
     </div>
   `).join('');
+
+  // GSAP staggered entrance animation
+  if (typeof gsap !== 'undefined') {
+    // Header animations
+    gsap.to('.brand-eyebrow', {
+      opacity: 1, y: 0, duration: 0.6, ease: 'power3.out', delay: 0.1
+    });
+    gsap.to('.brand-title', {
+      opacity: 1, y: 0, duration: 0.7, ease: 'power3.out', delay: 0.2
+    });
+    gsap.to('.brand-desc', {
+      opacity: 1, y: 0, duration: 0.6, ease: 'power3.out', delay: 0.35
+    });
+    gsap.to('.header-meta', {
+      opacity: 1, x: 0, duration: 0.6, ease: 'power3.out', delay: 0.4
+    });
+
+    // Episode cards staggered entrance
+    gsap.to('.episode-card', {
+      opacity: 1, y: 0,
+      duration: 0.5,
+      ease: 'power2.out',
+      stagger: 0.06,
+      delay: 0.5
+    });
+  } else {
+    // Fallback: just show cards
+    document.querySelectorAll('.episode-card').forEach(card => {
+      card.style.opacity = 1;
+      card.style.transform = 'none';
+    });
+    document.querySelectorAll('.brand-eyebrow, .brand-title, .brand-desc, .header-meta').forEach(el => {
+      el.style.opacity = 1;
+      el.style.transform = 'none';
+    });
+  }
 }
 
 // 页面加载完成后渲染
