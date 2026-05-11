@@ -20,6 +20,16 @@
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
 
     <item>
+    <item>
+      <title>EP023 - 算力暗战：梁文锋的200亿与字节的2000亿</title>
+      <link>https://daikexing.work/episodes/ep023.mp3</link>
+      <description>梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。</description>
+      <pubDate>Sun, 11 May 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep023.mp3" length="6284205" type="audio/mpeg"/>
+      <itunes:title>EP023 - 算力暗战：梁文锋的200亿与字节的2000亿</itunes:title>
+      <itunes:duration>06:33</itunes:duration>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_23.jpg"/>
+    </item>
       <title>EP022 - AI大政府时代：监管、资本、地缘三重变局同时到来</title>
       <link>https://daikexing.work/episodes/ep022.mp3</link>
       <description>国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。监管在收紧，宕机在提醒，整合在加速。美国的不确定性，反而给了国内玩家一个难得的时间窗口。</description>
