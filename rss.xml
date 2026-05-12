@@ -9,11 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 12 May 2026 12:30:00 +0800</lastBuildDate>
-=======
-    <lastBuildDate>Tue, 12 May 2026 13:00:00 +0800</lastBuildDate>
->>>>>>> 2de5ae0 (上线 EP023 和 EP024：算力暗战 + 机器人IPO潮)
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
