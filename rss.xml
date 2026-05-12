@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 10 May 2026 13:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:30:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -27,9 +27,24 @@
       <pubDate>Sun, 11 May 2026 08:00:00 +0800</pubDate>
       <enclosure url="https://daikexing.work/episodes/ep023.mp3" length="6284205" type="audio/mpeg"/>
       <itunes:title>EP023 - 算力暗战：梁文锋的200亿与字节的2000亿</itunes:title>
-      <itunes:duration>06:33</itunes:duration>
+      <itunes:duration>06:32</itunes:duration>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_23.jpg"/>
     </item>
+    <item>
+      <title>EP024 - 机器人IPO潮来临——第一代机器人公司的漫长等待</title>
+      <link>https://daikexing.work/episodes/ep024.mp3</link>
+      <description>云深处、乐聚、宇树这三家成立快十年的老牌机器人公司，几乎同时走到了上市的关键节点——宇树IPO申请获受理，乐聚辅导验收完成，云深处提交了辅导工作报告。它们在行业最冷的阶段存活下来，现在借着具身智能的东风，终于迎来了属于自己的IPO潮。</description>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep024.mp3" length="4152120" type="audio/mpeg"/>
+      <itunes:title>EP024 - 机器人IPO潮来临——第一代机器人公司的漫长等待</itunes:title>
+      <itunes:duration>06:42</itunes:duration>
+      <guid>ep024-2026-05-12</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_24.jpg"/>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP022 - AI大政府时代：监管、资本、地缘三重变局同时到来</title>
       <link>https://daikexing.work/episodes/ep022.mp3</link>
       <description>国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。监管在收紧，宕机在提醒，整合在加速。美国的不确定性，反而给了国内玩家一个难得的时间窗口。</description>

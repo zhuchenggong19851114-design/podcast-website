@@ -8,9 +8,18 @@ const episodes = [
     description: "梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。",
     audioUrl: "/episodes/ep023.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_23.jpg",
-    duration: "06:33"
+    duration: "06:32"
   },
-
+  {
+    id: "ep024",
+    size: 4152120,
+    title: "EP024 - 机器人IPO潮来临——第一代机器人公司的漫长等待",
+    date: "2026-05-12",
+    description: "云深处、乐聚、宇树这三家成立快十年的老牌机器人公司，几乎同时走到了上市的关键节点——宇树IPO申请获受理，乐聚辅导验收完成，云深处提交了辅导工作报告。它们在行业最冷的阶段存活下来，现在借着具身智能的东风，终于迎来了属于自己的IPO潮。",
+    audioUrl: "/episodes/ep024.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_24.jpg",
+    duration: "06:42"
+  },
   {
     id: "ep022",
     size: 4889508,
