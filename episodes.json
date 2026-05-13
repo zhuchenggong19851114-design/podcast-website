@@ -1,6 +1,16 @@
 {
   "episodes": [
     {
+      "id": "ep025",
+      "size": 4473492,
+      "title": "EP025 - DeepSeek 500亿融资风暴：AI格局重构开始",
+      "date": "2026-05-13",
+      "description": "你有没有想过，一家成立不到两年的公司，能在一轮融资里拿到500个亿？500亿人民币——刷新了中国人工智能领域的单轮融资纪录，也让DeepSeek再次站到了所有人面前。这期聊聊这轮融资背后的故事，以及它可能如何重塑整个中国AI行业的竞争格局。",
+      "audioUrl": "/episodes/ep025.mp3",
+      "cover": "https://daikexing.work/episodes/covers/ai_25.jpg",
+      "duration": "07:07"
+    },
+    {
       "id": "ep023",
       "size": 6284205,
       "title": "EP023 - 算力暗战：梁文锋的200亿与字节的2000亿",
