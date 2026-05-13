@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 13 May 2026 17:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:30:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -19,6 +19,19 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
 
+    <item>
+      <title>EP026 - 黄仁勋突然访华背后：中美AI博弈进入新阶段</title>
+      <link>https://daikexing.work/episodes/ep026.mp3</link>
+      <description><![CDATA[你知道吗，全球最有权势的AI芯片大佬，前一秒还不在访华名单上，下一秒就登上了美军一号专机。这不是电影剧本，这是刚刚发生在5月13日真实事件。英伟达CEO黄仁勋临时加入美国CEO访华团，在最后一刻登上空军一号。这期聊聊这背后藏着的中美AI博弈深层逻辑。]]></description>
+      <pubDate>Wed, 13 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep026.mp3" type="audio/mpeg" length="6261108"/>
+      <itunes:duration>06:31</itunes:duration>
+      <guid>ep026-2026-05-13</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_26.jpg"/>
+      <itunes:episode>026</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>EP025 - DeepSeek 500亿融资风暴：AI格局重构开始</title>
       <link>https://daikexing.work/episodes/ep025.mp3</link>

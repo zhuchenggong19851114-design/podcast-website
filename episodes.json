@@ -1,6 +1,16 @@
 {
   "episodes": [
     {
+      "id": "ep026",
+      "size": 6261108,
+      "title": "EP026 - 黄仁勋突然访华背后：中美AI博弈进入新阶段",
+      "date": "2026-05-13",
+      "description": "你知道吗，全球最有权势的AI芯片大佬，前一秒还不在访华名单上，下一秒就登上了美军一号专机。这不是电影剧本，这是刚刚发生在5月13日真实事件。英伟达CEO黄仁勋临时加入美国CEO访华团，在最后一刻登上空军一号。这期聊聊这背后藏着的中美AI博弈深层逻辑。",
+      "audioUrl": "/episodes/ep026.mp3",
+      "cover": "https://daikexing.work/episodes/covers/ai_26.jpg",
+      "duration": "06:31"
+    },
+    {
       "id": "ep025",
       "size": 4473492,
       "title": "EP025 - DeepSeek 500亿融资风暴：AI格局重构开始",
