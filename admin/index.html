@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>虾闯天下 - 管理后台</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header>
+    <h1>🎙️ 虾闯天下 - 管理后台</h1>
+    <p>本地访问地址：http://localhost:3001 | 仅限本地使用，勿对外暴露</p>
+  </header>
+
+  <div id="login-screen">
+    <div class="login-box">
+      <h2>管理员登录</h2>
+      <input type="password" id="password" placeholder="输入访问密码" onkeydown="if(event.key==='Enter')login()" />
+      <button class="login-btn" onclick="login()">登录</button>
+      <p class="login-error" id="login-error"></p>
+    </div>
+  </div>
+
+  <div id="main-screen">
+    <div class="toolbar">
+      <button onclick="loadData()">🔄 重新加载</button>
+      <button onclick="saveAll()">💾 保存全部</button>
+    </div>
+    <div id="episode-list"></div>
+  </div>
+
+  <div id="edit-modal">
+    <div class="modal-content">
+      <h2>编辑节目</h2>
+      <input type="hidden" id="edit-index" />
+      <label>ID</label>
+      <input type="text" id="edit-id" />
+      <label>标题</label>
+      <input type="text" id="edit-title" />
+      <label>发布日期</label>
+      <input type="text" id="edit-date" />
+      <label>音频链接</label>
+      <input type="text" id="edit-audio" />
+      <label>文件大小（字节）</label>
+      <input type="number" id="edit-size" />
+      <label>封面图链接</label>
+      <input type="text" id="edit-cover" />
+      <label>简介</label>
+      <textarea id="edit-desc"></textarea>
+      <div class="modal-actions">
+        <button class="cancel-btn" onclick="closeModal()">取消</button>
+        <button class="save-btn" onclick="saveEpisode()">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+  <script src="admin.js"></script>
+</body>
+</html>

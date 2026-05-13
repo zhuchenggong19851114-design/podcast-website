@@ -25,6 +25,7 @@ const episodes = [
     title: "EP023 - 算力暗战：梁文锋的200亿与字节的2000亿",
     date: "2026-05-11",
     description: "梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。",
+    id: "ep023",
     audioUrl: "/episodes/ep023.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_23.jpg",
     duration: "06:32"
