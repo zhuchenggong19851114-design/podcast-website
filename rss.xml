@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 13 May 2026 20:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:06:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,19 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
+    <item>
+      <title>EP030 - 腾讯370亿AI豪赌：一家公司的押注，一个时代的缩影</title>
+      <link>https://daikexing.work/episodes/ep030.mp3</link>
+      <description><![CDATA[5月13日，腾讯发了今年一季度的财报。收入1965亿，同比增长9%，净利润581亿，同比增长21%。数字看着挺漂亮，中规中矩，没什么惊喜。但翻到资本开支那一页，我看到一行字：370亿元，主要用于AI相关投入。一个季度。三个月。370亿。这是什么概念？这笔钱相当于腾讯当季净利润的六成，压进了一条结果尚不明朗的赛道。今天我们就来好好聊聊这件事。]]></description>
+      <pubDate>Thu, 14 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep030.mp3" type="audio/mpeg" length="7062324"/>
+      <itunes:duration>07:21</itunes:duration>
+      <guid>ep030-2026-05-14</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_30.jpg"/>
+      <itunes:episode>030</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>EP026 - 黄仁勋突然访华背后：中美AI博弈进入新阶段</title>
