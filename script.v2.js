@@ -11,6 +11,16 @@ const episodes = [
     duration: "07:54"
   },
   {
+    id: "ep031",
+    size: 1171176,
+    title: "EP031 - AI编程的浏览器时刻——Codex扩展400万周活意味着什么？",
+    date: "2026-05-16",
+    description: "你有没有想过，哪天你写代码不用开 VS Code，不用装任何插件，直接在浏览器里就能搞定？听起来像做梦？但 OpenAI 告诉你，这事正在发生。就在上周，Codex 推出了 Chrome 浏览器扩展，上线一周，周活用户突破 400 万，比年初增长整整 8 倍。这意味着 AI 编程工具正在经历一场从专业武器到人手一个的历史性跨越。",
+    audioUrl: "/episodes/ep031.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_31.jpg",
+    duration: "03:15"
+  },
+  {
     id: "ep030",
     size: 7062324,
     title: "EP030 - 腾讯370亿AI豪赌：一家公司的押注，一个时代的缩影",
