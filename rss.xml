@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 14 May 2026 09:06:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
+    <item>
+      <title>EP032 - 微软砍掉Claude Code内幕：一场AI编程工具的生死局</title>
+      <link>https://daikexing.work/episodes/ep032.mp3</link>
+      <description><![CDATA[你敢信？微软要把Claude Code砍了。不是 Claude Code 不好用——恰恰相反，它太好用了。好用到微软内部已经开始大面积迁移开发工作流，好用到 Copilot 团队开始慌了，好用到微软高层拍桌子：不行，这个东西必须消失。这就是今天的 topic：微软为什么宁愿自断一臂，也要砍掉 Claude Code？]]></description>
+      <pubDate>Sat, 16 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep032.mp3" type="audio/mpeg" length="7580148"/>
+      <itunes:duration>07:54</itunes:duration>
+      <guid>ep032-2026-05-16</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_32.jpg"/>
+      <itunes:episode>032</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
       <title>EP030 - 腾讯370亿AI豪赌：一家公司的押注，一个时代的缩影</title>
       <link>https://daikexing.work/episodes/ep030.mp3</link>
