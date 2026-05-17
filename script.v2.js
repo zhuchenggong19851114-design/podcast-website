@@ -1,6 +1,16 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep033",
+    size: 3471720,
+    title: "EP033 - 机器人跑赢了人类马拉松——具身智能拐点已至",
+    date: "2026-05-17",
+    description: "你听说过\"闪电\"吗？不是那个 DC 漫画里的超级英雄，是一个机器人。  就在上个月，北京亦庄人形机器人半程马拉松赛，一台叫\"闪电\"的机器人以 50 分 26 秒完赛。听着好像一般？但你知道这个成绩意味着什么吗？它跑赢了 2026 年人类男子半马世界纪录",
+    audioUrl: "/episodes/EP033.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_33.jpg",
+    duration: "05:40"
+  },
+  {
     id: "ep032",
     size: 7580148,
     title: "EP032 - 微软砍掉Claude Code内幕：一场AI编程工具的生死局",
