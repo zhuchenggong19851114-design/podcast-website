@@ -1,6 +1,16 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep034",
+    size: 5450100,
+    title: "EP034 - AI Agent大规模商用潮：谁在赚钱，谁在裸泳？",
+    date: "2026-05-17",
+    description: "2026年5月，一家叫智能云的创业公司融了8000万美金。做什么的？帮人用AI Agent替代客服团队。不是那种您好，请问有什么可以帮您的机器人，是那种——你根本分不清对面是人还是AI的那种。这不叫趋势，这叫淘金热。",
+    audioUrl: "/episodes/ep034.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_34.jpg",
+    duration: "05:41"
+  },
+  {
     id: "ep033",
     size: 3471720,
     title: "EP033 - 机器人跑赢了人类马拉松——具身智能拐点已至",
