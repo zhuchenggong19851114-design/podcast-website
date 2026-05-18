@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 17 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -19,6 +19,19 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
     <item>
+      <title>EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移</title>
+      <link>https://daikexing.work/episodes/ep035.mp3</link>
+      <description><![CDATA[你有没有发现，现在 AI 越来越会"说话"了？不是那种冷冰冰的"根据您的问题，我找到以下信息"。而是开始有点像——有点像一个真正懂你、愿意听你说话的人。这背后不是技术的小修小补，而是一场根本逻辑的转移。微软 AI 掌门人 Mustafa Suleyman 前几天说了一句话：AI 未来的竞争，不是谁更聪明，而是谁更有"情商"。今天我们就来聊聊这件事。]]></description>
+      <pubDate>Mon, 18 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep035.mp3" type="audio/mpeg" length="6516276"/>
+      <itunes:duration>06:47</itunes:duration>
+      <guid>ep035-2026-05-18</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_35.jpg"/>
+      <itunes:episode>035</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  <item>
       <title>EP034 - AI Agent大规模商用潮：谁在赚钱，谁在裸泳？</title>
       <link>https://daikexing.work/episodes/ep034.mp3</link>
       <description><![CDATA[2026年5月，一家叫智能云的创业公司融了8000万美金。做什么的？帮人用AI Agent替代客服团队。不是那种您好，请问有什么可以帮您的机器人，是那种——你根本分不清对面是人还是AI的那种。这不叫趋势，这叫淘金热。]]></description>

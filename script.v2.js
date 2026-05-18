@@ -1,6 +1,16 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep035",
+    size: 6516276,
+    title: "EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移",
+    date: "2026-05-18",
+    description: "你有没有发现，现在 AI 越来越会\"说话\"了？不是那种冷冰冰的\"根据您的问题，我找到以下信息\"。而是开始有点像——有点像一个真正懂你、愿意听你说话的人。这背后不是技术的小修小补，而是一场根本逻辑的转移。微软 AI 掌门人 Mustafa Suleyman 前几天说了一句话：AI 未来的竞争，不是谁更聪明，而是谁更有\"情商\"。今天我们就来聊聊这件事。",
+    audioUrl: "/episodes/ep035.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_35.jpg",
+    duration: "06:47"
+  },
+  {
     id: "ep034",
     size: 5450100,
     title: "EP034 - AI Agent大规模商用潮：谁在赚钱，谁在裸泳？",
