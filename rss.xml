@@ -359,6 +359,19 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>EP036 - 英伟达 Vera CPU 交付四大 AI 实验室：GPU 之王为什么要自己做 CPU？</title>
+      <link>https://daikexing.work/episodes/ep036.mp3</link>
+      <description><![CDATA[你有没有想过，为什么一家靠 GPU 做到世界第一的公司，突然开始自己做 CPU 了？ 2026 年 5 月 19 日，英伟达正式交付了专为 AI 工作负载设计的 Vera CPU。消息一出，业内炸锅——因为这意味着英伟达正式从"显卡公司"转型成"全栈 AI 计算公司"。这不是一款新显卡的发布，这是一次战略级的路线切换。今天我们就来聊聊，英伟达到底在下一盘什么棋。]]></description>
+      <pubDate>Tue, 19 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep036.mp3" type="audio/mpeg" length="5397108"/>
+      <itunes:duration>05:37</itunes:duration>
+      <guid>ep036-2026-05-19</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_36.jpg"/>
+      <itunes:episode>036</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+        <item>
       <title>EP001 - OpenAI GPT-5.5与中国AI崛起</title>
       <link>https://daikexing.work/episodes/ep001.mp3</link>
       <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>

@@ -1,6 +1,16 @@
 {
   "episodes": [
     {
+      "id": "ep036",
+      "size": 5397108,
+      "title": "EP036 - 英伟达 Vera CPU 交付四大 AI 实验室：GPU 之王为什么要自己做 CPU？",
+      "date": "2026-05-19",
+      "description": "你有没有想过，为什么一家靠 GPU 做到世界第一的公司，突然开始自己做 CPU 了？ 2026 年 5 月 19 日，英伟达正式交付了专为 AI 工作负载设计的 Vera CPU。消息一出，业内炸锅——因为这意味着英伟达正式从\"显卡公司\"转型成\"全栈 AI 计算公司\"。这不是一款新显卡的发布，这是一次战略级的路线切换。今天我们就来聊聊，英伟达到底在下一盘什么棋。",
+      "audioUrl": "/episodes/ep036.mp3",
+      "cover": "https://daikexing.work/episodes/covers/ai_36.jpg",
+      "duration": "05:37"
+    },
+    {
       "id": "ep035",
       "size": 6516276,
       "title": "EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移",
