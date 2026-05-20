@@ -1,6 +1,16 @@
 {
   "episodes": [
     {
+      "id": "ep037",
+      "size": 7818612,
+      "title": "EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋",
+      "date": "2026-05-20",
+      "description": "你有没有这种感觉——昨天还在用手机调戏Siri，今天全世界的AI巨头已经在一夜之间把战场搬到了你手上？5月20日，两场发布会同时牵动全球科技圈：谷歌I/O开发者大会进入第二天，Gemini 3和Android 17的深度整合正式亮相；同一天，阿里云峰会开幕，通义千问预告已久的\"重量级大模型\"压轴登场。这不是巧合，这是中美AI竞争在2026年最直白的一次正面交锋。今天这期，我们就把这两场发布会掰开揉碎，告诉你：谁在真正改变游戏规则，谁又在忙着画饼。",
+      "audioUrl": "/episodes/ep037.mp3",
+      "cover": "https://daikexing.work/episodes/covers/ai_37.jpg",
+      "duration": "08:08"
+    },
+    {
       "id": "ep036",
       "size": 5397108,
       "title": "EP036 - 英伟达 Vera CPU 交付四大 AI 实验室：GPU 之王为什么要自己做 CPU？",

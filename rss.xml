@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 18 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:12:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -19,6 +19,19 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
     <item>
+      <title>EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋</title>
+      <link>https://daikexing.work/episodes/ep037.mp3</link>
+      <description><![CDATA[你有没有这种感觉——昨天还在用手机调戏Siri，今天全世界的AI巨头已经在一夜之间把战场搬到了你手上？5月20日，两场发布会同时牵动全球科技圈：谷歌I/O开发者大会进入第二天，Gemini 3和Android 17的深度整合正式亮相；同一天，阿里云峰会开幕，通义千问预告已久的"重量级大模型"压轴登场。这不是巧合，这是中美AI竞争在2026年最直白的一次正面交锋。今天这期，我们就把这两场发布会掰开揉碎，告诉你：谁在真正改变游戏规则，谁又在忙着画饼。]]></description>
+      <pubDate>Wed, 20 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep037.mp3" type="audio/mpeg" length="7818612"/>
+      <itunes:duration>08:08</itunes:duration>
+      <guid>ep037-2026-05-20</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_37.jpg"/>
+      <itunes:episode>037</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  <item>
       <title>EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移</title>
       <link>https://daikexing.work/episodes/ep035.mp3</link>
       <description><![CDATA[你有没有发现，现在 AI 越来越会"说话"了？不是那种冷冰冰的"根据您的问题，我找到以下信息"。而是开始有点像——有点像一个真正懂你、愿意听你说话的人。这背后不是技术的小修小补，而是一场根本逻辑的转移。微软 AI 掌门人 Mustafa Suleyman 前几天说了一句话：AI 未来的竞争，不是谁更聪明，而是谁更有"情商"。今天我们就来聊聊这件事。]]></description>
