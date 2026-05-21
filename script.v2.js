@@ -1,6 +1,16 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep038",
+    size: 6774900,
+    title: "EP038 - AI战斗机来了，人类飞行员的黄昏？",
+    date: "2026-05-21",
+    description: "你有没有想过，有一天你打《王者荣耀》排位，遇到的对面ADC不是人，而是AI？美国一家叫安杜里尔的公司，曝光了一款AI无人战斗机，名字叫「狂怒」——Fury。不是PPT，不是概念机。是真的，今年夏天就要首飞。它全程不需要人操控，AI自己完成感知、决策、打击。这是人类空战史上，第一款真正意义上的AI无人战斗机。美国空军的目标是：2030年前实战部署。这一次，AI不只是辅助，它直接取代了飞行员。",
+    audioUrl: "/episodes/ep038.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_38.jpg",
+    duration: "07:03"
+  },
+  {
     id: "ep037",
     size: 7818612,
     title: "EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋",

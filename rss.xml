@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 20 May 2026 09:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:07:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,19 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
+    <item>
+      <title>EP038 - AI战斗机来了，人类飞行员的黄昏？</title>
+      <link>https://daikexing.work/episodes/ep038.mp3</link>
+      <description><![CDATA[你有没有想过，有一天你打《王者荣耀》排位，遇到的对面ADC不是人，而是AI？美国一家叫安杜里尔的公司，曝光了一款AI无人战斗机，名字叫「狂怒」——Fury。不是PPT，不是概念机。是真的，今年夏天就要首飞。它全程不需要人操控，AI自己完成感知、决策、打击。这是人类空战史上，第一款真正意义上的AI无人战斗机。美国空军的目标是：2030年前实战部署。这一次，AI不只是辅助，它直接取代了飞行员。]]></description>
+      <pubDate>Thu, 21 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep038.mp3" type="audio/mpeg" length="6774900"/>
+      <itunes:duration>07:03</itunes:duration>
+      <guid>ep038-2026-05-21</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_38.jpg"/>
+      <itunes:episode>038</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋</title>
       <link>https://daikexing.work/episodes/ep037.mp3</link>
