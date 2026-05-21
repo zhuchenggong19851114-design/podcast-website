@@ -1,6 +1,16 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep039",
+    size: 6080244,
+    title: "EP039 - 英伟达\u201c物理AI的ChatGPT时刻\u201d来了，这可能是比大模型更大的机会",
+    date: "2026-05-21",
+    description: "2026年5月20日，黄仁勋在英伟达新加坡研发中心成立仪式上放了一句话：\u201c物理AI的ChatGPT时刻已然到来。\u201d这次他没有再说大模型，他说的是物理AI、机器人、具身智能。物理AI替代的是人的物理劳动——工厂操作工、仓储拣货员、建筑工人、护理人员——数量级远大于白领。大模型的效率提升可能是3到5倍，但物理AI可能是10到20倍。这是比大模型更大的机会吗？我们来聊聊。",
+    audioUrl: "/episodes/ep039.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_039.jpg",
+    duration: "06:20"
+  },
+  {
     id: "ep038",
     size: 6774900,
     title: "EP038 - AI战斗机来了，人类飞行员的黄昏？",
