@@ -1,6 +1,17 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep040",
+    size: 6254772,
+    title: "EP040 - OpenAI收购乔纳森·艾维：AI硬件新纪元降临",
+    date: "2026-05-22",
+    description: "你有没有想过，有一天你的设备不是乔布斯定义的，而是AI定义的？就在昨天，OpenAI宣布以65亿美元收购前苹果首席设计官乔纳森·艾维创立的AI设备公司io。这是AI行业向硬件领域宣战的第一枪。艾维将主导新产品设计，新设备的核心目标是减少用户对屏幕的依赖。这意味着什么？本期深度分析。",
+    audioUrl: "/episodes/ep040.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_040.jpg",
+    duration: "06:31"
+  },
+
+  {
     id: "ep039",
     size: 6080244,
     title: "EP039 - 英伟达\u201c物理AI的ChatGPT时刻\u201d来了，这可能是比大模型更大的机会",
