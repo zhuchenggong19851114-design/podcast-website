@@ -99,7 +99,7 @@ const episodes = [
     date: "2026-05-16",
     description: "你敢信？微软要把Claude Code砍了。不是 Claude Code 不好用——恰恰相反，它太好用了。好用到微软内部已经开始大面积迁移开发工作流，好用到 Copilot 团队开始慌了，好用到微软高层拍桌子：不行，这个东西必须消失。这就是今天的 topic：微软为什么宁愿自断一臂，也要砍掉 Claude Code？",
     audioUrl: "/episodes/ep032.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_32.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "07:54"
   },
   {
