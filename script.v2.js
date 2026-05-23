@@ -1,6 +1,17 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep041",
+    size: 7596852,
+    title: "EP041 - Anthropic三个月估值翻2.5倍：AI融资战进入新阶段",
+    date: "2026-05-23",
+    description: "你有没有想过，一个成立不到五年的公司，估值能在一百天里从2.5个茅台涨到将近1个茅台？Anthropic，就是那个做Claude的公司，今年2月估值3800亿美元。五月份，它正在谈一笔新融资，估值9500亿美元。三个月，2.5倍。这期我们就聊聊：Anthropic凭什么？背后是什么级别的战争？以及——Google I/O 2026刚刚开完，两件事放在一起看，你会发现整个AI行业的玩法已经完全变了。",
+    audioUrl: "/episodes/ep041.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_041.jpg",
+    duration: "07:54"
+  },
+
+  {
     id: "ep040",
     size: 6254772,
     title: "EP040 - OpenAI收购乔纳森·艾维：AI硬件新纪元降临",
