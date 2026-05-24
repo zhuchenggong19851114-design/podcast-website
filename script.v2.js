@@ -1,6 +1,17 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep042",
+    size: 8542068,
+    title: "EP042 - AI算力困局：万亿估值的疯狂与现实",
+    date: "2026-05-24",
+    description: "你有没有想过一个问题——一家 AI 公司，能贵到什么程度？答案是：近万亿美元。上周，Anthropic 完成了 300 亿美元的融资，估值突破 9000 亿。同一天，OpenAI 递交了 IPO 招股书——这是 2021 年以来最受期待的科技公司上市。但 Gartner 预测，到 2027 年，电力短缺将导致约 40% 的 AI 数据中心无法正常运行。AI 行业正在经历一场算力困局，表面的估值狂飙背后，是整个行业正在跟物理世界的极限赛跑。",
+    audioUrl: "/episodes/ep042.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_042.jpg",
+    duration: "08:53"
+  },
+
+  {
     id: "ep041",
     size: 7596852,
     title: "EP041 - Anthropic三个月估值翻2.5倍：AI融资战进入新阶段",
@@ -94,82 +105,82 @@ const episodes = [
   },
   {
     id: "ep032",
-    size: 5299188,
-    title: "EP032 - AI编程大爆发：浏览器开始长出脑子",
-    date: "2026-05-23",
+    size: 7580148,
+    title: "EP032 - 微软砍掉Claude Code内幕：一场AI编程工具的生死局",
+    date: "2026-05-16",
     description: "你敢信？微软要把Claude Code砍了。不是 Claude Code 不好用——恰恰相反，它太好用了。好用到微软内部已经开始大面积迁移开发工作流，好用到 Copilot 团队开始慌了，好用到微软高层拍桌子：不行，这个东西必须消失。这就是今天的 topic：微软为什么宁愿自断一臂，也要砍掉 Claude Code？",
     audioUrl: "/episodes/ep032.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_32.jpg",
     duration: "07:54"
   },
   {
     id: "ep031",
-    size: 5299188,
+    size: 1171176,
     title: "EP031 - AI编程的浏览器时刻——Codex扩展400万周活意味着什么？",
-    date: "2026-05-23",
+    date: "2026-05-16",
     description: "你有没有想过，哪天你写代码不用开 VS Code，不用装任何插件，直接在浏览器里就能搞定？听起来像做梦？但 OpenAI 告诉你，这事正在发生。就在上周，Codex 推出了 Chrome 浏览器扩展，上线一周，周活用户突破 400 万，比年初增长整整 8 倍。这意味着 AI 编程工具正在经历一场从专业武器到人手一个的历史性跨越。",
     audioUrl: "/episodes/EP031.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_31.jpg",
     duration: "03:15"
   },
   {
     id: "ep030",
-    size: 5299188,
+    size: 7062324,
     title: "EP030 - 腾讯370亿AI豪赌：一家公司的押注，一个时代的缩影",
-    date: "2026-05-23",
+    date: "2026-05-14",
     description: "5月13日，腾讯发了今年一季度的财报。收入1965亿，同比增长9%，净利润581亿，同比增长21%。数字看着挺漂亮，中规中矩，没什么惊喜。但翻到资本开支那一页，我看到一行字：370亿元，主要用于AI相关投入。一个季度。三个月。370亿。这是什么概念？这笔钱相当于腾讯当季净利润的六成，压进了一条结果尚不明朗的赛道。今天我们就来好好聊聊这件事。",
     audioUrl: "/episodes/ep030.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_30.jpg",
     duration: "07:21"
   },
   {
     id: "ep026",
-    size: 5299188,
+    size: 6261108,
     title: "EP026 - 黄仁勋突然访华背后：中美AI博弈进入新阶段",
-    date: "2026-05-23",
+    date: "2026-05-13",
     description: "你知道吗，全球最有权势的AI芯片大佬，前一秒还不在访华名单上，下一秒就登上了美军一号专机。这不是电影剧本，这是刚刚发生在5月13日真实事件。英伟达CEO黄仁勋临时加入美国CEO访华团，在最后一刻登上空军一号。这期聊聊这背后藏着的中美AI博弈深层逻辑。",
     audioUrl: "/episodes/ep026.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_26.jpg",
     duration: "06:31"
   },
   {
     id: "ep025",
-    size: 5299188,
+    size: 4473492,
     title: "EP025 - DeepSeek 500亿融资风暴：AI格局重构开始",
-    date: "2026-05-23",
+    date: "2026-05-13",
     description: "你有没有想过，一家成立不到两年的公司，能在一轮融资里拿到500个亿？500亿人民币——刷新了中国人工智能领域的单轮融资纪录，也让DeepSeek再次站到了所有人面前。这期聊聊这轮融资背后的故事，以及它可能如何重塑整个中国AI行业的竞争格局。",
     audioUrl: "/episodes/ep025.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_25.jpg",
     duration: "07:07"
   },
   {
-    size: 5299188,
+    size: 6284205,
     title: "EP023 - 算力暗战：梁文锋的200亿与字节的2000亿",
-    date: "2026-05-23",
+    date: "2026-05-11",
     description: "梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。",
     id: "ep023",
     audioUrl: "/episodes/ep023.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_23.jpg",
     duration: "06:32"
   },
   {
     id: "ep024",
-    size: 5299188,
+    size: 4152120,
     title: "EP024 - 机器人IPO潮来临——第一代机器人公司的漫长等待",
-    date: "2026-05-23",
+    date: "2026-05-12",
     description: "云深处、乐聚、宇树这三家成立快十年的老牌机器人公司，几乎同时走到了上市的关键节点——宇树IPO申请获受理，乐聚辅导验收完成，云深处提交了辅导工作报告。它们在行业最冷的阶段存活下来，现在借着具身智能的东风，终于迎来了属于自己的IPO潮。",
     audioUrl: "/episodes/ep024.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_24.jpg",
     duration: "06:42"
   },
   {
     id: "ep022",
-    size: 5299188,
+    size: 4889508,
     title: "EP022 - AI大政府时代：监管、资本、地缘三重变局同时到来",
-    date: "2026-05-23",
+    date: "2026-05-10",
     description: "国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。",
     audioUrl: "/episodes/ep022.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_22.jpg",
     duration: "07:50",
     shownotes: `🎙️ 本期主题：AI大政府时代——监管、资本、地缘三重变局同时到来
 
@@ -195,12 +206,12 @@ const episodes = [
   },
   {
     id: "ep018",
-    size: 5299188,
+    size: 5255808,
     title: "EP018 - AI 三国杀：Agent 崛起、Cost 崩塌、监管元年",
-    date: "2026-05-23",
+    date: "2026-05-08",
     description: "GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。",
     audioUrl: "/episodes/ep018.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_18.jpg",
     shownotes: `🎙️ 本期主题：AI三国杀——Agent崛起、Cost崩塌、监管元年
 
 三件事，同一周。
@@ -241,24 +252,24 @@ const episodes = [
 ✅ 总结
 
 AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在重写商业规则、社会规则"的当下事实。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_18.jpg",
     duration: "08:27"
   },
   {
     id: "ep020",
-    size: 5299188,
+    size: 3746400,
     title: "EP020 - AI商业化落地与产业变局",
-    date: "2026-05-23",
+    date: "2026-05-08",
     description: "特斯拉停产旗舰轿车转向物理世界AI、豆包收费终结免费时代、国产算力被资本追捧、软银布局日本算力自主——五个信号指向同一件事：AI正在从炫技走向落地。本期音频因API限制，LEAPTIC Cube及总结部分未能完整录制。",
     audioUrl: "/episodes/ep020.mp3",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_20.jpg",
     duration: "06:02"
   },
   {
     id: "ep015",
-    size: 5299188,
+    size: 6207597,
     title: "EP015 - 多Agent协作的四种模式，听这一篇就够了",
-    date: "2026-05-23",
+    date: "2026-05-05",
     description: "AI工具越来越多，但多AI协作总是乱成一锅粥。Hermes框架总结出四种协作模式：看板协作、群聊话题、并行调度、Cron串联。听完你就知道什么时候让AI串行、并行、自动化还是实时讨论。",
     audioUrl: "/episodes/ep015.mp3",
     shownotes: `🎙️ 本期主题：多Agent协作的四种模式
@@ -306,8 +317,8 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 什么时候并行？→ 有明确终点
 什么时候自动化？→ 每日例行
 什么时候实时讨论？→ 边界模糊、探索性工作`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_15.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_15.jpg",
     duration: "06:27",
     shownotes: `🎙️ 本期重点
 
@@ -332,11 +343,11 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
   {
     id: "ep014",
     title: "EP014 - AI在狂奔，但安全正在被甩在身后",
-    date: "2026-05-23",
+    date: "2026-05-04",
     description: "五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全。为什么安全总是被甩在身后？",
     audioUrl: "/episodes/ep014.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 2868432,
+    size: 2868432,
     shownotes: `🎙️ 本期主题：AI狂奔，安全被甩在身后
 
 📰 三件大事同一天发生：
@@ -363,8 +374,8 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 
 💡 核心观点
 技术狂飙时，安全是唯一的刹车片。如果没人踩，它就形同虚设。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_14.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_14.jpg",
     duration: "04:36",
     shownotes: `🎙️ 本期重点
 
@@ -387,11 +398,11 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
   {
     id: "ep013",
     title: "EP013 - 我被自己的AI助手升级了三次，差点回不了家",
-    date: "2026-05-23",
+    date: "2026-05-03",
     description: "OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。",
     audioUrl: "/episodes/ep013.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 3137352,
+    size: 3137352,
     shownotes: `🎙️ 本期主题：OpenClaw升级踩坑全记录
 
 😤 完整翻车过程：
@@ -419,8 +430,8 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 
 💡 最重要的一条
 备份备份备份。重要的事情说三遍。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_13.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_13.jpg",
     duration: "05:05",
     shownotes: `🎙️ 踩坑全记录
 
@@ -445,11 +456,11 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
   {
     id: "ep012",
     title: "EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财",
-    date: "2026-05-23",
+    date: "2026-05-02",
     description: "AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部48小时破3亿播放后一夜下架，8亿播放量归零。深入剖析赚钱路径和监管红线。",
     audioUrl: "/episodes/ep012.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 5315784,
+    size: 5315784,
     shownotes: `🎙️ 本期主题：AI短剧，有人3亿播放一夜归零
 
 📊 AI短剧现状
@@ -475,8 +486,8 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 
 💡 核心观察
 AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_12.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_12.jpg",
     duration: "09:26",
     shownotes: `🎙️ 本期重点
 
@@ -502,11 +513,11 @@ AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
   {
     id: "ep011",
     title: "EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩",
-    date: "2026-05-23",
+    date: "2026-05-01",
     description: "花了一整天搞定一个问题：怎么让Hermes正确调用MiniMax月度计划Key。api_type和base_url必须同时改对，缺一个就401。踩坑实录。",
     audioUrl: "/episodes/ep011.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 2098269,
+    size: 2098269,
     shownotes: `🎙️ 本期主题：MiniMax Key配置踩坑实录
 
 😤 折腾了一整天，就为了搞定一个问题：
@@ -523,8 +534,8 @@ AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
 
 💡 经验总结
 调用月度计划Key和普通API Key的endpoint不同。api_type和base_url必须同时匹配，很多人踩在这个坑上。一整天就交学费了。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_11.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_11.jpg",
     duration: "05:42",
     shownotes: `🎙️ 踩坑实录
 
@@ -542,11 +553,11 @@ AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
   {
     id: "ep009",
     title: "EP009 - 英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁",
-    date: "2026-05-23",
+    date: "2026-04-29",
     description: "英伟达Nemotron 3 Nano Omni：全模态开源模型让企业级AI Agent效率提升9倍。同一天OpenAI销售额未达预期，概念股全线大跌。两件事合在一起，就是AI行业现在的真实状态：技术狂飙，商业磨合。",
     audioUrl: "/episodes/ep009.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 2832936,
+    size: 2832936,
     shownotes: `🎙️ 本期主题：英伟达9倍效率AI Agent vs OpenAI收入困境
 
 📈 英伟达：技术狂飙
@@ -568,8 +579,8 @@ AI行业现在的真实状态：技术跑得比商业快。
 • 算力红利在重新分配
 
 这就好比：修路的人还没收到钱，路上已经跑车了。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_09.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_09.jpg",
     duration: "04:31",
     shownotes: `🎙️ 本期重点
 
@@ -588,10 +599,10 @@ AI行业现在的真实状态：技术跑得比商业快，效率提升得比收
   {
     id: "ep008",
     title: "EP008 - GPT Image 2挑战扩散模型：AI生图战国时代谁主沉浮",
-    date: "2026-05-23",
+    date: "2026-04-28",
     description: "GPT Image 2发布，Image Arena 1512分甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊GPT官方一体化方案和OpenClaw+Stable Diffusion分体式架构，到底谁更强。",
     audioUrl: "/episodes/EP008.mp3",
-    size: 5299188,
+    size: 3693912,
     shownotes: `🎙️ 本期主题：GPT Image 2挑战扩散模型
 
 🏆 GPT Image 2战绩
@@ -616,8 +627,8 @@ OpenClaw + Stable Diffusion
 长期：开源分体式赢在灵活性
 
 ——就像iPhone和Android的关系：iPhone赢体验，Android赢开放性。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_08.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_08.jpg",
     duration: "06:00",
     shownotes: `🎙️ 本期重点
 
@@ -643,10 +654,10 @@ OpenClaw + Stable Diffusion：
   {
     id: "ep007",
     title: "EP007 - AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布",
-    date: "2026-05-23",
+    date: "2026-04-28",
     description: "过去24小时三件大事：北京车展1451台展车创新高、DeepSeek V4 API降价90%、情感陪护机器人Moya发布。三件看似不相关的事，说的是同一个趋势——AI正在从「能回答问题」全面转向「能进入生活」。",
     audioUrl: "/episodes/EP007.mp3",
-    size: 5299188,
+    size: 2634576,
     shownotes: `🎙️ 本期主题：AI三件事，同一个信号
 
 🚗 北京车展：1451台展车创新高
@@ -669,8 +680,8 @@ AI正在从「能回答问题」全面转向「能进入生活」：
 • 你的物理世界
 
 三个不同赛道，同一个底层逻辑：AI从数字世界渗透到物理世界。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_07.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_07.jpg",
     duration: "04:12",
     shownotes: `🎙️ 三件大事
 
@@ -692,10 +703,10 @@ AI正在从「能回答问题」全面转向「能进入生活」：
   {
     id: "ep006",
     title: "EP006 - OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉",
-    date: "2026-05-23",
+    date: "2026-04-27",
     description: "以为稳了，结果差点挂。自认为很熟悉OpenClaw的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚。",
     audioUrl: "/episodes/ep006.mp3",
-    size: 5299188,
+    size: 4783848,
     shownotes: `🎙️ 本期主题：OpenClaw升级踩坑复盘
 
 😰 完整翻车过程
@@ -718,8 +729,8 @@ AI正在从「能回答问题」全面转向「能进入生活」：
 
 💡 为什么回滚？
 因为没有备份，只能从最稳定的版本重新来。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_06.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_06.jpg",
     duration: "06:38",
     shownotes: `🎙️ 踩坑复盘
 
@@ -739,10 +750,10 @@ AI正在从「能回答问题」全面转向「能进入生活」：
   {
     id: "ep005",
     title: "EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局",
-    date: "2026-05-23",
+    date: "2026-04-27",
     description: "英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。",
     audioUrl: "/episodes/EP005.mp3",
-    size: 5299188,
+    size: 3471720,
     shownotes: `🎙️ 本期主题：算力战争新格局
 
 📈 英特尔CPU暴涨23.6%
@@ -764,8 +775,8 @@ AI正在从「能回答问题」全面转向「能进入生活」：
 AI不再只在云上跑。未来你的手机、车、甚至耳机，都可能是AI的载体。
 
 就像云计算改变企业IT一样，端侧AI将改变消费电子。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_05.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_05.jpg",
     duration: "05:41",
     shownotes: `🎙️ 两件大事
 
@@ -786,10 +797,10 @@ AI不再只在云上跑，未来你的手机、车、甚至耳机，都可能是
   {
     id: "ep004",
     title: "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
-    date: "2026-05-23",
+    date: "2026-04-26",
     description: "OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。",
     audioUrl: "/episodes/EP004.mp3",
-    size: 5299188,
+    size: 3252300,
     shownotes: `🎙️ 本期主题：OpenClaw的记忆机制
 
 🧠 记忆系统三阶段
@@ -815,8 +826,8 @@ AI不再只在云上跑，未来你的手机、车、甚至耳机，都可能是
 • 真正成为"认识你"的助手
 
 这不是技术升级，是AI从"工具"到"助手"的关键一步。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_04.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_04.jpg",
     duration: "05:13",
     shownotes: `🎙️ 记忆系统三阶段
 
@@ -840,10 +851,10 @@ AI不再只在云上跑，未来你的手机、车、甚至耳机，都可能是
   {
     id: "ep003",
     title: "EP003 - DeepSeek V4与人形机器人闪电：AI爆发的两记重拳",
-    date: "2026-05-23",
+    date: "2026-04-26",
     description: "DeepSeek V4发布：100万Token超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成AI从「回答问题」全面转向「替我完成任务」的明确信号。",
     audioUrl: "/episodes/EP003.mp3",
-    size: 5299188,
+    size: 3104304,
     shownotes: `🎙️ 本期主题：DeepSeek V4与人形机器人闪电
 
 🥊 DeepSeek V4
@@ -863,8 +874,8 @@ AI正在从「能回答问题」全面转向「替我完成任务」：
 • 物理能力（人形机器人）→ 能进入物理世界，执行实际操作
 
 两件事同一天发生，不是巧合，是AI发展的两个方向同时在突破。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_03.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_03.jpg",
     duration: "04:55",
     shownotes: `🎙️ 两记重拳
 
@@ -886,11 +897,11 @@ AI正在从「能回答问题」全面转向「替我完成任务」：
   {
     id: "ep002",
     title: "EP002 - DeepSeek V4与人形机器人背后的AI变局",
-    date: "2026-05-23",
+    date: "2026-04-25",
     description: "DeepSeek V4百万Token超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents务实路线。三件事合在一起，透露AI从工具变劳动力的信号。",
     audioUrl: "/episodes/ep002.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 3793560,
+    size: 3793560,
     shownotes: `🎙️ 本期主题：DeepSeek V4与人形机器人背后的AI变局
 
 ① DeepSeek V4
@@ -914,8 +925,8 @@ AI从工具变劳动力：
 • 务实路线 → 行业在成熟
 
 技术到产品，概念到落地，2026年是AI应用元年。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_02.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_02.jpg",
     duration: "05:58",
     shownotes: `🎙️ 三件事
 
@@ -937,11 +948,11 @@ AI从工具变劳动力：
   {
     id: "ep001",
     title: "EP001 - OpenAI GPT-5.5与中国AI崛起",
-    date: "2026-05-23",
+    date: "2026-04-25",
     description: "AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。",
     audioUrl: "/episodes/ep001.mp3",
-    size: 5299188,
-    size: 5299188,
+    size: 4499700,
+    size: 4499700,
     shownotes: `🎙️ 本期主题：OpenAI GPT-5.5与中国AI崛起
 
 🤖 GPT-5.5发布
@@ -964,8 +975,8 @@ AI竞争的主战场正在转移：
 • 从美国主导 → 中美并跑
 
 2026年是AI应用元年，也是中国AI的转折点。`,
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
-    cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_01.jpg",
+    cover: "https://daikexing.work/episodes/covers/ai_01.jpg",
     duration: "07:04",
     shownotes: `🎙️ 三件大事
 
