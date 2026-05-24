@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Fri, 22 May 2026 09:06:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -19,11 +19,24 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
     <item>
+      <title>EP042 - AI算力困局：万亿估值的疯狂与现实</title>
+      <link>https://daikexing.work/episodes/ep042.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——一家 AI 公司，能贵到什么程度？答案是：近万亿美元。上周，Anthropic 完成了 300 亿美元的融资，估值突破 9000 亿。同一天，OpenAI 递交了 IPO 招股书——这是 2021 年以来最受期待的科技公司上市。但 Gartner 预测，到 2027 年，电力短缺将导致约 40% 的 AI 数据中心无法正常运行。AI 行业正在经历一场算力困局，表面的估值狂飙背后，是整个行业正在跟物理世界的极限赛跑。]]></description>
+      <pubDate>Sun, 24 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep042.mp3" type="audio/mpeg" length="8542068"/>
+      <itunes:duration>08:53</itunes:duration>
+      <guid>ep042-2026-05-24</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_042.jpg"/>
+      <itunes:episode>042</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP040 - OpenAI收购乔纳森·艾维：AI硬件新纪元降临</title>
       <link>https://daikexing.work/episodes/ep040.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep040.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你有没有想过，有一天你的设备不是乔布斯定义的，而是AI定义的？就在昨天，OpenAI宣布以65亿美元收购前苹果首席设计官乔纳森·艾维创立的AI设备公司io。这是AI行业向硬件领域宣战的第一枪。艾维将主导新产品设计，新设备的核心目标是减少用户对屏幕的依赖。这意味着什么？本期深度分析。]]></description>
+      <pubDate>Fri, 22 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep040.mp3" type="audio/mpeg" length="6254772"/>
       <itunes:duration>06:31</itunes:duration>
       <guid>ep040-2026-05-22</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_040.jpg"/>
@@ -34,9 +47,9 @@
     <item>
       <title>EP041 - Anthropic三个月估值翻2.5倍：AI融资战进入新阶段</title>
       <link>https://daikexing.work/episodes/ep041.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep041.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你有没有想过，一个成立不到五年的公司，估值能在一百天里从2.5个茅台涨到将近1个茅台？Anthropic，就是那个做Claude的公司，今年2月估值3800亿美元。五月份，它正在谈一笔新融资，估值9500亿美元。三个月，2.5倍。这期我们就聊聊：Anthropic凭什么？背后是什么级别的战争？以及——Google I/O 2026刚刚开完，两件事放在一起看，你会发现整个AI行业的玩法已经完全变了。]]></description>
+      <pubDate>Sat, 23 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep041.mp3" type="audio/mpeg" length="7596852"/>
       <itunes:duration>07:54</itunes:duration>
       <guid>ep041-2026-05-23</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_041.jpg"/>
@@ -47,9 +60,9 @@
     <item>
       <title>EP039 - 英伟达\u201c物理AI的ChatGPT时刻\u201d来了，这可能是比大模型更大的机会</title>
       <link>https://daikexing.work/episodes/ep039.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep039.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[2026年5月20日，黄仁勋在英伟达新加坡研发中心成立仪式上放了一句话：\u201c物理AI的ChatGPT时刻已然到来。\u201d这次他没有再说大模型，他说的是物理AI、机器人、具身智能。物理AI替代的是人的物理劳动——工厂操作工、仓储拣货员、建筑工人、护理人员——数量级远大于白领。大模型的效率提升可能是3到5倍，但物理AI可能是10到20倍。这是比大模型更大的机会吗？我们来聊聊。]]></description>
+      <pubDate>Thu, 21 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep039.mp3" type="audio/mpeg" length="6080244"/>
       <itunes:duration>06:20</itunes:duration>
       <guid>ep039-2026-05-21</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_039.jpg"/>
@@ -60,9 +73,9 @@
     <item>
       <title>EP038 - AI战斗机来了，人类飞行员的黄昏？</title>
       <link>https://daikexing.work/episodes/ep038.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep038.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你有没有想过，有一天你打《王者荣耀》排位，遇到的对面ADC不是人，而是AI？美国一家叫安杜里尔的公司，曝光了一款AI无人战斗机，名字叫「狂怒」——Fury。不是PPT，不是概念机。是真的，今年夏天就要首飞。它全程不需要人操控，AI自己完成感知、决策、打击。这是人类空战史上，第一款真正意义上的AI无人战斗机。美国空军的目标是：2030年前实战部署。这一次，AI不只是辅助，它直接取代了飞行员。]]></description>
+      <pubDate>Thu, 21 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep038.mp3" type="audio/mpeg" length="6774900"/>
       <itunes:duration>07:03</itunes:duration>
       <guid>ep038-2026-05-21</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_38.jpg"/>
@@ -73,9 +86,9 @@
     <item>
       <title>EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋</title>
       <link>https://daikexing.work/episodes/ep037.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep037.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你有没有这种感觉——昨天还在用手机调戏Siri，今天全世界的AI巨头已经在一夜之间把战场搬到了你手上？5月20日，两场发布会同时牵动全球科技圈：谷歌I/O开发者大会进入第二天，Gemini 3和Android 17的深度整合正式亮相；同一天，阿里云峰会开幕，通义千问预告已久的"重量级大模型"压轴登场。这不是巧合，这是中美AI竞争在2026年最直白的一次正面交锋。今天这期，我们就把这两场发布会掰开揉碎，告诉你：谁在真正改变游戏规则，谁又在忙着画饼。]]></description>
+      <pubDate>Wed, 20 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep037.mp3" type="audio/mpeg" length="7818612"/>
       <itunes:duration>08:08</itunes:duration>
       <guid>ep037-2026-05-20</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_37.jpg"/>
@@ -86,9 +99,9 @@
   <item>
       <title>EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移</title>
       <link>https://daikexing.work/episodes/ep035.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep035.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你有没有发现，现在 AI 越来越会"说话"了？不是那种冷冰冰的"根据您的问题，我找到以下信息"。而是开始有点像——有点像一个真正懂你、愿意听你说话的人。这背后不是技术的小修小补，而是一场根本逻辑的转移。微软 AI 掌门人 Mustafa Suleyman 前几天说了一句话：AI 未来的竞争，不是谁更聪明，而是谁更有"情商"。今天我们就来聊聊这件事。]]></description>
+      <pubDate>Mon, 18 May 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep035.mp3" type="audio/mpeg" length="6516276"/>
       <itunes:duration>06:47</itunes:duration>
       <guid>ep035-2026-05-18</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_35.jpg"/>
@@ -99,9 +112,9 @@
   <item>
       <title>EP034 - AI Agent大规模商用潮：谁在赚钱，谁在裸泳？</title>
       <link>https://daikexing.work/episodes/ep034.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep034.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[2026年5月，一家叫智能云的创业公司融了8000万美金。做什么的？帮人用AI Agent替代客服团队。不是那种您好，请问有什么可以帮您的机器人，是那种——你根本分不清对面是人还是AI的那种。这不叫趋势，这叫淘金热。]]></description>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep034.mp3" type="audio/mpeg" length="5450100"/>
       <itunes:duration>05:41</itunes:duration>
       <guid>ep034-2026-05-17</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_34.jpg"/>
@@ -112,9 +125,9 @@
   <item>
       <title>EP033 - 机器人跑赢了人类马拉松——具身智能拐点已至</title>
       <link>https://daikexing.work/episodes/EP033.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/EP033.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你听说过"闪电"吗？不是那个 DC 漫画里的超级英雄，是一个机器人。  就在上个月，北京亦庄人形机器人半程马拉松赛，一台叫"闪电"的机器人以 50 分 26 秒完赛。听着好像一般？但你知道这个成绩意味着什么吗？它跑赢了 2026 年人类男子半马世界纪录]]></description>
+      <pubDate>Sun, 17 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/EP033.mp3" type="audio/mpeg" length="3471720"/>
       <itunes:duration>05:40</itunes:duration>
       <guid>ep033-2026-05-17</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_33.jpg"/>
@@ -123,14 +136,14 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
   <item>
-      <title>EP032 - AI编程大爆发：浏览器开始长出脑子</title>
+      <title>EP032 - 微软砍掉Claude Code内幕：一场AI编程工具的生死局</title>
       <link>https://daikexing.work/episodes/ep032.mp3</link>
-      <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep032.mp3" type="audio/mpeg" length="5299188"/>
+      <description><![CDATA[你敢信？微软要把Claude Code砍了。不是 Claude Code 不好用——恰恰相反，它太好用了。好用到微软内部已经开始大面积迁移开发工作流，好用到 Copilot 团队开始慌了，好用到微软高层拍桌子：不行，这个东西必须消失。这就是今天的 topic：微软为什么宁愿自断一臂，也要砍掉 Claude Code？]]></description>
+      <pubDate>Sat, 16 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep032.mp3" type="audio/mpeg" length="7580148"/>
       <itunes:duration>07:54</itunes:duration>
       <guid>ep032-2026-05-16</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_032.jpg"/>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_32.jpg"/>
       <itunes:episode>032</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
