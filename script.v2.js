@@ -1,6 +1,17 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep043",
+    size: 4883892,
+    title: "EP043 - 木头姐撤离芯片股AI拐点已到",
+    date: "2026-05-25",
+    description: "木头姐Cathie Wood连续抛售英伟达和台积电，美国国防部与七大公司签署AI部署协议。两条新闻合在一起，透露出一个重要信号：AI拐点已到。",
+    audioUrl: "/episodes/ep043.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_043.jpg",
+    duration: "05:05"
+  },
+
+  {
     id: "ep042",
     size: 8542068,
     title: "EP042 - AI算力困局：万亿估值的疯狂与现实",

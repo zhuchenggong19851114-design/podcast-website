@@ -18,7 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
-    <item>
+        <item>
+      <title>EP043 - 木头姐撤离芯片股AI拐点已到</title>
+      <link>https://daikexing.work/episodes/ep043.mp3</link>
+      <description><![CDATA[木头姐Cathie Wood连续抛售英伟达和台积电，美国国防部与七大公司签署AI部署协议。两条新闻合在一起，透露出一个重要信号：AI拐点已到。]]></description>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep043.mp3" type="audio/mpeg" length="4883892"/>
+      <itunes:duration>05:05</itunes:duration>
+      <guid>ep043-2026-05-25</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_043.jpg"/>
+      <itunes:episode>043</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>EP042 - AI算力困局：万亿估值的疯狂与现实</title>
       <link>https://daikexing.work/episodes/ep042.mp3</link>
       <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
