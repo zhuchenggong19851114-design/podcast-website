@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 24 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
+    <item>
+      <title>EP044 - Anthropic季度收入暴涨80倍，AI行业从"技术信仰"转向"价值验证"</title>
+      <link>https://daikexing.work/episodes/ep044.mp3</link>
+      <description><![CDATA[Anthropic向投资者披露Q2营收预测109亿美元，较Q1增长超130%，首次实现营业利润5.59亿美元。Q1实际年化增长80倍，是内部乐观预测的8倍。与SpaceX签约获取Colossus 1数据中心（22万块GPU），与Akamai签7年180亿美元边缘推理大单。企业市场爆发：1000+客户年消费超100万美元。Anthropic已盈利 vs OpenAI持续亏损，AI行业价值验证时代已来。]]></description>
+      <pubDate>Tue, 26 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep044.mp3" type="audio/mpeg" length="5294004"/>
+      <itunes:duration>05:30</itunes:duration>
+      <guid>ep044-2026-05-26</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_044.jpg"/>
+      <itunes:episode>044</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
         <item>
       <title>EP043 - 木头姐撤离芯片股AI拐点已到</title>
       <link>https://daikexing.work/episodes/ep043.mp3</link>

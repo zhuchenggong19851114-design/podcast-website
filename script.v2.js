@@ -1,6 +1,18 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep044",
+    size: 5294004,
+    title: "EP044 - Anthropic季度收入暴涨80倍，AI行业从\技术信仰\转向\价值验证",
+    date: "2026-05-26",
+    description: "Anthropic向投资者披露Q2营收预测109亿美元，较Q1增长超130%，首次实现营业利润5.59亿美元。Q1实际年化增长80倍，是内部乐观预测的8倍。与SpaceX签约获取Colossus 1数据中心（22万块GPU），与Akamai签7年180亿美元边缘推理大单。企业市场爆发：1000+客户年消费超100万美元。Anthropic已盈利 vs OpenAI持续亏损，AI行业价值验证时代已来。",
+    audioUrl: "/episodes/ep044.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_044.jpg",
+    duration: "05:30",
+    shownotes: ``
+  },
+
+  {
     id: "ep043",
     size: 4883892,
     title: "EP043 - 木头姐撤离芯片股AI拐点已到",
