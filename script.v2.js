@@ -1,6 +1,25 @@
 // 播客数据
 const episodes = [
   {
+    id: "ep045",
+    size: 5226612,
+    title: "EP045 - Qwen编程全球前二：中国AI第一次站上领奖台",
+    date: "2026-05-27",
+    description: "你有没有发现，最近硅谷那些聊 AI 编程的人，口风悄悄变了？以前一开口就是 Claude 有多强、GPT 差距有多大，现在呢？他们在问：Qwen 什么时候能追上 Claude？就在今天，Code Arena 编程榜单刷新了——阿里通义千问的 Qwen3.7-Max，以 1541 分冲进全球前四，一口气超越了 GPT-5.5、Gemini 3.5 Flash，还有一众顶尖模型。排在它前面的，只剩 Claude Opus 4.7 和 Opus 4.6。换句话说，在全球编程这件事上，中国公司第一次站上了领奖台。而且是唯一的非 Anthropic 选手。",
+    audioUrl: "/episodes/ep045.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_045.jpg",
+    duration: "05:27",
+    shownotes: `🎙️ 本期主题：Qwen3.7-Max 闯入全球编程前二，中国 AI 第一次站上领奖台
+
+📰 核心要点：
+- Qwen3.7-Max 以 1541 分冲进 Code Arena 全球前四，仅次于 Claude Opus 4.7/4.6
+- 全球编程榜单前五中唯一的非 Anthropic 模型，标志着中国 AI 的突破性进展
+- DeepSeek 同时在打价格战，API 价格永久降至原价 1/4，中国 AI 形成集群效应
+- Claude 路线（高价格、高收入）和 DeepSeek 路线（低价抢份额）代表两种不同商业策略
+- AI 编程赛道格局正在重塑，竞争加剧推动整个行业快速进步`
+  },
+
+  {
     id: "ep044",
     size: 5294004,
     title: "EP044 - Anthropic季度收入暴涨80倍，AI行业从\技术信仰\转向\价值验证",

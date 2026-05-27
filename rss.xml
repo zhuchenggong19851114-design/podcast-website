@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Tue, 26 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -19,6 +19,20 @@
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>
     <item>
+      <title>EP045 - Qwen编程全球前二：中国AI第一次站上领奖台</title>
+      <link>https://daikexing.work/episodes/ep045.mp3</link>
+      <description><![CDATA[你有没有发现，最近硅谷那些聊 AI 编程的人，口风悄悄变了？以前一开口就是 Claude 有多强、GPT 差距有多大，现在呢？他们在问：Qwen 什么时候能追上 Claude？就在今天，Code Arena 编程榜单刷新了——阿里通义千问的 Qwen3.7-Max，以 1541 分冲进全球前四，一口气超越了 GPT-5.5、Gemini 3.5 Flash，还有一众顶尖模型。排在它前面的，只剩 Claude Opus 4.7 和 Opus 4.6。换句话说，在全球编程这件事上，中国公司第一次站上了领奖台。而且是唯一的非 Anthropic 选手。]]></description>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep045.mp3" type="audio/mpeg" length="5226612"/>
+      <itunes:duration>05:27</itunes:duration>
+      <guid>ep045-2026-05-27</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_045.jpg"/>
+      <itunes:episode>045</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+        <item>
       <title>EP044 - Anthropic季度收入暴涨80倍，AI行业从"技术信仰"转向"价值验证"</title>
       <link>https://daikexing.work/episodes/ep044.mp3</link>
       <description><![CDATA[Anthropic向投资者披露Q2营收预测109亿美元，较Q1增长超130%，首次实现营业利润5.59亿美元。Q1实际年化增长80倍，是内部乐观预测的8倍。与SpaceX签约获取Colossus 1数据中心（22万块GPU），与Akamai签7年180亿美元边缘推理大单。企业市场爆发：1000+客户年消费超100万美元。Anthropic已盈利 vs OpenAI持续亏损，AI行业价值验证时代已来。]]></description>
