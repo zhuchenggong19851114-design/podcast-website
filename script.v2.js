@@ -1,5 +1,5 @@
 // 播客数据
-[
+const episodes = [
 {
       id: "ep048",
       size: 5488692,
