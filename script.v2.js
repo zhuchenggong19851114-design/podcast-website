@@ -16,6 +16,18 @@ const episodes = [  {
 - 程序员不会被替代，但技能要求从"写代码"转向"指挥AI写代码"
 - AI创业公司最大风险是商业化速度，而非技术本身`
   },
+    {
+      id: "ep048",
+      size: 5488692,
+      title: "EP048 - 人形机器人200小时零故障：Figure 03具身智能极限验证",
+      date: "2026-05-29",
+      description: "你有没有想过，一个8小时的挑战，最后跑了整整200个小时？美国机器人公司Figure AI搞了一场包裹分拣直播测试，3台Figure 03机器人昼夜不停地干了200个小时，分拣了近25万个包裹，全程零故障。具身智能商业化落地的里程碑时刻。",
+      audioUrl: "/episodes/ep048.mp3",
+      cover: "https://daikexing.work/episodes/covers/ai_048.jpg",
+      duration: "05:43",
+      shownotes: `${shownotes}`
+    },
+
 
   {
     id: "ep045",

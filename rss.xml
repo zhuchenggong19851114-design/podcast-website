@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 28 May 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:00:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP048 - 人形机器人200小时零故障：Figure 03具身智能极限验证</title>
+      <link>https://daikexing.work/episodes/ep048.mp3</link>
+      <description><![CDATA[你有没有想过，一个8小时的挑战，最后跑了整整200个小时？美国机器人公司Figure AI搞了一场包裹分拣直播测试，3台Figure 03机器人昼夜不停地干了200个小时，分拣了近25万个包裹，全程零故障。具身智能商业化落地的里程碑时刻。]]></description>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep048.mp3" type="audio/mpeg" length="5488692"/>
+      <itunes:duration>05:43</itunes:duration>
+      <guid>ep048-2026-05-29</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_048.jpg"/>
+      <itunes:episode>048</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>EP047 - Cognition获投10亿美元，AI编程赛道估值泡沫还是真风口？</title>
       <link>https://daikexing.work/episodes/ep047.mp3</link>
       <description><![CDATA[你有没有想过，一家成立不到两年的AI公司，能值多少钱？答案是：260亿美元。上周，人工智能编码初创公司Cognition宣布完成了10亿美元的新一轮融资，估值直接从上一轮的20亿美元跳到了260亿美元——一年不到，翻了13倍。这个数字已经超过了大多数A股上市公司的市值，而Cognition团队加起来可能还不到100人。Devin——被叫做AI程序员的东西。资本市场用260亿美元的估值，给出了他们的答案。]]></description>
