@@ -10,7 +10,7 @@
       cover: "https://daikexing.work/episodes/covers/ai_048.jpg",
       duration: "05:43",
       shownotes: ``
-    },,
+    },
 {
     id: "ep047",
     size: 5232948,
@@ -27,7 +27,7 @@
 - 数据飞轮是核心壁垒，用户习惯积累形成迁移成本
 - 程序员不会被替代，但技能要求从"写代码"转向"指挥AI写代码"
 - AI创业公司最大风险是商业化速度，而非技术本身`
-  },,
+  },
 {
     id: "ep045",
     size: 5226612,
@@ -45,7 +45,7 @@
 - DeepSeek 同时在打价格战，API 价格永久降至原价 1/4，中国 AI 形成集群效应
 - Claude 路线（高价格、高收入）和 DeepSeek 路线（低价抢份额）代表两种不同商业策略
 - AI 编程赛道格局正在重塑，竞争加剧推动整个行业快速进步`
-  },,
+  },
 {
     id: "ep044",
     size: 5294004,
@@ -56,7 +56,7 @@
     cover: "https://daikexing.work/episodes/covers/ai_044.jpg",
     duration: "05:30",
     shownotes: ``
-  },,
+  },
 {
     id: "ep043",
     size: 4883892,
@@ -66,7 +66,7 @@
     audioUrl: "/episodes/ep043.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_043.jpg",
     duration: "05:05"
-  },,
+  },
 {
     id: "ep042",
     size: 8542068,
@@ -76,7 +76,7 @@
     audioUrl: "/episodes/ep042.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_042.jpg",
     duration: "08:53"
-  },,
+  },
 {
     id: "ep041",
     size: 7596852,
@@ -86,7 +86,7 @@
     audioUrl: "/episodes/ep041.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_041.jpg",
     duration: "07:54"
-  },,
+  },
 {
     id: "ep032",
     size: 5261748,
@@ -96,7 +96,7 @@
     audioUrl: "/episodes/ep032.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "07:54"
-  },,
+  },
 {
     id: "ep031",
     size: 5261748,
@@ -106,7 +106,7 @@
     audioUrl: "/episodes/EP031.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "03:15"
-  },,
+  },
 {
     id: "ep030",
     size: 5261748,
@@ -116,7 +116,7 @@
     audioUrl: "/episodes/ep030.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "07:21"
-  },,
+  },
 {
     id: "ep026",
     size: 5261748,
@@ -126,7 +126,7 @@
     audioUrl: "/episodes/ep026.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "06:31"
-  },,
+  },
 {
     id: "ep025",
     size: 5261748,
@@ -146,7 +146,7 @@
     audioUrl: "/episodes/ep023.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "06:32"
-  },,
+  },
 {
     id: "ep024",
     size: 5261748,
@@ -156,7 +156,7 @@
     audioUrl: "/episodes/ep024.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "06:42"
-  },,
+  },
 {
     id: "ep022",
     size: 5261748,
@@ -187,7 +187,7 @@
 
 ✅ 总结
 美国的不确定性，反而给了国内玩家一个难得的时间窗口。这个窗口能持续多久，取决于国内玩家能不能快速补上合规和韧性这两课。`
-  },,
+  },
 {
     id: "ep018",
     size: 5261748,
@@ -238,7 +238,7 @@
 AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在重写商业规则、社会规则"的当下事实。`,
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "08:27"
-  },,
+  },
 {
     id: "ep020",
     size: 5261748,
@@ -248,7 +248,7 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
     audioUrl: "/episodes/ep020.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_032.jpg",
     duration: "06:02"
-  },,
+  },
 {
     id: "ep015",
     size: 5261748,
@@ -323,7 +323,7 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 📌 记住这个选择框架
 串行？并行？自动化？实时讨论？
 ——答案取决于任务有没有终点、边界清不清晰、要不要即时响应。`
-  },,
+  },
 {
     id: "ep014",
     title: "EP014 - AI在狂奔，但安全正在被甩在身后",
@@ -378,7 +378,7 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 
 💡 核心观点
 技术狂飙时，安全是唯一的刹车片。如果没人踩，它就形同虚设。`
-  },,
+  },
 {
     id: "ep013",
     title: "EP013 - 我被自己的AI助手升级了三次，差点回不了家",
@@ -436,7 +436,7 @@ AI不再是一个"会不会替代人类"的远期话题，而是一个"已经在
 
 💡 最重要的一条
 备份备份备份。重要的事情说三遍。`
-  },,
+  },
 {
     id: "ep012",
     title: "EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财",
@@ -493,7 +493,7 @@ AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
 
 💡 闷声发财的人做对了什么？
 合规前提下专注内容质量，不碰擦边，长期积累用户。`
-  },,
+  },
 {
     id: "ep011",
     title: "EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩",
@@ -533,7 +533,7 @@ AI短剧是内容创业的低门槛赛道，但监管红线比想象中近。`,
 
 💡 经验总结
 调用月度计划Key和普通API Key的endpoint不同，很多人踩在这个坑上。一整天就交学费了。`
-  },,
+  },
 {
     id: "ep009",
     title: "EP009 - 英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁",
@@ -579,7 +579,7 @@ AI行业现在的真实状态：技术跑得比商业快。
 
 💡 两件事合在一起看
 AI行业现在的真实状态：技术跑得比商业快，效率提升得比收入稳。`
-  },,
+  },
 {
     id: "ep008",
     title: "EP008 - GPT Image 2挑战扩散模型：AI生图战国时代谁主沉浮",
@@ -634,7 +634,7 @@ OpenClaw + Stable Diffusion：
 短期：GPT官方赢在体验
 长期：开源分体式赢在灵活性
 ——就像iPhone和Android的关系。`
-  },,
+  },
 {
     id: "ep007",
     title: "EP007 - AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布",
@@ -683,7 +683,7 @@ AI正在从「能回答问题」全面转向「能进入生活」：
 • 你的手机、车、家
 • 你的工作流
 • 你的物理世界`
-  },,
+  },
 {
     id: "ep006",
     title: "EP006 - OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉",
@@ -730,7 +730,7 @@ AI正在从「能回答问题」全面转向「能进入生活」：
 ⚠️ OpenClaw特殊注意
 • 插件是独立包，升级主程序不等于升级插件
 • 版本跳跃容易出问题，不要跨太多版本升级`
-  },,
+  },
 {
     id: "ep005",
     title: "EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局",
@@ -777,7 +777,7 @@ AI不再只在云上跑。未来你的手机、车、甚至耳机，都可能是
 
 🤔 意味着什么？
 AI不再只在云上跑，未来你的手机、车、甚至耳机，都可能是AI的载体。`
-  },,
+  },
 {
     id: "ep004",
     title: "EP004 - OpenClaw的记忆机制：AI是如何记住一切的",
@@ -831,7 +831,7 @@ AI不再只在云上跑，未来你的手机、车、甚至耳机，都可能是
 • 真正成为"认识你"的助手
 
 这不是技术升级，是AI从"工具"到"助手"的关键一步。`
-  },,
+  },
 {
     id: "ep003",
     title: "EP003 - DeepSeek V4与人形机器人闪电：AI爆发的两记重拳",
@@ -877,7 +877,7 @@ AI正在从「能回答问题」全面转向「替我完成任务」：
 • 认知能力（DeepSeek V4）
 • 物理能力（人形机器人）
 两者都在快速突破。`
-  },,
+  },
 {
     id: "ep002",
     title: "EP002 - DeepSeek V4与人形机器人背后的AI变局",
@@ -928,7 +928,7 @@ AI从工具变劳动力：
 • 能处理超长上下文 → 能完成复杂任务
 • 具身智能达标 → 能进入物理世界
 • 务实路线 → 行业在成熟`
-  },,
+  },
 {
     id: "ep001",
     title: "EP001 - OpenAI GPT-5.5与中国AI崛起",
@@ -985,7 +985,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep040.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_040.jpg",
     duration: "06:31"
-  },,
+  },
 {
     id: "ep039",
     size: 6080244,
@@ -995,7 +995,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep039.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_039.jpg",
     duration: "06:20"
-  },,
+  },
 {
     id: "ep038",
     size: 6774900,
@@ -1005,7 +1005,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep038.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_38.jpg",
     duration: "07:03"
-  },,
+  },
 {
     id: "ep037",
     size: 7818612,
@@ -1015,7 +1015,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep037.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_37.jpg",
     duration: "08:08"
-  },,
+  },
 {
     id: "ep036",
     size: 5397108,
@@ -1025,7 +1025,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep036.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_36.jpg",
     duration: "05:37"
-  },,
+  },
 {
     id: "ep035",
     size: 6516276,
@@ -1035,7 +1035,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep035.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_35.jpg",
     duration: "06:47"
-  },,
+  },
 {
     id: "ep034",
     size: 5450100,
@@ -1045,7 +1045,7 @@ AI竞争的主战场正在转移——从模型能力到应用落地，从美国
     audioUrl: "/episodes/ep034.mp3",
     cover: "https://daikexing.work/episodes/covers/ai_34.jpg",
     duration: "05:41"
-  },,
+  },
 {
     id: "ep033",
     size: 3471720,
