@@ -25,7 +25,7 @@ const episodes = [  {
       audioUrl: "/episodes/ep048.mp3",
       cover: "https://daikexing.work/episodes/covers/ai_048.jpg",
       duration: "05:43",
-      shownotes: `${shownotes}`
+      shownotes: ``
     },
 
 
