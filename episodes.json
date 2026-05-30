@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "ep049",
+      "title": "EP049 - DeepSeek永久降价风暴：企业AI市场格局正在被改写",
+      "date": "2026-05-30",
+      "description": "你有没有想过，一家中国AI公司的一次降价公告，能让整个硅谷睡不着觉？上周，DeepSeek V4 Pro宣布永久降价——输入价格比Claude和GPT便宜7倍，输出便宜17倍。这不是一次普通的调价，这是一次对高容量AI市场的降维打击。背后是稀疏注意力加极致缓存的架构创新，让DeepSeek的推理成本断崖式下降。这期聊聊：DeepSeek在打什么算盘？",
+      "audioUrl": "/episodes/ep049.mp3",
+      "size": 4147764,
+      "cover": "https://daikexing.work/episodes/covers/ai_049.jpg",
+      "duration": "04:19",
+      "shownotes": "🎙️ 本期主题：DeepSeek V4 Pro永久降价75%，企业AI市场格局正在被改写\n📰 核心要点：\n- DeepSeek V4 Pro永久降价：输入比Claude/GPT便宜7倍，输出便宜17倍\n- 背后是稀疏注意力+极致缓存的架构创新，大幅降低推理成本\n- Uber四个月烧光全年AI预算，Airbnb转用阿里Qwen，Pinterest成本降90%\n- 开源+低价正在商品化高容量AI市场，OpenAI的API收入首当其冲\n- 欧洲独立AI公司Mistral同周宣布进军工业AI，欧盟AI自主化叙事升温"
+    },
+    {
       "id": "ep048",
       "title": "EP048 - 人形机器人200小时零故障：Figure 03具身智能极限验证",
       "date": "2026-05-29",
