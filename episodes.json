@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "ep051",
+      "title": "EP051 - 黄仁勋深夜炸场PC长出AI大脑：AI PC的iPhone时刻来了",
+      "date": "2026-06-02",
+      "description": "你有没有注意到一件事——每次黄仁勋站上舞台，整个科技圈都要抖三抖？这次更狠。台北时间6月1日晚，黄仁勋在Computex 2026上发表主题演讲，一口气发布了多款新产品，直接把AI战场烧到了个人电脑领域。AI PC的iPhone时刻，可能真的要来了。",
+      "audioUrl": "/episodes/ep051.mp3",
+      "size": 4830324,
+      "cover": "https://daikexing.work/episodes/covers/ai_051.jpg",
+      "duration": "05:01",
+      "shownotes": "🎙️ 本期主题：黄仁勋Computex 2026重磅发布RTX Spark芯片，AI PC进入本地Agent时代\n\n📰 核心要点：\n- 英伟达发布RTX Spark（N1X），首款专为个人AI智能体打造的PC芯片，支持本地离线运行大模型\n- 黄仁勋同时发布Vera Rubin架构、CPU Vera、AI工厂平台DSX，AI基础设施体系全面升级\n- 消息催化资本市场：英伟达盘前涨近3%，Arm暴涨13%，美光全年涨超800%\n- AI PC从概念走向落地：惠普AI优化电脑已带动Q2业绩，戴尔预期升温\n- Arm架构PC芯片崛起，挑战英特尔/AMD传统格局，计算范式迁移加速"
+    },
+    {
+      "id": "ep050",
+      "title": "EP050 - 大模型双雄冲刺A股背后：Agent浪潮下的AI变局",
+      "date": "2026-05-31",
+      "description": "你有没有想过一个问题——一家AI公司，能贵到什么程度？答案是：近万亿美元。这不是科幻，是刚刚发生在现实中的事。上周，Anthropic完成了300亿美元的融资，估值直接站到了全球AI公司的最顶端。一家成立不到十年的公司，凭什么值这个数？答案就四个字：Agent浪潮。今天这期，我们把镜头对准两件大事。一件发生在资本市场——中国的\"大模型双雄\"MiniMax和智谱，同一时期宣布冲刺A股；另一件发生在台北——黄仁勋在Computex 2026上发表演讲，台下坐满了全球的芯片工程师和AI从业者。这两件事看起来毫不相关，但背后有一条主线贯穿始终：AI正在从\"对话玩具\"变成\"赚钱机器\"，而这一次，中国没有缺席。",
+      "audioUrl": "/episodes/ep050.mp3",
+      "size": 5608500,
+      "cover": "https://daikexing.work/episodes/covers/ai_050.jpg",
+      "duration": "05:50",
+      "shownotes": "🎙️ 本期主题：大模型双雄冲刺A股与Agent浪潮下的AI变局\n📰 核心要点：\n- MiniMax、智谱同月启动A股上市，大模型从\"烧钱\"进入\"赚钱\"阶段\n- OpenClaw引爆Agent浪潮，词元日均调用量同比增长40倍\n- 黄仁勋Computex演讲聚焦具身智能，AI下一波爆发在物理世界\n- 美国商务部封堵芯片出口漏洞，高端GPU获取渠道进一步收窄\n- 中国具身智能国家标准落地，机器人产业化进入加速期"
+    },
+    {
       "id": "ep049",
       "title": "EP049 - DeepSeek永久降价风暴：企业AI市场格局正在被改写",
       "date": "2026-05-30",
