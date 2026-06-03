@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP052 - 双王炸！微软MAI+腾讯云97.5%降价，OpenAI护城河要没了</title>
+      <link>https://daikexing.work/episodes/ep052.mp3</link>
+      <description><![CDATA[你有没有这种感觉——AI圈一夜之间，被两个王炸同时炸醒。北京时间6月3日零点，腾讯云一纸公告：DeepSeek-V4系列模型价格大幅下调，最高降幅97.5%。三十分钟后，旧金山Build大会现场，微软AI负责人苏莱曼走上台，掏出微软首个自研推理模型MAI-Thinking-1。两个事件前后脚落地，枪口对准的是同一个目标——OpenAI。这期我们就来聊聊，这两个王炸究竟意味着什么。]]></description>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep052.mp3" type="audio/mpeg" length="7631988"/>
+      <itunes:duration>07:57</itunes:duration>
+      <guid>ep052-2026-06-03</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_052.jpg"/>
+      <itunes:episode>052</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>EP051 - 黄仁勋深夜炸场PC长出AI大脑：AI PC的iPhone时刻来了</title>
       <link>https://daikexing.work/episodes/ep051.mp3</link>
       <description><![CDATA[你有没有注意到一件事——每次黄仁勋站上舞台，整个科技圈都要抖三抖？这次更狠。台北时间6月1日晚，黄仁勋在Computex 2026上发表主题演讲，一口气发布了多款新产品，直接把AI战场烧到了个人电脑领域。AI PC的iPhone时刻，可能真的要来了。]]></description>

@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "ep052",
+      "title": "EP052 - 双王炸！微软MAI+腾讯云97.5%降价，OpenAI护城河要没了",
+      "date": "2026-06-03",
+      "description": "你有没有这种感觉——AI圈一夜之间，被两个王炸同时炸醒。北京时间6月3日零点，腾讯云一纸公告：DeepSeek-V4系列模型价格大幅下调，最高降幅97.5%。三十分钟后，旧金山Build大会现场，微软AI负责人苏莱曼走上台，掏出微软首个自研推理模型MAI-Thinking-1。两个事件前后脚落地，枪口对准的是同一个目标——OpenAI。这期我们就来聊聊，这两个王炸究竟意味着什么。",
+      "audioUrl": "/episodes/ep052.mp3",
+      "size": 7631988,
+      "cover": "https://daikexing.work/episodes/covers/ai_052.jpg",
+      "duration": "07:57",
+      "shownotes": "🎙️ 本期主题：双王炸炸醒AI圈：微软MAI+腾讯云97.5%降价，OpenAI护城河正在被掏空\n📰 核心要点：\n- 腾讯云DeepSeek-V4降价97.5%，AI调用成本逼近白嫖\n- 微软Build大会发布首个自研推理模型MAI-Thinking-1，苏莱曼三年磨一剑\n- 上下夹击：OpenAI同时面对\"金主自立门户\"和\"竞品价格战\"\n- 中科院ICRA双项世界冠军，具身智能商业化加速\n- Agent+具身智能 = AI价值链的下一站"
+    },
+    {
       "id": "ep051",
       "title": "EP051 - 黄仁勋深夜炸场PC长出AI大脑：AI PC的iPhone时刻来了",
       "date": "2026-06-02",
