@@ -1,6 +1,21 @@
 // 播客数据
 const episodes = [
 {
+      id: "ep053",
+      size: 6344628,
+      title: "EP053 - OpenAI重启机器人，具身智能的3道生死坎",
+      date: "2026-06-04",
+      description: "你有没有想过一个问题——一家估值近万亿的AI公司，做得最成功的一件事，竟然是把自己最老牌的项目砍掉？然后，6年后，它又悄悄把这个项目捡回来了。这家公司就是OpenAI。6月1号凌晨，OpenAI CEO山姆·奥特曼在X上发了一条招聘启事，正式宣布成立OpenAI Robotics团队，要造机器人。这条消息看着不起眼，但背后藏着三个让整个AI圈睡不着觉的真相。",
+      audioUrl: "/episodes/ep053.mp3",
+      cover: "https://daikexing.work/episodes/covers/ai_053.jpg",
+      duration: "06:36",
+      shownotes: `🎙️ 本期主题：OpenAI时隔6年重启机器人，具身智能的3道生死坎
+📰 核心要点：
+- OpenAI成立OpenAI Robotics，由Sora核心开发者阿迪亚·拉梅什带队
+- 具身智能面临数据、物理、商业3大挑战，背后是20000倍数据鸿沟
+- 同日Anthropic秘密提交IPO，估值9650亿反超OpenAI，3年涨235倍`
+    },
+{
       id: "ep052",
       size: 7631988,
       title: "EP052 - 双王炸！微软MAI+腾讯云97.5%降价，OpenAI护城河要没了",
