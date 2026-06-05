@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 09:08:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:25:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP054 - Anthropic 5年涨235倍凭什么反超OpenAI</title>
+      <link>https://daikexing.work/episodes/ep054.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——一家AI公司，最快能贵到什么程度？答案是：不到5年，估值涨235倍。上周，Anthropic悄悄向SEC提交了S-1招股书——估值9650亿美元，超越OpenAI成为全球最值钱的AI独角兽。1万亿估值的AI公司，到底是革命，还是泡沫？]]></description>
+      <pubDate>Fri, 05 Jun 2026 12:25:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep054.mp3" type="audio/mpeg" length="4647156"/>
+      <itunes:duration>04:50</itunes:duration>
+      <guid>ep054-2026-06-05</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_054.jpg"/>
+      <itunes:episode>054</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>EP053 - OpenAI重启机器人，具身智能的3道生死坎</title>
       <link>https://daikexing.work/episodes/ep053.mp3</link>
       <description><![CDATA[你有没有想过一个问题——一家估值近万亿的AI公司，做得最成功的一件事，竟然是把自己最老牌的项目砍掉？然后，6年后，它又悄悄把这个项目捡回来了。这家公司就是OpenAI。6月1号凌晨，OpenAI CEO山姆·奥特曼在X上发了一条招聘启事，正式宣布成立OpenAI Robotics团队，要造机器人。这条消息看着不起眼，但背后藏着三个让整个AI圈睡不着觉的真相。]]></description>

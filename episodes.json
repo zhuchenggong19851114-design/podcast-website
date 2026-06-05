@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "id": "ep054",
+      "title": "EP054 - Anthropic 5年涨235倍凭什么反超OpenAI",
+      "date": "2026-06-05",
+      "description": "你有没有想过一个问题——一家AI公司，最快能贵到什么程度？答案是：不到5年，估值涨235倍。上周，Anthropic悄悄向SEC提交了S-1招股书——估值9650亿美元，超越OpenAI成为全球最值钱的AI独角兽。1万亿估值的AI公司，到底是革命，还是泡沫？",
+      "audioUrl": "/episodes/ep054.mp3",
+      "size": 4647156,
+      "cover": "https://daikexing.work/episodes/covers/ai_054.jpg",
+      "duration": "04:50",
+      "shownotes": "🎙️ 本期主题：Anthropic 5年涨235倍，9650亿IPO凭什么反超OpenAI\n💬 金句钩子：「5年涨235倍——AI公司可以比毒品还暴利，但前提是你得选对阵营。」\n📰 核心要点（5+ 条）：\n- Anthropic 6月1日提交S-1，估值9650亿美元，反超OpenAI的8520亿\n- 5年估值涨235倍，2021年仅41亿；3个月内从1830亿翻到9650亿\n- 一季度营收48亿，二季度预计翻倍到109亿，首次季度盈利5.59亿\n- 推理毛利率从38%飙升到70%，每赚1美元算力成本从71美分降到56美分\n- 创始人Dario Amodei是前OpenAI安全团队负责人，\"出走兄弟\"用安全路线反超东家\n- Anthropic、SpaceX、OpenAI 2026下半年三连发IPO，合计募资可能超2000亿美元"
+    },
+    {
       "id": "ep053",
       "title": "EP053 - OpenAI重启机器人，具身智能的3道生死坎",
       "date": "2026-06-04",
