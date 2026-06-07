@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 09:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 09:10:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,13 +18,13 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
-      <title>EP055 - AI三巨头超级IPO海啸</title>
+      <title>EP055 - 特朗普逼3家AI巨头分股份给美国民众</title>
       <link>https://daikexing.work/episodes/ep055.mp3</link>
-      <description><![CDATA[你有没有想过一个问题——2026年的这个夏天，华尔街正在发生一件人类商业史上从未发生过的事？三家估值加起来超过三万亿美元的超级巨头，要在同一年里集中上市。SpaceX，6月12日路演，目标估值1.75万亿美元，募资750亿到800亿。OpenAI，紧随其后，9月递交招股书，估值8520亿。Anthropic，6月1日已经秘密提交了IPO文件，估值9650亿，比OpenAI还高。三家合计，2000亿美元。这意味着什么？意味着2026年这一年的IPO募资总额，会直接超过美股过去四年的总和。]]></description>
-      <pubDate>Sat, 06 Jun 2026 09:25:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep055.mp3" type="audio/mpeg" length="3169296"/>
-      <itunes:duration>08:48</itunes:duration>
-      <guid>ep055-2026-06-06</guid>
+      <description><![CDATA[你有没有想过，一家AI公司的股份，有一天会直接打到你的退休金账户里？6月5号，特朗普在空军一号上扔出一颗炸弹——美国政府正在研究，让OpenAI、Anthropic、xAI这三家AI巨头向美国民众出让公司股份。与此同时，SpaceX 750亿、OpenAI 9月、Anthropic秘密IPO，三家合计圈走2000亿美元。这招的本质是什么？用"全民所有制"给AI巨头套上金钟罩——让美国民众成为股东后，任何针对AI公司的监管、拆分、反垄断调查，都变成"针对美国民众退休金"的攻击。]]></description>
+      <pubDate>Sun, 07 Jun 2026 09:10:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep055.mp3" type="audio/mpeg" length="2806416"/>
+      <itunes:duration>07:48</itunes:duration>
+      <guid>ep055-2026-06-07</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_055.jpg"/>
       <itunes:episode>055</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
