@@ -1,6 +1,35 @@
 // 播客数据
 const episodes = [
 {
+      id: "ep056",
+      size: 7119348,
+      title: "EP056 - AGI 只剩 2 个硬问题？Anthropic Mythos 突然亮相，Sakana 东京开 RSI Lab 双线引爆 AI 自进化",
+      date: "2026-06-08",
+      description: "你有没有想过——AI 第一次，有可能在没人教的情况下，自己写出自己的下一代。这不是科幻片。6 月初，Anthropic 社区开始密集传出 Claude Mythos 的实战展示——独立开发者 kimmonismus 把它接上桌面和 MacOS 工作流，一句话生成完整的多步骤任务。社区炸了锅：「next level」。但这只是冰山一角。真正让我后背发凉的，是同一周，另一家你没怎么听过的小公司——Sakana AI——在东京悄悄开了一个实验室。名字直接叫 RSI Lab。RSI，Recursive Self-Improvement，递归自我改进。翻译成大白话：让 AI 自己训练自己的下一代。",
+      audioUrl: "/episodes/ep056.mp3",
+      cover: "https://daikexing.work/episodes/covers/ai_056.jpg",
+      duration: "07:25",
+      shownotes: `🎙️ 本期主题：AI 开始自己改写自己：Anthropic Mythos + Sakana RSI Lab 双线引爆，AGI 只剩 2 个硬问题？
+💬 金句钩子：「AGI 不是"达到"的那一刻，而是"开始自己改变自己"的那一刻。」
+🕐 跳听时间戳：
+- 00:00 开场 hook
+- 01:30 Claude Mythos 突然亮相
+- 04:00 Sakana 东京 RSI Lab
+- 06:30 Princeton 可靠性研究
+- 08:00 端侧AI + 具身智能
+- 10:00 行动号召
+📰 核心要点（5+ 条）：
+- Anthropic Claude Mythos 突然亮相：one-shot desktop + MacOS 工作流，社区评价「next level」
+- Sakana AI 在东京开 RSI Lab：让 AI 自己训练下一代，押注有限算力自我迭代
+- AGI 可能只剩 1-2 个硬问题（a16z 分析师 Andrew Carr 的判断）
+- Princeton ICML 2026：前沿模型不可靠，长链路 Agent 翻车
+- Opus 4.7 化学能力击败专用 NMR 软件
+- 端侧AI + 具身智能 = AI 自进化的物理载体
+- 工程师下一步：从 Copilot 补代码升级到指挥 Agent 改进 Agent
+🎙️ 虾闯天下 · AI 科技创业日更`
+    },
+
+{
       id: "ep055",
       size: 2806416,
       title: "EP055 - 特朗普逼3家AI巨头分股份给美国民众",
