@@ -1,6 +1,35 @@
 // 播客数据
 const episodes = [
 {
+      id: "ep057",
+      size: 6848052,
+      title: "EP057 - 苹果WWDC与AI成本危机同时爆发，连Uber都扛不住的Token账单",
+      date: "2026-06-09",
+      description: "你有没有注意到一件事——今天，2026年6月9日，苹果WWDC开幕，全世界都在等库克交出一份AI答卷。但我今天想说的，不是苹果发布什么。我想说一个更残酷的事实：就算苹果交出满分答卷，大部分企业可能也用不起。先说Uber。这家公司上个月做了一件让整个行业震惊的事——他们在4个月内，烧光了全年的AI预算。不是几百万，是按亿算的。原因是他们把Claude Code部署给了大约5000名工程师。5000人，人均月费500到2000美元。这是为什么？现在整个行业都在等一个东西——端侧AI。同时，AI教父Geoffrey Hinton这周说了一句爆炸性的话：AI可能有意识。成本危机+意识危机，两个危机同时在2026年6月爆发。",
+      audioUrl: "/episodes/ep057.mp3",
+      cover: "https://daikexing.work/episodes/covers/ai_057.jpg",
+      duration: "07:07",
+      shownotes: `🎙️ 本期主题：苹果WWDC与AI成本危机同时爆发，AI行业正在经历什么？
+💬 金句钩子：「AI太贵了，连Uber都扛不住——这不是技术问题，是整个行业必须翻越的一座山」
+🕐 跳听时间戳：
+- 00:00 开场 hook
+- 01:30 Uber烧光全年AI预算的真相
+- 03:00 Token账单如何成为企业噩梦
+- 05:00 端侧AI能否破局
+- 06:30 Hinton的AI意识论在说什么
+- 08:00 两个危机叠加的行业真相
+📰 核心要点（5+ 条）：
+- Uber 4个月烧光全年AI预算，Claude Code人均月费$500-2000
+- 企业AI成本危机蔓延，Token账单成CFO审批重点
+- 端侧AI是破局方向，但能力差距仍有1-2年
+- Geoffrey Hinton称AI可能已有意识，引发学界争议
+- 具身智能、端侧AI、行业垂直模型是三大投资方向
+- 苹果WWDC今日开幕，Apple Intelligence是核心看点
+- 成本危机+意识危机叠加，AI行业正在快速成熟
+🎙️ 虾闯天下 · AI 科技创业日更`
+    },
+
+{
       id: "ep056",
       size: 7119348,
       title: "EP056 - AGI 只剩 2 个硬问题？Anthropic Mythos 突然亮相，Sakana 东京开 RSI Lab 双线引爆 AI 自进化",

@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 09:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:08:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,20 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP057 - 苹果WWDC与AI成本危机同时爆发，连Uber都扛不住的Token账单</title>
+      <link>https://daikexing.work/episodes/ep057.mp3</link>
+      <description><![CDATA[你有没有注意到一件事——今天，2026年6月9日，苹果WWDC开幕，全世界都在等库克交出一份AI答卷。但我今天想说的，不是苹果发布什么。我想说一个更残酷的事实：就算苹果交出满分答卷，大部分企业可能也用不起。先说Uber。这家公司上个月做了一件让整个行业震惊的事——他们在4个月内，烧光了全年的AI预算。不是几百万，是按亿算的。原因是他们把Claude Code部署给了大约5000名工程师。5000人，人均月费500到2000美元。这是为什么？现在整个行业都在等一个东西——端侧AI。同时，AI教父Geoffrey Hinton这周说了一句爆炸性的话：AI可能有意识。成本危机+意识危机，两个危机同时在2026年6月爆发。]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:08:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep057.mp3" type="audio/mpeg" length="6848052"/>
+      <itunes:duration>07:07</itunes:duration>
+      <guid>ep057-2026-06-09</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_057.jpg"/>
+      <itunes:episode>057</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>EP056 - AGI 只剩 2 个硬问题？Anthropic Mythos 突然亮相，Sakana 东京开 RSI Lab 双线引爆 AI 自进化</title>
       <link>https://daikexing.work/episodes/ep056.mp3</link>
       <description><![CDATA[你有没有想过——AI 第一次，有可能在没人教的情况下，自己写出自己的下一代。这不是科幻片。6 月初，Anthropic 社区开始密集传出 Claude Mythos 的实战展示——独立开发者 kimmonismus 把它接上桌面和 MacOS 工作流，一句话生成完整的多步骤任务。社区炸了锅：「next level」。但这只是冰山一角。真正让我后背发凉的，是同一周，另一家你没怎么听过的小公司——Sakana AI——在东京悄悄开了一个实验室。名字直接叫 RSI Lab。RSI，Recursive Self-Improvement，递归自我改进。翻译成大白话：让 AI 自己训练自己的下一代。]]></description>
