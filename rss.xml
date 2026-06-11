@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 09:11:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,19 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP059 - OpenAI 10GW算力大跃进内幕：囤下一座城市的电，押注AI的终局</title>
+      <link>https://daikexing.work/episodes/ep059.mp3</link>
+      <description><![CDATA[你有没有注意到一个数字——10GW？先说清楚这是什么概念。一座中型城市的全部用电量，大约就是这个数字。上周，OpenAI被曝正在洽谈租用俄亥俄州一处容量高达10GW的数据中心，租约一签就是20年。这则消息淹没在特朗普关税大战、伊朗局势、WWDC发布会的新闻里。但我必须告诉你：如果这条新闻在一年后被证明是AI行业最重要的转折点，你不要惊讶。英伟达已经介入为这个项目提供资金支持。]]></description>
+      <pubDate>Thu, 11 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep059.mp3" type="audio/mpeg" length="6057204"/>
+      <itunes:duration>06:18</itunes:duration>
+      <guid>ep059-2026-06-11</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_059.jpg"/>
+      <itunes:episode>059</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP058 - Anthropic警告AI自我进化危机：9650亿AI公司IPO前喊救命</title>
       <link>https://daikexing.work/episodes/ep058.mp3</link>
       <description><![CDATA[你有没有想过一个问题——一家AI公司，能贵到什么程度？答案是：9650亿美元。而且这家公司的最新动作，不是忙着赚钱，而是满世界喊"救命，AI要失控了"。上周，Anthropic发布报告《当AI构建自身》称：到2028年底，AI有60%概率具备递归式自我改进能力。截至2026年5月，Anthropic代码库超80%由Claude生成，工程师人均产能是2021-2025年的8倍。同一天，Anthropic向SEC秘密提交S-1启动IPO。刹车和油门同时被踩下去——AI正在从"工具"变成"权力"。]]></description>
