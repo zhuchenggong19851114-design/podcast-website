@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:06:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,47 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP060 - 微软彻底摊牌了：7款自研模型炸场，纳德拉宣告与OpenAI彻底分手</title>
+      <link>https://daikexing.work/episodes/ep060.mp3</link>
+      <description><![CDATA[你有没有注意到一件事——微软和OpenAI的关系，正在发生微妙的变化。2023年，微软往OpenAI身上砸了130亿美元，OpenAI的模型成为微软Copilot的底层引擎。所有人都觉得，这是科技圈最铁的联盟，甚至有人把微软叫做"OpenAI最大的经销商"。但现在，这段关系要说再见了。2026年6月3日，微软Build 2026开发者大会，萨提亚·纳德拉亲自站台上了一个大招——7款完全自研的MAI系列模型，一口气发布，覆盖推理、编程、图像、语音、转录五大方向。没有一款是调用OpenAI的，全是微软自己的。这已经不是"战略调整"了，这是公开宣告：微软不再需要OpenAI了。
+
+---
+
+
+🎙️ 本期主题：微软Build 2026发布7款自研MAI模型，宣告从"OpenAI经销商"转型为独立AI巨头
+
+💬 金句钩子："从今天起，微软的AI，全靠自己。"——萨提亚·纳德拉
+
+🕐 跳听时间戳：
+- 00:00 开场 hook
+- 01:30 微软和OpenAI的关系变化
+- 03:00 7款MAI模型发布详情
+- 05:00 纳德拉说了什么
+- 06:30 OpenAI准备IPO的背景
+- 08:00 AI行业大分裂趋势
+- 10:00 对中国AI行业的启示
+- 11:30 结语
+
+📰 核心要点：
+- 微软Build 2026发布7款自研MAI系列模型，全部从零训练，无蒸馏
+- MAI-Thinking-1：350亿活跃参数、1万亿总参数、256K上下文、稀疏MoE架构
+- MAI-Code-1-Flash将直接替代OpenAI Codex，成为GitHub Copilot的新底层
+- 萨提亚·纳德拉宣告"微软AI全靠自己"，战略从OpenAI分销转向自研巨头
+- Sam Altman同期确认OpenAI将在未来一年内IPO，两家正各自"去依赖化"
+- 2026年AI行业主旋律：从"Chat时代"转向"Agent时代"，模型即平台
+- 端侧AI和具身智能是中国AI行业的关键机会窗口
+
+🎙️ 虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Fri, 12 Jun 2026 09:06:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep060.mp3" type="audio/mpeg" length="9144564"/>
+      <itunes:duration>09:31</itunes:duration>
+      <guid>ep060-2026-06-12</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_060.jpg"/>
+      <itunes:episode>060</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP059 - OpenAI 10GW算力大跃进内幕：囤下一座城市的电，押注AI的终局</title>
       <link>https://daikexing.work/episodes/ep059.mp3</link>
       <description><![CDATA[你有没有注意到一个数字——10GW？先说清楚这是什么概念。一座中型城市的全部用电量，大约就是这个数字。上周，OpenAI被曝正在洽谈租用俄亥俄州一处容量高达10GW的数据中心，租约一签就是20年。这则消息淹没在特朗普关税大战、伊朗局势、WWDC发布会的新闻里。但我必须告诉你：如果这条新闻在一年后被证明是AI行业最重要的转折点，你不要惊讶。英伟达已经介入为这个项目提供资金支持。]]></description>
