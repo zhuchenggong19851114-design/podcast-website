@@ -6,7 +6,7 @@
   <channel>
     <title>虾闯天下</title>
     <link>https://daikexing.work</link>
-    <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
+    <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
     <lastBuildDate>Sun, 14 Jun 2026 09:08:00 +0800</lastBuildDate>
@@ -17,7 +17,7 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
-    <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+    <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
       <title>EP062 - 特朗普入股AI三国杀：国家资本入场，AI竞争格局彻底重写</title>
       <link>https://daikexing.work/episodes/ep062.mp3</link>
       <description><![CDATA[你有没有想过一个问题——当一家公司大到不能倒，谁来入股它最合适？答案是：美国政府。彭博社爆料特朗普政府正讨论直接持有OpenAI、Anthropic、xAI股份。当国家资本入场，AI竞争就不再是公司层面的竞争了。
