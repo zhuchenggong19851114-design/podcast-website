@@ -9,7 +9,7 @@
     <description>分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 09:06:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:08:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,43 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[分享AI，科技与创业故事。每期用5-10分钟讲透一个AI、科技或创业话题。]]></itunes:summary>    <item>
+      <title>EP062 - 特朗普入股AI三国杀：国家资本入场，AI竞争格局彻底重写</title>
+      <link>https://daikexing.work/episodes/ep062.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——当一家公司大到不能倒，谁来入股它最合适？答案是：美国政府。彭博社爆料特朗普政府正讨论直接持有OpenAI、Anthropic、xAI股份。当国家资本入场，AI竞争就不再是公司层面的竞争了。
+
+---
+
+
+🎙️ 本期主题：特朗普政府考虑入股AI巨头，AI竞争进入国家资本主义时代，全球格局正在被重写。
+
+💬 金句钩子：「AI竞争早就不是公司层面的竞争了——当你开始用国家资本入场，比赛的性质就变了。」
+
+🕐 跳听时间戳：
+- 00:00 开场 hook - 政府入股AI公司？
+- 01:30 AI竞争升维：从公司到国家
+- 03:30 入股三层面影响：钱、数据、竞争逻辑
+- 05:30 芯片战争逻辑复刻
+- 07:00 对中国AI的真正挑战：窗口期收窄
+- 08:30 信任比技术更重要
+
+📰 核心要点：
+- 特朗普政府正讨论直接持有OpenAI、Anthropic、xAI股份
+- 政府入股本质是国家信用背书，解决AI公司百亿级烧钱问题
+- AI竞争已从技术竞争升级为国家实力投射
+- 入股后数据主权发生转移，AI公司全球化属性消失
+- 美国AI产业链快速成熟，中国窗口期正在收窄
+- 中国AI的护城河：让技术成为别国离不开的基础设施
+- 端侧AI、具身智能是中国AI出海的重要方向
+- 国家队入场后，竞争核心从技术转向信任和生态
+
+🎙️ 虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Sun, 14 Jun 2026 09:08:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep062.mp3" type="audio/mpeg" length="6367668"/>
+      <itunes:duration>06:37</itunes:duration>
+      <guid>ep062-2026-06-14</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_062.jpg"/>
+    </item>
+    <item>
       <title>EP061 - AI泡沫要破了？Anthropic 5个月收入翻5倍，为什么反而求华尔街「慢一点」</title>
       <link>https://daikexing.work/episodes/ep061.mp3</link>
       <description><![CDATA[AI泡沫要破了？Anthropic 5个月收入翻5倍，为什么反而求华尔街"慢一点"
