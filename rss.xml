@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 09:08:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:09:34 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,31 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP063 - 谷歌DeepMind 1亿AGI造神内幕：算力派vs算法派的世纪分歧</title>
+      <link>https://daikexing.work/episodes/ep063.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——人类要造出一个比所有人都聪明的AI，需要多少个"人类级别"的AI？答案是：1亿个。谷歌DeepMind发布57页《从AGI到ASI》报告，明确提出1亿个AGI是通往ASI的必要条件。这份报告彻底把"AGI到底怎么定义"、"ASI到底能不能实现"、"算力到底是不是唯一路径"三个问题摆到了台面上。
+
+---
+
+
+🎙️ 本期主题：DeepMind ASI报告揭示AGI到ASI的六道瓶颈与算力路线之争
+💬 金句钩子：「通往ASI的路上，需要1亿个人类水平的AI——这是谷歌的预测，还是算力玩家的集体幻觉？」
+📰 核心要点（5+ 条）：
+- 谷歌DeepMind发布57页《从AGI到ASI》报告，提出六道瓶颈理论
+- 报告核心：1亿个AGI是通往ASI的必要条件
+- AGI定义比行业预期更宽松——能力已到，成本和可靠性是最后障碍
+- 算力派 vs 算法派分歧加剧，边际效益递减已成行业隐忧
+- 具身智能成确定性趋势，工信部联合国资委推进人形机器人实景训练专项行动
+- 端侧AI加速落地：Flourish完成5亿美元融资，估值25亿美元
+- B300出口管制影响持续发酵，国产AI芯片替代加速
+🎙️ 虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Mon, 15 Jun 2026 09:09:34 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep063.mp3" type="audio/mpeg" length="4354548"/>
+      <itunes:duration>04:32</itunes:duration>
+      <guid>ep063-2026-06-15</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_063.jpg"/>
+    </item>
+    <item>
       <title>EP062 - 特朗普入股AI三国杀：国家资本入场，AI竞争格局彻底重写</title>
       <link>https://daikexing.work/episodes/ep062.mp3</link>
       <description><![CDATA[你有没有想过一个问题——当一家公司大到不能倒，谁来入股它最合适？答案是：美国政府。彭博社爆料特朗普政府正讨论直接持有OpenAI、Anthropic、xAI股份。当国家资本入场，AI竞争就不再是公司层面的竞争了。
