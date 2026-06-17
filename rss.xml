@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 09:09:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:45:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,34 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP064 - 疯了！横跨三代技术栈的芯片老兵，为什么抛弃OpenAI投奔Anthropic？</title>
+      <link>https://daikexing.work/episodes/ep064.mp3</link>
+      <description><![CDATA[你知道吗，OpenAI最缺的不是钱，是一个手里握着三代不同技术栈的芯片老兵。上周，AI行业爆出一则被大多数人忽略的人事新闻——一位横跨特斯拉自研芯片、谷歌TPU、SpaceX星链硬件三大硬核技术栈的OpenAI芯片核心人物，正式宣布加入Anthropic。
+
+---
+
+
+🎙️ 本期主题：芯片老兵跳槽Anthropic背后，AI行业从模型竞争走向全栈竞争的重大转折
+💬 金句钩子：「这位横跨三代的芯片老兵，不是被高薪挖走的，他是看准了时机——Anthropic正在从一家模型公司向一家全栈AI公司转型」
+📰 核心要点（5+ 条）：
+- Anthropic招募横跨特斯拉、谷歌TPU、SpaceX三代的芯片架构师，补足定制芯片设计核心能力
+- 芯片自研是AI公司从"买卡"走向"造芯"的关键一跃，关乎成本控制和供应链安全
+- OpenAI提出"能力溢出"概念，模型强不等于应用强，Agent和端侧推理才是下半场的胜负手
+- 英伟达开源Cosmos3物理AI大模型，具身智能门槛消失，全球开发者进入同一战场
+- GPT-5.6有望本月发布，上下文窗口达150万tokens，大模型军备竞赛持续升级
+- 微软、OpenAI、Anthropic全部入局芯片自研，AI行业从模型层竞争转向全栈竞争
+- 这位芯片老兵的选择折射行业趋势：在正确的时间加入正确的公司，比在大厂熬资历更重要
+🎙️ 虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Wed, 17 Jun 2026 09:45:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep064.mp3" type="audio/mpeg" length="4047540"/>
+      <itunes:duration>04:12</itunes:duration>
+      <guid>ep064-2026-06-17</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_064.jpg"/>
+      <itunes:episode>064</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP063 - 谷歌DeepMind 1亿AGI造神内幕：算力派vs算法派的世纪分歧</title>
       <link>https://daikexing.work/episodes/ep063.mp3</link>
       <description><![CDATA[你有没有想过一个问题——人类要造出一个比所有人都聪明的AI，需要多少个"人类级别"的AI？答案是：1亿个。谷歌DeepMind发布57页《从AGI到ASI》报告，明确提出1亿个AGI是通往ASI的必要条件。这份报告彻底把"AGI到底怎么定义"、"ASI到底能不能实现"、"算力到底是不是唯一路径"三个问题摆到了台面上。

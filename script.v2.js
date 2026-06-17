@@ -1,6 +1,28 @@
 // 播客数据
 const episodes = [
 {
+    id: "ep064",
+    size: 4047540,
+    title: "EP064 - 疯了！横跨三代技术栈的芯片老兵，为什么抛弃OpenAI投奔Anthropic？",
+    date: "2026-06-17",
+    description: "你知道吗，OpenAI最缺的不是钱，是一个手里握着三代不同技术栈的芯片老兵。上周，AI行业爆出一则被大多数人忽略的人事新闻——一位横跨特斯拉自研芯片、谷歌TPU、SpaceX星链硬件三大硬核技术栈的OpenAI芯片核心人物，正式宣布加入Anthropic。",
+    audioUrl: "/episodes/ep064.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_064.jpg",
+    duration: "04:12",
+    shownotes: `
+🎙️ 本期主题：芯片老兵跳槽Anthropic背后，AI行业从模型竞争走向全栈竞争的重大转折
+💬 金句钩子：「这位横跨三代的芯片老兵，不是被高薪挖走的，他是看准了时机——Anthropic正在从一家模型公司向一家全栈AI公司转型」
+📰 核心要点（5+ 条）：
+- Anthropic招募横跨特斯拉、谷歌TPU、SpaceX三代的芯片架构师，补足定制芯片设计核心能力
+- 芯片自研是AI公司从"买卡"走向"造芯"的关键一跃，关乎成本控制和供应链安全
+- OpenAI提出"能力溢出"概念，模型强不等于应用强，Agent和端侧推理才是下半场的胜负手
+- 英伟达开源Cosmos3物理AI大模型，具身智能门槛消失，全球开发者进入同一战场
+- GPT-5.6有望本月发布，上下文窗口达150万tokens，大模型军备竞赛持续升级
+- 微软、OpenAI、Anthropic全部入局芯片自研，AI行业从模型层竞争转向全栈竞争
+- 这位芯片老兵的选择折射行业趋势：在正确的时间加入正确的公司，比在大厂熬资历更重要
+🎙️ 虾闯天下 · AI 科技创业日更`
+  },
+{
     id: "ep063",
     size: 4354548,
     title: "EP063 - 谷歌DeepMind 1亿AGI造神内幕：算力派vs算法派的世纪分歧",
