@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 09:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:08:33 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -17,7 +17,36 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
-    <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+    <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>
+    <item>
+      <title>EP065 - G7峰会AI首脑会议：AI治理升级为全球最高政治议程</title>
+      <link>https://daikexing.work/episodes/ep065.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——G7峰会，这种由全球最有权势的七国领导人参加的老牌政治会议，什么时候开始，AI公司CEO成了主角？答案是：就是现在。上周在日本举行的G7峰会，OpenAI的Sam Altman、Anthropic的Dario Amodei、Google DeepMind的Demis Hassabis，这三个AI行业最有权势的人，坐到了原本只属于财政部长和央行行长的谈判桌前。这不是巧合，这是AI行业的登堂入室。
+
+---
+
+🎙️ 本期主题：G7峰会为何把AI CEO请上台，AI全球治理格局如何重塑
+💬 金句钩子：「AI不再是一个可选项，而是一个必须被管理的系统性力量」
+📰 核心要点：
+- G7峰会首次邀请AI公司CEO（Sam Altman、Dario Amodei、Demis Hassabis），AI治理升级为全球最高政治议程
+- 美国推出AI安全合作方案，要求AI公司自愿分享前沿模型网络安全信息，批评者称其为"政府后门"
+- SpaceX以1.77万亿美元估值完成史上最大IPO，算力基础设施成核心价值锚点
+- Anthropic签署1GW数据中心租约，寻求Google联合设计芯片，OpenAI与Visa合作实现AI Agent自主支付
+- Agentic AI渗透金融系统引发监管警觉，G7讨论AI金融风险监管框架
+- 美国限制外国用户访问最先进AI平台，AI出口管制从硬件延伸至软件
+- 端侧AI和具身智能加速落地：人形机器人、自动驾驶成下一波平台级机会
+- AI监管合规将成新赛道：G7后全球AI治理框架催生审计、认证、安全工具需求
+🎙️ 虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Thu, 18 Jun 2026 09:08:33 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep065.mp3" type="audio/mpeg" length="6580788"/>
+      <itunes:duration>06:51</itunes:duration>
+      <guid>ep065-2026-06-18</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_065.jpg"/>
+      <itunes:episode>065</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>EP064 - 疯了！横跨三代技术栈的芯片老兵，为什么抛弃OpenAI投奔Anthropic？</title>
       <link>https://daikexing.work/episodes/ep064.mp3</link>
       <description><![CDATA[你知道吗，OpenAI最缺的不是钱，是一个手里握着三代不同技术栈的芯片老兵。上周，AI行业爆出一则被大多数人忽略的人事新闻——一位横跨特斯拉自研芯片、谷歌TPU、SpaceX星链硬件三大硬核技术栈的OpenAI芯片核心人物，正式宣布加入Anthropic。
