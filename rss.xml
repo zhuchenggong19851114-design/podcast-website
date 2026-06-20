@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,33 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP067 - SpaceX收购Cursor内幕：1.5万亿参数AI大模型背后的马斯克万亿算盘</title>
+      <link>https://daikexing.work/episodes/ep067.mp3</link>
+      <description><![CDATA[你有没有想过这个问题——一家AI编程公司，能贵到什么地步？答案是：能被马斯克收购，成为他万亿参数AI野心的一部分。就在今天凌晨，AI圈被一条消息炸醒了。SpaceX宣布正式收购美国明星AI编程独角兽Cursor。这不是普通的收购案，Cursor的估值早就是天文数字，而SpaceX给出的条件，是让这家公司彻底成为自己AI版图的一颗棋子。
+
+---
+
+🎙️ 本期主题：SpaceX收购Cursor，进军通用AI赛道，1.5万亿参数模型背后是马斯克的什么算盘？
+金句钩子：「马斯克从来不按套路出牌。火箭能回收，AI也一样能。」
+核心要点（5+ 条）：
+- SpaceX以全股票交易方式收购AI编程独角兽Cursor，Cursor成为SpaceX全资子公司
+- Cursor首届大会Compile上剧透新模型：1.5万亿参数、从零在超10万块GPU上训练的通用智能模型，训练目标已完成，未来几周内正式发布
+- 马斯克此前已收购Scale AI，完善数据标注基础设施，AI拼图持续扩大
+- Cursor模型并非专攻编程，而是通用智能，覆盖多模态感知与认知能力
+- 黄仁勋此前表示"AI正在抹平技术鸿沟"，AI竞争正从模型能力转向业务闭环
+- Anthropic企业订阅率升至41%超越OpenAI，AI行业格局持续分化
+- 国内具身智能赛道持续火热，银河通用推出全球首个机器人通用小脑模型AstraBrain-WBC 0.5
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Sat, 20 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep067.mp3" type="audio/mpeg" length="3138612"/>
+      <itunes:duration>03:16</itunes:duration>
+      <guid>ep067-2026-06-20</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_067.jpg"/>
+      <itunes:episode>067</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP066 - AI文明崩盘概率：Anthropic CEO罕见发出10%-25%崩塌警告</title>
       <link>https://daikexing.work/episodes/ep066.mp3</link>
       <description><![CDATA[你有没有想过一个问题——如果AI真的失控了，我们能撑多久？上周，Anthropic CEO Dario Amodei接受Bloomberg长达69分钟专访，给出了一个让整个AI圈失眠的答案：AI导致人类文明崩塌的概率，在10%到25%之间。注意，他说的是文明崩塌，不是模型报错，是人类这个物种可能出大问题。

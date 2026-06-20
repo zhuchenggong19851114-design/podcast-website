@@ -1,6 +1,28 @@
 // 播客数据
 const episodes = [
 {
+    id: "ep067",
+    size: 3138612,
+    title: "EP067 - SpaceX收购Cursor内幕：1.5万亿参数AI大模型背后的马斯克万亿算盘",
+    date: "2026-06-20",
+    description: "你有没有想过这个问题——一家AI编程公司，能贵到什么地步？答案是：能被马斯克收购，成为他万亿参数AI野心的一部分。就在今天凌晨，AI圈被一条消息炸醒了。SpaceX宣布正式收购美国明星AI编程独角兽Cursor。这不是普通的收购案，Cursor的估值早就是天文数字，而SpaceX给出的条件，是让这家公司彻底成为自己AI版图的一颗棋子。",
+    audioUrl: "/episodes/ep067.mp3",
+    cover: "https://daikexing.work/episodes/covers/ai_067.jpg",
+    duration: "03:16",
+    shownotes: `
+🎙️ 本期主题：SpaceX收购Cursor，进军通用AI赛道，1.5万亿参数模型背后是马斯克的什么算盘？
+金句钩子：「马斯克从来不按套路出牌。火箭能回收，AI也一样能。」
+核心要点（5+ 条）：
+- SpaceX以全股票交易方式收购AI编程独角兽Cursor，Cursor成为SpaceX全资子公司
+- Cursor首届大会Compile上剧透新模型：1.5万亿参数、从零在超10万块GPU上训练的通用智能模型，训练目标已完成，未来几周内正式发布
+- 马斯克此前已收购Scale AI，完善数据标注基础设施，AI拼图持续扩大
+- Cursor模型并非专攻编程，而是通用智能，覆盖多模态感知与认知能力
+- 黄仁勋此前表示"AI正在抹平技术鸿沟"，AI竞争正从模型能力转向业务闭环
+- Anthropic企业订阅率升至41%超越OpenAI，AI行业格局持续分化
+- 国内具身智能赛道持续火热，银河通用推出全球首个机器人通用小脑模型AstraBrain-WBC 0.5
+虾闯天下 · AI 科技创业日更`
+  },
+{
     id: "ep066",
     size: 6058356,
     title: "EP066 - AI文明崩盘概率：Anthropic CEO罕见发出10%-25%崩塌警告",
