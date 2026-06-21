@@ -9,15 +9,41 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 20 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
-    <itunes:image href="https://daikexing.work/episodes/covers/channel_cover.jpg"/>
+    <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP068 - 马斯克疯了2026技术奇点论炸场</title>
+      <link>https://daikexing.work/episodes/ep068.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——人类距离被AI取代，还有多远？有人说十年，有人说五年，但马斯克的答案是：明年。上周，在得克萨斯州特斯拉超级工厂那座占地1150万平方英尺的庞然大物里，马斯克进行了一场重磅对话。他的核心结论只有一句话：我们已经处于"技术奇点"的边缘，AGI将于2026年真正落地。
+
+---
+
+🎙️ 本期主题：马斯克2026 AGI时间表解析，AI取代白领倒计时开始
+金句钩子：「马斯克疯了吗？他的答案是：明年。AGI来了，不是2027，不是2028，就是2026。」
+核心要点（5+ 条）：
+- 马斯克称人类已处于"技术奇点"边缘，AGI将于2026年正式落地
+- 马斯克提出"普遍高收入"概念，认为AI创造的财富足以让所有人过上中产以上生活
+- 他预言白领和外科医生将被AI取代，变革速度超过所有人预期
+- 马斯克坦承中国能源基建遥遥领先，美国必须大规模扩张太阳能才能跟上算力需求
+- AGI技术层面已具备条件，真正的挑战是财富分配的政治问题
+- 马斯克的愿景是让人类从重复劳动中解放，去探索宇宙和追求长寿
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Sun, 21 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep068.mp3" type="audio/mpeg" length="4653492"/>
+      <itunes:duration>04:51</itunes:duration>
+      <guid>ep068-2026-06-21</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_068.jpg"/>
+      <itunes:episode>068</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP067 - SpaceX收购Cursor内幕：1.5万亿参数AI大模型背后的马斯克万亿算盘</title>
       <link>https://daikexing.work/episodes/ep067.mp3</link>
       <description><![CDATA[你有没有想过这个问题——一家AI编程公司，能贵到什么地步？答案是：能被马斯克收购，成为他万亿参数AI野心的一部分。就在今天凌晨，AI圈被一条消息炸醒了。SpaceX宣布正式收购美国明星AI编程独角兽Cursor。这不是普通的收购案，Cursor的估值早就是天文数字，而SpaceX给出的条件，是让这家公司彻底成为自己AI版图的一颗棋子。
