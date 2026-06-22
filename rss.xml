@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:20:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,39 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP069 - 博士AI抢发事件：学术评价体系正在被AI撕开一道口子</title>
+      <link>https://daikexing.work/episodes/ep069.mp3</link>
+      <description><![CDATA[你有没有想过，一个博士生花两年做的研究，能被AI在五天内截胡？上周，全球学术圈被一条新闻刷屏：卡内基梅隆大学一位名叫Sidharth Hariharan的博士生，耗时两年钻研一个高难度数学命题，眼看就要完成形式化证明，结果被一家叫Gauss的硅谷AI初创公司，仅用五天就抢先发表了相同成果。
+
+---
+
+🎙️ 本期主题：AI抢发事件背后，学术评价体系正在被重写
+金句钩子："当AI能在五天内完成两年的工作时，'谁第一个解决'已经不能反映任何人类智识上的努力了。"
+完整摘要（3句）：
+- 卡内基梅隆大学博士生Sidharth Hariharan耗时两年完成的数学研究，被硅谷AI初创公司Gauss仅用五天抢先发表，暴露了学术"首发优先"评价体系的深层脆弱性
+- 陶哲轩等顶尖学者警告，若继续执着于"谁第一个解决"，衡量标准将与真实进步脱钩
+- 面对AI对知识生产规则的冲击，科研工作者需要重新思考核心优势：提出正确问题的能力
+
+核心要点（7条）：
+- 卡内基梅隆博士两年研究被AI初创公司Gauss五天截胡，消耗超10万美元算力
+- 学术"首发优先"规则在AI时代已失效——AI能在极短时间内生成研究成果
+- 陶哲轩警告：继续执着"谁第一个解决"，衡量标准将与真实进步脱钩
+- 整个学术评价体系需要被重新设计，核心问题是"衡量知识贡献的尺度应该是什么"
+- 哈里哈兰从崩溃到转型AI实习的选择，代表了部分科研工作者的现实应对路径
+- 未来最稀缺的能力是提出正确的问题，而非解决问题——这是人类在AI时代的核心优势
+- 这不仅是学术界的变革，而是知识工作范式转换的开始
+
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Mon, 22 Jun 2026 10:20:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep069.mp3" type="audio/mpeg" length="4059060"/>
+      <itunes:duration>04:14</itunes:duration>
+      <guid>ep069-2026-06-22</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_069.jpg"/>
+      <itunes:episode>069</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP068 - 马斯克疯了2026技术奇点论炸场</title>
       <link>https://daikexing.work/episodes/ep068.mp3</link>
       <description><![CDATA[你有没有想过一个问题——人类距离被AI取代，还有多远？有人说十年，有人说五年，但马斯克的答案是：明年。上周，在得克萨斯州特斯拉超级工厂那座占地1150万平方英尺的庞然大物里，马斯克进行了一场重磅对话。他的核心结论只有一句话：我们已经处于"技术奇点"的边缘，AGI将于2026年真正落地。
