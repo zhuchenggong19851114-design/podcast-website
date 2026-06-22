@@ -957,5 +957,19 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>EP069 - 博士AI抢发事件：学术评价体系正在被AI撕开一道口子</title>
+      <link>https://daikexing.work/episodes/ep069.mp3</link>
+      <description><![CDATA[你有没有想过，一个博士生花两年做的研究，能被AI在五天内截胡？上周，全球学术圈被一条新闻刷屏：卡内基梅隆大学一位名叫Sidharth Hariharan的博士生，耗时两年钻研一个高难度数学命题，眼看就要完成形式化证明，结果被一家叫Gauss的硅谷AI初创公司，仅用五天就抢先发表了相同成果。]]></description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep069.mp3" type="audio/mpeg" length="4059060"/>
+      <itunes:duration>04:14</itunes:duration>
+      <guid>ep069-2026-06-22</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_069.jpg"/>
+      <itunes:episode>069</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
