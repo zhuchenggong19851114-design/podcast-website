@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 10:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:08:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,40 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP070 - 梁文锋为什么押注200亿</title>
+      <link>https://daikexing.work/episodes/ep070.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——一个人，愿意自掏腰包200亿，去押注一家公司？这不是科幻，这是真实发生的事。2026年6月16日，DeepSeek完成了公司成立以来首轮外部融资，规模约510亿元人民币，差不多70亿美元。投后估值，突破5000亿人民币。这个数字什么概念？比美团市值还高。放在五年前，没人敢想象一家中国AI公司能长到这么大。
+
+---
+
+🎙️ 本期主题：DeepSeek完成510亿元首轮融资，梁文锋200亿领投背后的行业变局
+金句钩子：「梁文锋不是在买一家公司的股份，他是在押注一种技术路线的胜利。」
+完整摘要（3句）：
+- DeepSeek完成公司史上首轮外部融资，510亿元规模、投后估值突破5000亿元，创中国AI公司最大单轮融资纪录
+- 创始人梁文锋个人出资约200亿元领投，腾讯、宁德时代、京东、国家AI产业基金等豪华阵容跟投
+- 融资背后是DeepSeek从技术公司向生态公司转型的关键一步，中国AI竞争正式进入资本与生态全面博弈的新阶段
+
+核心要点（5+ 条）：
+- DeepSeek完成公司史上首轮外部融资，创始人梁文锋个人出资约200亿领投
+- 投后估值突破5000亿元，超过美团市值，创中国AI公司最大单轮融资纪录
+- 腾讯、宁德时代、京东、IDG资本、国家AI产业基金等豪华阵容跟投
+- DeepSeek技术路线核心优势：算法效率，训练成本仅为GPT-4的十分之一
+- 同周SpaceX以600亿美元收购Cursor，中美AI竞争在资本层面全面开打
+- 融资将用于扩建算力基础设施、加大模型研发、推员工股权激励
+- 这是DeepSeek从纯技术公司向生态公司转型的关键一步
+- 产业资本+金融资本+国家队三方合力模式，验证中国AI发展的独特路径
+
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Tue, 23 Jun 2026 09:08:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep070.mp3" type="audio/mpeg" length="4785396"/>
+      <itunes:duration>04:59</itunes:duration>
+      <guid>ep070-2026-06-23</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_070.jpg"/>
+      <itunes:episode>070</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP069 - 博士AI抢发事件：学术评价体系正在被AI撕开一道口子</title>
       <link>https://daikexing.work/episodes/ep069.mp3</link>
       <description><![CDATA[你有没有想过，一个博士生花两年做的研究，能被AI在五天内截胡？上周，全球学术圈被一条新闻刷屏：卡内基梅隆大学一位名叫Sidharth Hariharan的博士生，耗时两年钻研一个高难度数学命题，眼看就要完成形式化证明，结果被一家叫Gauss的硅谷AI初创公司，仅用五天就抢先发表了相同成果。
