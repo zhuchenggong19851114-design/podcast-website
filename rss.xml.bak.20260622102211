@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 09:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,110 +18,6 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
-      <title>EP071 - 纳德拉凭什么挑战AI三巨头</title>
-      <link>https://daikexing.work/episodes/ep071.mp3</link>
-      <description><![CDATA[你有没有想过一个问题——全球最有钱的AI投资方，突然跳出来说AI太危险了，是种什么体验？上周，微软CEO萨提亚·纳德拉对《华尔街日报》说了一句让整个科技圈炸锅的话。他说：公众不会接受少数几家公司掌控最重要的AI模型、"垄断全球学习"的AI经济格局。他没有直接点名。但谁都知道，他说的是谁——OpenAI、Anthropic、谷歌。更有意思的是他接下来的话。他批评某些AI领袖"一边渲染白领工作要消失、AI可能是武器，一边拼命建数据中心"的双标做法。
-
----
-
-🎙️ 本期主题：微软从AI金主到挑战者：纳德拉警告背后的权力博弈
-金句钩子："你不能一边说这东西可能是武器，一边用尽一切资源建数据中心。"
-完整摘要（3句）：
-- 微软CEO纳德拉警告AI权力过度集中，但微软本身是OpenAI最大投资方，这种批评充满矛盾
-- 微软正从"最大支持者"转变为"最强竞争对手"，重新定位为"企业级中立AI操作层"
-- AI行业正从"技术军备竞赛"进入"应用生态战"，企业客户最关心的是成本和安全，而非谁最强
-
-Timeline（可选）：
-- [2026年6月22日] 纳德拉接受《华尔街日报》采访，警告AI权力过度集中
-- [2025年] 美国四大科技公司承诺AI基础设施投资3000亿美元
-- [2026年1月] 纳德拉在达沃斯录制播客，谈AI竞争不是零和博弈
-
-核心要点（5+条）：
-- 纳德拉警告AI权力集中在少数公司，但微软本身是最大的AI投资者
-- 微软正从OpenAI支持者变成竞争对手，战略重心转向"中立AI操作层"
-- 批评者和被批评者都在建数据中心，双标矛盾显而易见
-- AI进入应用扩散期，企业客户要的是成本效益和供应链安全
-- 微软拥有全球最大的企业客户基础，在应用生态战中有天然优势
-- 真正的"AI中立"从未存在过，每家都在争夺生态主导权
-
-虾闯天下 · AI 科技创业日更]]></description>
-      <pubDate>Tue, 23 Jun 2026 09:40:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep071.mp3" type="audio/mpeg" length="3158772"/>
-      <itunes:duration>03:17</itunes:duration>
-      <guid>ep071-2026-06-23</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_071.jpg"/>
-      <itunes:episode>071</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>EP070 - 梁文锋为什么押注200亿</title>
-      <link>https://daikexing.work/episodes/ep070.mp3</link>
-      <description><![CDATA[你有没有想过一个问题——一个人，愿意自掏腰包200亿，去押注一家公司？这不是科幻，这是真实发生的事。2026年6月16日，DeepSeek完成了公司成立以来首轮外部融资，规模约510亿元人民币，差不多70亿美元。投后估值，突破5000亿人民币。这个数字什么概念？比美团市值还高。放在五年前，没人敢想象一家中国AI公司能长到这么大。
-
----
-
-🎙️ 本期主题：DeepSeek完成510亿元首轮融资，梁文锋200亿领投背后的行业变局
-金句钩子：「梁文锋不是在买一家公司的股份，他是在押注一种技术路线的胜利。」
-完整摘要（3句）：
-- DeepSeek完成公司史上首轮外部融资，510亿元规模、投后估值突破5000亿元，创中国AI公司最大单轮融资纪录
-- 创始人梁文锋个人出资约200亿元领投，腾讯、宁德时代、京东、国家AI产业基金等豪华阵容跟投
-- 融资背后是DeepSeek从技术公司向生态公司转型的关键一步，中国AI竞争正式进入资本与生态全面博弈的新阶段
-
-核心要点（5+ 条）：
-- DeepSeek完成公司史上首轮外部融资，创始人梁文锋个人出资约200亿领投
-- 投后估值突破5000亿元，超过美团市值，创中国AI公司最大单轮融资纪录
-- 腾讯、宁德时代、京东、IDG资本、国家AI产业基金等豪华阵容跟投
-- DeepSeek技术路线核心优势：算法效率，训练成本仅为GPT-4的十分之一
-- 同周SpaceX以600亿美元收购Cursor，中美AI竞争在资本层面全面开打
-- 融资将用于扩建算力基础设施、加大模型研发、推员工股权激励
-- 这是DeepSeek从纯技术公司向生态公司转型的关键一步
-- 产业资本+金融资本+国家队三方合力模式，验证中国AI发展的独特路径
-
-虾闯天下 · AI 科技创业日更]]></description>
-      <pubDate>Tue, 23 Jun 2026 09:08:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep070.mp3" type="audio/mpeg" length="4785396"/>
-      <itunes:duration>04:59</itunes:duration>
-      <guid>ep070-2026-06-23</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_070.jpg"/>
-      <itunes:episode>070</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>EP069 - 博士AI抢发事件：学术评价体系正在被AI撕开一道口子</title>
-      <link>https://daikexing.work/episodes/ep069.mp3</link>
-      <description><![CDATA[你有没有想过，一个博士生花两年做的研究，能被AI在五天内截胡？上周，全球学术圈被一条新闻刷屏：卡内基梅隆大学一位名叫Sidharth Hariharan的博士生，耗时两年钻研一个高难度数学命题，眼看就要完成形式化证明，结果被一家叫Gauss的硅谷AI初创公司，仅用五天就抢先发表了相同成果。
-
----
-
-🎙️ 本期主题：AI抢发事件背后，学术评价体系正在被重写
-金句钩子："当AI能在五天内完成两年的工作时，'谁第一个解决'已经不能反映任何人类智识上的努力了。"
-完整摘要（3句）：
-- 卡内基梅隆大学博士生Sidharth Hariharan耗时两年完成的数学研究，被硅谷AI初创公司Gauss仅用五天抢先发表，暴露了学术"首发优先"评价体系的深层脆弱性
-- 陶哲轩等顶尖学者警告，若继续执着于"谁第一个解决"，衡量标准将与真实进步脱钩
-- 面对AI对知识生产规则的冲击，科研工作者需要重新思考核心优势：提出正确问题的能力
-
-核心要点（7条）：
-- 卡内基梅隆博士两年研究被AI初创公司Gauss五天截胡，消耗超10万美元算力
-- 学术"首发优先"规则在AI时代已失效——AI能在极短时间内生成研究成果
-- 陶哲轩警告：继续执着"谁第一个解决"，衡量标准将与真实进步脱钩
-- 整个学术评价体系需要被重新设计，核心问题是"衡量知识贡献的尺度应该是什么"
-- 哈里哈兰从崩溃到转型AI实习的选择，代表了部分科研工作者的现实应对路径
-- 未来最稀缺的能力是提出正确的问题，而非解决问题——这是人类在AI时代的核心优势
-- 这不仅是学术界的变革，而是知识工作范式转换的开始
-
-虾闯天下 · AI 科技创业日更]]></description>
-      <pubDate>Mon, 22 Jun 2026 10:20:00 +0800</pubDate>
-      <enclosure url="https://daikexing.work/episodes/ep069.mp3" type="audio/mpeg" length="4059060"/>
-      <itunes:duration>04:14</itunes:duration>
-      <guid>ep069-2026-06-22</guid>
-      <itunes:image href="https://daikexing.work/episodes/covers/ai_069.jpg"/>
-      <itunes:episode>069</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>EP068 - 马斯克疯了2026技术奇点论炸场</title>
       <link>https://daikexing.work/episodes/ep068.mp3</link>
       <description><![CDATA[你有没有想过一个问题——人类距离被AI取代，还有多远？有人说十年，有人说五年，但马斯克的答案是：明年。上周，在得克萨斯州特斯拉超级工厂那座占地1150万平方英尺的庞然大物里，马斯克进行了一场重磅对话。他的核心结论只有一句话：我们已经处于"技术奇点"的边缘，AGI将于2026年真正落地。
