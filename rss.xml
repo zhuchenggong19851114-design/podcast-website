@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 09:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,37 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP072 - 诺姆沙泽尔出走近3天谷歌单日蒸发1.6万亿背后AI人才大战变天了</title>
+      <link>https://daikexing.work/episodes/ep072.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——一家公司的市值，能在一天之内跌掉一个工商银行吗？答案是：能。而且这不是别人，是Alphabet，谷歌的母公司。6月22日这一天，Alphabet股价收跌超过5%，盘中最大跌幅超过7%，单日蒸发约2250亿美元，折合人民币1.6万亿元。什么概念？A股市值排名前十的公司，有几家一天的成交量都不到这个数。这是Alphabet公司历史上最大的单日市值损失。而触发这一切的原因，简单到让人倒吸一口凉气：短短三天，Google DeepMind失去了两位顶级AI科学家。这才是今天这期播客真正要聊的事情。
+
+---
+
+🎙️ 本期主题：谷歌三天内失去两位顶级AI科学家，单日蒸发1.6万亿市值，揭示AI时代人才战争与组织使命的根本矛盾。
+金句钩子：「谷歌现在不是在做AI，是在给整个行业培养CEO。」
+完整摘要（3句）：
+- 诺姆·沙泽尔（Transformer论文合著作者、MoE路线奠基人）和另一位顶级AI科学家三天内相继离开Google DeepMind，引发Alphabet单日市值蒸发1.6万亿元，创公司历史最大单日跌幅。
+- 谷歌人才流失的根本原因在于其广告公司基因与AI使命的结构性冲突——它既需要AI又害怕AI被过度投资会动摇广告现金流，导致真正有理想的研究者纷纷流向Anthropic和OpenAI。
+- 这次事件折射出一个更深趋势：AI研究正从大公司高度集中走向分布式竞争，顶级人才正在用脚投票选择一个更能实现自我价值的环境。
+核心要点（5+ 条）：
+- 诺姆·沙泽尔是Transformer论文合著作者、MoE路线核心奠基人、Gemini联合负责人，身份背书极强
+- Alphabet单日市值蒸发1.6万亿元（2250亿美元），是公司历史上最大单日跌幅
+- 谷歌核心问题：广告公司基因导致AI战略结构性矛盾，留不住理想主义研究者
+- AI人才正从谷歌加速流向Anthropic、OpenAI、xAI等纯AI公司
+- AI研究正在从“集中”走向“分布”，开源生态和云计算降低了大模型研究门槛
+- 顶级人才择主标准从“钱”转向“影响力加速度”——谁能让我更快改变世界
+- 对整个AI行业来说，人才战国时代正在开启，竞争将更加充分
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Wed, 24 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep072.mp3" type="audio/mpeg" length="750516"/>
+      <itunes:duration>00:46</itunes:duration>
+      <guid>ep072-2026-06-24</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_072.jpg"/>
+      <itunes:episode>072</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP071 - 纳德拉凭什么挑战AI三巨头</title>
       <link>https://daikexing.work/episodes/ep071.mp3</link>
       <description><![CDATA[你有没有想过一个问题——全球最有钱的AI投资方，突然跳出来说AI太危险了，是种什么体验？上周，微软CEO萨提亚·纳德拉对《华尔街日报》说了一句让整个科技圈炸锅的话。他说：公众不会接受少数几家公司掌控最重要的AI模型、"垄断全球学习"的AI经济格局。他没有直接点名。但谁都知道，他说的是谁——OpenAI、Anthropic、谷歌。更有意思的是他接下来的话。他批评某些AI领袖"一边渲染白领工作要消失、AI可能是武器，一边拼命建数据中心"的双标做法。
