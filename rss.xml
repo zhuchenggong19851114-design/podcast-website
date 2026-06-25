@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:04:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,42 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP073 - AI圈格局要变天了！Anthropic B端年收470亿美元反超OpenAI</title>
+      <link>https://daikexing.work/episodes/ep073.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——AI公司哪家最强？大部分人第一反应是OpenAI。但现实可能要打脸了。中信证券刚刚发布的研报数据：Anthropic 2026年5月ARR达到了470亿美元。注意，是470亿美元，不是47亿，是470亿。而且关键不是这个数字本身——关键是这个数字的来源结构：Anthropic在B端市场实现了对OpenAI的反超。
+
+---
+
+本期主题：Anthropic B端反超OpenAI，揭示AI行业从技术竞争转向生态竞争的关键拐点
+金句钩子：「当企业开始认真选AI工具的时候，品牌不重要，靠谱才重要。」
+完整摘要（3句）：
+- Anthropic 2026年5月ARR达470亿美元，在B端市场实现对OpenAI的反超，背后是企业级AI市场「安全优先」和「Coding生态」战略的成功
+- MWC上海开幕释放明确信号：AI从炫技时代进入落地时代，2.3万平米展区见证1300多家企业展示真实应用而非技术演示
+- 监管框架同步加速建立——欧盟AI法案全面执行、中国具身智能政策启动「作业模式」，AI落地与合规并行成为新常态
+Timeline（可选）：
+- [2026年6月24日] MWC上海开幕，AI落地成为核心主题
+- [2026年6月25日] 中信证券研报：Anthropic B端ARR 470亿美元反超OpenAI
+- [2026年6月] 欧盟AI法案全面执行，中国具身智能专项行动启动
+核心要点（5+ 条）：
+- Anthropic B端ARR 470亿美元反超OpenAI，代表企业级AI市场从「品牌优先」转向「安全稳定优先」
+- Coding生态是Anthropic B端突围的关键场景，程序员用脚投票选择更稳而非更酷的工具
+- MWC上海2.3万平米展区+1300家参展商，AI产业明确切换到「落地优先」模式
+- 工信部具身智能专项行动要求2026年底开启「作业模式」，端侧AI和具身智能进入规模化生产阶段
+- 苹果WWDC Siri十五年最大改版+Apple Intelligence升级，端侧AI能力边界快速收窄
+- 欧盟AI法案全面执行+中国AI Agent监管办法落地，合规成为企业级AI竞争新壁垒
+- Anthropic CEO公开评估AI文明崩塌概率10-25%，风险意识成为B端市场的差异化竞争力
+- AI格局正在从「技术领先」切换到「生态领先」+「合规领先」，真正的比赛在企业会议室里
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Thu, 25 Jun 2026 09:04:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep073.mp3" type="audio/mpeg" length="4814748"/>
+      <itunes:duration>05:01</itunes:duration>
+      <guid>ep073-2026-06-25</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_073.jpg"/>
+      <itunes:episode>073</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+        <item>
       <title>EP072 - 诺姆沙泽尔出走近3天谷歌单日蒸发1.6万亿背后AI人才大战变天了</title>
       <link>https://daikexing.work/episodes/ep072.mp3</link>
       <description><![CDATA[你有没有想过一个问题——一家公司的市值，能在一天之内跌掉一个工商银行吗？答案是：能。而且这不是别人，是Alphabet，谷歌的母公司。6月22日这一天，Alphabet股价收跌超过5%，盘中最大跌幅超过7%，单日蒸发约2250亿美元，折合人民币1.6万亿元。什么概念？A股市值排名前十的公司，有几家一天的成交量都不到这个数。这是Alphabet公司历史上最大的单日市值损失。而触发这一切的原因，简单到让人倒吸一口凉气：短短三天，Google DeepMind失去了两位顶级AI科学家。这才是今天这期播客真正要聊的事情。
