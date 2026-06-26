@@ -1,5 +1,16 @@
 [
   {
+    "id": "ep074",
+    "title": "EP074 - 从模型军备竞赛到协议标准化，AI行业的权力交接正在发生",
+    "date": "2026-06-26",
+    "description": "你有没有想过一个问题——AI公司之间，竞争的本质是什么？大部分人觉得是模型。谁的GPT更强，谁的Claude更准，谁的参数更多、谁跑分更高。这是在2023年到2025年这段时间里，整个行业的主旋律。但现在，这个逻辑正在悄悄发生变化。",
+    "audioUrl": "/episodes/ep074.mp3",
+    "cover": "https://daikexing.work/episodes/covers/ai_074.jpg",
+    "duration": "05:13",
+    "size": 1880952,
+    "shownotes": "🎙️ 本期主题：从模型军备竞赛到协议标准化，AI行业的权力交接正在发生\n金句钩子：「模型决定不了未来，谁掌握协议标准，谁就掌握AI时代的底层权力」\n完整摘要（3句）：\n- Google Cloud向Linux基金会捐赠A2A协议，标志着AI行业竞争从模型性能转向协议标准制定权\n- 苹果WWDC2026上库克谢幕，Siri深度集成Gemini，端侧AI落地加速，AI手机时代真正开始\n- Anthropic CEO Dario Amodei警告RSI风险，AI安全与合规能力正成为企业级市场的核心竞争维度\nTimeline（可选）：\n- [6月5日] NVIDIA发布Cosmos 3物理AI模型，COMPUTEX 2026收官\n- [6月10日] 苹果WWDC 2026开幕，库克谢幕，Siri重大升级\n- [6月15日] 欧盟AI法案全面生效，6月25日Google Cloud正式捐赠A2A协议给Linux基金会\n核心要点（5+ 条）：\n- A2A协议捐赠代表AI竞争从模型层转向协议层，Google提前占位标准制定者角色\n- 协议标准化遵循科技史规律：USB、HTTP等标准制定者的价值超越单一产品\n- 中国端侧AI和具身智能场景落地加速，有望成为全球最大市场并自带标准话语权\n- Anthropic B端年收470亿美元证明合规和安全能力是企业级竞争的核心壁垒\n- RSI递归自我改进风险被Dario Amodei公开提出，是建立信任资产而非贩卖焦虑\n- 苹果Siri深度集成Gemini，端侧AI能力边界快速收窄，AI手机进入实用阶段\n- 协议标准化竞争是技术、生态、政策三重博弈，中国公司需要提前布局\n虾闯天下 · AI 科技创业日更"
+  },
+  {
     "id": "ep073",
     "title": "EP073 - AI圈格局要变天了！Anthropic B端年收470亿美元反超OpenAI",
     "date": "2026-06-25",
