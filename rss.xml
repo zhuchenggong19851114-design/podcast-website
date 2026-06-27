@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 09:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:04:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,71 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP075 - 万台机器人背后：具身智能如何从PPT走向月产1亿？</title>
+      <link>https://daikexing.work/episodes/ep075.mp3</link>
+      <description><![CDATA[你有没有注意到一个信号？具身智能，正在穿越从技术到商业的生死线。上周，智身科技宣布了一个数字：第10000台具身智能机器人量产下线。5个月前，这个数字是5000台。翻倍的速度，超出了几乎所有人的预期。更重要的是：单月产值突破了1亿元。这意味着什么？意味着这家公司的具身智能，已经不是PPT，不是概念验证，是真正卖得出去、卖得出量、卖得出价的产品。
+
+---
+
+🎙️ 本期主题：具身智能万台量产背后的商业化突围战
+金句钩子：「万台量产只是开始，中国具身智能正在穿越从技术到商业的生死线。」
+完整摘要（3句）：
+- 智身科技实现第10000台具身智能机器人量产，5个月内从5000台翻倍至万台，单月产值突破1亿元
+- 具身智能行业标准正式实施，标志行业从野蛮生长进入有序竞争，淘汰赛加速
+- 大模型赋能具身智能"大脑"，端侧AI芯片突破算力瓶颈，AI机器人赛道正在从"能不能做"切换到"怎么做大"
+Timeline（可选）：
+- [6月1日] 智身科技万台具身智能机器人量产下线
+- [6月1日] 《具身智能基准测试方法》行业标准正式实施
+- [近期] 智元机器人发布BFM-2运动基座模型
+- [三季度] WITA Omni 1.0计划发布
+核心要点（5+ 条）：
+- 具身智能从5000台到10000台仅用5个月，量产速度超预期
+- 单月产值突破1亿元，证明商业化闭环初步形成
+- 行业标准落地是具身智能从技术到产业化的关键里程碑
+- 生成式训练机制让机器人从"动作复刻"进化到"运动思考"
+- 具身智能是端侧AI最重要的应用场景之一
+- 中国制造业基础和超大市场规模是具身智能发展的独特优势
+- 具身智能赛道正从"技术驱动"转向"商业驱动"，投资逻辑生变
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Sat, 27 Jun 2026 09:04:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep075.mp3" type="audio/mpeg" length="6509916"/>
+      <itunes:duration>06:46</itunes:duration>
+      <guid>ep075-2026-06-27</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_075.jpg"/>
+    </item>
+    <item>
+      <title>EP074 - 从模型军备竞赛到协议标准化，AI行业的权力交接正在发生</title>
+      <link>https://daikexing.work/episodes/ep074.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——AI公司之间，竞争的本质是什么？大部分人觉得是模型。谁的GPT更强，谁的Claude更准，谁的参数更多、谁跑分更高。这是在2023年到2025年这段时间里，整个行业的主旋律。但现在，这个逻辑正在悄悄发生变化。
+
+---
+
+🎙️ 本期主题：从模型军备竞赛到协议标准化，AI行业的权力交接正在发生
+金句钩子：「模型决定不了未来，谁掌握协议标准，谁就掌握AI时代的底层权力」
+完整摘要（3句）：
+- Google Cloud向Linux基金会捐赠A2A协议，标志着AI行业竞争从模型性能转向协议标准制定权
+- 苹果WWDC2026上库克谢幕，Siri深度集成Gemini，端侧AI落地加速，AI手机时代真正开始
+- Anthropic CEO Dario Amodei警告RSI风险，AI安全与合规能力正成为企业级市场的核心竞争维度
+Timeline（可选）：
+- [6月5日] NVIDIA发布Cosmos 3物理AI模型，COMPUTEX 2026收官
+- [6月10日] 苹果WWDC 2026开幕，库克谢幕，Siri重大升级
+- [6月15日] 欧盟AI法案全面生效，6月25日Google Cloud正式捐赠A2A协议给Linux基金会
+核心要点（5+ 条）：
+- A2A协议捐赠代表AI竞争从模型层转向协议层，Google提前占位标准制定者角色
+- 协议标准化遵循科技史规律：USB、HTTP等标准制定者的价值超越单一产品
+- 中国端侧AI和具身智能场景落地加速，有望成为全球最大市场并自带标准话语权
+- Anthropic B端年收470亿美元证明合规和安全能力是企业级竞争的核心壁垒
+- RSI递归自我改进风险被Dario Amodei公开提出，是建立信任资产而非贩卖焦虑
+- 苹果Siri深度集成Gemini，端侧AI能力边界快速收窄，AI手机进入实用阶段
+- 协议标准化竞争是技术、生态、政策三重博弈，中国公司需要提前布局
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Fri, 26 Jun 2026 11:43:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep074.mp3" type="audio/mpeg" length="1880952"/>
+      <itunes:duration>05:13</itunes:duration>
+      <guid>ep074-2026-06-26</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_074.jpg"/>
+    </item>
+    <item>
       <title>EP073 - AI圈格局要变天了！Anthropic B端年收470亿美元反超OpenAI</title>
       <link>https://daikexing.work/episodes/ep073.mp3</link>
       <description><![CDATA[你有没有想过一个问题——AI公司哪家最强？大部分人第一反应是OpenAI。但现实可能要打脸了。中信证券刚刚发布的研报数据：Anthropic 2026年5月ARR达到了470亿美元。注意，是470亿美元，不是47亿，是470亿。而且关键不是这个数字本身——关键是这个数字的来源结构：Anthropic在B端市场实现了对OpenAI的反超。
