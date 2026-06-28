@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 09:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:05:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -18,6 +18,45 @@
     <itunes:category text="Business"/>
     <itunes:owner><itunes:name>虾闯天下</itunes:name><itunes:email>podcast@daikexing.work</itunes:email></itunes:owner>
     <itunes:summary><![CDATA[聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。]]></itunes:summary>    <item>
+      <title>EP076 - AI双雄IPO军备竞赛</title>
+      <link>https://daikexing.work/episodes/ep076.mp3</link>
+      <description><![CDATA[OpenAI 和 Anthropic 同月提交 IPO，AI 行业进入万亿估值公共市场时代。两大 AI 巨头跑步上市，谁在定义人类未来？
+
+---
+
+本期主題：OpenAI 和 Anthropic 同月提交 IPO，標誌 AI 行業進入萬億估值公共市場時代
+金句鉤子：「兩家燒錢速度極快的公司，以近萬億美元的估值登陸二級市場，這件事本身就需要每一個投資者認真思考。」
+完整摘要（3句）：
+- OpenAI 和 Anthropic 在 2026 年 6 月相繼提交 IPO 申請，這是 AI 行業歷史性的資本化時刻
+- 兩家公司估值均接近或超過萬億美元，但均未盈利，上市是為獲取更大算力投入所需的資金
+- 業內人士已在減持，普通投資者在入場，這種錯位值得警惕
+Timeline（可選）：
+- [2026年5月] Anthropic 完成 650 億美元私募輪，估值 9650 億
+- [2026年5月5日] OpenAI 發布 GPT-5.5，設為 ChatGPT 默認模型
+- [2026年5月28日] Anthropic 發布 Claude Opus 4.8，多項基準全球第一
+- [2026年6月] OpenAI 和 Anthropic 相繼提交 IPO 申請
+- [2026年6月2-3日] 微軟 Build 2026 發布 7 款自研 MAI 模型
+核心要點（5+ 條）：
+- Anthropic 和 OpenAI 同月提交 IPO，AI 行業進入公共市場時代
+- Anthropic 最新估值 9650 億美元，年化收入達 470 億美元但仍虧損
+- Claude Opus 4.8 首個 ScienceQA 突破 75 分，編程能力超 GPT-5.5
+- Claude Code 年化收入 63 億美元，拿下 AI 編程市場 54% 份額
+- Anthropic 公開呼籲放緩 AI 研發，理由是 2028 年有 60% 概率實現 AI 自進化
+- OpenAI 同步提交 IPO 申請，矽谷 AI 軍備競賽轉向二級市場
+- 微軟 Build 2026 發布 7 款自研 MAI 模型，戰略擺脫 OpenAI 依賴
+- 機構過去六個月賣出 13 次買入 0 次，內部人士已在撤離
+- 中國軍團：DeepSeek V4 成本 GPT-5 的 1/30，MiniMax 啟動 IPO
+- AI 正在從私募市場轉向公共市場，散戶將首次直接參與 AI 萬億軍備競賽]]></description>
+      <pubDate>Sun, 28 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep076.mp3" type="audio/mpeg" length="1639032"/>
+      <itunes:duration>04:33</itunes:duration>
+      <guid>ep076-2026-06-28</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_076.jpg"/>
+      <itunes:episode>076</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>EP075 - 万台机器人背后：具身智能如何从PPT走向月产1亿？</title>
       <link>https://daikexing.work/episodes/ep075.mp3</link>
       <description><![CDATA[你有没有注意到一个信号？具身智能，正在穿越从技术到商业的生死线。上周，智身科技宣布了一个数字：第10000台具身智能机器人量产下线。5个月前，这个数字是5000台。翻倍的速度，超出了几乎所有人的预期。更重要的是：单月产值突破了1亿元。这意味着什么？意味着这家公司的具身智能，已经不是PPT，不是概念验证，是真正卖得出去、卖得出量、卖得出价的产品。
