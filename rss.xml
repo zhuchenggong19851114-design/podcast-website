@@ -56,6 +56,41 @@ Timeline（可選）：
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+<item>
+      <title>EP077 - 具身智能爆发</title>
+      <link>https://daikexing.work/episodes/ep077.mp3</link>
+      <description><![CDATA[你有没有见过这样的画面——一个身高只有88厘米的机器人，站在世界杯直播的解说席上，复刻C罗的标志性进球庆祝动作"Siu"，腰穿、转体、落地，一气和成。这不是科幻电影，这是上周真实发生的事情。2026年6月28日，上维启元开发的全球首款个人机器人"启元Q1"，以特邀解说嘉宾身份亮相世界杯直播节目《超级绿茵场》。这是消费级具身智能首次以赛事参与者身份，深度融入全民顶级体育赛事。
+
+---
+
+本期主题：具身智能从世界杯到工厂流水线，90天产能翻倍背后的行业变局
+金句钩子："一个88厘米的机器人在世界杯解说席上跳Siu，这不是表演，这是具身智能规模化的真正信号。"
+完整摘要（3句）：
+- 启元Q1机器人亮相世界杯直播，完成全球首个个人机器人参与顶级体育赛事的创举，具身智能首次以赛事参与者身份深度融入全民场景。
+- 智元机器人90天内实现产能翻倍（第10000台至第15000台下线），刷新全球具身智能机器人量产规模纪录，机器人已进入工厂产线替代重复性劳动。
+- 具身智能正从"能造"进入"能大规模用"的新周期，核心零部件国产化、价格下降、商业化落地三重信号叠加，行业拐点已至。
+Timeline（可选）：
+- [上周] 启元Q1机器人亮相世界杯直播节目《超级绿茵场》，完成C罗标志性庆祝动作
+- [6月28日] 智元第15000台具身机器人下线，距上次10000台下线仅90天
+- [近期] 智元机器人进入龙旗科技工厂产线，开始执行工业生产任务
+核心要点（5+杯）：
+- 启元Q1是全球首款个人机器人，以特邀解说身份参与世界杯直播，完成消费级具身智能在顶级体育赛事的首秀
+- 具身智能的核心价值是实现"感知-认知-决策-执行"的完整闭环，不只是动作复现，而是实时理解与行动
+- 智元90天内产能从10000台增至15000台，证明具身智能规模化量产能力已经跑通
+- 具身智能进入工厂产线是明确的商业化信号，工厂持续复购才是量产的真正证明
+- 具身智能爆发的三大支撑：核心零部件国产化、价格进入合理区间、应用场景真实落地
+- 当前瓶颈：泛化能力有限、数据采集成本高、用户心理接受度需时间培养
+- 具身智能正在从"能不能造"进入"能不能大规模用"的新周期，下一个竞争焦点是商业模型验证
+虾闯天下 · AI 科技创业日更]]></description>
+      <pubDate>Mon, 29 Jun 2026 09:05:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep077.mp3" type="audio/mpeg" length="2189616"/>
+      <itunes:duration>06:04</itunes:duration>
+      <guid>ep077-2026-06-29</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_077.jpg"/>
+      <itunes:episode>077</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>EP075 - 万台机器人背后：具身智能如何从PPT走向月产1亿？</title>
       <link>https://daikexing.work/episodes/ep075.mp3</link>
