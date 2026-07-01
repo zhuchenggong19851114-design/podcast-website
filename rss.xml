@@ -55,7 +55,43 @@ Timeline（可選）：
       <itunes:episode>076</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+    </item><item>
+      <title>EP079 - 凭什么全球AI企业今天必须交卷？EU新法7月1日大考背后：3类玩家面临生死关</title>
+      <link>https://daikexing.work/episodes/ep079.mp3</link>
+      <description><![CDATA[你有没有想过一个问题——一个法规，能让整个AI行业集体失眠？答案是：能。而且就在今天。2026年7月1日，EU AI法案高风险条款正式全面生效。全球所有在欧盟部署AI的企业，必须在今天之前完成合规——否则面临最高3000万欧元或全球营收6%的罚款。这是全球第一部全面AI监管法规。它的影响，不分国界。
+
+---
+
+本期主题：EU AI法案高风险条款正式生效，全球AI企业进入合规大考时代
+金句钩子：「7月1日不是终点，是起点——EU AI法案生效背后，是全球AI监管版图的重新划定」
+完整摘要（3句）：
+- EU AI法案高风险条款于2026年7月1日全面生效，违规最高面临3000万欧元或全球营收6%的罚款
+- 该法案具有域外管辖权，所有在欧盟提供AI服务的企业，无论总部在哪，都必须遵守
+- 全球AI企业正在加速组建合规团队，监管成本成为出海AI公司的标配支出
+Timeline（可选）：
+- [2024年8月] EU AI法案正式生效（基础条款）
+- [2026年7月1日] 高风险AI系统义务全面生效
+- [2026年8月2日] 通用目的AI模型透明度要求生效
+- [2027年12月] 所有条款完全适用
+核心要点（5+ 条）：
+- EU AI法案将AI系统分为禁止类、高风险类、有限风险类、最低风险类四个等级
+- 高风险AI系统必须建立完整技术文档并全程维护，涵盖架构、风险评估、缓解措施
+- 违规罚款：最高3000万欧元或全球营收6%，取其高者
+- 法案具有域外管辖权，中国/美国公司只要服务欧盟用户即受管辖
+- 英伟达、谷歌、Anthropic等巨头已在加速布局合规，欧盟成为AI出海必答题
+- 端侧AI因其数据本地化特性，天然具备合规优势
+- 全球AI监管地图正在加速碎片化，美中欧三足鼎立格局形成
+- 合规将成为AI公司的核心竞争壁垒，而非单纯成本项
+虾闯天下 · AI 科技创业日更]]></description>
+      <enclosure url="https://daikexing.work/episodes/ep079.mp3" type="audio/mpeg" length="616669"/>
+      <itunes:duration>00:46</itunes:duration>
+      <guid>ep079-2026-07-01</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_079.jpg"/>
+      <itunes:episode>079</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
     </item>
+
 <item>
       <title>EP078 - 凭什么三星SK砸4755万亿韩元</title>
       <link>https://daikexing.work/episodes/ep078.mp3</link>
