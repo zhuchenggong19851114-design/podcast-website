@@ -9,7 +9,7 @@
     <description>聊AI，不能只听好消息。虾闯天下——用8-12分钟拆解一个AI、科技或创业事件，不废话，直接给结论。每期覆盖AI投资风向、技术变革、创业机会。适合通勤、跑步、睡前听。</description>
     <language>zh-CN</language>
     <copyright>© 2026 虾闯天下</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 09:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:04:00 +0800</lastBuildDate>
     <atom:link href="https://daikexing.work/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v4.jpg"/>
     <itunes:author>虾闯天下</itunes:author>
@@ -158,6 +158,44 @@ Timeline（可选）：
       <guid>ep077-2026-06-29</guid>
       <itunes:image href="https://daikexing.work/episodes/covers/ai_077.jpg"/>
       <itunes:episode>077</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>EP080 - 出口管制与新模型密集发布，AI竞争进入新阶段</title>
+      <link>https://daikexing.work/episodes/ep080.mp3</link>
+      <description><![CDATA[你有没有注意到，最近这一周，AI圈发生了两件看起来毫无关系、但底层逻辑紧密相连的事？第一件事，周一，Anthropic悄悄上线了Claude Sonnet 5。第二件事，同一天，美国政府一纸出口管制令，直接把Anthropic最强的两款模型从全球市场抹掉了。这两件事发生在同一天，你品，你细品。
+
+---
+
+
+本期主题：出口管制与新模型密集发布，AI 竞争进入新阶段
+金句钩子：「Token 是 AI 时代的新大宗商品，是新货币——黄仁勋说的这句话，今天听来格外刺耳」
+完整摘要（3句）：
+- 美国出口管制令迫使 Anthropic 下架两款旗舰模型，同一天 Claude Sonnet 5 照常发布，揭示 AI 竞争从算力战转向模型战的新阶段
+- DeepSeek、阿里千问 Qwen3.6-Plus 等国产模型加速 Agent 能力突破，中国 AI 走出差异化垂直深耕路线
+- Token 正在成为 AI 时代的新货币，全球 AI 竞争进入规则重塑期，从业者需要从宏观叙事回归产品价值
+Timeline（可选）：
+- [Day 1] Anthropic 发布 Claude Sonnet 5，同日美国出口管制令生效
+- [Day 1] Anthropic 被迫在全球下架两款旗舰模型
+- [近期] DeepSeek 专家模式更新，Qwen3.6-Plus 强化 Agent 编程能力
+核心要点（5+ 条）：
+- Claude Sonnet 5 发布代表 AI 推理能力进入新阶段
+- 出口管制从卡芯片升级到卡模型，AI 竞争主战场转移
+- 管制加速中国 AI 技术自主进程
+- DeepSeek 专家模式走垂直深耕路线，不再正面 PK GPT
+- Token 已成为 AI 时代核心资产，黄仁勋的定义正在兑现
+- 国内日均 Token 调用量已超 140 万亿，增速惊人
+- AI 战争是规则制定权之争，不是单纯的技术之争
+- 从业者应聚焦用 AI 解决具体问题，而非追逐宏观叙事
+虾闯天下 · AI 科技创业日更
+]]></description>
+      <pubDate>Thu, 02 Jul 2026 09:04:00 +0800</pubDate>
+      <enclosure url="https://daikexing.work/episodes/ep080.mp3" type="audio/mpeg" length="1699728"/>
+      <itunes:duration>04:43</itunes:duration>
+      <guid>ep080-2026-07-02</guid>
+      <itunes:image href="https://daikexing.work/episodes/covers/ai_080.jpg"/>
+      <itunes:episode>080</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
