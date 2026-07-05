@@ -19,17 +19,22 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
 
   episodes.slice().reverse().forEach(function(ep) {
     var card = document.createElement('div');
-    card.className = 'ep-card';
+    card.className = 'episode-card';
 
     var audioUrl = ep.audioUrl || ('/episodes/' + ep.id + '.mp3');
     var coverUrl = ep.cover || ('https://daikexing.work/episodes/covers/' + ep.id.replace('ep', 'ai_') + '.jpg');
+    var epNum = ep.id.replace(/[^0-9]/g, '') || '';
+    var epNumLabel = epNum ? 'EP' + epNum : '';
 
     card.innerHTML =
-      '<a href="' + audioUrl + '" class="ep-cover" target="_blank" rel="noopener">' +
-        '<img src="' + coverUrl + '" alt="' + (ep.title || ep.id) + '" loading="lazy">' +
-      '</a>' +
-      '<div class="ep-info">' +
-        '<div class="ep-meta">' +
+      '<div class="ep-cover-wrap">' +
+        '<a href="' + audioUrl + '" class="ep-cover" target="_blank" rel="noopener">' +
+          '<img src="' + coverUrl + '" alt="' + (ep.title || ep.id) + '" loading="lazy">' +
+        '</a>' +
+      '</div>' +
+      '<div class="episode-body">' +
+        '<div class="ep-meta-row">' +
+          (epNumLabel ? '<span class="ep-number">' + epNumLabel + '</span>' : '') +
           '<span class="ep-date">' + (ep.date || '') + '</span>' +
           '<span class="ep-duration">' + (ep.duration || '') + '</span>' +
         '</div>' +
@@ -42,11 +47,10 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
 
   list.appendChild(fragment);
 
-  // GSAP entrance animation
   if (typeof gsap !== 'undefined') {
-    gsap.from('.ep-card', {
+    gsap.from('.episode-card', {
       opacity: 0,
-      y: 20,
+      y: 16,
       duration: 0.4,
       stagger: 0.03,
       ease: 'power2.out'
