@@ -48,12 +48,16 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
   list.appendChild(fragment);
 
   if (typeof gsap !== 'undefined') {
-    gsap.from('.episode-card', {
-      opacity: 0,
-      y: 16,
-      duration: 0.4,
-      stagger: 0.03,
-      ease: 'power2.out'
-    });
+    gsap.fromTo('.episode-card',
+      { opacity: 0, y: 16 },
+      {
+        opacity: 1,
+        y: 0,
+        duration: 0.4,
+        stagger: 0.03,
+        ease: 'power2.out',
+        clearProps: 'transform,opacity'
+      }
+    );
   }
 })();
