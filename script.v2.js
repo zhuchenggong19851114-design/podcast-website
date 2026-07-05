@@ -39,6 +39,7 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
           '<span class="ep-duration">' + (ep.duration || '') + '</span>' +
         '</div>' +
         '<h3 class="ep-title"><a href="' + audioUrl + '" target="_blank" rel="noopener">' + (ep.title || ep.id) + '</a></h3>' +
+        '<div class="ep-audio-row"><audio src="' + audioUrl + '" controls preload="none"></audio></div>' +
         '<p class="ep-desc">' + (ep.description || '') + '</p>' +
       '</div>';
 
