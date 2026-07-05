@@ -3,8 +3,8 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <item>
-    <title><![CDATA[智谱AI发布ZCode编程工具，直面挑战Claude Code、Cursor和GitHub Copilot，三足鼎立的AI编程工具市场迎来新玩家。]]></title>
+        <item>
+    <title><![CDATA[EP083 - 智谱AI发布ZCode编程工具，直面挑战Claude Code、Cursor和GitHub Copilot，三足鼎立的AI编程工具市场迎来新玩家。]]></title>
     <link>https://daikexing.work/episodes/ep083.mp3</link>
     <description><![CDATA[ZCode叫板Claude Code，智谱AI发布ZCode编程工具，直面挑战三足鼎立的AI编程工具市场。]]></description>
     <itunes:summary><![CDATA[本期主题：智谱AI发布ZCode编程工具，直面挑战Claude Code、Cursor和GitHub Copilot，三足鼎立的AI编程工具市场迎来新玩家。
@@ -1390,6 +1390,7 @@ Timeline（可选）：
     <itunes:image href="https://daikexing.work/episodes/covers/ai_01.jpg" />
     <itunes:explicit>false</itunes:explicit>
   </item>
+
 
 <channel>
     <title>虾闯天下</title>
