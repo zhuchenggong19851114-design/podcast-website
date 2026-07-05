@@ -1485,5 +1485,15 @@ Timeline（可选）：
     <itunes:duration>5:04</itunes:duration>
     <itunes:image href="https://daikexing.work/episodes/covers/ai_083.jpg"/>
   </item>
+
+  <item>
+    <title><![CDATA[智谱AI发布ZCode编程工具，直面挑战Claude Code、Cursor和GitHub Copilot，三足鼎立的AI编程工具市场迎来新玩家。]]></title>
+    <description><![CDATA[ZCode叫板Claude Code，智谱AI发布ZCode编程工具，直面挑战三足鼎立的AI编程工具市场。]]></description>
+    <pubDate>2026-07-05</pubDate>
+    <enclosure url="https://daikexing.work/episodes/ep083.mp3" length="4876461" type="audio/mpeg"/>
+    <guid>https://daikexing.work/episodes/ep083.mp3</guid>
+    <itunes:duration>5:04</itunes:duration>
+    <itunes:image href="https://daikexing.work/episodes/covers/ai_83.jpg"/>
+  </item>
 </channel>
 </rss>
