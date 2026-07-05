@@ -512,3 +512,22 @@ footer {
 .episode-card { opacity: 1; }
 
 .episode-card { opacity: 1; }
+
+/* Cover image must fit the 140px wide container */
+.ep-cover-wrap img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 140px !important;
+  object-fit: cover !important;
+  display: block;
+}
+
+/* Audio player row */
+.ep-audio-row {
+  margin: 0.5rem 0;
+}
+.ep-audio-row audio {
+  width: 100%;
+  height: 36px;
+  border-radius: 8px;
+}
