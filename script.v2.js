@@ -5,7 +5,18 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
 (function() {
   if (typeof EPISODES_DATA === 'undefined') return;
 
-  var episodes = EPISODES_DATA;
+  
+function formatDate(dateStr) {
+  const d = new Date(dateStr.includes('T') ? dateStr : dateStr + 'T00:00:00+08:00');
+  return d.toLocaleDateString('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+var episodes = EPISODES_DATA;
   var list = document.getElementById('episode-list');
   var statEpisodes = document.getElementById('stat-episodes');
   var epCount = document.getElementById('ep-count');
@@ -28,19 +39,18 @@ const EPISODES_DATA = [{"id": "ep001", "title": "EP001 - OpenAI GPT-5.5与中国
 
     card.innerHTML =
       '<div class="ep-cover-wrap">' +
-        '<a href="' + audioUrl + '" class="ep-cover" target="_blank" rel="noopener">' +
-          '<img src="' + coverUrl + '" alt="' + (ep.title || ep.id) + '" loading="lazy">' +
-        '</a>' +
+        '<img src="' + coverUrl + '" class="ep-cover" alt="' + (ep.title || ep.id) + '" loading="lazy" />' +
       '</div>' +
       '<div class="episode-body">' +
         '<div class="ep-meta-row">' +
-          (epNumLabel ? '<span class="ep-number">' + epNumLabel + '</span>' : '') +
-          '<span class="ep-date">' + (ep.date || '') + '</span>' +
-          '<span class="ep-duration">' + (ep.duration || '') + '</span>' +
+          '<span class="ep-number">' + (ep.id ? ep.id.toUpperCase().replace('EP', 'EP ') : '') + '</span>' +
+          '<span class="ep-date">' + formatDate(ep.date || '') + '</span>' +
+          (ep.duration ? '<span class="ep-duration">' + ep.duration + '</span>' : '') +
         '</div>' +
-        '<h3 class="ep-title"><a href="' + audioUrl + '" target="_blank" rel="noopener">' + (ep.title || ep.id) + '</a></h3>' +
-        '<div class="ep-audio-row"><audio src="' + audioUrl + '" controls preload="none"></audio></div>' +
+        '<h3 class="ep-title">' + (ep.title || ep.id) + '</h3>' +
         '<p class="ep-desc">' + (ep.description || '') + '</p>' +
+        (ep.shownotes ? '<div class="ep-footer"><details class="shownotes"><summary>Show Notes</summary><div class="shownotes-content">' + ep.shownotes.replace(/\n/g, '<br>') + '</div></details></div>' : '') +
+        '<audio controls class="audio-player"><source src="' + audioUrl + '" type="audio/mpeg">您的浏览器不支持音频播放</audio>' +
       '</div>';
 
     fragment.appendChild(card);
