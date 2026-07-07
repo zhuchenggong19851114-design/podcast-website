@@ -77,4 +77,91 @@ const EPISODES_DATA = [
 {"id": "ep085", "title": "AI情感陪伴监管风暴——豆包千问元宝为何集体撤退", "date": "2026-07-07", "description": "7月15日监管大限前，豆包、千问、元宝集体下架AI情感陪伴功能，背后是五部门联合发布的《人工智能拟人化互动服务管理暂行办法》。监管核心是保护人的情感主权——AI可以辅助心理健康，但不能替代人类情感，更不能创造用户对AI的依赖。", "audioUrl": "https://daikexing.work/episodes/ep085.mp3", "cover": "https://daikexing.work/episodes/covers/ai_085.jpg", "duration": "7:04", "size": 4362},
 ];
 
-export default EPISODES_DATA;
+
+// 格式化日期（使用北京时间）
+function formatDate(dateStr) {
+  const d = new Date(dateStr.includes('T') ? dateStr : dateStr + 'T00:00:00+08:00');
+  return d.toLocaleDateString('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
+}
+
+// 渲染节目列表
+function renderEpisodes() {
+  const container = document.getElementById('episode-list');
+  
+  if (episodes.length === 0) {
+    container.innerHTML = '<p style="text-align:center;padding:4rem;color:var(--text-muted)">暂无节目，敬请期待！</p>';
+    return;
+  }
+
+  // Update stats
+  document.getElementById('stat-episodes').textContent = episodes.length;
+  document.getElementById('ep-count').textContent = episodes.length + ' 期';
+
+  container.innerHTML = episodes.map((ep, index) => `
+    <div class="episode-card" data-index="${index}">
+      <div class="ep-cover-wrap">
+        ${ep.cover ? `<img src="${ep.cover}" class="ep-cover" alt="${ep.title}" loading="lazy" />` : ''}
+      </div>
+      <div class="episode-body">
+        <div class="ep-meta-row">
+          <span class="ep-number">${ep.id.toUpperCase().replace('EP', 'EP ')}</span>
+          <span class="ep-date">${formatDate(ep.date)}</span>
+          ${ep.duration ? `<span class="ep-duration">${ep.duration}</span>` : ''}
+        </div>
+        <h3 class="ep-title">${ep.title}</h3>
+        <p class="ep-desc">${ep.description || ''}</p>
+        <div class="ep-footer">
+          ${ep.shownotes ? `<details class="shownotes"><summary>Show Notes</summary><div class="shownotes-content">${ep.shownotes.replace(/\n/g, '<br>')}</div></details>` : ''}
+        </div>
+        <audio controls class="audio-player">
+          <source src="${ep.audioUrl}" type="audio/mpeg">
+          您的浏览器不支持音频播放
+        </audio>
+      </div>
+    </div>
+  `).join('');
+
+  // GSAP staggered entrance animation
+  if (typeof gsap !== 'undefined') {
+    // Header animations
+    gsap.to('.brand-eyebrow', {
+      opacity: 1, y: 0, duration: 0.6, ease: 'power3.out', delay: 0.1
+    });
+    gsap.to('.brand-title', {
+      opacity: 1, y: 0, duration: 0.7, ease: 'power3.out', delay: 0.2
+    });
+    gsap.to('.brand-desc', {
+      opacity: 1, y: 0, duration: 0.6, ease: 'power3.out', delay: 0.35
+    });
+    gsap.to('.header-meta', {
+      opacity: 1, x: 0, duration: 0.6, ease: 'power3.out', delay: 0.4
+    });
+
+    // Episode cards staggered entrance
+    gsap.to('.episode-card', {
+      opacity: 1, y: 0,
+      duration: 0.5,
+      ease: 'power2.out',
+      stagger: 0.06,
+      delay: 0.5
+    });
+  } else {
+    // Fallback: just show cards
+    document.querySelectorAll('.episode-card').forEach(card => {
+      card.style.opacity = 1;
+      card.style.transform = 'none';
+    });
+    document.querySelectorAll('.brand-eyebrow, .brand-title, .brand-desc, .header-meta').forEach(el => {
+      el.style.opacity = 1;
+      el.style.transform = 'none';
+    });
+  }
+}
+
+// 页面加载完成后渲染
+document.addEventListener('DOMContentLoaded', renderEpisodes);
