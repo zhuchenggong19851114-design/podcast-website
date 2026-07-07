@@ -976,5 +976,15 @@ Timeline：
     <itunes:duration>5:11</itunes:duration>
     <itunes:image href="https://daikexing.work/episodes/covers/ai_84.jpg"/>
   </item>
+
+  <item>
+    <title><![CDATA[JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么]]></title>
+    <description><![CDATA[JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么。你有没有想过一个问题——AI攻击人类，最快的方式是什么？答案是：不是科幻片里的杀人机器人，而是你每天都在用的软件。]]></description>
+    <pubDate>2026-07-06</pubDate>
+    <enclosure url="https://daikexing.work/episodes/ep084.mp3" length="1827" type="audio/mpeg"/>
+    <guid>https://daikexing.work/episodes/ep084.mp3</guid>
+    <itunes:duration>5:11</itunes:duration>
+    <itunes:image href="https://daikexing.work/episodes/covers/ai_084.jpg"/>
+  </item>
 </channel>
 </rss>
