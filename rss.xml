@@ -703,5 +703,15 @@
     <itunes:duration>5:11</itunes:duration>
     <itunes:image href="https://daikexing.work/episodes/covers/ai_84.jpg"/>
   </item>
+
+  <item>
+    <title><![CDATA[AI情感陪伴监管风暴——豆包千问元宝为何集体撤退]]></title>
+    <description><![CDATA[7月15日监管大限前，豆包、千问、元宝集体下架AI情感陪伴功能，背后是五部门联合发布的《人工智能拟人化互动服务管理暂行办法》。监管核心是保护人的情感主权——AI可以辅助心理健康，但不能替代人类情感，更不能创造用户对AI的依赖。]]></description>
+    <pubDate>2026-07-07</pubDate>
+    <enclosure url="https://daikexing.work/episodes/ep085.mp3" length="4467192" type="audio/mpeg"/>
+    <guid>https://daikexing.work/episodes/ep085.mp3</guid>
+    <itunes:duration>7:04</itunes:duration>
+    <itunes:image href="https://daikexing.work/episodes/covers/ai_85.jpg"/>
+  </item>
 </channel>
 </rss>
