@@ -76,6 +76,7 @@ const EPISODES_DATA = [
 {"id": "ep084", "title": "JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么", "date": "2026-07-06", "description": "JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么 你有没有想过一个问题——AI攻击人类，最快的方式是什么？ 答案是：不是科幻片里的杀人机器人，而是你每天都在用的软件。", "audioUrl": "https://daikexing.work/episodes/ep084.mp3", "cover": "https://daikexing.work/episodes/covers/ai_084.jpg", "duration": "5:11", "size": 1827},
 {"id": "ep085", "title": "AI情感陪伴监管风暴——豆包千问元宝为何集体撤退", "date": "2026-07-07", "description": "7月15日监管大限前，豆包、千问、元宝集体下架AI情感陪伴功能，背后是五部门联合发布的《人工智能拟人化互动服务管理暂行办法》。监管核心是保护人的情感主权——AI可以辅助心理健康，但不能替代人类情感，更不能创造用户对AI的依赖。", "audioUrl": "https://daikexing.work/episodes/ep085.mp3", "cover": "https://daikexing.work/episodes/covers/ai_085.jpg", "duration": "7:04", "size": 4362},
 ];
+const episodes = EPISODES_DATA;
 
 
 // 格式化日期（使用北京时间）
