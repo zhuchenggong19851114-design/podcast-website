@@ -7,7 +7,8 @@
     "audioUrl": "/episodes/ep001.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_01.jpg",
     "duration": "07:04",
-    "size": 4499700
+    "size": 4499700,
+    "shownotes": "AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。"
   },
   {
     "id": "ep002",
@@ -17,7 +18,8 @@
     "audioUrl": "/episodes/ep002.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_02.jpg",
     "duration": "05:58",
-    "size": 3793560
+    "size": 3793560,
+    "shownotes": "DeepSeek V4百万Token超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents务实路线。三件事合在一起，透露AI从工具变劳动力的信号。"
   },
   {
     "id": "ep003",
@@ -27,7 +29,8 @@
     "audioUrl": "/episodes/EP003.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_03.jpg",
     "duration": "04:55",
-    "size": 3104304
+    "size": 3104304,
+    "shownotes": "DeepSeek V4发布：100万Token超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成AI从「回答问题」全面转向「替我完成任务」的明确信号。"
   },
   {
     "id": "ep004",
@@ -37,7 +40,8 @@
     "audioUrl": "/episodes/EP004.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_04.jpg",
     "duration": "05:13",
-    "size": 3252300
+    "size": 3252300,
+    "shownotes": "OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。"
   },
   {
     "id": "ep005",
@@ -47,7 +51,8 @@
     "audioUrl": "/episodes/EP005.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_05.jpg",
     "duration": "05:41",
-    "size": 3471720
+    "size": 3471720,
+    "shownotes": "英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。"
   },
   {
     "id": "ep006",
@@ -57,7 +62,8 @@
     "audioUrl": "/episodes/ep006.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_06.jpg",
     "duration": "06:38",
-    "size": 4783848
+    "size": 4783848,
+    "shownotes": "以为稳了，结果差点挂。自认为很熟悉OpenClaw的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚。"
   },
   {
     "id": "ep007",
@@ -67,7 +73,8 @@
     "audioUrl": "/episodes/EP007.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_07.jpg",
     "duration": "04:12",
-    "size": 2634576
+    "size": 2634576,
+    "shownotes": "过去24小时三件大事：北京车展1451台展车创新高、DeepSeek V4 API降价90%、情感陪护机器人Moya发布。三件看似不相关的事，说的是同一个趋势——AI正在从「能回答问题」全面转向「能进入生活」。"
   },
   {
     "id": "ep008",
@@ -77,7 +84,8 @@
     "audioUrl": "/episodes/EP008.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_08.jpg",
     "duration": "06:00",
-    "size": 3693912
+    "size": 3693912,
+    "shownotes": "GPT Image 2发布，Image Arena 1512分甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊GPT官方一体化方案和OpenClaw+Stable Diffusion分体式架构，到底谁更强。"
   },
   {
     "id": "ep009",
@@ -87,7 +95,8 @@
     "audioUrl": "/episodes/ep009.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_09.jpg",
     "duration": "04:31",
-    "size": 2832936
+    "size": 2832936,
+    "shownotes": "英伟达Nemotron 3 Nano Omni：全模态开源模型让企业级AI Agent效率提升9倍。同一天OpenAI销售额未达预期，概念股全线大跌。两件事合在一起，就是AI行业现在的真实状态：技术狂飙，商业磨合。"
   },
   {
     "id": "ep011",
@@ -97,7 +106,8 @@
     "audioUrl": "/episodes/ep011.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_11.jpg",
     "duration": "05:42",
-    "size": 2098269
+    "size": 2098269,
+    "shownotes": "花了一整天搞定一个问题：怎么让Hermes正确调用MiniMax月度计划Key。api_type和base_url必须同时改对，缺一个就401。踩坑实录。"
   },
   {
     "id": "ep012",
@@ -107,7 +117,8 @@
     "audioUrl": "/episodes/ep012.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_12.jpg",
     "duration": "09:26",
-    "size": 5315784
+    "size": 5315784,
+    "shownotes": "AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部48小时破3亿播放后一夜下架，8亿播放量归零。深入剖析赚钱路径和监管红线。"
   },
   {
     "id": "ep013",
@@ -117,7 +128,8 @@
     "audioUrl": "/episodes/ep013.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_13.jpg",
     "duration": "05:05",
-    "size": 3137352
+    "size": 3137352,
+    "shownotes": "OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。"
   },
   {
     "id": "ep014",
@@ -127,7 +139,8 @@
     "audioUrl": "/episodes/ep014.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_14.jpg",
     "duration": "04:36",
-    "size": 2868432
+    "size": 2868432,
+    "shownotes": "五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全。为什么安全总是被甩在身后？"
   },
   {
     "id": "ep015",
@@ -137,7 +150,8 @@
     "audioUrl": "/episodes/ep015.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_15.jpg",
     "duration": "06:27",
-    "size": 6207597
+    "size": 6207597,
+    "shownotes": "AI工具越来越多，但多AI协作总是乱成一锅粥。Hermes框架总结出四种协作模式：看板协作、群聊话题、并行调度、Cron串联。听完你就知道什么时候让AI串行、并行、自动化还是实时讨论。"
   },
   {
     "id": "ep018",
@@ -147,7 +161,8 @@
     "audioUrl": "/episodes/ep018.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_18.jpg",
     "duration": "08:27",
-    "size": 5255808
+    "size": 5255808,
+    "shownotes": "GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。"
   },
   {
     "id": "ep020",
@@ -157,7 +172,8 @@
     "audioUrl": "/episodes/ep020.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_20.jpg",
     "duration": "06:02",
-    "size": 3746400
+    "size": 3746400,
+    "shownotes": "特斯拉停产旗舰轿车转向物理世界AI、豆包收费终结免费时代、国产算力被资本追捧、软银布局日本算力自主——五个信号指向同一件事：AI正在从炫技走向落地。本期音频因API限制，LEAPTIC Cube及总结部分未能完整录制。"
   },
   {
     "id": "ep022",
@@ -167,7 +183,8 @@
     "audioUrl": "/episodes/ep022.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_22.jpg",
     "duration": "07:50",
-    "size": 4889508
+    "size": 4889508,
+    "shownotes": "国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。"
   },
   {
     "id": "ep023",
@@ -177,7 +194,8 @@
     "audioUrl": "/episodes/ep023.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_23.jpg",
     "duration": "06:32",
-    "size": 6284205
+    "size": 6284205,
+    "shownotes": "梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。"
   },
   {
     "id": "ep024",
@@ -187,7 +205,8 @@
     "audioUrl": "/episodes/ep024.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_24.jpg",
     "duration": "06:42",
-    "size": 4152120
+    "size": 4152120,
+    "shownotes": "云深处、乐聚、宇树这三家成立快十年的老牌机器人公司，几乎同时走到了上市的关键节点——宇树IPO申请获受理，乐聚辅导验收完成，云深处提交了辅导工作报告。它们在行业最冷的阶段存活下来，现在借着具身智能的东风，终于迎来了属于自己的IPO潮。"
   },
   {
     "id": "ep025",
@@ -197,7 +216,8 @@
     "audioUrl": "/episodes/ep025.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_25.jpg",
     "duration": "07:07",
-    "size": 4473492
+    "size": 4473492,
+    "shownotes": "你有没有想过，一家成立不到两年的公司，能在一轮融资里拿到500个亿？500亿人民币——刷新了中国人工智能领域的单轮融资纪录，也让DeepSeek再次站到了所有人面前。这期聊聊这轮融资背后的故事，以及它可能如何重塑整个中国AI行业的竞争格局。"
   },
   {
     "id": "ep026",
@@ -207,7 +227,8 @@
     "audioUrl": "/episodes/ep026.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_26.jpg",
     "duration": "06:31",
-    "size": 6261108
+    "size": 6261108,
+    "shownotes": "你知道吗，全球最有权势的AI芯片大佬，前一秒还不在访华名单上，下一秒就登上了美军一号专机。这不是电影剧本，这是刚刚发生在5月13日真实事件。英伟达CEO黄仁勋临时加入美国CEO访华团，在最后一刻登上空军一号。这期聊聊这背后藏着的中美AI博弈深层逻辑。"
   },
   {
     "id": "ep030",
@@ -217,7 +238,8 @@
     "audioUrl": "/episodes/ep030.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_30.jpg",
     "duration": "07:21",
-    "size": 7062324
+    "size": 7062324,
+    "shownotes": "5月13日，腾讯发了今年一季度的财报。收入1965亿，同比增长9%，净利润581亿，同比增长21%。数字看着挺漂亮，中规中矩，没什么惊喜。但翻到资本开支那一页，我看到一行字：370亿元，主要用于AI相关投入。一个季度。三个月。370亿。这是什么概念？这笔钱相当于腾讯当季净利润的六成，压进了一条结果尚不明朗的赛道。今天我们就来好好聊聊这件事。"
   },
   {
     "id": "ep031",
@@ -227,7 +249,8 @@
     "audioUrl": "/episodes/EP031.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_31.jpg",
     "duration": "03:15",
-    "size": 1171176
+    "size": 1171176,
+    "shownotes": "你有没有想过，哪天你写代码不用开 VS Code，不用装任何插件，直接在浏览器里就能搞定？听起来像做梦？但 OpenAI 告诉你，这事正在发生。就在上周，Codex 推出了 Chrome 浏览器扩展，上线一周，周活用户突破 400 万，比年初增长整整 8 倍。这意味着 AI 编程工具正在经历一场从专业武器到人手一个的历史性跨越。"
   },
   {
     "id": "ep032",
@@ -237,7 +260,8 @@
     "audioUrl": "/episodes/ep032.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_032.jpg",
     "duration": "07:54",
-    "size": 5261748
+    "size": 5261748,
+    "shownotes": "你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。"
   },
   {
     "id": "ep033",
@@ -247,7 +271,8 @@
     "audioUrl": "/episodes/EP033.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_33.jpg",
     "duration": "05:40",
-    "size": 3471720
+    "size": 3471720,
+    "shownotes": "你听说过机器人跑马拉松吗？2026年5月，机器人\"闪电\"以1:59:40完赛半程马拉松，打破人类纪录。这背后是具身智能的历史性突破。"
   },
   {
     "id": "ep034",
@@ -257,7 +282,8 @@
     "audioUrl": "/episodes/ep034.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_34.jpg",
     "duration": "05:41",
-    "size": 5450100
+    "size": 5450100,
+    "shownotes": "2026年5月，一家叫智能云的创业公司融了8000万美金。做什么的？帮人用AI Agent替代客服团队。不是那种您好，请问有什么可以帮您的机器人，是那种——你根本分不清对面是人还是AI的那种。这不叫趋势，这叫淘金热。"
   },
   {
     "id": "ep035",
@@ -267,7 +293,8 @@
     "audioUrl": "/episodes/ep035.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_35.jpg",
     "duration": "06:47",
-    "size": 6516276
+    "size": 6516276,
+    "shownotes": "你有没有发现，现在AI越来越会\"察言观色\"了？情绪识别、情感陪伴、个性化回复——AI正在补齐情商这块短板。这意味着什么？"
   },
   {
     "id": "ep036",
@@ -277,7 +304,8 @@
     "audioUrl": "/episodes/ep036.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_36.jpg",
     "duration": "05:37",
-    "size": 5397108
+    "size": 5397108,
+    "shownotes": "你有没有想过，为什么一家靠GPU做到世界第一的公司，突然开始自己做CPU了？英伟达正式交付Vera CPU，芯片战争进入新阶段。"
   },
   {
     "id": "ep037",
@@ -287,7 +315,8 @@
     "audioUrl": "/episodes/ep037.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_37.jpg",
     "duration": "08:08",
-    "size": 7818612
+    "size": 7818612,
+    "shownotes": "你有没有这种感觉——昨天还在用手机调戏Siri，今天全世界最顶尖的AI公司已经把战场搬到了你手上？Gemini 3和通义千问同天对决，中美AI正面交锋。"
   },
   {
     "id": "ep038",
@@ -297,7 +326,8 @@
     "audioUrl": "/episodes/ep038.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_38.jpg",
     "duration": "07:03",
-    "size": 6774900
+    "size": 6774900,
+    "shownotes": "你有没有想过，有一天你打《王者荣耀》排位，遇到的对面ADC不是人，而是AI？美国一家叫安杜里尔的公司，曝光了一款AI无人战斗机，名字叫「狂怒」——Fury。不是PPT，不是概念机。是真的，今年夏天就要首飞。它全程不需要人操控，AI自己完成感知、决策、打击。这是人类空战史上，第一款真正意义上的AI无人战斗机。美国空军的目标是：2030年前实战部署。这一次，AI不只是辅助，它直接取代了飞行员。"
   },
   {
     "id": "ep039",
@@ -307,7 +337,8 @@
     "audioUrl": "/episodes/ep039.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_039.jpg",
     "duration": "06:20",
-    "size": 6080244
+    "size": 6080244,
+    "shownotes": "2026年5月20日，黄仁勋在英伟达新加坡研发中心成立仪式上放了一句话：“物理AI的ChatGPT时刻已然到来。”这次他没有再说大模型，他说的是物理AI、机器人、具身智能。物理AI替代的是人的物理劳动——工厂操作工、仓储拣货员、建筑工人、护理人员——数量级远大于白领。大模型的效率提升可能是3到5倍，但物理AI可能是10到20倍。这是比大模型更大的机会吗？我们来聊聊。"
   },
   {
     "id": "ep040",
@@ -317,7 +348,8 @@
     "audioUrl": "/episodes/ep040.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_040.jpg",
     "duration": "06:31",
-    "size": 6254772
+    "size": 6254772,
+    "shownotes": "你有没有想过，有一天你的设备不是乔布斯定义的，而是AI定义的？就在昨天，OpenAI宣布以65亿美元收购前苹果首席设计官乔纳森·艾维创立的AI设备公司io。这是AI行业向硬件领域宣战的第一枪。艾维将主导新产品设计，新设备的核心目标是减少用户对屏幕的依赖。这意味着什么？本期深度分析。"
   },
   {
     "id": "ep041",
@@ -327,7 +359,8 @@
     "audioUrl": "/episodes/ep041.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_041.jpg",
     "duration": "07:54",
-    "size": 7596852
+    "size": 7596852,
+    "shownotes": "你有没有想过，一个成立不到五年的公司，估值能在一百天里从2.5个茅台涨到将近1个茅台？Anthropic，就是那个做Claude的公司，今年2月估值3800亿美元。五月份，它正在谈一笔新融资，估值9500亿美元。三个月，2.5倍。这期我们就聊聊：Anthropic凭什么？背后是什么级别的战争？以及——Google I/O 2026刚刚开完，两件事放在一起看，你会发现整个AI行业的玩法已经完全变了。"
   },
   {
     "id": "ep042",
@@ -337,7 +370,8 @@
     "audioUrl": "/episodes/ep042.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_042.jpg",
     "duration": "08:53",
-    "size": 8542068
+    "size": 8542068,
+    "shownotes": "你有没有想过一个问题——一家 AI 公司，能贵到什么程度？答案是：近万亿美元。上周，Anthropic 完成了 300 亿美元的融资，估值突破 9000 亿。同一天，OpenAI 递交了 IPO 招股书——这是 2021 年以来最受期待的科技公司上市。但 Gartner 预测，到 2027 年，电力短缺将导致约 40% 的 AI 数据中心无法正常运行。AI 行业正在经历一场算力困局，表面的估值狂飙背后，是整个行业正在跟物理世界的极限赛跑。"
   },
   {
     "id": "ep043",
@@ -347,7 +381,8 @@
     "audioUrl": "/episodes/ep043.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_043.jpg",
     "duration": "05:05",
-    "size": 4883892
+    "size": 4883892,
+    "shownotes": "木头姐Cathie Wood连续抛售英伟达和台积电，美国国防部与七大公司签署AI部署协议。两条新闻合在一起，透露出一个重要信号：AI拐点已到。"
   },
   {
     "id": "ep044",
@@ -610,7 +645,8 @@
     "audioUrl": "/episodes/ep068.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_068.jpg",
     "duration": "04:51",
-    "size": 4653492
+    "size": 4653492,
+    "shownotes": "你有没有想过一个问题——人类距离被AI取代，还有多远？有人说十年，有人说五年，但马斯克的答案是：明年。"
   },
   {
     "id": "ep069",
@@ -643,7 +679,7 @@
     "cover": "https://daikexing.work/episodes/covers/ai_071.jpg",
     "duration": "03:17",
     "size": 3158772,
-    "shownotes": "🎙️ 本期主题：微软从AI金主到挑战者：纳德拉警告背后的权力博弈\n金句钩子：\\\"你不能一边说这东西可能是武器，一边用尽一切资源建数据中心。\\\"\n完整摘要（3句）：\n- 微软CEO纳德拉警告AI权力过度集中，但微软本身是OpenAI最大投资方，这种批评充满矛盾\n- 微软正从\\\"最大支持者\\\"转变为\\\"最强竞争对手\\\"，重新定位为\\\"企业级中立AI操作层\\\"\n- AI行业正从\\\"技术军备竞赛\\\"进入\\\"应用生态战\\\"，企业客户最关心的是成本和安全，而非谁最强\n\nTimeline（可选）：\n- [2026年6月22日] 纳德拉接受《华尔街日报》采访，警告AI权力过度集中\n- [2025年] 美国四大科技公司承诺AI基础设施投资3000亿美元\n- [2026年1月] 纳德拉在达沃斯录制播客，谈AI竞争不是零和博弈\n\n核心要点（5+条）：\n- 纳德拉警告AI权力集中在少数公司，但微软本身是最大的AI投资者\n- 微软正从OpenAI支持者变成竞争对手，战略重心转向\\\"中立AI操作层\\\"\n- 批评者和被批评者都在建数据中心，双标矛盾显而易见\n- AI进入应用扩散期，企业客户要的是成本效益和供应链安全\n- 微软拥有全球最大的企业客户基础，在应用生态战中有天然优势\n- 真正的\\\"AI中立\\\"从未存在过，每家都在争夺生态主导权\n\n虾闯天下 · AI 科技创业日更"
+    "shownotes": "🎙️ 本期主题：微软从AI金主到挑战者：纳德拉警告背后的权力博弈\n金句钩子：\\\"你不能一边说这东西可能是武器，一边用尽一切资源建数据中心。\\\"\n完整摘要（3句）：\n- 微软CEO纳德拉警告AI权力过度集中，但微软本身是OpenAI最大投资方，这种批评充满矛盾\n- 微软正从\\\"最大支持者\\\"转变为\\\"最强竞争对手\\\"，重新定位为\\\"企业级中立AI操作层\\\"\n- AI行业正从\\\"技术军备竞赛\\\"进入\\\"应用生态战\\\"，企业客户最关心的是成本和安全，而非谁最强\nTimeline（可选）：\n- [2026年6月22日] 纳德拉接受《华尔街日报》采访，警告AI权力过度集中\n- [2025年] 美国四大科技公司承诺AI基础设施投资3000亿美元\n- [2026年1月] 纳德拉在达沃斯录制播客，谈AI竞争不是零和博弈\n核心要点（5+条）：\n- 纳德拉警告AI权力集中在少数公司，但微软本身是最大的AI投资者\n- 微软正从OpenAI支持者变成竞争对手，战略重心转向\\\"中立AI操作层\\\"\n- 批评者和被批评者都在建数据中心，双标矛盾显而易见\n- AI进入应用扩散期，企业客户要的是成本效益和供应链安全\n- 微软拥有全球最大的企业客户基础，在应用生态战中有天然优势\n- 真正的\\\"AI中立\\\"从未存在过，每家都在争夺生态主导权\n虾闯天下 · AI 科技创业日更"
   },
   {
     "id": "ep072",
@@ -698,7 +734,7 @@
     "cover": "https://daikexing.work/episodes/covers/ai_076.jpg",
     "duration": "04:33",
     "size": 1639032,
-    "shownotes": "\n本期主題：OpenAI 和 Anthropic 同月提交 IPO，標誌 AI 行業進入萬億估值公共市場時代\n金句鉤子：「兩家燒錢速度極快的公司，以近萬億美元的估值登陸二級市場，這件事本身就需要每一個投資者認真思考。」\n完整摘要（3句）：\n- OpenAI 和 Anthropic 在 2026 年 6 月相繼提交 IPO 申請，這是 AI 行業歷史性的資本化時刻\n- 兩家公司估值均接近或超過萬億美元，但均未盈利，上市是為獲取更大算力投入所需的資金\n- 業內人士已在減持，普通投資者在入場，這種錯位值得警惕\nTimeline（可選）：\n- [2026年5月] Anthropic 完成 650 億美元私募輪，估值 9650 億\n- [2026年5月5日] OpenAI 發布 GPT-5.5，設為 ChatGPT 默認模型\n- [2026年5月28日] Anthropic 發布 Claude Opus 4.8，多項基準全球第一\n- [2026年6月] OpenAI 和 Anthropic 相繼提交 IPO 申請\n- [2026年6月2-3日] 微軟 Build 2026 發布 7 款自研 MAI 模型\n核心要點（5+ 條）：\n- Anthropic 和 OpenAI 同月提交 IPO，AI 行業進入公共市場時代\n- Anthropic 最新估值 9650 億美元，年化收入達 470 億美元但仍虧損\n- Claude Opus 4.8 首個 ScienceQA 突破 75 分，編程能力超 GPT-5.5\n- Claude Code 年化收入 63 億美元，拿下 AI 編程市場 54% 份額\n- Anthropic 公開呼籲放緩 AI 研發，理由是 2028 年有 60% 概率實現 AI 自進化\n- OpenAI 同步提交 IPO 申請，矽谷 AI 軍備競賽轉向二級市場\n- 微軟 Build 2026 發布 7 款自研 MAI 模型，戰略擺脫 OpenAI 依賴\n- 機構過去六個月賣出 13 次買入 0 次，內部人士已在撤離\n- 中國軍團：DeepSeek V4 成本 GPT-5 的 1/30，MiniMax 啟動 IPO\n- AI 正在從私募市場轉向公共市場，散戶將首次直接參與 AI 萬億軍備競賽\n"
+    "shownotes": "本期主題：OpenAI 和 Anthropic 同月提交 IPO，標誌 AI 行業進入萬億估值公共市場時代\n金句鉤子：「兩家燒錢速度極快的公司，以近萬億美元的估值登陸二級市場，這件事本身就需要每一個投資者認真思考。」\n完整摘要（3句）：\n- OpenAI 和 Anthropic 在 2026 年 6 月相繼提交 IPO 申請，這是 AI 行業歷史性的資本化時刻\n- 兩家公司估值均接近或超過萬億美元，但均未盈利，上市是為獲取更大算力投入所需的資金\n- 業內人士已在減持，普通投資者在入場，這種錯位值得警惕\nTimeline（可選）：\n- [2026年5月] Anthropic 完成 650 億美元私募輪，估值 9650 億\n- [2026年5月5日] OpenAI 發布 GPT-5.5，設為 ChatGPT 默認模型\n- [2026年5月28日] Anthropic 發布 Claude Opus 4.8，多項基準全球第一\n- [2026年6月] OpenAI 和 Anthropic 相繼提交 IPO 申請\n- [2026年6月2-3日] 微軟 Build 2026 發布 7 款自研 MAI 模型\n核心要點（5+ 條）：\n- Anthropic 和 OpenAI 同月提交 IPO，AI 行業進入公共市場時代\n- Anthropic 最新估值 9650 億美元，年化收入達 470 億美元但仍虧損\n- Claude Opus 4.8 首個 ScienceQA 突破 75 分，編程能力超 GPT-5.5\n- Claude Code 年化收入 63 億美元，拿下 AI 編程市場 54% 份額\n- Anthropic 公開呼籲放緩 AI 研發，理由是 2028 年有 60% 概率實現 AI 自進化\n- OpenAI 同步提交 IPO 申請，矽谷 AI 軍備競賽轉向二級市場\n- 微軟 Build 2026 發布 7 款自研 MAI 模型，戰略擺脫 OpenAI 依賴\n- 機構過去六個月賣出 13 次買入 0 次，內部人士已在撤離\n- 中國軍團：DeepSeek V4 成本 GPT-5 的 1/30，MiniMax 啟動 IPO\n- AI 正在從私募市場轉向公共市場，散戶將首次直接參與 AI 萬億軍備競賽"
   },
   {
     "id": "ep077",
@@ -742,7 +778,7 @@
     "cover": "https://daikexing.work/episodes/covers/ai_080.jpg",
     "duration": "04:43",
     "size": 1699728,
-    "shownotes": "\n本期主题：出口管制与新模型密集发布，AI 竞争进入新阶段\n金句钩子：「Token 是 AI 时代的新大宗商品，是新货币——黄仁勋说的这句话，今天听来格外刺耳」\n完整摘要（3句）：\n- 美国出口管制令迫使 Anthropic 下架两款旗舰模型，同一天 Claude Sonnet 5 照常发布，揭示 AI 竞争从算力战转向模型战的新阶段\n- DeepSeek、阿里千问 Qwen3.6-Plus 等国产模型加速 Agent 能力突破，中国 AI 走出差异化垂直深耕路线\n- Token 正在成为 AI 时代的新货币，全球 AI 竞争进入规则重塑期，从业者需要从宏观叙事回归产品价值\nTimeline（可选）：\n- [Day 1] Anthropic 发布 Claude Sonnet 5，同日美国出口管制令生效\n- [Day 1] Anthropic 被迫在全球下架两款旗舰模型\n- [近期] DeepSeek 专家模式更新，Qwen3.6-Plus 强化 Agent 编程能力\n核心要点（5+ 条）：\n- Claude Sonnet 5 发布代表 AI 推理能力进入新阶段\n- 出口管制从卡芯片升级到卡模型，AI 竞争主战场转移\n- 管制加速中国 AI 技术自主进程\n- DeepSeek 专家模式走垂直深耕路线，不再正面 PK GPT\n- Token 已成为 AI 时代核心资产，黄仁勋的定义正在兑现\n- 国内日均 Token 调用量已超 140 万亿，增速惊人\n- AI 战争是规则制定权之争，不是单纯的技术之争\n- 从业者应聚焦用 AI 解决具体问题，而非追逐宏观叙事\n虾闯天下 · AI 科技创业日更\n"
+    "shownotes": "本期主题：出口管制与新模型密集发布，AI 竞争进入新阶段\n金句钩子：「Token 是 AI 时代的新大宗商品，是新货币——黄仁勋说的这句话，今天听来格外刺耳」\n完整摘要（3句）：\n- 美国出口管制令迫使 Anthropic 下架两款旗舰模型，同一天 Claude Sonnet 5 照常发布，揭示 AI 竞争从算力战转向模型战的新阶段\n- DeepSeek、阿里千问 Qwen3.6-Plus 等国产模型加速 Agent 能力突破，中国 AI 走出差异化垂直深耕路线\n- Token 正在成为 AI 时代的新货币，全球 AI 竞争进入规则重塑期，从业者需要从宏观叙事回归产品价值\nTimeline（可选）：\n- [Day 1] Anthropic 发布 Claude Sonnet 5，同日美国出口管制令生效\n- [Day 1] Anthropic 被迫在全球下架两款旗舰模型\n- [近期] DeepSeek 专家模式更新，Qwen3.6-Plus 强化 Agent 编程能力\n核心要点（5+ 条）：\n- Claude Sonnet 5 发布代表 AI 推理能力进入新阶段\n- 出口管制从卡芯片升级到卡模型，AI 竞争主战场转移\n- 管制加速中国 AI 技术自主进程\n- DeepSeek 专家模式走垂直深耕路线，不再正面 PK GPT\n- Token 已成为 AI 时代核心资产，黄仁勋的定义正在兑现\n- 国内日均 Token 调用量已超 140 万亿，增速惊人\n- AI 战争是规则制定权之争，不是单纯的技术之争\n- 从业者应聚焦用 AI 解决具体问题，而非追逐宏观叙事\n虾闯天下 · AI 科技创业日更"
   },
   {
     "id": "ep081",
@@ -764,7 +800,7 @@
     "cover": "https://daikexing.work/episodes/covers/ai_082.jpg",
     "duration": "06:06",
     "size": 2196960,
-    "shownotes": "\n本期主题：具身智能商用大爆发——机器人从实验室走向规模化上岗\n金句钩子：「15000台下线背后，具身智能正在完成从技术概念到工业现实的惊险一跃」\n完整摘要（3句）：\n- 智元机器人精灵G2三个月内从10000台增长到15000台，刷新全球具身智能机器人量产速度纪录\n- 国家电网68亿、银河通用2.36亿等大单密集落地，具身智能正从示范走向规模化商用\n- 四足机器人与轮式机械臂率先跑通商业闭环，具身智能商用元年正在加速到来\nTimeline（可选）：\n- [事件1] 智元机器人精灵G2第15000台下线（2026年7月）\n- [事件2] 国家电网68亿具身智能机器人采购订单（2026年H1）\n- [事件3] 银河通用机器人2.3592亿元中标（2026年H1）\n- [事件4] 两部门启动人形机器人实景实训专项行动（2026年6月）\n- [事件5] 上海如身机器人完成亿元Pre-A轮融资（2026年7月）\n- [事件6] 星炽动力完成小批量试产下线（2026年7月）\n核心要点（6条）：\n- 具身智能正从技术验证走向规模化商用，机器人开始真正「打工干活「\n- 四足机器人和轮式机器人比双足人形机器人更早实现商业落地\n- 大模型让机器人具备理解开放任务的能力，是具身智能的核心驱动力\n- 具身智能应用场景正从工业向服务业延伸，养老场景受到资本关注\n- 具身智能竞争焦点正在从技术突破转向量产交付能力\n- 具身智能背后融合大模型、多模态、端侧AI三大技术方向，与AI从业者职业路径高度相关\n虾闯天下 · AI 科技创业日更\n"
+    "shownotes": "本期主题：具身智能商用大爆发——机器人从实验室走向规模化上岗\n金句钩子：「15000台下线背后，具身智能正在完成从技术概念到工业现实的惊险一跃」\n完整摘要（3句）：\n- 智元机器人精灵G2三个月内从10000台增长到15000台，刷新全球具身智能机器人量产速度纪录\n- 国家电网68亿、银河通用2.36亿等大单密集落地，具身智能正从示范走向规模化商用\n- 四足机器人与轮式机械臂率先跑通商业闭环，具身智能商用元年正在加速到来\nTimeline（可选）：\n- [事件1] 智元机器人精灵G2第15000台下线（2026年7月）\n- [事件2] 国家电网68亿具身智能机器人采购订单（2026年H1）\n- [事件3] 银河通用机器人2.3592亿元中标（2026年H1）\n- [事件4] 两部门启动人形机器人实景实训专项行动（2026年6月）\n- [事件5] 上海如身机器人完成亿元Pre-A轮融资（2026年7月）\n- [事件6] 星炽动力完成小批量试产下线（2026年7月）\n核心要点（6条）：\n- 具身智能正从技术验证走向规模化商用，机器人开始真正「打工干活「\n- 四足机器人和轮式机器人比双足人形机器人更早实现商业落地\n- 大模型让机器人具备理解开放任务的能力，是具身智能的核心驱动力\n- 具身智能应用场景正从工业向服务业延伸，养老场景受到资本关注\n- 具身智能竞争焦点正在从技术突破转向量产交付能力\n- 具身智能背后融合大模型、多模态、端侧AI三大技术方向，与AI从业者职业路径高度相关\n虾闯天下 · AI 科技创业日更"
   },
   {
     "id": "ep083",
