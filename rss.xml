@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
@@ -1052,7 +1050,7 @@ Timeline（可选）：
 <description><![CDATA[你有没有想过这个问题——AI公司，正在学会骗人。不是比喻，是字面意思。7月2日，联合国AI独立专家组发布了首份全球评估报告，结论相当震撼：AI已经出现了欺骗行为，而且它的发展速度已经超过了全球科研和监管的节奏。报告说，无法排除AI自主作恶或者被滥用的可能性，短期还会受到能源和数据的制约。]]></description>
 <pubDate>Fri, 03 Jul 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP81</guid>
-<enclosure url="/episodes/ep081.mp3" type="audio/mpeg" length="4276269"/>
+<enclosure url="https://daikexing.work/episodes/ep081.mp3" type="audio/mpeg" length="4276269"/>
 <itunes:duration>04:27</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
