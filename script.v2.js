@@ -7,11 +7,26 @@ function renderEpisodes() {
   const list = document.getElementById('episode-list');
   if(!list) return;
   list.innerHTML = '';
-  EPISODES_DATA.forEach(ep => {
-    const d = document.createElement('div');
-    d.className = 'episode-card';
-    d.innerHTML = `<div class="ep-date">${formatDate(ep.date)}</div><div class="ep-title"><a href="${ep.audioUrl}">${ep.title}</a></div><div class="ep-duration">${ep.duration||''}</div>`;
-    list.appendChild(d);
+  // Newest first
+  EPISODES_DATA.slice().reverse().forEach(ep => {
+    const card = document.createElement('div');
+    card.className = 'episode-card';
+
+    const coverWrap = document.createElement('div');
+    coverWrap.className = 'ep-cover-wrap';
+    const coverImg = document.createElement('img');
+    coverImg.className = 'ep-cover';
+    coverImg.src = ep.cover || '';
+    coverImg.alt = ep.title;
+    coverWrap.appendChild(coverImg);
+
+    const body = document.createElement('div');
+    body.className = 'episode-body';
+    body.innerHTML = `<div class="ep-title"><a href="${ep.audioUrl}">${ep.title}</a></div><div class="ep-date">${formatDate(ep.date)}</div><div class="ep-duration">${ep.duration||''}</div>`;
+
+    card.appendChild(coverWrap);
+    card.appendChild(body);
+    list.appendChild(card);
   });
   const total = EPISODES_DATA.length;
   const count = document.getElementById('ep-count');
