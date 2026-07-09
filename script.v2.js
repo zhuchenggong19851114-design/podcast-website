@@ -20,7 +20,7 @@ function renderEpisodes() {
   var countEl = document.getElementById('ep-count');
   if (countEl) countEl.textContent = episodes.length + ' 期';
 
-  episodes.slice().reverse().forEach(function(ep) {
+  episodes.forEach(function(ep) {
     var card = document.createElement('div');
     card.className = 'episode-card';
     card.style.opacity = '0';
