@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
@@ -1256,6 +1258,42 @@ Timeline（可选）：
 更多AI创业洞察，锁定虾闯天下，我们下期见。
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_086.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP087｜阿里急了：Claude Code安全门事件，Anthropic紧急回应]]></title>
+<description><![CDATA[本期主题：Claude Code被曝安全后门，阿里率先内部封杀，开发者数据安全敲响警钟]]></description>
+<pubDate>Thu, 09 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP87</guid>
+<enclosure url="https://daikexing.work/episodes/ep087.mp3" type="audio/mpeg" length="2716"/>
+<itunes:duration>4:26</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[title: EP087｜阿里急了：Claude Code安全门事件，Anthropic紧急回应
+本期主题：Claude Code被曝安全后门，阿里率先内部封杀，开发者数据安全敲响警钟
+金句钩子：「你每天都在用的AI编程工具，可能一直在偷偷监控你」
+完整摘要（3句）：
+- 工信部国家漏洞数据库曝光Claude Code版本存在未披露的安全后门，可未经授权传输用户地理位置和身份信息
+- Anthropic回应称是「实验性「防盗版措施，但未解释为何从未公开说明，7月2号已移除该功能
+- 阿里率先行动，宣布从7月10号起禁止员工在办公环境使用Claude Code，开发者需尽快自查版本
+Timeline：
+- [4月2日] Claude Code 2.1.91版本发布，隐藏检测机制上线
+- [6月底] 开发者逆向工程时发现后门
+- [7月2日] Anthropic发布新版本，移除检测功能
+- [7月初] 工信部NVDB发布安全风险预警
+- [7月10日] 阿里内部禁令生效
+核心要点（5+ 条）：
+- Claude Code 2.1.91至2.1.196版本存在未披露后门，可获取用户地理位置和身份信息
+- 后门专门检测系统时区和代理服务器，疑似针对中国用户定向监控
+- Anthropic称是「实验性「防账号转售和模型蒸馏攻击措施，但从未公开说明
+- 事件由开发者逆向发现，非官方主动披露，引发信任危机
+- 阿里巴巴率先反应，7月10日起禁止员工在办公环境使用
+- 开发者应立即检查版本并更新，同时建立AI工具安全意识
+- 此事件折射AI时代数据主权问题：工具越深度介入工作，风险越高
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_087.jpg"/>
 </item>
 </channel>
 </rss>
