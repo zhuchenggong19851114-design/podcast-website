@@ -102,6 +102,8 @@ async function init() {
     const res = await fetch('/episodes.json');
     if (!res.ok) throw new Error('加载失败');
     episodes = await res.json();
+    // Show newest episode first (reverse chronological order)
+    episodes.reverse();
   } catch (e) {
     var container = document.getElementById('episode-list');
     if (container) container.innerHTML = '<p style="text-align:center;padding:4rem;color:var(--text-muted)">节目加载失败，请刷新重试</p>';
