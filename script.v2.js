@@ -102,7 +102,8 @@ async function init() {
     const res = await fetch('/episodes.json');
     if (!res.ok) throw new Error('加载失败');
     episodes = await res.json();
-    // Show newest episode first (reverse chronological order)
+    // IMPORTANT: episodes.json is stored EP001→EP088 ascending. Without .reverse(), EP088 shows LAST. 
+// Show newest episode first (reverse chronological order)
     episodes.reverse();
   } catch (e) {
     var container = document.getElementById('episode-list');
