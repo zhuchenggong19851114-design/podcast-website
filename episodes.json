@@ -969,13 +969,12 @@
   },
   {
     "id": "ep089",
-    "ep": 89,
     "title": "EP089｜凭什么OpenAI敢喊8520亿？ChatGPT Work正在接管你的工作流",
     "date": "2026-07-11",
-    "description": "本期主题：OpenAI发布ChatGPT Work，GPT-5.6驱动的AI Agent如何重新定义知识工作",
+    "description": "",
     "audioUrl": "https://daikexing.work/episodes/ep089.mp3",
     "cover": "https://daikexing.work/episodes/covers/ai_089.jpg",
-    "duration": "06:03",
+    "duration": "6:03",
     "size": 5578586,
     "shownotes": "title: EP089｜凭什么OpenAI敢喊8520亿？ChatGPT Work正在接管你的工作流\n本期主题：OpenAI发布ChatGPT Work，GPT-5.6驱动的AI Agent如何重新定义知识工作\n金句钩子：「AI不是在替代你的岗位，是一个功能一个功能地接管那些最让你烦躁的工作。」\n完整摘要（3句）：\n- OpenAI发布ChatGPT Work，基于GPT-5.6的云端Agent，可自主操作邮件、日历、Slack、GitHub\n- 该产品标志着OpenAI从聊天工具向工作平台的战略转型，支撑其8520亿美元IPO估值\n- ChatGPT Work采用MCP协议连接外部生态，用低门槛策略对垂直Agent赛道形成降维打击\nTimeline：\n- [00:00] 开场：AI公司能贵到什么程度？8520亿美元的答案\n- [02:30] ChatGPT Work是什么：一个持续运行的云端虚拟员工\n- [05:00] 真实案例：30秒安排10个bug bash背后的执行逻辑\n- [08:00] 技术底座：GPT-5.6的十万token上下文与规划推理能力\n- [10:00] 格局影响：OpenAI正在成为下一个操作系统级平台\n- [12:00] 留给垂直Agent的时间不多了\n核心要点（7条）：\n- OpenAI向SEC秘密提交S-1，估值区间曝光：7300亿至8520亿美元\n- ChatGPT Work是OpenAI冲击IPO的核心产品\n- 持久虚拟机架构：云端运行，不依赖本地设备\n- MCP协议打通Gmail、Slack、Calendar、GitHub等外部服务\n- GPT-5.6支持超长上下文理解，可跨系统综合规划\n- OpenAI用低门槛策略对垂直Agent形成降维打击\n- AI替代白领的路径：不是替代岗位，而是一个功能一个功能接管机械任务\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
   }
