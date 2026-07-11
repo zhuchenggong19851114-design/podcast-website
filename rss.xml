@@ -1563,5 +1563,35 @@ Timeline：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_089.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP090｜Agent为什么爆火：GitHub最火AI编程框架揭秘]]></title>
+<description><![CDATA[]]></description>
+<pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP90</guid>
+<enclosure url="https://daikexing.work/episodes/ep090.mp3" type="audio/mpeg" length="5306124"/>
+<itunes:duration>5:49</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[title: EP090｜Agent为什么爆火：GitHub最火AI编程框架揭秘
+本期主题：多agent协作如何重塑AI编程
+金句钩子：GitHub两周8万星，一个框架让AI编程从「写代码「变成「建团队「
+完整摘要（3句）：
+- agent-actions横空出世，两周8万星，解决了多agent协作的核心难题
+- 它用Action Graph和Context Bus把分布式agent调度变成了可控可调试的工程问题
+- 这个爆火背后是AI编程范式从单agent到多agent的系统级转变
+Timeline：
+- [2026年6月] agent-actions发布，两周冲到8万星
+- [2026年6月] GitHub Trending连续霸榜
+- [2026年7月] OpenAI发布Swarm，大厂正式入局
+核心要点：
+- 单agent帮熟练工，多agent帮团队
+- Action Graph解决任务拆解，Context Bus解决状态管理
+- agent-actions胜在开放生态，不绑定任何大模型或云平台
+- 门槛降到「会说话就会用「，自然语言任务描述
+- 大厂正在抢定义权，下一代开发范式之争已经开始
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_090.jpg"/>
+</item>
 </channel>
 </rss>
