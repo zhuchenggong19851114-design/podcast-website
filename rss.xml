@@ -1526,5 +1526,40 @@ NYT诉OpenAI这个案子，可能只是开始。
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_088.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP089｜AI编程Agent大爆发：GitHub爆火的agent-skills是什么神仙框架？（← 这一行必须有，供 RSS 提取标题用）]]></title>
+<description><![CDATA[- GitHub上AI编程智能体相关项目爆发式增长，agent-skills等项目单日新增star破千 - 以Google Stitch Skills为代表的技能框架正在重新定义AI编程工具的能力边界 - 这场竞争的本质不是比谁的模型更强，而是比谁的技能生态更丰富]]></description>
+<pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP89</guid>
+<enclosure url="https://daikexing.work/episodes/ep089.mp3" type="audio/mpeg" length="688188"/>
+<itunes:duration>00:45</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[title: EP089｜AI编程Agent大爆发：GitHub爆火的agent-skills是什么神仙框架？（← 这一行必须有，供 RSS 提取标题用）
+本期主题：AI编程工具进入技能生态争夺战
+金句钩子：「AI编程的竞争，终于从模型本身，蔓延到了技能生态。」
+完整摘要（3句）：
+- GitHub上AI编程智能体相关项目爆发式增长，agent-skills等项目单日新增star破千
+- 以Google Stitch Skills为代表的技能框架正在重新定义AI编程工具的能力边界
+- 这场竞争的本质不是比谁的模型更强，而是比谁的技能生态更丰富
+Timeline（可选）：
+- [00:00] 开场：GitHub上的AI编程项目突然爆发
+- [03:00] 现象：agent-skills和stitch-skills同日爆发
+- [08:00] 分析：为什么技能生态成为新战场
+- [12:00] 展望：AI编程工具的未来格局
+核心要点（5+ 条）：
+- GitHub trending显示AI coding agent项目热度骤升
+- agent-skills专注工程化技能，号称「生产级「AI编程技能库
+- Google stitch-skills来自实验室，主打开放标准兼容
+- OfficeCLI等垂直领域AI工具也在爆发
+- 技能框架的竞争本质是生态入口的竞争
+- MCP协议成为事实标准，打通AI工具和数据源
+- 端侧AI和具身智能仍是长期趋势
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_089.jpg"/>
+</item>
 </channel>
 </rss>
