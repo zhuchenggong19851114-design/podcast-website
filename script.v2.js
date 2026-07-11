@@ -6,6 +6,42 @@ function formatDate(d) {
   return `${y}年${parseInt(m)}月${parseInt(day)}日`;
 }
 
+function parseTimestamp(sec) {
+  const h = Math.floor(sec / 3600);
+  const m = Math.floor((sec % 3600) / 60);
+  const s = sec % 60;
+  if (h > 0) {
+    return `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  }
+  return `${m}:${String(s).padStart(2,'0')}`;
+}
+
+function renderShownotesWithTimestamps(shownotes) {
+  if (!shownotes) return '';
+  // 把 [MM:SS] 或 [HH:MM:SS] 格式的时间戳替换为可点击的 a 标签
+  var processed = shownotes.replace(/\[(\d{1,2}:\d{2}(?::\d{2})?)\]/g, function(match, ts) {
+    var parts = ts.split(':').map(Number);
+    var sec = 0;
+    if (parts.length === 3) {
+      sec = parts[0]*3600 + parts[1]*60 + parts[2];
+    } else {
+      sec = parts[0]*60 + parts[1];
+    }
+    return '<a class="ts-link" href="javascript:void(0)" data-sec="' + sec + '" onclick="seekTo(' + sec + ', this)">' + match + '</a>';
+  });
+  return processed;
+}
+
+function seekTo(sec, el) {
+  // 找到最近的祖先 card 里的 audio 元素
+  var card = el.closest('.episode-card');
+  if (!card) return;
+  var audio = card.querySelector('audio');
+  if (!audio) return;
+  audio.currentTime = sec;
+  audio.play();
+}
+
 function renderEpisodes() {
   const container = document.getElementById('episode-list');
   if (!container) return;
@@ -62,7 +98,8 @@ function renderEpisodes() {
     if (ep.shownotes) {
       var snDiv = document.createElement('div');
       snDiv.className = 'ep-footer';
-      snDiv.innerHTML = '<details class="shownotes"><summary>Show Notes</summary><div class="shownotes-content">' + ep.shownotes.replace(/\n/g, '<br>') + '</div></details>';
+      var shownotesHtml = '<details class="shownotes"><summary>Show Notes</summary><div class="shownotes-content">' + renderShownotesWithTimestamps(ep.shownotes).replace(/\n/g, '<br>') + '</div></details>';
+      snDiv.innerHTML = shownotesHtml;
       body.appendChild(snDiv);
     }
 

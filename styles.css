@@ -426,6 +426,23 @@ audio {
 }
 
 /* =========================================
+   TIMESTAMP LINKS (clickable timeline)
+   ========================================= */
+.ts-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+  font-weight: 500;
+  border-bottom: 1px dashed var(--accent);
+  transition: color 0.15s, border-color 0.15s;
+}
+.ts-link:hover {
+  color: var(--accent-hover, #5b8df0);
+  border-bottom-style: solid;
+}
+
+/* =========================================
    FOOTER
    ========================================= */
 footer {
