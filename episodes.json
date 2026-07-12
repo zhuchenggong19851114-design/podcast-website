@@ -988,5 +988,16 @@
     "duration": "5:49",
     "size": 5306124,
     "shownotes": "title: EP090｜Agent为什么爆火：GitHub最火AI编程框架揭秘\n本期主题：多agent协作如何重塑AI编程\n金句钩子：GitHub两周8万星，一个框架让AI编程从「写代码「变成「建团队「\n完整摘要（3句）：\n- agent-actions横空出世，两周8万星，解决了多agent协作的核心难题\n- 它用Action Graph和Context Bus把分布式agent调度变成了可控可调试的工程问题\n- 这个爆火背后是AI编程范式从单agent到多agent的系统级转变\nTimeline：\n- [2026年6月] agent-actions发布，两周冲到8万星\n- [2026年6月] GitHub Trending连续霸榜\n- [2026年7月] OpenAI发布Swarm，大厂正式入局\n核心要点：\n- 单agent帮熟练工，多agent帮团队\n- Action Graph解决任务拆解，Context Bus解决状态管理\n- agent-actions胜在开放生态，不绑定任何大模型或云平台\n- 门槛降到「会说话就会用「，自然语言任务描述\n- 大厂正在抢定义权，下一代开发范式之争已经开始\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n虾闯天下 · AI 科技创业日更"
+  },
+  {
+    "id": "ep091",
+    "title": "EP091｜凭什么OpenAI创始人投奔Anthropic？5大巨头精英流失真相",
+    "date": "2026-07-12",
+    "description": "本期主题：一句话概括2026年AI人才流向\n金句钩子：谷歌单日蒸发千亿背后，是AI人才战争最残酷的真相\n完整摘要（3句）：",
+    "audioUrl": "https://daikexing.work/episodes/ep091.mp3",
+    "cover": "https://daikexing.work/episodes/covers/ai_091.jpg",
+    "duration": "04:13",
+    "size": 3880537,
+    "shownotes": "本期主题：一句话概括2026年AI人才流向\n金句钩子：谷歌单日蒸发千亿背后，是AI人才战争最残酷的真相\n完整摘要（3句）：\n- 2026年7月，Anthropic完成对OpenAI、DeepMind、微软、xAI和苹果五家公司核心人才的系统性挖角，OpenAI联合创始人Karpathy、微软Azure AI总裁Boyd等顶级人物纷纷加盟\n- 谷歌DeepMind两名核心研究员Jonas Adler和Alexander Pritzel被曝即将加入Anthropic，消息传出后谷歌股价应声下跌\n- 人才流动背后是资本底气、技术方向和组织氛围的三重较量，短期看Anthropic建立了科学AI赛道的人才壁垒，长期看竞争反而可能进一步加剧\n\nTimeline：\n- [00:00] 开场/引入：一个人离开如何引发千亿市值蒸发\n- [02:30] 事件梳理：Karpathy、Boyd、DeepMind研究员纷纷加盟Anthropic\n- [05:00] 深层分析：Anthropic凭什么赢？资本、方向、意义感\n- [08:00] 谷歌反击：挽留计划能否阻挡人才流失\n- [10:00] 行业影响：短期加速集中，长期倒逼竞争\n\n核心要点（5+ 条）：\n- 2026年AI人才呈现单向流动态势，主要去向是Anthropic\n- Anthropic已完成对OpenAI、微软、xAI、DeepMind和苹果五家公司人才的系统性挖角\n- OpenAI联合创始人Andrej Karpathy加入Anthropic，被认为与「科学AI「方向相关\n- 微软Azure AI总裁Eric Boyd加入Anthropic，显示其B端战略的人才支撑\n- DeepMind研究员Jonas Adler和Alexander Pritzel的离开导致谷歌股价单日蒸发显著\n- 谷歌挽留计划包括提高薪酬上限、独立带队权和「Gemini Next「项目\n- 人才战争短期加速能力集中，长期倒逼行业寻找差异化突破路径\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
   }
 ]
