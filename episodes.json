@@ -999,5 +999,16 @@
     "duration": "04:13",
     "size": 3880537,
     "shownotes": "本期主题：一句话概括2026年AI人才流向\n金句钩子：谷歌单日蒸发千亿背后，是AI人才战争最残酷的真相\n完整摘要（3句）：\n- 2026年7月，Anthropic完成对OpenAI、DeepMind、微软、xAI和苹果五家公司核心人才的系统性挖角，OpenAI联合创始人Karpathy、微软Azure AI总裁Boyd等顶级人物纷纷加盟\n- 谷歌DeepMind两名核心研究员Jonas Adler和Alexander Pritzel被曝即将加入Anthropic，消息传出后谷歌股价应声下跌\n- 人才流动背后是资本底气、技术方向和组织氛围的三重较量，短期看Anthropic建立了科学AI赛道的人才壁垒，长期看竞争反而可能进一步加剧\n\nTimeline：\n- [00:00] 开场/引入：一个人离开如何引发千亿市值蒸发\n- [02:30] 事件梳理：Karpathy、Boyd、DeepMind研究员纷纷加盟Anthropic\n- [05:00] 深层分析：Anthropic凭什么赢？资本、方向、意义感\n- [08:00] 谷歌反击：挽留计划能否阻挡人才流失\n- [10:00] 行业影响：短期加速集中，长期倒逼竞争\n\n核心要点（5+ 条）：\n- 2026年AI人才呈现单向流动态势，主要去向是Anthropic\n- Anthropic已完成对OpenAI、微软、xAI、DeepMind和苹果五家公司人才的系统性挖角\n- OpenAI联合创始人Andrej Karpathy加入Anthropic，被认为与「科学AI「方向相关\n- 微软Azure AI总裁Eric Boyd加入Anthropic，显示其B端战略的人才支撑\n- DeepMind研究员Jonas Adler和Alexander Pritzel的离开导致谷歌股价单日蒸发显著\n- 谷歌挽留计划包括提高薪酬上限、独立带队权和「Gemini Next「项目\n- 人才战争短期加速能力集中，长期倒逼行业寻找差异化突破路径\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
+  },
+  {
+    "id": "ep092",
+    "title": "NOT_FOUND",
+    "date": "2026-07-13",
+    "description": "本期主题：GPT-5.6 发布后 ChatGPT Work 如何重塑职场 AI 工作流\n金句钩子：「AI 不是给你建议的参谋，而是帮你干活的执行者——这个转变，正在发生。」\n完整摘要（3句）：",
+    "audioUrl": "https://daikexing.work/episodes/ep092.mp3",
+    "cover": "https://daikexing.work/episodes/covers/ai_092.jpg",
+    "duration": "06:10",
+    "size": 5656550,
+    "shownotes": "本期主题：GPT-5.6 发布后 ChatGPT Work 如何重塑职场 AI 工作流\n金句钩子：「AI 不是给你建议的参谋，而是帮你干活的执行者——这个转变，正在发生。」\n完整摘要（3句）：\n- OpenAI 发布 ChatGPT Work，基于 GPT-5.6，云端持久化虚拟机连接 Gmail、Slack、日历等职场工具，能自动完成多步骤复杂任务\n- Plus 用户也将陆续解锁，这不是企业专属玩具，普通人也能用 AI 接管工作流\n- AI 第一次真正从「参谋」变成「执行者」，打工人需要重新思考自己和 AI 的分工\nTimeline（精细时间戳，可跳着听）：\n- [00:00] 开场，「每次 AI 出大事朋友圈转发最快的永远是那类标题」\n- [00:20] 转折，「这期不一样，7月10日 OpenAI 扔出了真正的深水炸弹」\n- [00:40] 要点1展开，ChatGPT Work 的核心逻辑：云端虚拟机 + 多系统连接\n- [01:20] 要点1续，OpenAI 内部案例：测试周期从三周压缩到两天\n- [02:00] 要点2展开，Plus 用户也能用，这不是企业专属玩具\n- [02:30] 要点2续，「参谋 vs 执行者」的本质变化\n- [03:00] 要点3展开，GPT-5.6 + MCP 插件的技术架构\n- [03:30] 要点3续，手机上用 AI 建网站，门槛拉到地心\n- [04:00] 隐私问题，AI 读取 Gmail/Slack 的风险与边界\n- [04:30] 尾声，8520亿估值背后的逻辑，打工人是机会还是风险\n- [05:00] 行动号召，你准备好了吗\n核心要点（5+ 条）：\n- ChatGPT Work 是 OpenAI 第一次把 AI 从「问答工具」变成「工作执行平台」\n- 云端持久化虚拟机是核心架构，24 小时在线，不依赖本地设备\n- MCP 插件打通 Gmail、Slack、Google Calendar、GitHub，支持多系统协同\n- Plus 用户即将解锁，AI 工作流不再是大企业专属\n- GPT-5.6 不只是语言模型，是能操作工具、执行任务的 Agent\n- 手机上用 AI 建网站并分享，「做东西」的门槛被彻底拉低\n- 隐私问题是最大风险点：AI 读取内部数据的边界需要企业自己判断\n🔮 彩蛋预告：\n下期｜一个你可能正在头疼的问题，我们找到了答案。\n先关注，别迷路，准时来听。\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
   }
 ]
