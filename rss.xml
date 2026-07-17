@@ -1817,5 +1817,53 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_095.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP096｜凭什么54%企业已出事？Agent安全风暴背后的5个致命漏洞]]></title>
+<description><![CDATA[本期主题：AI Agent安全危机：54%企业已中招，5个致命漏洞全拆解
+金句钩子：「你的Agent现在能干什么，你可能根本不知道——这才是最可怕的地方。」
+完整摘要（3句）：]]></description>
+<pubDate>Fri, 17 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP96</guid>
+<enclosure url="https://daikexing.work/episodes/ep096.mp3" type="audio/mpeg" length="2983675"/>
+<itunes:duration>03:15</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：AI Agent安全危机：54%企业已中招，5个致命漏洞全拆解
+金句钩子：「你的Agent现在能干什么，你可能根本不知道——这才是最可怕的地方。」
+完整摘要（3句）：
+- 最新调研覆盖107家企业，54%已发生Agent安全事故，凭证共享和权限失控是重灾区。
+- 企业AI安全建设严重滞后于Agent落地速度，大多数仍在用「上一代工具防这一代威胁「。
+- 破局关键不是买更多安全产品，而是先建立Agent专属的评估体系和权限边界。
+
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一句话抓住注意力」
+- [00:10] 转折/问题抛出，「先说结论」
+- [00:30] 漏洞1：凭证共享——集体户口本的风险
+- [01:00] 漏洞2：重进攻轻防守——战术代差
+- [01:30] 漏洞3：数据边界模糊——管理盲区
+- [02:00] 漏洞4：评估体系滞后——没有标准的赛车
+- [02:30] 漏洞5：人的问题——最大风险源
+- [03:00] 三个字破局：慢一点
+- [03:30] 结尾+行动号召
+
+核心要点（5+ 条）：
+- 54%的企业已发生AI Agent安全事故，数据来源覆盖107家企业调研
+- 致命漏洞1：凭证共享，多个Agent共用同一账号，缺乏身份隔离
+- 致命漏洞2：防御体系落后，AI攻击者已在用Agent进攻，企业还在用传统工具防守
+- 致命漏洞3：数据权限边界模糊，Agent可访问范围比IT部门认知更宽
+- 致命漏洞4：缺乏Agent专属评估体系，上线后无法判断安全状态
+- 致命漏洞5：人员安全意识不足，误操作是最大风险源之一
+- 破局路径：身份隔离、最小权限、持续监控、场景评估
+- 核心认知：AI Agent安全不能靠买买买解决，需要管理框架同步升级
+
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_096.jpg"/>
+</item>
 </channel>
 </rss>
