@@ -1865,5 +1865,52 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_096.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP097｜GoogleGemini 3.5 Pro跳票真相：为什么Google的AI船票正在失效？]]></title>
+<description><![CDATA[本期主题：Google Gemini 3.5 Pro跳票背后，藏着Google AI战略的系统性危机
+金句钩子：「Google有全世界最多的AI论文引用量，却连一个6月发布的模型都准时交不出来。」
+完整摘要（3句）：]]></description>
+<pubDate>Sat, 18 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP97</guid>
+<enclosure url="https://daikexing.work/episodes/ep097.mp3" type="audio/mpeg" length="4679708"/>
+<itunes:duration>5:04</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Google Gemini 3.5 Pro跳票背后，藏着Google AI战略的系统性危机
+金句钩子：「Google有全世界最多的AI论文引用量，却连一个6月发布的模型都准时交不出来。」
+完整摘要（3句）：
+- Google Gemini 3.5 Pro原定6月发布跳票至今，内部编程能力仍未达「全面超越GPT-4o「的标准。
+- 深层原因不是技术落后，而是Google分散的研发体系导致决策效率低下，技术储备无法高效转化为产品。
+- 在OpenAI和Anthropic的夹击下，Google的AI商业化正面临模式被颠覆、开发者生态流失、估值重写的三重压力。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「Google的旗舰模型跳票了，这不只是产品问题」
+- [00:20] 事件本身，Gemini 3.5 Pro 6月发布至今未发布
+- [00:50] 为什么重要，Google在I/O上高调宣布，现在尴尬了
+- [01:20] 深层尴尬，对标GPT-4o是去年对手，不是当前最高水平
+- [02:00] 结构性问题，Google研发体系分散，Brain+DeepMind+Cloud各搞各的
+- [02:40] 对比OpenAI和Anthropic，短决策链打集团军
+- [03:15] 不是缺技术，是技术储备变不成产品战斗力
+- [04:00] 商业模式两难，AI颠覆自身搜索广告现金牛
+- [04:30] 开发者生态流失，TensorFlow时代终结，PyTorch成为主流
+- [05:00] 估值风险，AI高投入但产出存疑
+- [05:30] Google翻盘的可能，多模态+分发渠道护城河依然在
+- [06:00] 结尾，每一次跳票都在动摇市场信心
+核心要点（5+ 条）：
+- Google Gemini 3.5 Pro原定6月发布跳票至今，内部测试编程能力仍未达标
+- Google在AI时代面临系统性结构问题：分散研发体系导致决策效率低
+- 技术储备丰厚但无法高效转化为产品，这是船大难掉头的典型困境
+- OpenAI用短决策链all in GPT路线，正在甩开Google的集团军模式
+- Google的AI商业化面临两难：AI功能可能颠覆自身搜索广告商业模式
+- 开发者生态正在向OpenAI倾斜，TensorFlow时代让位于PyTorch浪潮
+- 投资者开始质疑Google AI领先地位，估值模型面临重写风险
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_097.jpg"/>
+</item>
 </channel>
 </rss>
