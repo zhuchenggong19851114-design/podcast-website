@@ -1999,5 +1999,55 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_099.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP100｜凭什么Anthropic突然赢麻了？硅谷VC精英集体出逃背后]]></title>
+<description><![CDATA[本期主题：硅谷顶级VC集体从OpenAI转向Anthropic背后的技术路线之争，以及AI投资逻辑正在发生的关键转变
+金句钩子：「大力出奇迹，这条路可能走到头了」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 21 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP100</guid>
+<enclosure url="https://daikexing.work/episodes/ep100.mp3" type="audio/mpeg" length="3991050"/>
+<itunes:duration>04:23</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：硅谷顶级VC集体从OpenAI转向Anthropic背后的技术路线之争，以及AI投资逻辑正在发生的关键转变
+金句钩子：「大力出奇迹，这条路可能走到头了」
+完整摘要（3句）：
+- 过去半年，红杉、a16z、Benchmark等顶级VC的核心投资人正在集体从OpenAI转向Anthropic，这不是个别现象，是一次有组织的路线押注
+- VC们看到的核心问题是「规模路线」遇到了瓶颈：GPT-4.5是工程优化而非架构创新，而Claude在模型质量和效率上的持续突破，正在证明「质」比「量」更重要
+- 当投资逻辑从「赌最大模型」转向「赌最实用的模型」，Anthropic的技术路线正在成为下一代AI的主流叙事，GPT-5的发布时间将决定这场天平能否重新平衡
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「诡异的现象」引出VC大逃亡话题
+- [00:15] 现象列举：红杉合伙人单干、a16z清仓OpenAI股份、Benchmark搬到Anthropic附近
+- [00:45] VC到底在投什么？表面投技术，实际投「技术路线」
+- [01:15] 过去三年，VC赌的是OpenAI路线——大力出奇迹
+- [01:45] 但GPT-4之后，这条路出了问题：边际收益递减，成本线性增长
+- [02:15] GPT-4.5是工程优化不是创新，Sora一年没开放，GPT Store没有杀手应用
+- [02:45] Anthropic选择了什么路线？「质」比「量」重要
+- [03:15] Claude 3.5参数只有GPT-4一半，但实际表现不相上下
+- [03:45] 原因：数据质量和后训练方法的持续投入，而不是堆参数
+- [04:15] 深层逻辑：OpenAI用「量」取胜，Anthropic用「质」取胜
+- [04:45] 投资圈连锁反应：聪明钱正在从规模路线转向效率和质量路线
+- [05:15] OpenAI的应对：GPT-5紧急开发，架构级重构
+- [05:45] 但Google、Meta、开源社区不会停下来等它
+- [06:15] 核心启示：技术路线比技术本身更重要，选对路线才是真正的护城河
+- [06:45] 结尾总结：越来越多的人在把票投给Anthropic路线
+核心要点（7条）：
+- 硅谷顶级VC正在集体从OpenAI转向Anthropic：红杉合伙人单干投Anthropic生态、a16z清仓OpenAI股份、Benchmark搬到旧金山Anthropic总部附近
+- VC最怕的不是投错公司，是押错技术路线，一旦路线错误整个portfolio都要推倒重来
+- 规模路线的核心问题是边际收益递减：模型越大，能力提升的边际收益越低，但成本线性增长
+- GPT-4.5本质是工程优化而非架构创新，Sora开放遥遥无期，GPT Store没有杀手级应用，证明规模路线遇到了瓶颈
+- Anthropic选择「质」路线：Claude 3.5参数只有GPT-4一半，但核心场景表现不相上下，靠的是数据质量和后训练方法
+- AI竞争是马拉松不是冲刺，每一个阶段都有人领先，但没有人能永远领先，选对技术路线才是真正的护城河
+- VC出逃背后的启示：对于AI从业者，技术路线选择比技术本身更重要，选对路线事半功倍，选错路线越努力越被动
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_100.jpg"/>
+</item>
 </channel>
 </rss>
