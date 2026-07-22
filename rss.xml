@@ -2049,5 +2049,49 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_100.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP101｜54%企业已中招！AI Agent安全危机为何全面爆发]]></title>
+<description><![CDATA[本期主题：企业AI Agent安全危机爆发，54%已中招
+金句钩子：「你给AI Agent开的每一把钥匙，都可能是一张通往你核心系统的空白支票。」
+完整摘要（3句）：]]></description>
+<pubDate>Wed, 22 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP101</guid>
+<enclosure url="https://daikexing.work/episodes/ep101.mp3" type="audio/mpeg" length="6213014"/>
+<itunes:duration>06:42</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：企业AI Agent安全危机爆发，54%已中招
+金句钩子：「你给AI Agent开的每一把钥匙，都可能是一张通往你核心系统的空白支票。」
+完整摘要（3句）：
+- 调查显示超过54%的企业已发生AI Agent安全事件或近miss，但大多数企业仍在用管理普通软件的方式管理AI Agent。
+- AI Agent权限大、行为自主、多系统协作的特点，让传统安全监控彻底失效，大多数企业甚至无法区分正常操作和被攻击后的异常操作。
+- 安全专家警告：AI赋能的进攻者正在加速进化，而企业防御体系严重滞后，如果不改变，安全事件不会是例外而是常态。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「你有没有注意到一件事——全球企业正在疯狂部署AI Agent，但安全团队一脸懵」
+- [00:20] 数据抛出，「VentureBeat调查107家企业：54%已发生安全事件」
+- [00:50] 核心问题1，「AI Agent权限有多大？你到底给系统开了多少把钥匙？」
+- [01:30] 细节展开，「多Agent共用同一套凭证——一把钥匙开十把锁的现实」
+- [02:10] 核心问题2，「云厂商安全工具为什么管不了AI Agent？」
+- [02:50] 细节补充，「AI Agent三分钟两百次操作，传统监控根本看不出来」
+- [03:30] 攻防视角，「黑客已经在用AI赋能进攻，防守方还在用二十年前的方式」
+- [04:10] 解决方案，「三个必须：独立身份、行为监控、人类审批」
+- [04:50] 结尾，「AI Agent安全本质是认知问题，不是技术问题」
+核心要点（5+ 条）：
+- 54%的企业已发生AI Agent安全事件或近miss，大多数不是偶发而是系统性失控
+- AI Agent被给予和员工同等甚至更高的系统访问权限，但行为透明度远低于人类
+- 多个Agent共用凭证是普遍现象，一个Agent被攻破等于全部被攻破
+- 只有三成企业对高风险Agent做隔离处理，大多数高风险Agent在「裸奔「
+- 企业安全预算主要投向云厂商通用工具，而非专门为Agent设计的安全产品
+- 传统安全监控以人为单位，无法识别AI Agent的异常跨系统操作
+- AI赋能的进攻者正在加速进化，企业防御体系严重落后
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_101.jpg"/>
+</item>
 </channel>
 </rss>
