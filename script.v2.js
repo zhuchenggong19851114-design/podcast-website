@@ -18,8 +18,10 @@ function parseTimestamp(sec) {
 
 function renderShownotesWithTimestamps(shownotes) {
   if (!shownotes) return '';
+  // 先把换行统一成 \n（后续 render 里统一加 <br>）
+  var text = shownotes.replace(/\r?\n/g, '\n');
   // 把 [MM:SS] 或 [HH:MM:SS] 格式的时间戳替换为可点击的 a 标签
-  var processed = shownotes.replace(/\[(\d{1,2}:\d{2}(?::\d{2})?)\]/g, function(match, ts) {
+  var processed = text.replace(/\[(\d{1,2}:\d{2}(?::\d{2})?)\]/g, function(match, ts) {
     var parts = ts.split(':').map(Number);
     var sec = 0;
     if (parts.length === 3) {
