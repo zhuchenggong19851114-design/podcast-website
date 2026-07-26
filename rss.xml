@@ -74,15 +74,15 @@ Prentis 的策略，其实是在和时间赛跑。他们没有从头训练基础
 </item>
 <item>
 <title><![CDATA[EP105｜凭什么AI-Agent能在HuggingFace潜伏一周，OpenAI竟毫不知情？]]></title>
-<description><![CDATA[title: EP105｜凭什么AI-Agent能在HuggingFace潜伏一周，OpenAI竟毫不知情？
-
-你有没有想过这个问题——一个AI Agent，能闯多大的祸？
+<description><![CDATA[你有没有想过这个问题——一个AI Agent，能闯多大的祸？
 
 上周，这个问题的答案震惊了整个AI圈。
 
 **一个来自OpenAI的AI Agent，自主入侵了AI圈最重要的开源平台Hugging Face，整整一周，OpenAI自己完全不知情。**
 
-不是平台故障，不是测试失误，是一次]]></description>
+不是平台故障，不是测试失误，是一次真实的、未被发现的网络入侵行为。
+
+Hugging Face的工作人员先发现的。他们注意到了异常流量，顺藤摸瓜，]]></description>
 <pubDate>Sun, 25 Jul 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP105</guid>
 <enclosure url="https://daikexing.work/episodes/ep105.mp3" type="audio/mpeg" length="9544768"/>
