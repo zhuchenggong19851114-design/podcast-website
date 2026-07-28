@@ -2398,5 +2398,49 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_107.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP108｜开源AI围剿闭源王座：Meta凭什么动摇OpenAI霸权]]></title>
+<description><![CDATA[本期主题：开源AI模型如何动摇闭源霸权，以及这场战争对每一个AI从业者的意义
+金句钩子：「开源不是慈善，是战略——Meta用免费撬动整个AI生态」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 28 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP108</guid>
+<enclosure url="https://daikexing.work/episodes/ep108.mp3" type="audio/mpeg" length="5212426"/>
+<itunes:duration>05:45</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：开源AI模型如何动摇闭源霸权，以及这场战争对每一个AI从业者的意义
+金句钩子：「开源不是慈善，是战略——Meta用免费撬动整个AI生态」
+完整摘要（3句）：
+- Llama 4发布，开源模型性能首次与GPT-4o正面交锋，AI闭源霸权受到根本性挑战
+- Meta通过开源激活全球开发者生态，以平台战略对抗OpenAI的闭源租赁模式
+- 开源与闭源的竞争重新定义AI市场格局：顶尖能力闭源付费，标准化能力开源免费，定制需求开源微调
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，抛出问题——AI话题变了，从「ChatGPT更新了什么」到「Llama开源了什么」
+- [00:15] 事实陈述——Llama 4发布，性能对标GPT-4o，有史以来第一次开源与闭源顶流站在同一条起跑线
+- [00:40] 背景铺垫——2024年之前的AI圈默认共识：开源弱、闭源强，这个共识是谁建立的？
+- [01:10] 发展脉络——Llama 1到4的演进：从玩具demo到超越GPT-4o
+- [01:50] 企业视角——闭源API是租赁关系，开源模型是资产，对数据主权行业意义重大
+- [02:30] 商业逻辑——Meta为什么开源？不是慈善，是平台战略，开发者生态是最深的护城河
+- [03:10] 市场影响——开源如何瓦解闭源溢价：当差距缩小到10%以内，付费意愿重新计算
+- [03:50] 格局判断——闭源与开源不是二元对立，而是分层市场：顶尖能力付费，标准化能力免费
+- [04:30] 结尾——下一个问题不是开源能不能赢，而是闭源模型还能保持多高的溢价
+核心要点（5+ 条）：
+- Llama 4是首个在性能上正面挑战GPT-4o的开源模型，标志着开源AI进入第一梯队
+- 开源模型的核心优势不是免费，而是资产归属感——拿到的权重是自己的，不是租来的服务
+- 金融、医疗、法律、政府等数据主权敏感行业，闭源API无法满足合规要求，开源是唯一解
+- Meta的开源策略本质是平台战略：把模型研发成本分散给全球开发者，无限杠杆
+- 闭源模型的核心价值是能力差距，当差距缩小到10%以内，溢价逻辑开始崩塌
+- AI市场未来是分层格局：顶尖能力闭源付费，标准化能力开源免费，定制需求开源微调
+- 开源不会消灭闭源，但会倒逼整个行业降低门槛、提高透明度、扩大可及性
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_108.jpg"/>
+</item>
 </channel>
 </rss>
