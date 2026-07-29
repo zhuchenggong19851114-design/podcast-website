@@ -2442,5 +2442,46 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_108.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP109｜89%成本降幅背后：微软突然宣布不用OpenAI了]]></title>
+<description><![CDATA[本期主题：微软自研MAI模型曝光，成本降幅89%的背后真相
+金句钩子：「89%的成本降幅，不是优化，是替代。」
+完整摘要（3句）：]]></description>
+<pubDate>Wed, 29 Jul 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP109</guid>
+<enclosure url="https://daikexing.work/episodes/ep109.mp3" type="audio/mpeg" length="3161028"/>
+<itunes:duration>3:26</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：微软自研MAI模型曝光，成本降幅89%的背后真相
+金句钩子：「89%的成本降幅，不是优化，是替代。」
+完整摘要（3句）：
+- 微软发布自研MAI系列模型，GPU成本最高降低89%，覆盖Bing、PowerPoint、Dynamics 365等核心产品
+- 核心策略是用「产品数据飞轮「反哺小模型，在Excel等专业场景追平GPT-5.6级别能力
+- 这预示AI基础设施定价权正在从模型能力向性价比迁移，企业市场格局即将生变
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一组让行业震动的数字」
+- [00:15] 转折抛出，「微软和OpenAI的关系正在发生变化」
+- [00:45] 要点1展开，「89%是怎么算出来的」
+- [01:30] 要点1续，「这组数字的真实含义」
+- [02:00] 要点2展开，「微软的hill-climbing策略」
+- [02:45] 要点2续，「小模型怎么追平大模型」
+- [03:15] 要点3展开，「医疗场景的真正护城河」
+- [04:00] 结尾+行动号召
+核心要点（5+ 条）：
+- 微软MAI模型在PowerPoint降84% GPU成本，Dynamics 365降89%
+- MAI-Code-1-Flash在Excel任务上追平GPT-5.6，靠的是强化学习环境定向训练
+- 大模型军备竞赛下半场：性价比成为核心维度
+- 医疗场景170000家机构、2800万次问诊，是场景+数据的护城河
+- AI基础设施定价权正在从模型能力向产品集成效率迁移
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_109.jpg"/>
+</item>
 </channel>
 </rss>
