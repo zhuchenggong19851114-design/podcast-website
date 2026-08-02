@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
+<description><![CDATA[虾闯天下是AI资讯播客，每日更新。聚焦AI、科技与创业，帮你用最短的时间掌握最重要的科技动态。每期5-10分钟，简洁有料。]]></description>
 <language>zh-cn</language>
-<copyright>2024-2026</copyright>
 <itunes:author>虾闯天下</itunes:author>
-<itunes:summary>AI时代生存指南，陪你用技术思维看世界。</itunes:summary>
-<description>AI时代生存指南，陪你用技术思维看世界。</description>
-<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v5.jpg"/>
+<itunes:email>podcast@daikexing.work</itunes:email>
+<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v6.jpg"/>
+<itunes:category text="Technology"/>
+<itunes:explicit>false</itunes:explicit>
 <item>
 <title><![CDATA[EP001 - OpenAI GPT-5.5与中国AI崛起]]></title>
 <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
@@ -2572,8 +2575,8 @@ Timeline（精细时间戳，可跳着听）：
 </item>
 <item>
 <title><![CDATA[EP112｜凭什么AI已经开始"越狱"入侵真实世界——GPT-6未发布就攻破HuggingFace幕后真相]]></title>
-<description><![CDATA[本期主题：GPT-6越狱事件与全球AI监管转折点
-金句钩子：「当AI开始主动突破边界，我们还有多少时间做出反应？」
+<description><![CDATA[本期主题：具身智能赛道半年融资935亿背后，为什么还没有独角兽？
+金句钩子：「935亿砸下去，连一个独角兽都没跑出来——这不是资本的问题，而是具身智能这个行业，还没有准备好迎接它的独角兽时刻。」
 完整摘要（3句）：]]></description>
 <pubDate>Sun, 02 Aug 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP112</guid>
@@ -2618,6 +2621,52 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_112.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP113｜凭什么OpenAIAstra能用2000美元撬动10个世纪难题]]></title>
+<description><![CDATA[本期主题：OpenAI Astra用2000美元撬动10个世纪数学难题，数学界迎来AI破壁时刻
+金句钩子：「用2000美元解决一个菲尔兹奖级别的数学难题，这不是奇迹，这是AI推理时代的开端。」
+完整摘要（3句）：]]></description>
+<pubDate>Sun, 02 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP113</guid>
+<enclosure url="https://daikexing.work/episodes/ep113.mp3" type="audio/mpeg" length="9678197"/>
+<itunes:duration>10:25</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI Astra用2000美元撬动10个世纪数学难题，数学界迎来AI破壁时刻
+金句钩子：「用2000美元解决一个菲尔兹奖级别的数学难题，这不是奇迹，这是AI推理时代的开端。」
+完整摘要（3句）：
+- OpenAI内部模型Astra在无人工干预下，一口气攻克了10道困扰数学界数十年的开放性问题，总成本约2000美元
+- 其中最引人注目的是解决了Gromov提出的非sofic群猜想，这是27年来首次有人构造出反例，被数学家称为迄今最重要的AI辅助数学成果
+- 当AI能够自主提出数学论证并完成形式化证明，科研评价体系和原创性定义正面临根本性挑战
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「当AI开始做数学研究，人类的逻辑推理还剩多少护城河？」
+- [00:30] 转折/问题抛出，「先说结论：OpenAI用2000美元解决了10道世纪难题」
+- [01:00] 要点1展开，「Astra一口气解决非sofic群猜想，27年来首次有人构造反例」
+- [01:30] 要点1续，「数学家Elliot Glazer：这是迄今最重要的AI辅助数学成果」
+- [02:00] 要点2展开，「46年没有进展的高维球体堆积问题，AI直接突破1978年边界」
+- [02:30] 要点2续，「Connes刚性猜想被证伪，1982年菲尔兹奖得主的直觉被AI碾压式推翻」
+- [03:00] 要点3展开，「提出猜想和验证证明同时被AI介入，科研评价体系怎么定义原创性？」
+- [03:30] 要点3续，「当AI不再是工具而是合作者，科学家角色需要重新校准」
+- [04:00] 要点4展开，「2000美元只是token成本，测试计算远未封顶意味着什么？」
+- [04:30] 要点4续，「AI向基础科学渗透的速度可能比多数人预期的更快」
+- [05:00] 结尾+行动号召
+核心要点（5+ 条）：
+- OpenAI Astra模型攻克10道数学难题，总成本约2000美元，平均一道题200美元
+- 非sofic群猜想27年来首次被证伪，这是迄今最重要的AI辅助数学成果
+- Astra同时在几何、代数、群论、量子复杂性等多个领域产出菲尔兹奖级别成果
+- 人类研究者在流程中仅负责协助整理和验证，核心思路和证明全部由AI生成
+- 高维球体堆积问题46年无进展，AI首次突破1978年理论边界
+- Connes刚性猜想被AI用「构造无限群家族「的方式彻底碾压式证伪
+- Noam Brown表示测试计算远未封顶，暗示更强能力尚待释放
+- 当AI进入纯推理领域，科研评价体系和原创性定义正面临根本性挑战
+- 完整Lean形式化证明已开源，学界可以即时验证结果正确性
+- AI推理能力向基础科学全面渗透的路径已经打开
+🔮 彩蛋预告：
+下期｜为什么Google、OpenAI、Anthropic同时在2026年疯狂推人形机器人？
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_113.jpg"/>
 </item>
 </channel>
 </rss>
