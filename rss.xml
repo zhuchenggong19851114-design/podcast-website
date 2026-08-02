@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
-<description><![CDATA[虾闯天下是AI资讯播客，每日更新。聚焦AI、科技与创业，帮你用最短的时间掌握最重要的科技动态。每期5-10分钟，简洁有料。]]></description>
 <language>zh-cn</language>
+<copyright>2024-2026</copyright>
 <itunes:author>虾闯天下</itunes:author>
-<itunes:email>podcast@daikexing.work</itunes:email>
-<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v6.jpg"/>
-<itunes:category text="Technology"/>
-<itunes:explicit>false</itunes:explicit>
+<itunes:summary>AI时代生存指南，陪你用技术思维看世界。</itunes:summary>
+<description>AI时代生存指南，陪你用技术思维看世界。</description>
+<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v5.jpg"/>
 <item>
 <title><![CDATA[EP001 - OpenAI GPT-5.5与中国AI崛起]]></title>
 <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
@@ -2621,55 +2618,6 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_112.jpg"/>
-</item>
-<item>
-<title><![CDATA[EP113｜凭什么具身智能烧光935亿还没跑出独角兽？]]></title>
-<description><![CDATA[本期主题：具身智能赛道半年融资935亿背后，为什么还没有独角兽？
-金句钩子：「935亿砸下去，连一个独角兽都没跑出来——这不是资本的问题，而是具身智能这个行业，还没有准备好迎接它的独角兽时刻。」
-完整摘要（3句）：]]></description>
-<pubDate>Sun, 02 Aug 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP113</guid>
-<enclosure url="https://daikexing.work/episodes/ep113.mp3" type="audio/mpeg" length="9536384"/>
-<itunes:duration>10:25</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:author>虾闯天下</itunes:author>
-<content:encoded><![CDATA[本期主题：具身智能赛道半年融资935亿背后，为什么还没有独角兽？
-金句钩子：「935亿砸下去，连一个独角兽都没跑出来——这不是资本的问题，而是具身智能这个行业，还没有准备好迎接它的独角兽时刻。」
-完整摘要（3句）：
-- 2026年上半年国内具身智能赛道融资达935亿元，同比暴增5倍，投资方覆盖头部VC、产业资本和政府引导基金，但目前尚无独角兽诞生
-- 具身智能独角兽难产的本质原因在于技术成熟度不足：大脑派面临「手脑不匹配「的sim-to-real gap、硬件派面临「大脑不够用「的AI能力短板、整机派则两条线同时承压，全栈自研从原型到量产需要远超想象的持续投入
-- 资本开始采取「撒网式「投资分散风险，同时政府引导基金大规模入局带来估值泡沫化隐患，具身智能的真正商业化落地仍需等待技术临界点突破，而未来2-3年内某场景突破后一定会批量诞生独角兽
-Timeline（精细时间戳，可跳着听）：
-- [00:00] 开场引入，AI三级跳：从大模型到Agent到具身智能，抓住注意力
-- [00:20] 数据炸弹：935亿半年融资 vs 零独角兽的矛盾，冲击感建立
-- [01:00] 935亿数据拆解：同比涨5倍，投资方覆盖VC+产业资本+政府引导基金的超级共识
-- [01:40] 三类公司三种瓶颈：大脑派「手脑不匹配「sim-to-real gap、硬件派「大脑不够用「、整机派双线同时烧钱
-- [02:20] 大脑派瓶颈详解：模拟环境95分vs真实环境60分的工程迭代困境，需要3-5年才能解决
-- [03:00] 硬件派瓶颈详解：工业客户保守、试错成本高、大模型泛化能力在机器人场景远不如预期
-- [03:40] 整机派困境：什么都自研、量产难度大、商业路径不清晰，卖给谁什么场景多少钱都没有答案
-- [04:20] 资本策略转变：从All in某一家到「撒网式「投资，每家公司弹药都不够充足
-- [05:00] 政府资本入局：深圳上海北京合肥苏州争抢具身智能，估值泡沫化隐患分析
-- [05:40] 商业化困境：B端「现有方案够用为何多花钱「、C端「泛化能力不足无法真正帮忙「
-- [06:20] 项目制商业模式本质：系统集成商而非平台，账面好看但缺乏真正的平台价值
-- [06:50] 未来判断：三个加速度——大模型迭代、硬件成本下降、某场景临界点突破
-- [07:20] 935亿是「买期权「还是「炒泡沫「：资本在赌未来3-5年的某场景突破
-- [07:50] 结尾：开放问题留给听众——如果你做具身智能，先攻克哪个场景？
-核心要点（5+ 条）：
-- 2026年上半年国内具身智能融资达935亿元，同比暴增5倍，投资方覆盖VC+产业资本+政府引导基金，超级共识形成
-- 三类具身智能公司面临各自瓶颈：大脑派sim-to-real gap、硬件派AI能力短板、整机派全栈自研双线烧钱
-- 具身智能独角兽难产的本质是技术成熟度不足，独角兽需要市场大+速度快+壁垒高三要素同时成立
-- 资本「撒网式「投资导致每家公司弹药不充足，但整个赛道融资总额持续膨胀
-- 政府引导基金大规模入局带来估值泡沫化隐患，争夺招商引资导致部分公司估值脱离业务基本面
-- 具身智能商业化困境：项目制模式使公司本质是「系统集成商「，B端获客难、C端泛化能力不足
-- 行业判断：未来2-3年一定会出独角兽，三个加速度（大模型迭代、硬件成本下降、某场景临界点突破）会改变一切
-🔮 彩蛋预告：
-下期｜一个你可能正在头疼的问题，我们找到了答案。
-先关注，别迷路，准时来听。
-
-更多AI创业洞察，锁定虾闯天下，我们下期见。
-
-虾闯天下 · AI 科技创业日更]]></content:encoded>
-<itunes:image href="https://daikexing.work/episodes/covers/ai_113.jpg"/>
 </item>
 </channel>
 </rss>
