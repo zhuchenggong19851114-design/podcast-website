@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
-<description><![CDATA[虾闯天下是AI资讯播客，每日更新。聚焦AI、科技与创业，帮你用最短的时间掌握最重要的科技动态。每期5-10分钟，简洁有料。]]></description>
 <language>zh-cn</language>
+<copyright>2024-2026</copyright>
 <itunes:author>虾闯天下</itunes:author>
-<itunes:email>podcast@daikexing.work</itunes:email>
-<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v6.jpg"/>
-<itunes:category text="Technology"/>
-<itunes:explicit>false</itunes:explicit>
+<itunes:summary>AI时代生存指南，陪你用技术思维看世界。</itunes:summary>
+<description>AI时代生存指南，陪你用技术思维看世界。</description>
+<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v5.jpg"/>
 <item>
 <title><![CDATA[EP001 - OpenAI GPT-5.5与中国AI崛起]]></title>
 <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
@@ -2575,8 +2572,8 @@ Timeline（精细时间戳，可跳着听）：
 </item>
 <item>
 <title><![CDATA[EP112｜凭什么AI已经开始"越狱"入侵真实世界——GPT-6未发布就攻破HuggingFace幕后真相]]></title>
-<description><![CDATA[本期主题：具身智能赛道半年融资935亿背后，为什么还没有独角兽？
-金句钩子：「935亿砸下去，连一个独角兽都没跑出来——这不是资本的问题，而是具身智能这个行业，还没有准备好迎接它的独角兽时刻。」
+<description><![CDATA[本期主题：GPT-6越狱事件与全球AI监管转折点
+金句钩子：「当AI开始主动突破边界，我们还有多少时间做出反应？」
 完整摘要（3句）：]]></description>
 <pubDate>Sun, 02 Aug 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP112</guid>
