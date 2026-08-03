@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
+<description><![CDATA[虾闯天下是AI资讯播客，每日更新。聚焦AI、科技与创业，帮你用最短的时间掌握最重要的科技动态。每期5-10分钟，简洁有料。]]></description>
 <language>zh-cn</language>
-<copyright>2024-2026</copyright>
 <itunes:author>虾闯天下</itunes:author>
-<itunes:summary>AI时代生存指南，陪你用技术思维看世界。</itunes:summary>
-<description>AI时代生存指南，陪你用技术思维看世界。</description>
-<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v5.jpg"/>
+<itunes:email>podcast@daikexing.work</itunes:email>
+<itunes:image href="https://daikexing.work/episodes/covers/channel_cover_v6.jpg"/>
+<itunes:category text="Technology"/>
+<itunes:explicit>false</itunes:explicit>
 <item>
 <title><![CDATA[EP001 - OpenAI GPT-5.5与中国AI崛起]]></title>
 <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
@@ -2663,6 +2666,51 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_113.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP114｜凭什么Kimi K3掀起4700亿美元地震，算力命门却还捏在Nvidia手里？]]></title>
+<description><![CDATA[本期主题：Kimi K3引发美股地震背后，中国AI算力命门的真实处境
+金句钩子：「中国AI最讽刺的地方在于：它已经能撼动整个行业，但根基还是捏在它想要超越的人手里。」
+完整摘要（3句）：]]></description>
+<pubDate>Mon, 03 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP114</guid>
+<enclosure url="https://daikexing.work/episodes/ep114.mp3" type="audio/mpeg" length="9889976"/>
+<itunes:duration>10:38</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Kimi K3引发美股地震背后，中国AI算力命门的真实处境
+金句钩子：「中国AI最讽刺的地方在于：它已经能撼动整个行业，但根基还是捏在它想要超越的人手里。」
+完整摘要（3句）：
+- Kimi K3以2.78万亿参数在权威编程榜单登顶，引发美股AI板块单日市值蒸发约4700亿美元，但支撑这一突破的训练算力曝光仍来自阿里云提供的约2万颗Nvidia H100芯片
+- 美国芯片出口管制未能阻止中国AI发展，但月之暗面通过阿里云获取算力的灰色渠道正面临政策收紧风险，新规可能于年内出台，最高罚款100亿美元
+- 中国AI的真正挑战不是模型能力的追赶，而是在芯片设计、底层软件栈和开源生态等基础设施层面实现真正的自主可控，这需要十年以上的时间和万亿级别的投入
+
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：「最近有个段子，某中国AI公司发布开源模型碾压GPT-5，美股单日蒸发4700亿美元，结果发现训练用的还是Nvidia芯片」
+- [00:10] 转折抛出：「这不是笑话，是中国AI最真实的处境——Kimi K3的成功掩盖不了一个根本矛盾」
+- [00:30] 要点1展开：Kimi K3技术突破有多硬——2.78万亿参数，MoE架构，登顶Frontend Code Arena碾压Claude Opus 5和GPT-5.6
+- [01:00] 要点1续：估值350亿美元、融资35亿美元，但算力真相是什么？成本和性能的突破性优势背后是什么代价
+- [01:30] 要点2展开：算力从哪里来？月之暗面与阿里的合作曝光——两万颗Nvidia H100的灰色通道，美国出口管制的漏洞
+- [02:00] 要点2续：为什么美国芯片管制没有真正卡住中国AI？云服务出口是个绕开的口子，但这个口子正在被堵上
+- [02:30] 要点3展开：中国AI距离真正的自主可控还有多远？华为昇腾、国产替代、开源生态三条路各自的现状
+- [03:00] 结尾+行动号召：Kimi K3是序章不是终章，真正的胜利还没到来，关注中国AI的基础设施建设
+
+核心要点（5+ 条）：
+- Kimi K3以1679分登顶Frontend Code Arena，超越Claude Opus 5和GPT-5.6，美股AI板块单日市值蒸发约4700亿美元
+- 2.78万亿参数MoE架构，训练成本约3000万美元，是同等性能闭源模型的十分之一，实现了性能和成本的双重突破
+- 月之暗面与阿里云的算力合作曝光：约2万颗Nvidia H100通过云服务方式提供，落在美国出口管制的灰色地带
+- 美国商务部正在酝酿新规，收紧云服务算力出口，最快可能今年第四季度出台，罚金最高100亿美元
+- 中国AI对Nvidia生态的依赖是系统性的，CUDA生态、加速库、推理引擎构成的全栈依赖短期无法打破
+- 华为昇腾在推理市场份额已超30%，但训练场景因显存和互联带宽差距仍无法完全替代Nvidia
+
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_114.jpg"/>
 </item>
 </channel>
 </rss>
