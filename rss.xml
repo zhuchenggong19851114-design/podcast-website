@@ -2949,5 +2949,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_119.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP120｜突发：26亿参数小模型跑出4倍规模——Liquid AI端侧Agent正式实用化]]></title>
+<description><![CDATA[本期主题：26亿参数小模型跑出4倍规模实力，端侧Agent正式实用化
+金句钩子：「26亿参数跑出千亿模型的能力，端侧Agent不是PPT，是真的来了」
+完整摘要（3句）：]]></description>
+<pubDate>Sat, 08 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP120</guid>
+<enclosure url="https://daikexing.work/episodes/ep120.mp3" type="audio/mpeg" length="8242893"/>
+<itunes:duration>08:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：26亿参数小模型跑出4倍规模实力，端侧Agent正式实用化
+金句钩子：「26亿参数跑出千亿模型的能力，端侧Agent不是PPT，是真的来了」
+完整摘要（3句）：
+- 摘要1：Liquid AI发布26亿参数端侧智能体模型LFM2.5-2.6B，基准测试可媲美四倍规模的大模型
+- 摘要2：M5Max芯片220token/秒，手机端稳定30token/秒，已在Hugging Face全面开源
+- 摘要3：端侧Agent从概念验证进入实用化阶段，对隐私敏感、延迟敏感、离线三大场景是颠覆性机会
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一个端侧Agent真正可用的时代，开始了」
+- [00:10] 转折抛出，「过去是PPT，现在是真的」
+- [00:30] 事件展开，「8月5日Liquid AI发布LFM2.5-2.6B」
+- [01:00] 技术细节，「26亿参数，34万亿词元预训练」
+- [01:30] 基准测试，「指令遵循和工具使用，可媲美四倍规模大模型」
+- [02:00] 硬件跑分，「M5Max 220token/秒，手机端30token/秒」
+- [02:30] 架构创新，「Liquid Foundation Models的自适应算子」
+- [03:00] 生态布局，「Hugging Face全面开源，兼容主流推理框架」
+- [03:30] 为什么火，「云端token成本已经贵到必须重新思考架构」
+- [04:00] 三大场景，「隐私敏感、延迟敏感、离线场景的颠覆性」
+- [04:30] 局限1，「能力上限：适合执行不适合思考」
+- [05:00] 局限2，「硬件门槛：低端机体验会打折扣」
+- [05:30] 局限3，「电池续航：间歇使用而非全天候」
+- [06:00] 公司背景，「MIT孵化，三星和Nat Friedman投资」
+- [06:30] 战略野心，「Liquid的命名暗示：可流动的计算范式」
+- [07:00] 行业格局，「端侧AI竞争白热化，巨头附赠功能是威胁」
+- [07:30] 结尾展望，「接下来一年值得关注的三个关键问题」
+- [08:00] 行动号召
+核心要点（5+ 条）：
+- LFM2.5-2.6B是26亿参数的端侧智能体模型，无需云端API即可在手机上本地运行
+- 基准测试中指令遵循和工具使用表现可媲美规模近四倍的大模型
+- M5Max芯片推理速度220token/秒，手机端稳定30token/秒
+- 模型基于34万亿词元预训练，词表扩展至128K，后训练整合四个阶段
+- 已在Hugging Face全面开源，原生支持llama.cpp、MLX、vLLM等主流推理框架
+- 端侧Agent对隐私敏感、延迟敏感、离线三大场景是颠覆性机会
+- Liquid AI的核心架构是Liquid Foundation Models，通过自适应算子实现高能效
+- 端侧Agent的三大局限：能力上限、硬件门槛、电池续航
+🔮 彩蛋预告：
+下期｜一个让所有AI巨头集体坐不住的消息，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_120.jpg"/>
+</item>
 </channel>
 </rss>
