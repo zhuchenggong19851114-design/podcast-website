@@ -3106,5 +3106,50 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_122.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP123｜凭什么OpenAI把「最不听话「的AI定价最贵——GPT-5.6 Cyber 95%零拒绝的算盘]]></title>
+<description><![CDATA[本期主题：OpenAI双轨策略：消费级普惠 vs 专业级高风险准入
+金句钩子：「AI行业的下一个稀缺资源，不是模型，而是'敢让AI做高风险决策'的资格」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 11 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP123</guid>
+<enclosure url="https://daikexing.work/episodes/ep123.mp3" type="audio/mpeg" length="8085728"/>
+<itunes:duration>08:42</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI双轨策略：消费级普惠 vs 专业级高风险准入
+金句钩子：「AI行业的下一个稀缺资源，不是模型，而是'敢让AI做高风险决策'的资格」
+完整摘要（3句）：
+- OpenAI同期推出GPT-5.6 Cyber（12.5/75美元/M token）与GPT-5.6 Luna免费版，两端策略完全相反。
+- Cyber在高级网络安全任务上达到95%完成率，准入门槛包括SOC 2、ISO 27001、SSO、MFA和硬件安全密钥。
+- 这标志着AI竞争重心从「模型规模「迁移到「准入合规与高风险分发能力「。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一家AI公司能主动训练一个更不听话的模型然后卖得更贵吗」
+- [00:30] 95%完成率背后的对比，「从1.5%到95%，OpenAI主动松开了什么」
+- [01:30] 价格信号解读，「12.5美元输入、75美元输出，定价本身就是态度」
+- [02:30] 双轨策略全貌，「免费Luna无限聊天 vs Cyber专业级准入」
+- [03:30] 竞争对手动作，「Meta开源Glimmer、Liquid AI上树莓派」
+- [04:30] Daybreak Red准入清单拆解，「SOC 2、ISO 27001、硬件密钥到底卡的是什么」
+- [05:30] 早期战绩，「V8的两个零日漏洞和CVE-2026-15903」
+- [06:30] 商业逻辑深挖，「网络安全市场为什么是高定价沃土」
+- [07:30] 反面风险，「模型越敢做，准入审计越要无懈可击」
+- [08:30] 行业级判断，「从卷模型到卷准入资格」
+- [09:30] 结尾+行动号召
+核心要点（5+ 条）：
+- OpenAI同期推出GPT-5.6 Cyber（专业版，12.5/75美元/M token）与GPT-5.6 Luna（免费版不限次数），两端策略完全相反。
+- Cyber在高级网络安全任务上达到95%完成率，比普通版GPT-5.6 Sol的1.5%提升近64倍，是行业级跃迁。
+- Daybreak Red要求企业具备SOC 2 Type II或ISO 27001资质，单点登录、多因素认证、硬件安全密钥强制启用。
+- GPT-5.6 Cyber已贡献V8引擎两个零日漏洞披露（CVE-2026-15903），以及一个OS内核里400+个潜在提权漏洞。
+- 竞争对手Meta用Apache 2.0开源Muse Glimmer（30B），Liquid AI用LFM2.5-2.6B在树莓派上跑Agent，行业竞争维度正在分化。
+- AI竞争重心正从「模型参数「迁移到「准入合规与高风险分发能力「，这是产业级范式转移。
+🔮 彩蛋预告：
+下期｜一个正在悄悄改变AI创业格局的信号，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_123.jpg"/>
+</item>
 </channel>
 </rss>
