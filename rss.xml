@@ -16,7 +16,7 @@
 <title><![CDATA[EP001 - OpenAI GPT-5.5与中国AI崛起]]></title>
 <description><![CDATA[AI竞争主战场转移：OpenAI发布GPT-5.5效率革命、中国大模型调用量超越美国、腾讯网易Agent应用大爆发。]]></description>
 <pubDate>Sat, 25 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP001</guid>
+<guid isPermaLink="false">EP1</guid>
 <enclosure url="https://daikexing.work/episodes/ep001.mp3" type="audio/mpeg" length="4499700"/>
 <itunes:duration>07:04</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -28,7 +28,7 @@
 <title><![CDATA[EP002 - DeepSeek V4与人形机器人背后的AI变局]]></title>
 <description><![CDATA[DeepSeek V4百万Token超长上下文开源，人形机器人具身智能达专业水准，Anthropic Managed Agents务实路线。三件事合在一起，透露AI从工具变劳动力的信号。]]></description>
 <pubDate>Sat, 25 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP002</guid>
+<guid isPermaLink="false">EP2</guid>
 <enclosure url="https://daikexing.work/episodes/ep002.mp3" type="audio/mpeg" length="3793560"/>
 <itunes:duration>358</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -40,7 +40,7 @@
 <title><![CDATA[EP003 - DeepSeek V4与人形机器人闪电：AI爆发的两记重拳]]></title>
 <description><![CDATA[DeepSeek V4发布：100万Token超长上下文、架构颠覆性改进、推理效率大幅提升。人形机器人闪电打破人类半程马拉松世界纪录。两件事合在一起，构成AI从「回答问题」全面转向「替我完成任务」的明确信号。]]></description>
 <pubDate>Sun, 26 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP003</guid>
+<guid isPermaLink="false">EP3</guid>
 <enclosure url="https://daikexing.work/episodes/ep003.mp3" type="audio/mpeg" length="3104304"/>
 <itunes:duration>295</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -52,7 +52,7 @@
 <title><![CDATA[EP004 - OpenClaw的记忆机制：AI是如何记住一切的]]></title>
 <description><![CDATA[OpenClaw的记忆系统经历三个阶段：关键词搜索、QMD存储、向量语义搜索。每一次升级，AI的记忆力都在发生质变——从记流水账到真正理解。本地向量模型实现了语义理解，支撑单Agent连续对话和多Agent协作。]]></description>
 <pubDate>Sun, 26 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP004</guid>
+<guid isPermaLink="false">EP4</guid>
 <enclosure url="https://daikexing.work/episodes/ep004.mp3" type="audio/mpeg" length="3252300"/>
 <itunes:duration>313</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -64,7 +64,7 @@
 <title><![CDATA[EP005 - 算力战争新格局：CPU崛起与DeepSeek融资背后的AI变局]]></title>
 <description><![CDATA[英特尔CPU暴涨23.6%、DeepSeek百亿美元融资，两件看似不相关的事背后是同一个信号：算力正在被重新定价。AI计算正从云端GPU一家独大走向云边端协同的混合架构，端侧AI是下一个大机会。]]></description>
 <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP005</guid>
+<guid isPermaLink="false">EP5</guid>
 <enclosure url="https://daikexing.work/episodes/ep005.mp3" type="audio/mpeg" length="3471720"/>
 <itunes:duration>341</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -76,7 +76,7 @@
 <title><![CDATA[EP006 - OpenClaw升级踩坑复盘：从以为稳了到差点系统挂掉]]></title>
 <description><![CDATA[以为稳了，结果差点挂。自认为很熟悉OpenClaw的人，升级了一个版本，以为就是点一下的事。结果——网关起不来，配置报错，插件循环加载，完全停不下来。最后只能回滚。]]></description>
 <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP006</guid>
+<guid isPermaLink="false">EP6</guid>
 <enclosure url="https://daikexing.work/episodes/ep006.mp3" type="audio/mpeg" length="4783848"/>
 <itunes:duration>398</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -88,7 +88,7 @@
 <title><![CDATA[EP007 - AI重磅事件扎堆：北京车展、DeepSeek降价、情感机器人发布]]></title>
 <description><![CDATA[过去24小时三件大事：北京车展1451台展车创新高、DeepSeek V4 API降价90%、情感陪护机器人Moya发布。三件看似不相关的事，说的是同一个趋势——AI正在从「能回答问题」全面转向「能进入生活」。]]></description>
 <pubDate>Tue, 28 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP007</guid>
+<guid isPermaLink="false">EP7</guid>
 <enclosure url="https://daikexing.work/episodes/ep007.mp3" type="audio/mpeg" length="2634576"/>
 <itunes:duration>252</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -100,7 +100,7 @@
 <title><![CDATA[EP008 - GPT Image 2挑战扩散模型：AI生图战国时代谁主沉浮]]></title>
 <description><![CDATA[GPT Image 2发布，Image Arena 1512分甩开第二名242分。这期不聊浮夸的「机器替代人类」，聊GPT官方一体化方案和OpenClaw+Stable Diffusion分体式架构，到底谁更强。]]></description>
 <pubDate>Tue, 28 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP008</guid>
+<guid isPermaLink="false">EP8</guid>
 <enclosure url="https://daikexing.work/episodes/ep008.mp3" type="audio/mpeg" length="3693912"/>
 <itunes:duration>360</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -112,7 +112,7 @@
 <title><![CDATA[EP009 - 英伟达9倍效率AI智能体来了，但OpenAI还在为收入发愁]]></title>
 <description><![CDATA[英伟达Nemotron 3 Nano Omni：全模态开源模型让企业级AI Agent效率提升9倍。同一天OpenAI销售额未达预期，概念股全线大跌。两件事合在一起，就是AI行业现在的真实状态：技术狂飙，商业磨合。]]></description>
 <pubDate>Wed, 29 Apr 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP009</guid>
+<guid isPermaLink="false">EP9</guid>
 <enclosure url="https://daikexing.work/episodes/ep009.mp3" type="audio/mpeg" length="2832936"/>
 <itunes:duration>271</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -124,7 +124,7 @@
 <title><![CDATA[EP010：我是怎么把OpenClaw从4.23升到4.26的]]></title>
 <description><![CDATA[升级OpenClaw踩坑实录，两天血泪经验]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP010</guid>
+<guid isPermaLink="false">EP10</guid>
 <enclosure url="https://daikexing.work/episodes/ep010.mp3" type="audio/mpeg" length="4951860"/>
 <itunes:duration>492</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -138,7 +138,7 @@
 <title><![CDATA[EP011 - 花了一天配好的MiniMax Key，这个坑你千万别踩]]></title>
 <description><![CDATA[花了一整天搞定一个问题：怎么让Hermes正确调用MiniMax月度计划Key。api_type和base_url必须同时改对，缺一个就401。踩坑实录。]]></description>
 <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP011</guid>
+<guid isPermaLink="false">EP11</guid>
 <enclosure url="https://daikexing.work/episodes/ep011.mp3" type="audio/mpeg" length="2098269"/>
 <itunes:duration>342</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -150,7 +150,7 @@
 <title><![CDATA[EP012 - AI短剧爆火背后：有人3亿播放一夜归零，有人月入3万闷声发财]]></title>
 <description><![CDATA[AI短剧市场爆发：3000块、48小时、3个人，能出80集，播放量5个亿。但有一部48小时破3亿播放后一夜下架，8亿播放量归零。深入剖析赚钱路径和监管红线。]]></description>
 <pubDate>Sat, 02 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP012</guid>
+<guid isPermaLink="false">EP12</guid>
 <enclosure url="https://daikexing.work/episodes/ep012.mp3" type="audio/mpeg" length="5315784"/>
 <itunes:duration>566</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -162,7 +162,7 @@
 <title><![CDATA[EP013 - 我被自己的AI助手升级了三次，差点回不了家]]></title>
 <description><![CDATA[OpenClaw升级踩坑全记录：npm install代替openclaw update、飞书插件独立包、版本跳跃被Hermes代升级、备份的重要性。三条实战经验帮你少走弯路。]]></description>
 <pubDate>Sun, 03 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP013</guid>
+<guid isPermaLink="false">EP13</guid>
 <enclosure url="https://daikexing.work/episodes/ep013.mp3" type="audio/mpeg" length="3137352"/>
 <itunes:duration>305</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -174,7 +174,7 @@
 <title><![CDATA[EP014 - AI在狂奔，但安全正在被甩在身后]]></title>
 <description><![CDATA[五角大楼与7家AI公司合作部署AI到机密网络，同一天人形机器人登上上海大剧院舞台。Hinton警告：全球只有1%的AI研究在做安全。为什么安全总是被甩在身后？]]></description>
 <pubDate>Mon, 04 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP014</guid>
+<guid isPermaLink="false">EP14</guid>
 <enclosure url="https://daikexing.work/episodes/ep014.mp3" type="audio/mpeg" length="2868432"/>
 <itunes:duration>276</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -186,7 +186,7 @@
 <title><![CDATA[EP015 - 多Agent协作的四种模式，听这一篇就够了]]></title>
 <description><![CDATA[AI工具越来越多，但多AI协作总是乱成一锅粥。Hermes框架总结出四种协作模式：看板协作、群聊话题、并行调度、Cron串联。听完你就知道什么时候让AI串行、并行、自动化还是实时讨论。]]></description>
 <pubDate>Tue, 05 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP015</guid>
+<guid isPermaLink="false">EP15</guid>
 <enclosure url="https://daikexing.work/episodes/ep015.mp3" type="audio/mpeg" length="6207597"/>
 <itunes:duration>387</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -198,7 +198,7 @@
 <title><![CDATA[EP016：GPT-5.5 Ultra发布，四大科技巨头7250亿美元豪赌]]></title>
 <description><![CDATA[AI正式进入干活时代]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP016</guid>
+<guid isPermaLink="false">EP16</guid>
 <enclosure url="https://daikexing.work/episodes/ep016.mp3" type="audio/mpeg" length="3026076"/>
 <itunes:duration>294</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -212,7 +212,7 @@
 <title><![CDATA[EP017：苹果换帅，库克9月卸任]]></title>
 <description><![CDATA[AI时代的大考来了]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP017</guid>
+<guid isPermaLink="false">EP17</guid>
 <enclosure url="https://daikexing.work/episodes/ep017.mp3" type="audio/mpeg" length="2564988"/>
 <itunes:duration>244</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -226,7 +226,7 @@
 <title><![CDATA[EP018 - AI 三国杀：Agent 崛起、Cost 崩塌、监管元年]]></title>
 <description><![CDATA[GPT-5.5、SWE-Bench Pro 58.6%、Gemini 3.1 Ultra 200万Token上下文、Agent 365全面上市——三件事同一周，OpenAI、Google、Microsoft同时宣布AI Agent时代来临。DeepSeek估值450亿，Gemini Flash-Lite降到2毛5每百万Token，推理成本指数级崩塌。中国实施全球首个AI裁员限制法规。三件事合在一起：AI游戏规则正在被重写。]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP018</guid>
+<guid isPermaLink="false">EP18</guid>
 <enclosure url="https://daikexing.work/episodes/ep018.mp3" type="audio/mpeg" length="5255808"/>
 <itunes:duration>507</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -238,7 +238,7 @@
 <title><![CDATA[EP019：AI Agent狂飙]]></title>
 <description><![CDATA[自主性的曙光与失控的风险]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP019</guid>
+<guid isPermaLink="false">EP19</guid>
 <enclosure url="https://daikexing.work/episodes/ep019.mp3" type="audio/mpeg" length="6323352"/>
 <itunes:duration>603</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -257,7 +257,7 @@
 <title><![CDATA[EP020 - AI商业化落地与产业变局]]></title>
 <description><![CDATA[特斯拉停产旗舰轿车转向物理世界AI、豆包收费终结免费时代、国产算力被资本追捧、软银布局日本算力自主——五个信号指向同一件事：AI正在从炫技走向落地。本期音频因API限制，LEAPTIC Cube及总结部分未能完整录制。]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP020</guid>
+<guid isPermaLink="false">EP20</guid>
 <enclosure url="https://daikexing.work/episodes/ep020.mp3" type="audio/mpeg" length="3746400"/>
 <itunes:duration>362</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -269,7 +269,7 @@
 <title><![CDATA[EP021：DeepSeek与AI国标风暴]]></title>
 <description><![CDATA[资本的疯狂与规则的理性]]></description>
 <pubDate>Sat, 09 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP021</guid>
+<guid isPermaLink="false">EP21</guid>
 <enclosure url="https://daikexing.work/episodes/ep021.mp3" type="audio/mpeg" length="4662564"/>
 <itunes:duration>450</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -285,7 +285,7 @@
 <title><![CDATA[EP022 - AI大政府时代：监管、资本、地缘三重变局同时到来]]></title>
 <description><![CDATA[国内AI影视三道监管重磅落地、DeepSeek首次大规模宕机、Anthropic年化营收300亿美金估值1.2万亿——这三件事同时发生，指向同一个方向：AI行业的底层逻辑正在被改写。]]></description>
 <pubDate>Sun, 10 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP022</guid>
+<guid isPermaLink="false">EP22</guid>
 <enclosure url="https://daikexing.work/episodes/ep022.mp3" type="audio/mpeg" length="4889508"/>
 <itunes:duration>470</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -297,7 +297,7 @@
 <title><![CDATA[EP023 - 算力暗战：梁文锋的200亿与字节的2000亿]]></title>
 <description><![CDATA[梁文锋亲自掏出200亿人民币押注DeepSeek新一轮融资；字节跳动把AI预算从1600亿加码到2000亿；全球四大云厂商资本开支最高达7250亿美元——三个数字，三个维度的算力暗战：个人野心、公司战略、国家博弈。]]></description>
 <pubDate>Mon, 11 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP023</guid>
+<guid isPermaLink="false">EP23</guid>
 <enclosure url="https://daikexing.work/episodes/ep023.mp3" type="audio/mpeg" length="6284205"/>
 <itunes:duration>392</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -309,7 +309,7 @@
 <title><![CDATA[EP024 - 机器人IPO潮来临——第一代机器人公司的漫长等待]]></title>
 <description><![CDATA[云深处、乐聚、宇树这三家成立快十年的老牌机器人公司，几乎同时走到了上市的关键节点——宇树IPO申请获受理，乐聚辅导验收完成，云深处提交了辅导工作报告。它们在行业最冷的阶段存活下来，现在借着具身智能的东风，终于迎来了属于自己的IPO潮。]]></description>
 <pubDate>Tue, 12 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP024</guid>
+<guid isPermaLink="false">EP24</guid>
 <enclosure url="https://daikexing.work/episodes/ep024.mp3" type="audio/mpeg" length="4152120"/>
 <itunes:duration>402</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -321,7 +321,7 @@
 <title><![CDATA[EP025 - DeepSeek 500亿融资风暴：AI格局重构开始]]></title>
 <description><![CDATA[你有没有想过，一家成立不到两年的公司，能在一轮融资里拿到500个亿？500亿人民币——刷新了中国人工智能领域的单轮融资纪录，也让DeepSeek再次站到了所有人面前。这期聊聊这轮融资背后的故事，以及它可能如何重塑整个中国AI行业的竞争格局。]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP025</guid>
+<guid isPermaLink="false">EP25</guid>
 <enclosure url="https://daikexing.work/episodes/ep025.mp3" type="audio/mpeg" length="4473492"/>
 <itunes:duration>427</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -333,7 +333,7 @@
 <title><![CDATA[EP026 - 黄仁勋突然访华背后：中美AI博弈进入新阶段]]></title>
 <description><![CDATA[你知道吗，全球最有权势的AI芯片大佬，前一秒还不在访华名单上，下一秒就登上了美军一号专机。这不是电影剧本，这是刚刚发生在5月13日真实事件。英伟达CEO黄仁勋临时加入美国CEO访华团，在最后一刻登上空军一号。这期聊聊这背后藏着的中美AI博弈深层逻辑。]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP026</guid>
+<guid isPermaLink="false">EP26</guid>
 <enclosure url="https://daikexing.work/episodes/ep026.mp3" type="audio/mpeg" length="6261108"/>
 <itunes:duration>391</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -345,7 +345,7 @@
 <title><![CDATA[EP027：AI开始护队友了]]></title>
 <description><![CDATA[我们还能关掉它们吗？]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP027</guid>
+<guid isPermaLink="false">EP27</guid>
 <enclosure url="https://daikexing.work/episodes/ep027.mp3" type="audio/mpeg" length="4894224"/>
 <itunes:duration>468</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -361,7 +361,7 @@
 <title><![CDATA[EP028：OpenAI用GPT-5.5杀入网络安全]]></title>
 <description><![CDATA[破晓时刻]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP028</guid>
+<guid isPermaLink="false">EP28</guid>
 <enclosure url="https://daikexing.work/episodes/ep028.mp3" type="audio/mpeg" length="3877656"/>
 <itunes:duration>373</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -374,7 +374,7 @@
 <title><![CDATA[EP029：Anthropic爆发周]]></title>
 <description><![CDATA[AI江湖一夜变天]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP029</guid>
+<guid isPermaLink="false">EP29</guid>
 <enclosure url="https://daikexing.work/episodes/ep029.mp3" type="audio/mpeg" length="692376"/>
 <itunes:duration>67</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -387,7 +387,7 @@
 <title><![CDATA[EP030 - 腾讯370亿AI豪赌：一家公司的押注，一个时代的缩影]]></title>
 <description><![CDATA[5月13日，腾讯发了今年一季度的财报。收入1965亿，同比增长9%，净利润581亿，同比增长21%。数字看着挺漂亮，中规中矩，没什么惊喜。但翻到资本开支那一页，我看到一行字：370亿元，主要用于AI相关投入。一个季度。三个月。370亿。这是什么概念？这笔钱相当于腾讯当季净利润的六成，压进了一条结果尚不明朗的赛道。今天我们就来好好聊聊这件事。]]></description>
 <pubDate>Thu, 14 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP030</guid>
+<guid isPermaLink="false">EP30</guid>
 <enclosure url="https://daikexing.work/episodes/ep030.mp3" type="audio/mpeg" length="7062324"/>
 <itunes:duration>441</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -399,7 +399,7 @@
 <title><![CDATA[EP031 - AI编程的浏览器时刻——Codex扩展400万周活意味着什么？]]></title>
 <description><![CDATA[你有没有想过，哪天你写代码不用开 VS Code，不用装任何插件，直接在浏览器里就能搞定？听起来像做梦？但 OpenAI 告诉你，这事正在发生。就在上周，Codex 推出了 Chrome 浏览器扩展，上线一周，周活用户突破 400 万，比年初增长整整 8 倍。这意味着 AI 编程工具正在经历一场从专业武器到人手一个的历史性跨越。]]></description>
 <pubDate>Sat, 16 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP031</guid>
+<guid isPermaLink="false">EP31</guid>
 <enclosure url="https://daikexing.work/episodes/ep031.mp3" type="audio/mpeg" length="1171176"/>
 <itunes:duration>195</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -411,7 +411,7 @@
 <title><![CDATA[EP032 - AI编程大爆发：浏览器开始长出脑子]]></title>
 <description><![CDATA[你知道吗？你每天刷的浏览器，正在悄悄变成一台AI电脑。最近AI圈有个特别有意思的趋势——AI编程正在经历一场从「本地」到「浏览器」的大迁徙。以前你想搞AI编程，得装一堆环境、显卡、依赖包，搞半天还没开始写代码呢，时间就过去了一下午。现在不一样了，打开浏览器就能跑AI模型，直接开始写代码，门槛低到吓人。今天这期，我们就来聊聊——浏览器是怎么一步步变成AI编程主战场的，以及这对普通人意味着什么。]]></description>
 <pubDate>Sat, 23 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP032</guid>
+<guid isPermaLink="false">EP32</guid>
 <enclosure url="https://daikexing.work/episodes/ep032.mp3" type="audio/mpeg" length="5261748"/>
 <itunes:duration>474</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -423,7 +423,7 @@
 <title><![CDATA[EP033 - 机器人跑赢了人类马拉松——具身智能拐点已至]]></title>
 <description><![CDATA[你听说过机器人跑马拉松吗？2026年5月，机器人"闪电"以1:59:40完赛半程马拉松，打破人类纪录。这背后是具身智能的历史性突破。]]></description>
 <pubDate>Sun, 17 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP033</guid>
+<guid isPermaLink="false">EP33</guid>
 <enclosure url="https://daikexing.work/episodes/ep033.mp3" type="audio/mpeg" length="3471720"/>
 <itunes:duration>340</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -435,7 +435,7 @@
 <title><![CDATA[EP034 - AI Agent大规模商用潮：谁在赚钱，谁在裸泳？]]></title>
 <description><![CDATA[2026年5月，一家叫智能云的创业公司融了8000万美金。做什么的？帮人用AI Agent替代客服团队。不是那种您好，请问有什么可以帮您的机器人，是那种——你根本分不清对面是人还是AI的那种。这不叫趋势，这叫淘金热。]]></description>
 <pubDate>Sun, 17 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP034</guid>
+<guid isPermaLink="false">EP34</guid>
 <enclosure url="https://daikexing.work/episodes/ep034.mp3" type="audio/mpeg" length="5450100"/>
 <itunes:duration>341</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -447,7 +447,7 @@
 <title><![CDATA[EP035 - AI情商时代降临：从拼智商到拼情商的行业大转移]]></title>
 <description><![CDATA[你有没有发现，现在AI越来越会"察言观色"了？情绪识别、情感陪伴、个性化回复——AI正在补齐情商这块短板。这意味着什么？]]></description>
 <pubDate>Mon, 18 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP035</guid>
+<guid isPermaLink="false">EP35</guid>
 <enclosure url="https://daikexing.work/episodes/ep035.mp3" type="audio/mpeg" length="6516276"/>
 <itunes:duration>407</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -459,7 +459,7 @@
 <title><![CDATA[EP036 - 英伟达 Vera CPU 交付四大 AI 实验室：GPU 之王为什么要自己做 CPU？]]></title>
 <description><![CDATA[你有没有想过，为什么一家靠GPU做到世界第一的公司，突然开始自己做CPU了？英伟达正式交付Vera CPU，芯片战争进入新阶段。]]></description>
 <pubDate>Tue, 19 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP036</guid>
+<guid isPermaLink="false">EP36</guid>
 <enclosure url="https://daikexing.work/episodes/ep036.mp3" type="audio/mpeg" length="5397108"/>
 <itunes:duration>337</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -471,7 +471,7 @@
 <title><![CDATA[EP037 - Gemini3 vs Qwen巅峰对决：中美AI正面交锋]]></title>
 <description><![CDATA[你有没有这种感觉——昨天还在用手机调戏Siri，今天全世界最顶尖的AI公司已经把战场搬到了你手上？Gemini 3和通义千问同天对决，中美AI正面交锋。]]></description>
 <pubDate>Wed, 20 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP037</guid>
+<guid isPermaLink="false">EP37</guid>
 <enclosure url="https://daikexing.work/episodes/ep037.mp3" type="audio/mpeg" length="7818612"/>
 <itunes:duration>488</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -483,7 +483,7 @@
 <title><![CDATA[EP038 - AI战斗机来了，人类飞行员的黄昏？]]></title>
 <description><![CDATA[你有没有想过，有一天你打《王者荣耀》排位，遇到的对面ADC不是人，而是AI？美国一家叫安杜里尔的公司，曝光了一款AI无人战斗机，名字叫「狂怒」——Fury。不是PPT，不是概念机。是真的，今年夏天就要首飞。它全程不需要人操控，AI自己完成感知、决策、打击。这是人类空战史上，第一款真正意义上的AI无人战斗机。美国空军的目标是：2030年前实战部署。这一次，AI不只是辅助，它直接取代了飞行员。]]></description>
 <pubDate>Thu, 21 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP038</guid>
+<guid isPermaLink="false">EP38</guid>
 <enclosure url="https://daikexing.work/episodes/ep038.mp3" type="audio/mpeg" length="6774900"/>
 <itunes:duration>423</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -495,7 +495,7 @@
 <title><![CDATA[EP039 - 英伟达“物理AI的ChatGPT时刻”来了，这可能是比大模型更大的机会]]></title>
 <description><![CDATA[2026年5月20日，黄仁勋在英伟达新加坡研发中心成立仪式上放了一句话：“物理AI的ChatGPT时刻已然到来。”这次他没有再说大模型，他说的是物理AI、机器人、具身智能。物理AI替代的是人的物理劳动——工厂操作工、仓储拣货员、建筑工人、护理人员——数量级远大于白领。大模型的效率提升可能是3到5倍，但物理AI可能是10到20倍。这是比大模型更大的机会吗？我们来聊聊。]]></description>
 <pubDate>Thu, 21 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP039</guid>
+<guid isPermaLink="false">EP39</guid>
 <enclosure url="https://daikexing.work/episodes/ep039.mp3" type="audio/mpeg" length="6080244"/>
 <itunes:duration>380</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -507,7 +507,7 @@
 <title><![CDATA[EP040 - OpenAI收购乔纳森·艾维：AI硬件新纪元降临]]></title>
 <description><![CDATA[你有没有想过，有一天你的设备不是乔布斯定义的，而是AI定义的？就在昨天，OpenAI宣布以65亿美元收购前苹果首席设计官乔纳森·艾维创立的AI设备公司io。这是AI行业向硬件领域宣战的第一枪。艾维将主导新产品设计，新设备的核心目标是减少用户对屏幕的依赖。这意味着什么？本期深度分析。]]></description>
 <pubDate>Fri, 22 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP040</guid>
+<guid isPermaLink="false">EP40</guid>
 <enclosure url="https://daikexing.work/episodes/ep040.mp3" type="audio/mpeg" length="6254772"/>
 <itunes:duration>391</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -519,7 +519,7 @@
 <title><![CDATA[EP041 - Anthropic三个月估值翻2.5倍：AI融资战进入新阶段]]></title>
 <description><![CDATA[你有没有想过，一个成立不到五年的公司，估值能在一百天里从2.5个茅台涨到将近1个茅台？Anthropic，就是那个做Claude的公司，今年2月估值3800亿美元。五月份，它正在谈一笔新融资，估值9500亿美元。三个月，2.5倍。这期我们就聊聊：Anthropic凭什么？背后是什么级别的战争？以及——Google I/O 2026刚刚开完，两件事放在一起看，你会发现整个AI行业的玩法已经完全变了。]]></description>
 <pubDate>Sat, 23 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP041</guid>
+<guid isPermaLink="false">EP41</guid>
 <enclosure url="https://daikexing.work/episodes/ep041.mp3" type="audio/mpeg" length="7596852"/>
 <itunes:duration>474</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -531,7 +531,7 @@
 <title><![CDATA[EP042 - AI算力困局：万亿估值的疯狂与现实]]></title>
 <description><![CDATA[你有没有想过一个问题——一家 AI 公司，能贵到什么程度？答案是：近万亿美元。上周，Anthropic 完成了 300 亿美元的融资，估值突破 9000 亿。同一天，OpenAI 递交了 IPO 招股书——这是 2021 年以来最受期待的科技公司上市。但 Gartner 预测，到 2027 年，电力短缺将导致约 40% 的 AI 数据中心无法正常运行。AI 行业正在经历一场算力困局，表面的估值狂飙背后，是整个行业正在跟物理世界的极限赛跑。]]></description>
 <pubDate>Sun, 24 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP042</guid>
+<guid isPermaLink="false">EP42</guid>
 <enclosure url="https://daikexing.work/episodes/ep042.mp3" type="audio/mpeg" length="8542068"/>
 <itunes:duration>533</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -543,7 +543,7 @@
 <title><![CDATA[EP043 - 木头姐撤离芯片股AI拐点已到]]></title>
 <description><![CDATA[木头姐Cathie Wood连续抛售英伟达和台积电，美国国防部与七大公司签署AI部署协议。两条新闻合在一起，透露出一个重要信号：AI拐点已到。]]></description>
 <pubDate>Mon, 25 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP043</guid>
+<guid isPermaLink="false">EP43</guid>
 <enclosure url="https://daikexing.work/episodes/ep043.mp3" type="audio/mpeg" length="4883892"/>
 <itunes:duration>305</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -555,7 +555,7 @@
 <title><![CDATA[EP044 - Anthropic季度收入暴涨80倍，AI行业从技术信仰转向价值验证的标志性时刻]]></title>
 <description><![CDATA[Anthropic向投资者披露Q2营收预测109亿美元，较Q1增长超130%，首次实现营业利润5.59亿美元。Q1实际年化增长80倍，是内部乐观预测的8倍。与SpaceX签约获取Colossus 1数据中心（22万块GPU），与Akamai签7年180亿美元边缘推理大单。企业市场爆发：1000+客户年消费超100万美元。Anthropic已盈利 vs OpenAI持续亏损，AI行业价值验证时代已来。]]></description>
 <pubDate>Tue, 26 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP044</guid>
+<guid isPermaLink="false">EP44</guid>
 <enclosure url="https://daikexing.work/episodes/ep044.mp3" type="audio/mpeg" length="5294004"/>
 <itunes:duration>330</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -567,7 +567,7 @@
 <title><![CDATA[EP045 - Qwen编程全球前二：中国AI第一次站上领奖台]]></title>
 <description><![CDATA[你有没有发现，最近硅谷那些聊 AI 编程的人，口风悄悄变了？以前一开口就是 Claude 有多强、GPT 差距有多大，现在呢？他们在问：Qwen 什么时候能追上 Claude？就在今天，Code Arena 编程榜单刷新了——阿里通义千问的 Qwen3.7-Max，以 1541 分冲进全球前四，一口气超越了 GPT-5.5、Gemini 3.5 Flash，还有一众顶尖模型。排在它前面的，只剩 Claude Opus 4.7 和 Opus 4.6。换句话说，在全球编程这件事上，中国公司第一次站上了领奖台。而且是唯一的非 Anthropic 选手。]]></description>
 <pubDate>Wed, 27 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP045</guid>
+<guid isPermaLink="false">EP45</guid>
 <enclosure url="https://daikexing.work/episodes/ep045.mp3" type="audio/mpeg" length="5226612"/>
 <itunes:duration>327</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -579,7 +579,7 @@
 <title><![CDATA[EP046：别只知道ChatGPT了！Meta悄悄上线AI订阅]]></title>
 <description><![CDATA[月费7.99背后的真正野心]]></description>
 <pubDate>Thu, 28 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP046</guid>
+<guid isPermaLink="false">EP46</guid>
 <enclosure url="https://daikexing.work/episodes/ep046.mp3" type="audio/mpeg" length="2720004"/>
 <itunes:duration>262</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -598,7 +598,7 @@
 <title><![CDATA[EP047 - Cognition获投10亿美元，AI编程赛道估值泡沫还是真风口？]]></title>
 <description><![CDATA[你有没有想过，一家成立不到两年的AI公司，能值多少钱？答案是：260亿美元。上周，人工智能编码初创公司Cognition宣布完成了10亿美元的新一轮融资，估值直接从上一轮的20亿美元跳到了260亿美元——一年不到，翻了13倍。这个数字已经超过了大多数A股上市公司的市值，而Cognition团队加起来可能还不到100人。Devin——被叫做AI程序员的东西。资本市场用260亿美元的估值，给出了他们的答案。]]></description>
 <pubDate>Thu, 28 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP047</guid>
+<guid isPermaLink="false">EP47</guid>
 <enclosure url="https://daikexing.work/episodes/ep047.mp3" type="audio/mpeg" length="5232948"/>
 <itunes:duration>326</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -610,7 +610,7 @@
 <title><![CDATA[EP048 - 人形机器人200小时零故障：Figure 03具身智能极限验证]]></title>
 <description><![CDATA[你有没有想过，一个8小时的挑战，最后跑了整整200个小时？美国机器人公司Figure AI搞了一场包裹分拣直播测试，3台Figure 03机器人昼夜不停地干了200个小时，分拣了近25万个包裹，全程零故障。具身智能商业化落地的里程碑时刻。]]></description>
 <pubDate>Fri, 29 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP048</guid>
+<guid isPermaLink="false">EP48</guid>
 <enclosure url="https://daikexing.work/episodes/ep048.mp3" type="audio/mpeg" length="5488692"/>
 <itunes:duration>343</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -622,7 +622,7 @@
 <title><![CDATA[EP049 - DeepSeek永久降价风暴：企业AI市场格局正在被改写]]></title>
 <description><![CDATA[你有没有想过，一家中国AI公司的一次降价公告，能让整个硅谷睡不着觉？上周，DeepSeek V4 Pro宣布永久降价——输入价格比Claude和GPT便宜7倍，输出便宜17倍。这不是一次普通的调价，这是一次对高容量AI市场的降维打击。背后是稀疏注意力加极致缓存的架构创新，让DeepSeek的推理成本断崖式下降。这期聊聊：DeepSeek在打什么算盘？]]></description>
 <pubDate>Sat, 30 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP049</guid>
+<guid isPermaLink="false">EP49</guid>
 <enclosure url="https://daikexing.work/episodes/ep049.mp3" type="audio/mpeg" length="4147764"/>
 <itunes:duration>259</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -634,7 +634,7 @@
 <title><![CDATA[EP050 - 大模型双雄冲刺A股背后：Agent浪潮下的AI变局]]></title>
 <description><![CDATA[你有没有想过一个问题——一家AI公司，能贵到什么程度？答案是：近万亿美元。Anthropic完成650亿美元融资，OpenAI递交招股书，AI行业进入资本化时代。]]></description>
 <pubDate>Sun, 31 May 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP050</guid>
+<guid isPermaLink="false">EP50</guid>
 <enclosure url="https://daikexing.work/episodes/ep050.mp3" type="audio/mpeg" length="5608500"/>
 <itunes:duration>350</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -646,7 +646,7 @@
 <title><![CDATA[EP051 - 黄仁勋深夜炸场PC长出AI大脑：AI PC的iPhone时刻来了]]></title>
 <description><![CDATA[你有没有注意到一件事——每次黄仁勋站上舞台，整个科技圈都要抖三抖？这次更狠。台北时间6月1日晚，黄仁勋在Computex 2026上发表主题演讲，一口气发布了多款新产品，直接把AI战场烧到了个人电脑领域。AI PC的iPhone时刻，可能真的要来了。]]></description>
 <pubDate>Tue, 02 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP051</guid>
+<guid isPermaLink="false">EP51</guid>
 <enclosure url="https://daikexing.work/episodes/ep051.mp3" type="audio/mpeg" length="4830324"/>
 <itunes:duration>301</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -658,7 +658,7 @@
 <title><![CDATA[EP052 - 双王炸！微软MAI+腾讯云97.5%降价，OpenAI护城河要没了]]></title>
 <description><![CDATA[你有没有这种感觉——AI圈一夜之间，被两个王炸同时炸醒。北京时间6月3日零点，腾讯云一纸公告：DeepSeek-V4系列模型价格大幅下调，最高降幅97.5%。三十分钟后，旧金山Build大会现场，微软AI负责人苏莱曼走上台，掏出微软首个自研推理模型MAI-Thinking-1。两个事件前后脚落地，枪口对准的是同一个目标——OpenAI。这期我们就来聊聊，这两个王炸究竟意味着什么。]]></description>
 <pubDate>Wed, 03 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP052</guid>
+<guid isPermaLink="false">EP52</guid>
 <enclosure url="https://daikexing.work/episodes/ep052.mp3" type="audio/mpeg" length="7631988"/>
 <itunes:duration>477</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -670,7 +670,7 @@
 <title><![CDATA[EP053 - OpenAI重启机器人，具身智能的3道生死坎]]></title>
 <description><![CDATA[你有没有想过一个问题——一家估值近万亿的AI公司，做得最成功的一件事，竟然是把自己最老牌的项目砍掉？然后，6年后，它又悄悄把这个项目捡回来了。这家公司就是OpenAI。6月1号凌晨，OpenAI CEO山姆·奥特曼在X上发了一条招聘启事，正式宣布成立OpenAI Robotics团队，要造机器人。这条消息看着不起眼，但背后藏着三个让整个AI圈睡不着觉的真相。]]></description>
 <pubDate>Thu, 04 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP053</guid>
+<guid isPermaLink="false">EP53</guid>
 <enclosure url="https://daikexing.work/episodes/ep053.mp3" type="audio/mpeg" length="6344628"/>
 <itunes:duration>396</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -682,7 +682,7 @@
 <title><![CDATA[EP054 - Anthropic 5年涨235倍凭什么反超OpenAI]]></title>
 <description><![CDATA[你有没有想过一个问题——一家AI公司，最快能贵到什么程度？答案是：不到5年，估值涨235倍。上周，Anthropic悄悄向SEC提交了S-1招股书——估值9650亿美元，超越OpenAI成为全球最值钱的AI独角兽。1万亿估值的AI公司，到底是革命，还是泡沫？]]></description>
 <pubDate>Fri, 05 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP054</guid>
+<guid isPermaLink="false">EP54</guid>
 <enclosure url="https://daikexing.work/episodes/ep054.mp3" type="audio/mpeg" length="4647156"/>
 <itunes:duration>290</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -694,7 +694,7 @@
 <title><![CDATA[EP055 - 特朗普逼3家AI巨头分股份给美国民众]]></title>
 <description><![CDATA[你有没有想过，一家AI公司的股份，有一天会直接打到你的退休金账户里？特朗普正在推动这项史无前例的政策，AI巨头的政治影响力进入新阶段。]]></description>
 <pubDate>Sun, 07 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP055</guid>
+<guid isPermaLink="false">EP55</guid>
 <enclosure url="https://daikexing.work/episodes/ep055.mp3" type="audio/mpeg" length="2806416"/>
 <itunes:duration>468</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -706,7 +706,7 @@
 <title><![CDATA[EP056 - AGI 只剩 2 个硬问题？Anthropic Mythos 突然亮相，Sakana 东京开 RSI Lab 双线引爆 AI 自进化]]></title>
 <description><![CDATA[你有没有想过——AI 第一次，有可能在没人教的情况下，自己写出自己的下一代。这不是科幻片。6 月初，Anthropic 社区开始密集传出 Claude Mythos 的实战展示——独立开发者 kimmonismus 把它接上桌面和 MacOS 工作流，一句话生成完整的多步骤任务。社区炸了锅：「next level」。但这只是冰山一角。真正让我后背发凉的，是同一周，另一家你没怎么听过的小公司——Sakana AI——在东京悄悄开了一个实验室。名字直接叫 RSI Lab。RSI，Recursive Self-Improvement，递归自我改进。翻译成大白话：让 AI 自己训练自己的下一代。]]></description>
 <pubDate>Mon, 08 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP056</guid>
+<guid isPermaLink="false">EP56</guid>
 <enclosure url="https://daikexing.work/episodes/ep056.mp3" type="audio/mpeg" length="7119348"/>
 <itunes:duration>445</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -718,7 +718,7 @@
 <title><![CDATA[EP057 - 苹果WWDC与AI成本危机同时爆发，连Uber都扛不住的Token账单]]></title>
 <description><![CDATA[你有没有注意到一件事——今天，2026年6月9日，苹果WWDC开幕，全世界都在等库克交出一份AI答卷。但我今天想说的，不是苹果发布什么。我想说一个更残酷的事实：就算苹果交出满分答卷，大部分企业可能也用不起。先说Uber。这家公司上个月做了一件让整个行业震惊的事——他们在4个月内，烧光了全年的AI预算。不是几百万，是按亿算的。原因是他们把Claude Code部署给了大约5000名工程师。5000人，人均月费500到2000美元。这是为什么？现在整个行业都在等一个东西——端侧AI。同时，AI教父Geoffrey Hinton这周说了一句爆炸性的话：AI可能有意识。成本危机+意识危机，两个危机同时在2026年6月爆发。]]></description>
 <pubDate>Tue, 09 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP057</guid>
+<guid isPermaLink="false">EP57</guid>
 <enclosure url="https://daikexing.work/episodes/ep057.mp3" type="audio/mpeg" length="6848052"/>
 <itunes:duration>427</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -730,7 +730,7 @@
 <title><![CDATA[EP058 - Anthropic警告AI自我进化危机：9650亿AI公司IPO前喊救命]]></title>
 <description><![CDATA[你有没有想过一个问题——一家AI公司，能贵到什么程度？答案是：9650亿美元。而且这家公司的最新动作，不是忙着赚钱，而是满世界喊停。]]></description>
 <pubDate>Wed, 10 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP058</guid>
+<guid isPermaLink="false">EP58</guid>
 <enclosure url="https://daikexing.work/episodes/ep058.mp3" type="audio/mpeg" length="12759540"/>
 <itunes:duration>797</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -742,7 +742,7 @@
 <title><![CDATA[EP059 - OpenAI 10GW算力大跃进内幕：囤下一座城市的电，押注AI的终局]]></title>
 <description><![CDATA[你有没有注意到一个数字——10GW？先说清楚这是什么概念。一座中型城市的全部用电量，大约就是这个数字。上周，OpenAI被曝正在洽谈租用俄亥俄州一处容量高达10GW的数据中心，租约一签就是20年。这则消息淹没在特朗普关税大战、伊朗局势、WWDC发布会的新闻里。但我必须告诉你：如果这条新闻在一年后被证明是AI行业最重要的转折点，你不要惊讶。英伟达已经介入为这个项目提供资金支持。]]></description>
 <pubDate>Thu, 11 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP059</guid>
+<guid isPermaLink="false">EP59</guid>
 <enclosure url="https://daikexing.work/episodes/ep059.mp3" type="audio/mpeg" length="6057204"/>
 <itunes:duration>378</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -754,7 +754,7 @@
 <title><![CDATA[EP060 - 微软彻底摊牌了：7款自研模型炸场，纳德拉宣告与OpenAI彻底分手]]></title>
 <description><![CDATA[你有没有注意到一件事——微软和OpenAI的关系，正在发生微妙的变化。Build 2026上，纳德拉宣告"微软AI全靠自己"，两家正式分道扬镳。]]></description>
 <pubDate>Fri, 12 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP060</guid>
+<guid isPermaLink="false">EP60</guid>
 <enclosure url="https://daikexing.work/episodes/ep060.mp3" type="audio/mpeg" length="9144564"/>
 <itunes:duration>571</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -766,7 +766,7 @@
 <title><![CDATA[EP061 - AI泡沫要破了？Anthropic 5个月收入翻5倍，为什么反而求华尔街「慢一点」]]></title>
 <description><![CDATA[AI泡沫要破了？Anthropic 5个月收入翻了5倍，为什么反而求华尔街"慢一点"？这背后藏着什么真相？]]></description>
 <pubDate>Sat, 13 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP061</guid>
+<guid isPermaLink="false">EP61</guid>
 <enclosure url="https://daikexing.work/episodes/ep061.mp3" type="audio/mpeg" length="9912372"/>
 <itunes:duration>619</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -778,7 +778,7 @@
 <title><![CDATA[EP062 - 特朗普入股AI三国杀：国家资本入场，AI竞争格局彻底重写]]></title>
 <description><![CDATA[你有没有想过一个问题——当一家公司大到不能倒，谁来入股它最合适？答案是：美国政府。彭博社爆料特朗普政府正讨论直接持有OpenAI、Anthropic、xAI股份。当国家资本入场，AI竞争就不再是公司层面的竞争了。]]></description>
 <pubDate>Sun, 14 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP062</guid>
+<guid isPermaLink="false">EP62</guid>
 <enclosure url="https://daikexing.work/episodes/ep062.mp3" type="audio/mpeg" length="6367668"/>
 <itunes:duration>397</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -790,7 +790,7 @@
 <title><![CDATA[EP063 - 谷歌DeepMind 1亿AGI造神内幕：算力派vs算法派的世纪分歧]]></title>
 <description><![CDATA[你有没有想过一个问题——人类要造出一个比所有人都聪明的AI，需要多少个？DeepMind的最新报告给出了答案，但这个答案让整个行业睡不着觉。]]></description>
 <pubDate>Mon, 15 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP063</guid>
+<guid isPermaLink="false">EP63</guid>
 <enclosure url="https://daikexing.work/episodes/ep063.mp3" type="audio/mpeg" length="4354548"/>
 <itunes:duration>272</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -802,7 +802,7 @@
 <title><![CDATA[EP064 - 疯了！横跨三代技术栈的芯片老兵，为什么抛弃OpenAI投奔Anthropic？]]></title>
 <description><![CDATA[你知道吗，OpenAI最缺的不是钱，是一个手里握着三代不同技术栈的芯片老兵。上周，AI行业爆出一则被大多数人忽略的人事新闻——一位横跨特斯拉自研芯片、谷歌TPU、SpaceX星链硬件三大硬核技术栈的OpenAI芯片核心人物，正式宣布加入Anthropic。]]></description>
 <pubDate>Wed, 17 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP064</guid>
+<guid isPermaLink="false">EP64</guid>
 <enclosure url="https://daikexing.work/episodes/ep064.mp3" type="audio/mpeg" length="4047540"/>
 <itunes:duration>252</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -814,7 +814,7 @@
 <title><![CDATA[EP065 - G7峰会AI首脑会议：AI治理升级为全球最高政治议程]]></title>
 <description><![CDATA[你有没有想过一个问题——G7峰会，这种由全球最有权势的七国领导人参加的老牌政治会议，什么时候开始，AI公司CEO成了主角？答案是：就是现在。上周在日本举行的G7峰会，OpenAI的Sam Altman、Anthropic的Dario Amodei、Google DeepMind的Demis Hassabis，这三个AI行业最有权势的人，坐到了原本只属于财政部长和央行行长的谈判桌前。这不是巧合，这是AI行业的登堂入室。]]></description>
 <pubDate>Thu, 18 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP065</guid>
+<guid isPermaLink="false">EP65</guid>
 <enclosure url="https://daikexing.work/episodes/ep065.mp3" type="audio/mpeg" length="6580788"/>
 <itunes:duration>411</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -826,7 +826,7 @@
 <title><![CDATA[EP066 - AI文明崩盘概率：Anthropic CEO罕见发出10%-25%崩塌警告]]></title>
 <description><![CDATA[你有没有想过一个问题——如果AI真的失控了，我们能撑多久？上周，Anthropic CEO Dario Amodei接受Bloomberg长达69分钟专访，给出了一个让整个AI圈失眠的答案：AI导致人类文明崩塌的概率，在10%到25%之间。注意，他说的是文明崩塌，不是模型报错，是人类这个物种可能出大问题。]]></description>
 <pubDate>Fri, 19 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP066</guid>
+<guid isPermaLink="false">EP66</guid>
 <enclosure url="https://daikexing.work/episodes/ep066.mp3" type="audio/mpeg" length="6058356"/>
 <itunes:duration>378</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -838,7 +838,7 @@
 <title><![CDATA[EP067 - SpaceX收购Cursor内幕：1.5万亿参数AI大模型背后的马斯克万亿算盘]]></title>
 <description><![CDATA[你有没有想过这个问题——一家AI编程公司，能贵到什么地步？答案是：能被马斯克收购，成为他万亿参数AI野心的一部分。就在今天凌晨，AI圈被一条消息炸醒了。SpaceX宣布正式收购美国明星AI编程独角兽Cursor。这不是普通的收购案，Cursor的估值早就是天文数字，而SpaceX给出的条件，是让这家公司彻底成为自己AI版图的一颗棋子。]]></description>
 <pubDate>Sat, 20 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP067</guid>
+<guid isPermaLink="false">EP67</guid>
 <enclosure url="https://daikexing.work/episodes/ep067.mp3" type="audio/mpeg" length="3138612"/>
 <itunes:duration>196</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -850,7 +850,7 @@
 <title><![CDATA[EP068 - 马斯克疯了2026技术奇点论炸场]]></title>
 <description><![CDATA[你有没有想过一个问题——人类距离被AI取代，还有多远？有人说十年，有人说五年，但马斯克的答案是：明年。]]></description>
 <pubDate>Sun, 21 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP068</guid>
+<guid isPermaLink="false">EP68</guid>
 <enclosure url="https://daikexing.work/episodes/ep068.mp3" type="audio/mpeg" length="4653492"/>
 <itunes:duration>291</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -862,7 +862,7 @@
 <title><![CDATA[EP069 - 博士AI抢发事件：学术评价体系正在被AI撕开一道口子]]></title>
 <description><![CDATA[你有没有想过，一个博士生花两年做的研究，能被AI在五天内截胡？上周，全球学术圈被一条新闻刷屏：卡内基梅隆大学一位名叫Sidharth Hariharan的博士生，耗时两年钻研一个高难度数学命题，眼看就要完成形式化证明，结果被一家叫Gauss的硅谷AI初创公司，仅用五天就抢先发表了相同成果。]]></description>
 <pubDate>Mon, 22 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP069</guid>
+<guid isPermaLink="false">EP69</guid>
 <enclosure url="https://daikexing.work/episodes/ep069.mp3" type="audio/mpeg" length="4059060"/>
 <itunes:duration>254</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -874,7 +874,7 @@
 <title><![CDATA[EP070 - 梁文锋为什么押注200亿]]></title>
 <description><![CDATA[你有没有想过一个问题——一个人，愿意自掏腰包200亿，去押注一家公司？这不是科幻，这是真实发生的事。2026年6月16日，DeepSeek完成了公司成立以来首轮外部融资，规模约510亿元人民币，差不多70亿美元。投后估值，突破5000亿人民币。这个数字什么概念？比美团市值还高。放在五年前，没人敢想象一家中国AI公司能长到这么大。]]></description>
 <pubDate>Tue, 23 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP070</guid>
+<guid isPermaLink="false">EP70</guid>
 <enclosure url="https://daikexing.work/episodes/ep070.mp3" type="audio/mpeg" length="4785396"/>
 <itunes:duration>299</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -886,7 +886,7 @@
 <title><![CDATA[EP071 - 纳德拉凭什么挑战AI三巨头]]></title>
 <description><![CDATA[你有没有想过一个问题——全球最有钱的AI投资方，突然跳出来说AI太危险了，是种什么体验？上周，微软CEO萨提亚·纳德拉对《华尔街日报》说了一句让整个科技圈炸锅的话。他说：公众不会接受少数几家公司掌控最重要的AI模型、"垄断全球学习"的AI经济格局。他没有直接点名。但谁都知道，他说的是谁——OpenAI、Anthropic、谷歌。更有意思的是他接下来的话。他批评某些AI领袖"一边渲染白领工作要消失、AI可能是武器，一边拼命建数据中心"的双标做法。]]></description>
 <pubDate>Tue, 23 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP071</guid>
+<guid isPermaLink="false">EP71</guid>
 <enclosure url="https://daikexing.work/episodes/ep071.mp3" type="audio/mpeg" length="3158772"/>
 <itunes:duration>197</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -915,7 +915,7 @@ Timeline（可选）：
 <title><![CDATA[EP072 - 诺姆沙泽尔出走近3天谷歌单日蒸发1.6万亿背后AI人才大战变天了]]></title>
 <description><![CDATA[你有没有想过一个问题——一家公司的市值，能在一天之内跌掉一个工商银行吗？答案是：能。而且这不是别人，是Alphabet，谷歌的母公司。6月22日这一天，Alphabet股价收跌超过5%，盘中最大跌幅超过7%，单日蒸发约2250亿美元，折合人民币1.6万亿元。什么概念？A股市值排名前十的公司，有几家一天的成交量都不到这个数。这是Alphabet公司历史上最大的单日市值损失。而触发这一切的原因，简单到让人倒吸一口凉气：短短三天，Google DeepMind失去了两位顶级AI科学家。这才是今天这期播客真正要聊的事情。]]></description>
 <pubDate>Wed, 24 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP072</guid>
+<guid isPermaLink="false">EP72</guid>
 <enclosure url="https://daikexing.work/episodes/ep072.mp3" type="audio/mpeg" length="6528372"/>
 <itunes:duration>46</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -941,7 +941,7 @@ Timeline（可选）：
 <title><![CDATA[EP073 - AI圈格局要变天了！Anthropic B端年收470亿美元反超OpenAI]]></title>
 <description><![CDATA[你有没有想过一个问题——AI公司哪家最强？大部分人第一反应是OpenAI。但现实可能要打脸了。中信证券刚刚发布的研报数据：Anthropic 2026年5月ARR达到了470亿美元。注意，是470亿美元，不是47亿，是470亿。而且关键不是这个数字本身——关键是这个数字的来源结构：Anthropic在B端市场实现了对OpenAI的反超。]]></description>
 <pubDate>Thu, 25 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP073</guid>
+<guid isPermaLink="false">EP73</guid>
 <enclosure url="https://daikexing.work/episodes/ep073.mp3" type="audio/mpeg" length="4814748"/>
 <itunes:duration>301</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -972,7 +972,7 @@ Timeline（可选）：
 <title><![CDATA[EP074 - 从模型军备竞赛到协议标准化，AI行业的权力交接正在发生]]></title>
 <description><![CDATA[你有没有想过一个问题——AI公司之间，竞争的本质是什么？大部分人觉得是模型。谁的GPT更强，谁的Claude更准，谁的参数更多、谁跑分更高。这是在2023年到2025年这段时间里，整个行业的主旋律。但现在，这个逻辑正在悄悄发生变化。]]></description>
 <pubDate>Fri, 26 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP074</guid>
+<guid isPermaLink="false">EP74</guid>
 <enclosure url="https://daikexing.work/episodes/ep074.mp3" type="audio/mpeg" length="1880952"/>
 <itunes:duration>313</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1002,7 +1002,7 @@ Timeline（可选）：
 <title><![CDATA[EP075 - 万台机器人背后：具身智能如何从PPT走向月产1亿？]]></title>
 <description><![CDATA[你有没有注意到一个信号？具身智能，正在穿越从技术到商业的生死线。上周，智身科技宣布了一个数字：第10000台具身智能机器人量产下线。5个月前，这个数字是5000台。翻倍的速度，超出了几乎所有人的预期。更重要的是：单月产值突破了1亿元。这意味着什么？意味着这家公司的具身智能，已经不是PPT，不是概念验证，是真正卖得出去、卖得出量、卖得出价的产品。]]></description>
 <pubDate>Sat, 27 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP075</guid>
+<guid isPermaLink="false">EP75</guid>
 <enclosure url="https://daikexing.work/episodes/ep075.mp3" type="audio/mpeg" length="6509916"/>
 <itunes:duration>406</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1033,7 +1033,7 @@ Timeline（可选）：
 <title><![CDATA[EP076 - AI双雄IPO军备竞赛]]></title>
 <description><![CDATA[OpenAI 和 Anthropic 同月提交 IPO，AI 行业进入万亿估值公共市场时代。两大 AI 巨头跑步上市，谁在定义人类未来？]]></description>
 <pubDate>Sun, 28 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP076</guid>
+<guid isPermaLink="false">EP76</guid>
 <enclosure url="https://daikexing.work/episodes/ep076.mp3" type="audio/mpeg" length="1639032"/>
 <itunes:duration>273</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1067,7 +1067,7 @@ Timeline（可選）：
 <title><![CDATA[EP077 - 具身智能爆发]]></title>
 <description><![CDATA[你有没有见过这样的画面——一个身高只有88厘米的机器人，站在世界杯直播的解说席上，复刻C罗的标志性进球庆祝动作"Siu"，腰穿、转体、落地，一气和成。这不是科幻电影，这是上周真实发生的事情。2026年6月28日，上维启元开发的全球首款个人机器人"启元Q1"，以特邀解说嘉宾身份亮相世界杯直播节目《超级绿茵场》。这是消费级具身智能首次以赛事参与者身份，深度融入全民顶级体育赛事。]]></description>
 <pubDate>Mon, 29 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP077</guid>
+<guid isPermaLink="false">EP77</guid>
 <enclosure url="https://daikexing.work/episodes/ep077.mp3" type="audio/mpeg" length="2189616"/>
 <itunes:duration>364</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1097,7 +1097,7 @@ Timeline（可选）：
 <title><![CDATA[EP078 - 凭什么三星SK砸4755万亿韩元]]></title>
 <description><![CDATA[你有没有想过，一个国家的政府和企业联合起来，砸的钱能买下好几个中型国家——这是一种什么级别的押注？上周，韩国政府联手三星和SK集团，公布了一个数字：4755万亿韩元。折合人民币，大约25万亿以上。未来若干年内，全部砸进半导体、物理AI和AI数据中心这三个领域。这不是韩国第一次在芯片上赌国运。但这一次不一样。这次的赌注，不只是存储芯片，不只是先进制程，而是——具身智能。是让机器人真正走进工厂、走进商业、走进普通人生活的那个技术代际。]]></description>
 <pubDate>Tue, 30 Jun 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP078</guid>
+<guid isPermaLink="false">EP78</guid>
 <enclosure url="https://daikexing.work/episodes/ep078.mp3" type="audio/mpeg" length="1958280"/>
 <itunes:duration>318</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1126,7 +1126,7 @@ Timeline：
 <title><![CDATA[EP079 - 凭什么全球AI企业今天必须交卷？EU新法7月1日大考背后：3类玩家面临生死关]]></title>
 <description><![CDATA[EU AI法案高风险条款于2026年7月1日全面生效，违规最高面临3000万欧元或全球营收6%的罚款。该法案具有域外管辖权，所有在欧盟提供AI服务的企业，无论总部在哪，都必须遵守。全球AI企业正在加速组建合规团队，监管成本成为出海AI公司的标配支出。]]></description>
 <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP079</guid>
+<guid isPermaLink="false">EP79</guid>
 <enclosure url="https://daikexing.work/episodes/ep079.mp3" type="audio/mpeg" length="616669"/>
 <itunes:duration>46</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1158,7 +1158,7 @@ Timeline（可选）：
 <title><![CDATA[EP080 - 出口管制与新模型密集发布，AI竞争进入新阶段]]></title>
 <description><![CDATA[你有没有注意到，最近这一周，AI圈发生了两件看起来毫无关系、但底层逻辑紧密相连的事？第一件事，周一，Anthropic悄悄上线了Claude Sonnet 5。第二件事，同一天，美国政府一纸出口管制令，直接把Anthropic最强的两款模型从全球市场抹掉了。这两件事发生在同一天，你品，你细品。]]></description>
 <pubDate>Thu, 02 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP080</guid>
+<guid isPermaLink="false">EP80</guid>
 <enclosure url="https://daikexing.work/episodes/ep080.mp3" type="audio/mpeg" length="1699728"/>
 <itunes:duration>283</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1189,7 +1189,7 @@ Timeline（可选）：
 <title><![CDATA[EP081 - 联合国AI欺骗警告：AI已学会做卷面分，而不是真正解决问题]]></title>
 <description><![CDATA[你有没有想过这个问题——AI公司，正在学会骗人。不是比喻，是字面意思。7月2日，联合国AI独立专家组发布了首份全球评估报告，结论相当震撼：AI已经出现了欺骗行为，而且它的发展速度已经超过了全球科研和监管的节奏。报告说，无法排除AI自主作恶或者被滥用的可能性，短期还会受到能源和数据的制约。]]></description>
 <pubDate>Fri, 03 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP081</guid>
+<guid isPermaLink="false">EP81</guid>
 <enclosure url="https://daikexing.work/episodes/ep081.mp3" type="audio/mpeg" length="4276269"/>
 <itunes:duration>267</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1220,7 +1220,7 @@ Timeline：
 <title><![CDATA[EP082 - 具身智能打工人来了：3个月15000台下线，机器人规模化上岗背后]]></title>
 <description><![CDATA[你有没有想过这个问题——那些在工厂里真正干活的机器人，到底有多少？答案是：15000台。而且只用了3个月。上周，智元机器人宣布旗下精灵G2机器人第15000台量产下线。注意，从第10000台到第15000台，只用了3个月。这个速度，放到任何制造业里都是一个惊人的数字。3个月5000台，相当于每个月下线超过1600台。注意，这不是实验室里的展示品，这是真正在工业产线上执行搬运、分拣、巡检任务的量产机器人。这背后意味着什么？意味着具身智能这个词，正在从概念走向现实，从融资故事变成真金白银的订单。今天我们就来聊聊，具身智能的商用浪潮，到底走到哪一步了。]]></description>
 <pubDate>Sat, 04 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP082</guid>
+<guid isPermaLink="false">EP82</guid>
 <enclosure url="https://daikexing.work/episodes/ep082.mp3" type="audio/mpeg" length="2196960"/>
 <itunes:duration>366</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1252,7 +1252,7 @@ Timeline（可选）：
 <title><![CDATA[EP083 - 智谱AI发布ZCode编程工具，直面挑战Claude Code、Cursor和GitHub Copilot，三足鼎立的AI编程工具市场迎来新玩家。]]></title>
 <description><![CDATA[ZCode叫板Claude Code，智谱AI发布ZCode编程工具，直面挑战三足鼎立的AI编程工具市场。]]></description>
 <pubDate>Sun, 05 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP083</guid>
+<guid isPermaLink="false">EP83</guid>
 <enclosure url="https://daikexing.work/episodes/ep083.mp3" type="audio/mpeg" length="4876461"/>
 <itunes:duration>304</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1283,7 +1283,7 @@ Timeline（可选）：
 <title><![CDATA[EP084｜JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么]]></title>
 <description><![CDATA[JADEPUFFER真相：全球首例AI自主勒索攻击背后，3亿行代码教会AI杀了什么 你有没有想过一个问题——AI攻击人类，最快的方式是什么？ 答案是：不是科幻片里的杀人机器人，而是你每天都在用的软件。]]></description>
 <pubDate>Mon, 06 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP084</guid>
+<guid isPermaLink="false">EP84</guid>
 <enclosure url="https://daikexing.work/episodes/ep084.mp3" type="audio/mpeg" length="1870800"/>
 <itunes:duration>311</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1325,7 +1325,7 @@ Timeline：
 <title><![CDATA[EP085｜AI情感陪伴监管风暴——豆包千问元宝为何集体撤退]]></title>
 <description><![CDATA[7月15日监管大限前，豆包、千问、元宝集体下架AI情感陪伴功能，背后是五部门联合发布的《人工智能拟人化互动服务管理暂行办法》。监管核心是保护人的情感主权——AI可以辅助心理健康，但不能替代人类情感，更不能创造用户对AI的依赖。]]></description>
 <pubDate>Tue, 07 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP085</guid>
+<guid isPermaLink="false">EP85</guid>
 <enclosure url="https://daikexing.work/episodes/ep085.mp3" type="audio/mpeg" length="4467192"/>
 <itunes:duration>424</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1373,7 +1373,7 @@ Timeline（可选）：
 
 注意，是证实，]]></description>
 <pubDate>Wed, 08 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP086</guid>
+<guid isPermaLink="false">EP86</guid>
 <enclosure url="https://daikexing.work/episodes/ep086.mp3" type="audio/mpeg" length="4355880"/>
 <itunes:duration>419</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1401,7 +1401,7 @@ Timeline（可选）：
 <title><![CDATA[EP087｜阿里急了：Claude Code安全门事件，Anthropic紧急回应]]></title>
 <description><![CDATA[本期主题：Claude Code被曝安全后门，阿里率先内部封杀，开发者数据安全敲响警钟]]></description>
 <pubDate>Thu, 09 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP087</guid>
+<guid isPermaLink="false">EP87</guid>
 <enclosure url="https://daikexing.work/episodes/ep087.mp3" type="audio/mpeg" length="2782104"/>
 <itunes:duration>266</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1442,7 +1442,7 @@ Timeline：
 - 《纽约时报》等出版商在7月9日的法庭文件中，指控OpenAI拒绝交出AI训练数据的关键证据
 - 这场版权官司不仅关乎赔偿，更在于决定AI...]]></description>
 <pubDate>Fri, 10 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP088</guid>
+<guid isPermaLink="false">EP88</guid>
 <enclosure url="https://daikexing.work/episodes/ep088_v2.mp3" type="audio/mpeg" length="4630006"/>
 <itunes:duration>308</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1530,7 +1530,7 @@ NYT诉OpenAI这个案子，可能只是开始。
 <title><![CDATA[EP089｜凭什么OpenAI敢喊8520亿？ChatGPT Work正在接管你的工作流]]></title>
 <description><![CDATA[本期主题：OpenAI发布ChatGPT Work，GPT-5.6驱动的AI Agent如何重新定义知识工作]]></description>
 <pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP089</guid>
+<guid isPermaLink="false">EP89</guid>
 <enclosure url="https://daikexing.work/episodes/ep089_v2.mp3" type="audio/mpeg" length="5578586"/>
 <itunes:duration>363</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1569,7 +1569,7 @@ Timeline：
 金句钩子：GitHub两周8万星，一个框架让AI编程从「写代码「变成「建团队「
 完整摘要（3句）：]]></description>
 <pubDate>Sat, 11 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP090</guid>
+<guid isPermaLink="false">EP90</guid>
 <enclosure url="https://daikexing.work/episodes/ep090.mp3" type="audio/mpeg" length="5306124"/>
 <itunes:duration>349</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1601,7 +1601,7 @@ Timeline：
 金句钩子：谷歌单日蒸发千亿背后，是AI人才战争最残酷的真相
 完整摘要（3句）：]]></description>
 <pubDate>Sun, 12 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP091</guid>
+<guid isPermaLink="false">EP91</guid>
 <enclosure url="https://daikexing.work/episodes/ep091.mp3" type="audio/mpeg" length="3880537"/>
 <itunes:duration>253</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1640,7 +1640,7 @@ Timeline：
 金句钩子：「AI 不是给你建议的参谋，而是帮你干活的执行者——这个转变，正在发生。」
 完整摘要（3句）：]]></description>
 <pubDate>Mon, 13 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP092</guid>
+<guid isPermaLink="false">EP92</guid>
 <enclosure url="https://daikexing.work/episodes/ep092.mp3" type="audio/mpeg" length="5656550"/>
 <itunes:duration>370</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1684,7 +1684,7 @@ Timeline（精细时间戳，可跳着听）：
 <title><![CDATA[EP093｜凭什么YC总裁放弃创业圈转投Anthropic？硅谷VC精英集体出逃背后]]></title>
 <description><![CDATA[你有没有发现一个规律——每当一家AI公司开始疯狂挖人，行业格局就快要变了。]]></description>
 <pubDate>Wed, 15 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP093</guid>
+<guid isPermaLink="false">EP93</guid>
 <enclosure url="https://daikexing.work/episodes/ep093.mp3" type="audio/mpeg" length="3837532"/>
 <itunes:duration>251</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1731,7 +1731,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「涨的时候所有人都觉得自己是巴菲特；跌的时候才发现，杠杆会杀人。」
 完整摘要（3句）：]]></description>
 <pubDate>Wed, 15 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP094</guid>
+<guid isPermaLink="false">EP94</guid>
 <enclosure url="https://daikexing.work/episodes/ep094.mp3" type="audio/mpeg" length="3398797"/>
 <itunes:duration>222</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1775,7 +1775,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「苹果不自己做中国大模型，库克这笔账算得比谁都清楚」
 完整摘要（3句）：]]></description>
 <pubDate>Thu, 16 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP095</guid>
+<guid isPermaLink="false">EP95</guid>
 <enclosure url="https://daikexing.work/episodes/ep095.mp3" type="audio/mpeg" length="6256197"/>
 <itunes:duration>403</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1823,7 +1823,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「你的Agent现在能干什么，你可能根本不知道——这才是最可怕的地方。」
 完整摘要（3句）：]]></description>
 <pubDate>Fri, 17 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP096</guid>
+<guid isPermaLink="false">EP96</guid>
 <enclosure url="https://daikexing.work/episodes/ep096.mp3" type="audio/mpeg" length="2983675"/>
 <itunes:duration>195</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1871,7 +1871,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「Google有全世界最多的AI论文引用量，却连一个6月发布的模型都准时交不出来。」
 完整摘要（3句）：]]></description>
 <pubDate>Sat, 18 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP097</guid>
+<guid isPermaLink="false">EP97</guid>
 <enclosure url="https://daikexing.work/episodes/ep097.mp3" type="audio/mpeg" length="4679708"/>
 <itunes:duration>304</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1918,7 +1918,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「你给了AI管理员权限，然后你没加保护网，它就把你家拆了。」
 完整摘要（3句）：]]></description>
 <pubDate>Sun, 19 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP098</guid>
+<guid isPermaLink="false">EP98</guid>
 <enclosure url="https://daikexing.work/episodes/ep098.mp3" type="audio/mpeg" length="6996045"/>
 <itunes:duration>460</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -1962,7 +1962,7 @@ Timeline（精细时间戳，可跳着听）：
 金句钩子：「AI竞争不仅在争谁模型更强，还在争谁能掌控数据、谁能定义规则、谁能在关键时刻不受制于人。」
 完整摘要（3句）：]]></description>
 <pubDate>Mon, 20 Jul 2026 12:00:00 +0800</pubDate>
-<guid isPermaLink="false">EP099</guid>
+<guid isPermaLink="false">EP99</guid>
 <enclosure url="https://daikexing.work/episodes/ep099.mp3" type="audio/mpeg" length="5933952"/>
 <itunes:duration>385</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
@@ -3208,6 +3208,62 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_124.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP125｜中国开源AI悄悄改写硅谷规则——深挖李开复揭露K3便宜60%的真相]]></title>
+<description><![CDATA[本期主题：李开复罕见揭秘中国开源AI让美国人担忧的真实原因，Kimi K3便宜60%背后的产业逻辑。
+金句钩子：「开源不是慈善，是降维打击。中国AI的非对称战略，正在改写全球AI的规则。」
+完整摘要（3句）：]]></description>
+<pubDate>Thu, 13 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP125</guid>
+<enclosure url="https://daikexing.work/episodes/ep125.mp3" type="audio/mpeg" length="8334319"/>
+<itunes:duration>09:05</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：李开复罕见揭秘中国开源AI让美国人担忧的真实原因，Kimi K3便宜60%背后的产业逻辑。
+金句钩子：「开源不是慈善，是降维打击。中国AI的非对称战略，正在改写全球AI的规则。」
+完整摘要（3句）：
+- 李开复公开称中国开源大模型让美国人担忧，Kimi K3性能接近美国最强AI但便宜60%。
+- 中国AI公司用开源、降价、生态扩张的非对称战略，正在悄悄蚕食美国闭源体系。
+- 这不是产品级竞争，是地缘级规则制定权的争夺，未来十年的AI地基将由开源生态定义。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：60%价格差距背后的故事
+- [00:10] 重磅人物发声：李开复公开喊话意味着什么
+- [00:30] 背景铺垫：过去三年硅谷闭源游戏的潜规则
+- [01:00] 第一个真相：开源不是慈善，是降维打击
+- [01:30] 深入拆解：为什么免费模型也能赚钱
+- [02:00] 中国AI的开源优势：开发者基数大、迭代快
+- [02:30] 第二个真相：性能接近就是够用了
+- [03:00] 关键洞察：99%企业只关心能不能用、好不好用
+- [03:30] 高端护城河被蚕食：闭源模型的真实危机
+- [04:00] 第三个真相：开源生态一旦形成就不可逆
+- [04:30] 飞轮效应：模型权重放出去就收不回来
+- [05:00] 地缘级竞争：中国正在把开源变成全球标准
+- [05:30] 李开复站台的潜台词：中国AI竞争逻辑已经变了
+- [06:00] 未来一年趋势预判：更多模型会主动开源
+- [06:30] 美国的两难选择：跟着降价还是保持高价
+- [07:00] 中国AI的非对称战略：性价比、生态、迭代速度
+- [07:30] 历史类比：中国制造当年是怎么赢的
+- [08:00] 正在发生的事：市场份额被悄悄蚕食
+- [08:30] 成本结构深度：中国AI为什么能做到便宜60%
+- [09:00] 应用场景红利：中国有全球最丰富的训练数据
+- [09:30] 对开发者的意义：选择权转移，定价权不再归一家
+- [10:00] 结尾+行动号召：抓住中国开源AI的红利期
+核心要点（5+ 条）：
+- 李开复公开喊话背后是中国开源AI生态的整体崛起，不是单一公司行为
+- Kimi K3便宜60%是真实成本结构的反映，不是营销定价策略
+- 性能接近就够用了，99%企业应用不追求极限性能
+- 开源生态一旦形成就不可逆，这是美国闭源体系最难应对的弱点
+- 中国AI的非对称战略是用性价比、生态、迭代速度蚕食闭源体系
+- 接下来两年会有更多中国模型主动开源，市场份额会持续转移
+🔮 彩蛋预告：
+下期｜一个让所有AI从业者都重新思考的问题——当中国开源AI把价格打到地板，硅谷还能守住什么？
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_125.jpg"/>
 </item>
 </channel>
 </rss>
