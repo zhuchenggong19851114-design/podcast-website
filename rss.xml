@@ -3315,5 +3315,57 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_126.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP127｜凭什么DeepSeek敢卖0.87美元——开源底气重新定义价格战]]></title>
+<description><![CDATA[本期主题：DeepSeek V4 Pro发布，百万Token定价0.87美元，智能体与代码榜单双双登顶。
+金句钩子：「价格战的本质，是工程效率的战争；开源不是噱头，效率才是护城河。」
+完整摘要（3句）：]]></description>
+<pubDate>Sat, 15 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP127</guid>
+<enclosure url="https://daikexing.work/episodes/ep127.mp3" type="audio/mpeg" length="9423849"/>
+<itunes:duration>10:10</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：DeepSeek V4 Pro发布，百万Token定价0.87美元，智能体与代码榜单双双登顶。
+金句钩子：「价格战的本质，是工程效率的战争；开源不是噱头，效率才是护城河。」
+完整摘要（3句）：
+- DeepSeek V4 Pro以0.87美元/百万Token的定价震撼行业，不到OpenAI旗舰版价格的3%。
+- 384K超长上下文、智能体与代码榜单双第一，证明「便宜也能打「。
+- 这次发布将引发闭源大厂被迫降价、国内厂商被动跟进、Agent生态爆发三大连锁反应。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，0.87美元这个数字到底有多离谱
+- [00:10] 转折点，DeepSeek敢卖这个价，到底凭什么
+- [00:30] 第一层底气，模型架构的384K长上下文是怎么做到的
+- [01:00] 架构续，稀疏注意力与动态路由如何把成本压到极致
+- [01:30] 第二层底气，开源生态如何用全球开发者替代自家研究员
+- [02:00] 开源续，GitHub 25万Star背后的「分布式研发「力量
+- [02:30] 第三层底气，推理集群的能效比高出行业一倍是怎么来的
+- [03:00] 价格战的本质，工程效率才是真正的护城河
+- [03:30] 第一个连锁反应，闭源大厂的「性能溢价「逻辑被打破
+- [04:00] 第二个连锁反应，国内大厂被迫重新定价
+- [04:30] 第三个连锁反应，0.87美元如何让Agent创业经济模型跑通
+- [05:00] 提醒：便宜的边界，多模态与合规的差距仍需1-2年
+- [05:30] 地缘格局变化，开源生态让AI创新从一极变多极
+- [06:00] 总结，发令枪已响，新阶段是「更便宜、更开放「
+- [06:30] 给创业者的实操建议，现在就重新算Token成本这笔账
+- [07:00] 结尾+行动号召
+核心要点（5+ 条）：
+- DeepSeek V4 Pro 8月14日发布，百万Token定价0.87美元，不到OpenAI旗舰版3%。
+- V4 Pro同时拿下智能体自动化与代码生成能力两项权威榜单第一。
+- 模型支持384K超长上下文，推理延迟比前代降低40%。
+- 三层底气：架构创新（稀疏注意力+动态路由）、开源生态（GitHub 25万Star）、基础设施（能效比高出行业一倍）。
+- 三大连锁反应：闭源大厂被迫降价30%-50%、国内厂商被动跟进、Agent生态爆发。
+- 多模态与企业级合规仍是DeepSeek的短板，闭源大厂在高端市场仍守得住。
+- 开源生态正在改变AI地缘格局，从「硅谷一极「变成「多极并起「。
+- 对AI创业者的实操建议：立刻重算Token迁移成本，DeepSeek能让Agent经济模型首次跑通。
+🔮 彩蛋预告：
+下期｜当大模型价格被砍到脚踝，AI创业公司的护城河到底还剩什么？
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_127.jpg"/>
+</item>
 </channel>
 </rss>
