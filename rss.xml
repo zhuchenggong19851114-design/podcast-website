@@ -3413,5 +3413,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_128.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP129｜悄悄 DeepSeek Harness 7天冒出298个插件——开源Coding Agent为啥突然封神]]></title>
+<description><![CDATA[本期主题：DeepSeek Harness 7天298插件的GitHub速度战
+金句钩子：「3天117k stars不是终点，是一个AI操作系统Linux时刻的起点」
+完整摘要（3句）：]]></description>
+<pubDate>Mon, 17 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP129</guid>
+<enclosure url="https://daikexing.work/episodes/ep129.mp3" type="audio/mpeg" length="5802817"/>
+<itunes:duration>05:41</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：DeepSeek Harness 7天298插件的GitHub速度战
+金句钩子：「3天117k stars不是终点，是一个AI操作系统Linux时刻的起点」
+完整摘要（3句）：
+- DeepSeek 8月13号开源 Harness，3天拿下 117058 stars、11455 forks
+- 7天时间社区已经贡献 298 个插件，覆盖 UI、主题、沙箱、通知、用量监控等 11 个类目
+- 「一切皆插件「架构 + Cordis 时空可组合性，正在重新定义开源 Coding Agent 的玩法
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：3 天 117k stars，这个速度不正常
+- [00:15] 转折：不是模型，是 agent harness
+- [00:35] 要点1展开：Everything is a Plugin 的真正含义
+- [01:00] 要点1续：Cordis 框架的时空可组合性
+- [01:30] 要点2展开：8 月 14 号的 awesome-dsh-plugin
+- [02:00] 要点2续：dsh-plugin-market 跨过平台门槛
+- [02:30] 要点3展开：dsh-plugin-vm-sandbox 单兵做沙箱治理
+- [03:00] 要点3续：dsh-macos-notifier 的开发者体验
+- [03:30] 要点4展开：4 天 11 类目，生态雏形已成
+- [04:00] 转折：为什么是 DeepSeek Harness？
+- [04:30] 要点5展开：架构选对了——反 LangChain 设计
+- [05:00] 要点5续：时机踩在 Coding Agent 拐点
+- [05:30] 要点6展开：DeepSeek 的品牌势能与开源信任
+- [06:00] 落地：对 Coding Agent 创业者是威胁
+- [06:30] 落地续：AI 操作系统的 Linux 时刻
+- [07:00] 落地续：开发者最值得花一小时的事
+- [07:30] 风险提示：developer preview 意味着破坏性更新
+- [08:00] 结尾：错过一个时代起点的可能性
+核心要点（5+ 条）：
+- DeepSeek Harness 8月13号开源，3 天 117058 stars、11455 forks
+- 架构核心是 「Everything is a Plugin「，基于 Cordis 时空可组合性框架
+- 7 天内社区贡献 298 个插件，分 11 大类目，覆盖 UI、沙箱、通知、用量监控
+- dsh-plugin-market、awesome-dsh-plugin 等关键基础设施已经成型
+- 相比 LangChain 的封闭核心，DeepSeek Harness 把扩展权完全交给开发者
+- 对 Coding Agent 创业者：开源正在免费抢你的核心功能
+- 对 AI 创业者：这是 AI 操作系统的 Linux 时刻，模型不是终局、生态才是
+- 风险点：项目仍处 developer preview，插件兼容性问题会持续
+🔮 彩蛋预告：
+下期｜一个让所有 Coding Agent 团队坐不住的现象，我们找到了根源。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_129.jpg"/>
+</item>
 </channel>
 </rss>

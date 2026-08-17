@@ -1406,5 +1406,16 @@
     "duration": "09:35",
     "size": 8879980,
     "shownotes": "本期主题：ChatGPT海外插广告+OpenAI三天三连击变现棋局\n金句钩子：「三天三连击，每一招都指向同一个词——变现」\n完整摘要（3句）：\n- 8月11日ChatGPT广告正式从美国扩到英墨巴日韩5国，OpenAI开始用全球流量变现\n- 8月13日同一天上任新CRO Dali Rajic（前Wiz COO）并发布GPT-5.6 Sol（14倍速）\n- 三招组合拳：C端广告+B端ARR+Agent实时化，OpenAI正在从实验室转型为商业操作系统\nTimeline（精细时间戳，可跳着听）：\n- [00:00] 开场引入，「你最近一次打开ChatGPT是什么时候」\n- [00:30] 转折抛出，「8月11号ChatGPT广告正式出海」\n- [01:00] 要点1展开，「广告扩区到5国的真相」\n- [02:00] 要点1续，「10亿周活的印钞机逻辑」\n- [03:00] 要点2展开，「8月13号同天两件大事」\n- [04:00] 要点2续，「新CRO Dali Rajic是谁」\n- [05:00] 要点3展开，「GPT-5.6 Sol 14倍速怎么用」\n- [06:00] 深度解读，「三天三连击是变现组合拳」\n- [07:00] 对普通人，「免费版的代价与付费版的清净」\n- [08:00] 对创业者，「对话流广告代理+Agent入场券」\n- [09:00] 对企业CTO，「AWS+模型捆绑销售」\n- [10:00] 结尾+行动号召\n核心要点（5+ 条）：\n- ChatGPT广告已在英墨巴日韩5国上线，免费版开始夹广告，付费版纯净无广告\n- 新CRO Dali Rajic来自被Google收购的Wiz，企业级SaaS背景过硬\n- GPT-5.6 Sol主打14倍速，定位是企业实时Agent应用市场\n- OpenAI 2026年营收目标200亿，2027年冲1000亿，变现节奏全面加速\n- 对创业者：对话流广告代理 + Agent实时化是两波新红利窗口\n- 对企业：Sol+Daybreak登陆AWS，云模型捆绑销售让采购变简单\n🔮 彩蛋预告：\n下期｜一个正在改变AI行业的3小时新闻，背后藏着你必须懂的财富重新分配信号。\n先关注，别迷路，准时来听。\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
+  },
+  {
+    "id": "ep129",
+    "title": "EP129｜悄悄 DeepSeek Harness 7天冒出298个插件——开源Coding Agent为啥突然封神",
+    "date": "2026-08-17",
+    "description": "本期主题：DeepSeek Harness 7天298插件的GitHub速度战\n金句钩子：「3天117k stars不是终点，是一个AI操作系统Linux时刻的起点」\n完整摘要（3句）：",
+    "audioUrl": "https://daikexing.work/episodes/ep129.mp3",
+    "cover": "https://daikexing.work/episodes/covers/ai_129.jpg",
+    "duration": "05:41",
+    "size": 5802817,
+    "shownotes": "本期主题：DeepSeek Harness 7天298插件的GitHub速度战\n金句钩子：「3天117k stars不是终点，是一个AI操作系统Linux时刻的起点」\n完整摘要（3句）：\n- DeepSeek 8月13号开源 Harness，3天拿下 117058 stars、11455 forks\n- 7天时间社区已经贡献 298 个插件，覆盖 UI、主题、沙箱、通知、用量监控等 11 个类目\n- 「一切皆插件「架构 + Cordis 时空可组合性，正在重新定义开源 Coding Agent 的玩法\nTimeline（精细时间戳，可跳着听）：\n- [00:00] 开场引入：3 天 117k stars，这个速度不正常\n- [00:15] 转折：不是模型，是 agent harness\n- [00:35] 要点1展开：Everything is a Plugin 的真正含义\n- [01:00] 要点1续：Cordis 框架的时空可组合性\n- [01:30] 要点2展开：8 月 14 号的 awesome-dsh-plugin\n- [02:00] 要点2续：dsh-plugin-market 跨过平台门槛\n- [02:30] 要点3展开：dsh-plugin-vm-sandbox 单兵做沙箱治理\n- [03:00] 要点3续：dsh-macos-notifier 的开发者体验\n- [03:30] 要点4展开：4 天 11 类目，生态雏形已成\n- [04:00] 转折：为什么是 DeepSeek Harness？\n- [04:30] 要点5展开：架构选对了——反 LangChain 设计\n- [05:00] 要点5续：时机踩在 Coding Agent 拐点\n- [05:30] 要点6展开：DeepSeek 的品牌势能与开源信任\n- [06:00] 落地：对 Coding Agent 创业者是威胁\n- [06:30] 落地续：AI 操作系统的 Linux 时刻\n- [07:00] 落地续：开发者最值得花一小时的事\n- [07:30] 风险提示：developer preview 意味着破坏性更新\n- [08:00] 结尾：错过一个时代起点的可能性\n核心要点（5+ 条）：\n- DeepSeek Harness 8月13号开源，3 天 117058 stars、11455 forks\n- 架构核心是 「Everything is a Plugin「，基于 Cordis 时空可组合性框架\n- 7 天内社区贡献 298 个插件，分 11 大类目，覆盖 UI、沙箱、通知、用量监控\n- dsh-plugin-market、awesome-dsh-plugin 等关键基础设施已经成型\n- 相比 LangChain 的封闭核心，DeepSeek Harness 把扩展权完全交给开发者\n- 对 Coding Agent 创业者：开源正在免费抢你的核心功能\n- 对 AI 创业者：这是 AI 操作系统的 Linux 时刻，模型不是终局、生态才是\n- 风险点：项目仍处 developer preview，插件兼容性问题会持续\n🔮 彩蛋预告：\n下期｜一个让所有 Coding Agent 团队坐不住的现象，我们找到了根源。\n先关注，别迷路，准时来听。\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
   }
 ]
