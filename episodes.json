@@ -1417,5 +1417,16 @@
     "duration": "05:41",
     "size": 5802817,
     "shownotes": "本期主题：DeepSeek Harness 7天298插件的GitHub速度战\n金句钩子：「3天117k stars不是终点，是一个AI操作系统Linux时刻的起点」\n完整摘要（3句）：\n- DeepSeek 8月13号开源 Harness，3天拿下 117058 stars、11455 forks\n- 7天时间社区已经贡献 298 个插件，覆盖 UI、主题、沙箱、通知、用量监控等 11 个类目\n- 「一切皆插件「架构 + Cordis 时空可组合性，正在重新定义开源 Coding Agent 的玩法\nTimeline（精细时间戳，可跳着听）：\n- [00:00] 开场引入：3 天 117k stars，这个速度不正常\n- [00:15] 转折：不是模型，是 agent harness\n- [00:35] 要点1展开：Everything is a Plugin 的真正含义\n- [01:00] 要点1续：Cordis 框架的时空可组合性\n- [01:30] 要点2展开：8 月 14 号的 awesome-dsh-plugin\n- [02:00] 要点2续：dsh-plugin-market 跨过平台门槛\n- [02:30] 要点3展开：dsh-plugin-vm-sandbox 单兵做沙箱治理\n- [03:00] 要点3续：dsh-macos-notifier 的开发者体验\n- [03:30] 要点4展开：4 天 11 类目，生态雏形已成\n- [04:00] 转折：为什么是 DeepSeek Harness？\n- [04:30] 要点5展开：架构选对了——反 LangChain 设计\n- [05:00] 要点5续：时机踩在 Coding Agent 拐点\n- [05:30] 要点6展开：DeepSeek 的品牌势能与开源信任\n- [06:00] 落地：对 Coding Agent 创业者是威胁\n- [06:30] 落地续：AI 操作系统的 Linux 时刻\n- [07:00] 落地续：开发者最值得花一小时的事\n- [07:30] 风险提示：developer preview 意味着破坏性更新\n- [08:00] 结尾：错过一个时代起点的可能性\n核心要点（5+ 条）：\n- DeepSeek Harness 8月13号开源，3 天 117058 stars、11455 forks\n- 架构核心是 「Everything is a Plugin「，基于 Cordis 时空可组合性框架\n- 7 天内社区贡献 298 个插件，分 11 大类目，覆盖 UI、沙箱、通知、用量监控\n- dsh-plugin-market、awesome-dsh-plugin 等关键基础设施已经成型\n- 相比 LangChain 的封闭核心，DeepSeek Harness 把扩展权完全交给开发者\n- 对 Coding Agent 创业者：开源正在免费抢你的核心功能\n- 对 AI 创业者：这是 AI 操作系统的 Linux 时刻，模型不是终局、生态才是\n- 风险点：项目仍处 developer preview，插件兼容性问题会持续\n🔮 彩蛋预告：\n下期｜一个让所有 Coding Agent 团队坐不住的现象，我们找到了根源。\n先关注，别迷路，准时来听。\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
+  },
+  {
+    "id": "ep130",
+    "title": "EP130｜突发 Stripe 70亿美元砸下OpenRouter——支付巨头的AI基建野心",
+    "date": "2026-08-18",
+    "description": "本期主题：Stripe 以 70 亿美元天价收购 AI 模型路由平台 OpenRouter，溢价5倍\n金句钩子：「卖水人的比喻用得越准确，自己被收购的概率就越大。」\n完整摘要（3句）：",
+    "audioUrl": "https://daikexing.work/episodes/ep130.mp3",
+    "cover": "https://daikexing.work/episodes/covers/ai_130.jpg",
+    "duration": "7:50",
+    "size": 8033797,
+    "shownotes": "本期主题：Stripe 以 70 亿美元天价收购 AI 模型路由平台 OpenRouter，溢价5倍\n金句钩子：「卖水人的比喻用得越准确，自己被收购的概率就越大。」\n\n完整摘要（3句）：\n- 8月16日 Bloomberg 独家爆料：Stripe 已敲定以超过70亿美元收购 OpenRouter，比5月 B 轮13亿估值高出整整5倍。\n- OpenRouter 作为 AI 模型路由层的核心玩家，覆盖400+模型、服务800万开发者、年处理1.5千万亿 token。\n- 这笔交易意味着 AI 行业的「中间层争夺战」正式打响——路由层的战略价值被巨头重新定价。\n\nTimeline（精细时间戳，可跳着听）：\n- [00:00] 开场引入：70亿+5倍溢价，两个数字的震撼力\n- [00:30] 时间线回顾：5月13亿估值 vs 8月70亿报价\n- [01:30] OpenRouter 是什么：400+模型、800万开发者、1.5千万亿 token\n- [02:30] Stripe 为何出手：从账单服务商到所有者的战略升级\n- [03:30] 开发者的隐忧：OpenRouter 中立性能否维持\n- [04:30] AI 栈结构解析：四层格局与巨头的抢位策略\n- [05:30] 卖水人的宿命：Stripe 之名一语成谶\n- [06:30] 创业者启示：中间件赛道的香饽饽与陷阱\n- [07:30] 估值博弈：从100亿到70亿的卖家取舍\n- [08:00] 行业分水岭：从应用层并购到基础设施层并购\n- [08:30] 结尾+行动号召\n\n核心要点（5+ 条）：\n- Stripe 70亿收购 OpenRouter，溢价5倍，从13亿估值到70亿报价只用了82天\n- OpenRouter 覆盖400+ AI 模型、年处理1.5千万亿 token，是 AI 推理流量的核心分发层\n- Stripe 早已是 OpenRouter 的账单服务商，收购本质是「垂直整合」\n- 短期风险：OpenRouter 中立性可能受损，模型厂商被支付公司掐住分发入口\n- 中期信号：AI 栈四层格局已清晰化，中间层（路由层）成为巨头争抢焦点\n- 创业者警示：做「AI 时代的 Stripe」要小心 Stripe 自己会来收购你\n- 关注 AI 行业真实温度计：看谁在被收购、被谁收购、价格多少\n- 趋势预测：未来6-12个月，基础设施层和路由层将成为并购主战场\n\n🔮 彩蛋预告：\n下期｜一个让所有 AI 创业者睡不踏实的信号，我们找到了答案。\n先关注，别迷路，准时来听。\n\n更多AI创业洞察，锁定虾闯天下，我们下期见。\n\n虾闯天下 · AI 科技创业日更"
   }
 ]

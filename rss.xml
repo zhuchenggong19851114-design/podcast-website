@@ -3467,5 +3467,56 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_129.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP130｜突发 Stripe 70亿美元砸下OpenRouter——支付巨头的AI基建野心]]></title>
+<description><![CDATA[本期主题：Stripe 以 70 亿美元天价收购 AI 模型路由平台 OpenRouter，溢价5倍
+金句钩子：「卖水人的比喻用得越准确，自己被收购的概率就越大。」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 18 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP130</guid>
+<enclosure url="https://daikexing.work/episodes/ep130.mp3" type="audio/mpeg" length="8033797"/>
+<itunes:duration>7:50</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Stripe 以 70 亿美元天价收购 AI 模型路由平台 OpenRouter，溢价5倍
+金句钩子：「卖水人的比喻用得越准确，自己被收购的概率就越大。」
+
+完整摘要（3句）：
+- 8月16日 Bloomberg 独家爆料：Stripe 已敲定以超过70亿美元收购 OpenRouter，比5月 B 轮13亿估值高出整整5倍。
+- OpenRouter 作为 AI 模型路由层的核心玩家，覆盖400+模型、服务800万开发者、年处理1.5千万亿 token。
+- 这笔交易意味着 AI 行业的「中间层争夺战」正式打响——路由层的战略价值被巨头重新定价。
+
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：70亿+5倍溢价，两个数字的震撼力
+- [00:30] 时间线回顾：5月13亿估值 vs 8月70亿报价
+- [01:30] OpenRouter 是什么：400+模型、800万开发者、1.5千万亿 token
+- [02:30] Stripe 为何出手：从账单服务商到所有者的战略升级
+- [03:30] 开发者的隐忧：OpenRouter 中立性能否维持
+- [04:30] AI 栈结构解析：四层格局与巨头的抢位策略
+- [05:30] 卖水人的宿命：Stripe 之名一语成谶
+- [06:30] 创业者启示：中间件赛道的香饽饽与陷阱
+- [07:30] 估值博弈：从100亿到70亿的卖家取舍
+- [08:00] 行业分水岭：从应用层并购到基础设施层并购
+- [08:30] 结尾+行动号召
+
+核心要点（5+ 条）：
+- Stripe 70亿收购 OpenRouter，溢价5倍，从13亿估值到70亿报价只用了82天
+- OpenRouter 覆盖400+ AI 模型、年处理1.5千万亿 token，是 AI 推理流量的核心分发层
+- Stripe 早已是 OpenRouter 的账单服务商，收购本质是「垂直整合」
+- 短期风险：OpenRouter 中立性可能受损，模型厂商被支付公司掐住分发入口
+- 中期信号：AI 栈四层格局已清晰化，中间层（路由层）成为巨头争抢焦点
+- 创业者警示：做「AI 时代的 Stripe」要小心 Stripe 自己会来收购你
+- 关注 AI 行业真实温度计：看谁在被收购、被谁收购、价格多少
+- 趋势预测：未来6-12个月，基础设施层和路由层将成为并购主战场
+
+🔮 彩蛋预告：
+下期｜一个让所有 AI 创业者睡不踏实的信号，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_130.jpg"/>
+</item>
 </channel>
 </rss>
