@@ -3675,5 +3675,62 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日鲜]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_133.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP134｜曝光OpenAI双轨内幕——欧洲广告+零数据保留同步落地]]></title>
+<description><![CDATA[本期主题：OpenAI双轨战略同步落地，欧洲广告与零数据保留并行推进
+金句钩子：「双轨战略最终会变成双轨困局，还是双轨飞轮？」
+完整摘要（3句）：]]></description>
+<pubDate>Sat, 22 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP134</guid>
+<enclosure url="https://daikexing.work/episodes/ep134.mp3" type="audio/mpeg" length="8912712"/>
+<itunes:duration>8:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI双轨战略同步落地，欧洲广告与零数据保留并行推进
+金句钩子：「双轨战略最终会变成双轨困局，还是双轨飞轮？」
+完整摘要（3句）：
+- 8月20日OpenAI宣布ChatGPT广告全面登陆欧洲六国，配套推出企业级零数据保留白皮书
+- 双轨战略核心是合规换信任：广告业务做营收洼地补救，零数据保留做大企业采购通行证
+- 一个月内见分晓：欧洲广告CTR能否破3%、首批企业客户签约速度，决定OpenAI能否复制打法到全球
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「OpenAI连发两条公告」
+- [00:15] 转折抛出，「广告加隐私同时发布」背后动机
+- [00:30] 欧洲广告上线范围与三层设计
+- [01:00] 「但光靠这三点还不够」—— 零数据保留登场
+- [01:30] 零数据保留的技术实现：金融级隔离云
+- [02:00] 市场结构分析：北美已被Anthropic和Google瓜分
+- [02:30] 「欧洲是OpenAI唯一还能打的新战场」
+- [03:00] 时机选择：欧盟AI法案生效后第18天的策略
+- [03:30] Google和Anthropic的反击动作
+- [04:00] 「合规即竞争力」的战略宣言
+- [04:30] 三个维度：合规、企业服务、生态绑定
+- [05:00] OpenAI的胜算判断：5成偏上及三个支撑
+- [05:30] 风险一：双轨战略的内生冲突
+- [06:00] 风险二：欧盟监管的反复
+- [06:30] 风险三：竞争节奏
+- [07:00] 「接下来一个月非常关键」的关键指标
+- [07:30] Sam Altman密集飞欧洲的信号
+- [08:00] 结尾加下期预告
+核心要点（5+ 条）：
+- 8月20日OpenAI双公告：欧洲六国广告上线加企业级零数据保留白皮书
+- ChatGPT欧洲付费率仅北美58%，广告业务是为了补营收洼地
+- 广告设计三层：免费用户底部展示、广告主欧盟AI法案预审、点击与对话物理隔离
+- 零数据保留是企业级VIP通道，物理隔离集群，员工都进不去
+- 北美大企业市场已被Anthropic（3000亿美元估值）和Google Gemini瓜分
+- 欧洲是OpenAI唯一还能进攻的新战场，差异化卖点是合规和隐私
+- 8月20日距欧盟AI法案生效（8月2日）正好18天，监管落地后立即发产品
+- Google今年4月在都柏林落成欧洲AI合规中心
+- Anthropic今年6月与德国电信合作集成Claude到私有云
+- OpenAI内部已成立商业化合规委员会，VP级别跨部门协调
+- 关键指标：欧洲广告首月CTR能否破3%、首批企业客户签约速度
+- Sam Altman两周内密集飞巴黎、柏林、阿姆斯特丹，CEO级别站台
+🔮 彩蛋预告：
+下期｜Anthropic终于在欧洲放了大招，但这次他们赌的是反方向——不抢客户，而是抢定价权。先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_134.jpg"/>
+</item>
 </channel>
 </rss>
