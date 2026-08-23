@@ -3732,5 +3732,62 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_134.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP135｜Anthropic冲击2万亿IPO背后——中国开源41%反超美国，AI双王对决]]></title>
+<description><![CDATA[本期主题：Anthropic冲刺2万亿IPO，中国AI开源一夜反超美国41%
+金句钩子：「2万亿美元的IPO估值，可能是AI行业最后一场狂欢，也可能是泡沫破裂的前夜。」
+完整摘要（3句）：]]></description>
+<pubDate>Sun, 23 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP135</guid>
+<enclosure url="https://daikexing.work/episodes/ep135.mp3" type="audio/mpeg" length="19168570"/>
+<itunes:duration>18:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic冲刺2万亿IPO，中国AI开源一夜反超美国41%
+金句钩子：「2万亿美元的IPO估值，可能是AI行业最后一场狂欢，也可能是泡沫破裂的前夜。」
+完整摘要（3句）：
+- Anthropic计划月底IPO，目标估值2万亿美元，募资1000亿美元，将刷新全球最大IPO纪录。
+- Hugging Face春季报告显示，中国自研开源模型全球下载占比达41%，首次超过美国。
+- 高盛预测未来5年全球算力需求增长24倍，AI商业化正从「按席位订阅「转向「按结果收费「。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「你有没有想过，一家AI公司能贵到什么程度？」
+- [00:15] 抛出核心新闻——Anthropic冲刺2万亿IPO，募资1000亿
+- [00:40] 数据换算：2万亿=14万亿人民币≈苹果市值的60%
+- [01:10] 解读Anthropic IPO的底层逻辑——高质量大客户结构
+- [01:40] 转折：估值能不能兑现？引出第二条新闻
+- [02:00] Hugging Face报告：中国开源41%首超美国
+- [02:30] DeepSeek V4 Pro、智谱ZCode、阿里Qwen3.8 8月密集上新
+- [03:00] Qwen-UI-Agent在GUI基准上超过GPT-5.6和Claude Opus 4.8
+- [03:30] DeepSeek V4-Flash-Vision视觉模型接近Anthropic Opus-4.8
+- [04:00] 分析：为什么Anthropic着急IPO？开源生态的倒逼
+- [04:30] 企业CTO的算账逻辑：自部署vs调用API的成本对比
+- [05:00] 高盛报告：AI商业化从「按席位订阅「转向「按结果收费「
+- [05:30] 未来5年算力需求增长24倍——资本市场在赌什么？
+- [06:00] 反方观点：Agent落地的「脏活累活「比想象中难
+- [06:30] 英伟达AI服务器涨价15%——真实成本压力
+- [07:00] 中场战报：旧王座领先，新王座轮廓清晰
+- [07:30] 关键窗口判断：2027-2028年决定泡沫与繁荣
+- [08:00] 给普通开发者的建议：把注意力放在工具上
+- [08:30] 结尾+行动号召
+核心要点（5+ 条）：
+- Anthropic计划月底IPO，目标估值2万亿美元，募资1000亿美元，将刷新全球最大IPO纪录。
+- Hugging Face 2026年春季报告显示，中国自研开源模型全球下载占比达41%，首次超过美国。
+- 阿里开源Qwen-UI-Agent，在多个权威GUI基准上超过GPT-5.6和Claude Opus 4.8。
+- DeepSeek V4-Flash-Vision视觉模型在多模态基准上接近甚至超过Anthropic Opus-4.8。
+- DeepSeek 8月22日起取消周末峰谷计费，周六周日全部按低价计费。
+- 高盛报告预测，未来5年全球算力需求将增长约24倍。
+- 英伟达AI服务器明年初出货价将上涨15%以上，NVL72系统每台询价500万到700万美元。
+- Anthropic 2026年上半年ARR突破百亿美元，企业客户占比从20%升至60%。
+- 马斯克SpaceX启动Terafab建设，初期投资168亿美元，规划年产1太瓦算力。
+- Gartner报告显示，2026年全球企业AI项目失败率高达62%，85%失败出在「软问题「。
+🔮 彩蛋预告：
+下期｜一家神秘的中国AI公司，刚开源了一个让全球开发者炸锅的模型。我们扒了它的来龙去脉，下期给你讲清楚。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_135.jpg"/>
+</item>
 </channel>
 </rss>
