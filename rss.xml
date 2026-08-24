@@ -3789,5 +3789,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_135.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP136｜凭什么Anthropic 8个月反超OpenAI——首季度盈利5.59亿美元撕开商业真相]]></title>
+<description><![CDATA[本期主题：Anthropic营收8个月涨7倍碾压OpenAI，AI行业商业逻辑大反转
+金句钩子：「模型跑分决定上限，商业结构决定生死」
+完整摘要（3句）：]]></description>
+<pubDate>Mon, 24 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP136</guid>
+<enclosure url="https://daikexing.work/episodes/ep136.mp3" type="audio/mpeg" length="17973068"/>
+<itunes:duration>17:23</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic营收8个月涨7倍碾压OpenAI，AI行业商业逻辑大反转
+金句钩子：「模型跑分决定上限，商业结构决定生死」
+完整摘要（3句）：
+- 摘要1：Anthropic最新年化营收650亿美元，8个月同比增长7倍，单季度营收115亿美元，首次实现5.59亿美元运营利润
+- 摘要2：OpenAI同期年化营收400亿，单季营收67亿，运营亏损123亿美元，两种商业模式在同一条赛道里走向相反结局
+- 摘要3：80%的收入来自企业API vs 80%的收入来自消费者订阅，推理成本结构决定AI公司能否盈利
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「8个月，营收涨7倍，AI行业最大的反转」
+- [00:15] 转折，「同一条赛道，盈利vs亏损的关键差异」
+- [00:35] 数字摊开，「Anthropic 650亿 vs OpenAI 400亿」
+- [01:00] Q2单季度营收对比，「115亿 vs 67亿」
+- [01:30] 利润表反差，「盈利5.59亿 vs 亏损123亿」
+- [02:00] 第一个深度剖析，「凭什么反超」
+- [02:30] 客户结构差异，「80%企业API vs 80%消费者订阅」
+- [03:00] 成本结构深度分析，「推理成本不为零，AI不是互联网」
+- [03:30] Claude Code案例，「单品年化25亿，单一工具撑起盈利」
+- [04:00] 企业客户数据，「1000家百万美元客户，复利式增长」
+- [04:30] 市场份额与多云布局，「企业API 32% vs 25%，三大云全覆盖」
+- [05:00] 算力成本对比，「0.56美元/收入比」
+- [05:30] IPO幕后推手，「6月1日秘密递表，10月纳斯达克上市」
+- [06:00] 估值锚定与2028预测，「9650亿到3万亿的想象空间」
+- [06:30] OpenAI的困境，「11亿月活困局，C端订阅天花板」
+- [07:00] 总结，「胜负手不在跑分，在商业模式」
+核心要点（5+ 条）：
+- Anthropic 8个月年化营收从90亿涨到650亿，同比增长7倍
+- Q2首次实现5.59亿美元运营利润，是Anthropic历史上第一个盈利季度
+- OpenAI Q2运营亏损123亿美元，比Q1的93亿扩大三分之一
+- Anthropic 80%收入来自企业API，OpenAI 80%收入来自ChatGPT消费者订阅
+- Claude Code单品年化营收已达25亿美元，是企业付费意愿的典型样本
+- 年付费超过100万美元的企业客户从500家翻倍到1000家以上
+- 企业级大模型API市场份额Anthropic 32%，OpenAI 25%
+- Anthropic推理成本占收入比约0.56美元，是AI公司里最低的一档
+- 2028年Anthropic营收预测1900亿到2000亿美元，对应AI API市场总规模5700亿
+- 11亿ChatGPT月活困局说明AI时代的C端订阅天花板远低于B端
+🔮 彩蛋预告：
+下期｜一家公司垄断整条AI产业链的真相，我们从一份内部报告里挖到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_136.jpg"/>
+</item>
 </channel>
 </rss>
