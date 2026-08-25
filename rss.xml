@@ -3843,5 +3843,51 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_136.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP137｜突发Stripe70亿砸向50人OpenRouter——AI中间层成新战场]]></title>
+<description><![CDATA[本期主题：Stripe 70亿美元买下50人OpenRouter，AI时代的印钞机换了主人
+完整摘要（3句）：
+- Stripe以70-80亿美元收购仅有50名员工的AI模型路由平台OpenRouter，三个月估值翻5倍。]]></description>
+<pubDate>Tue, 25 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP137</guid>
+<enclosure url="https://daikexing.work/episodes/ep137.mp3" type="audio/mpeg" length="8801474"/>
+<itunes:duration>08:31</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Stripe 70亿美元买下50人OpenRouter，AI时代的印钞机换了主人
+完整摘要（3句）：
+- Stripe以70-80亿美元收购仅有50名员工的AI模型路由平台OpenRouter，三个月估值翻5倍。
+- OpenRouter连接80多家供应商、500多个模型，月处理200万亿Token，是AI时代的隐形中间层。
+- 这笔交易标志AI竞争从模型层转向中间层，Stripe抢先Visa锁定Agent支付通道。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场：50人公司被70亿买下，整个硅谷连夜开会
+- [00:10] 抛出悬念：这件事为啥让支付巨头亲自下场？
+- [00:30] 数字细节：70亿、50人、200万亿Token、5倍估值跃升
+- [01:00] 转折：50人为啥值70亿？秘密在数据
+- [01:30] 网络效应：双边市场锁死了新来者
+- [02:00] Stripe的算盘：88%福布斯AI 50企业已用Stripe产品
+- [02:30] 重点：买的不是AI公司，是支付时代的下一个制高点
+- [03:00] Visa反击：同期推出Visa Intelligent Commerce抢Agent支付
+- [03:30] 行业真相：中间层才是AI时代印钞机，模型层还在烧钱
+- [04:00] 行动号召：每次调用模型，都在给谁交过路费
+核心要点（5+ 条）：
+- Stripe 8月19日官宣收购OpenRouter，交易金额外界推测70-80亿美元
+- OpenRouter 50名员工连接80多家供应商、500多个模型，月处理200万亿Token
+- 创始人Alex Atallah个人获15亿美元，投资者分得60亿美元，估值三个月翻5倍
+- Stripe创始人引用「奇点「概念：福布斯AI 50榜单中88%企业已用Stripe产品
+- OpenRouter掌握全行业模型调用偏好实时数据，数据本身就是定价权
+- Visa同期推出Visa Intelligent Commerce，支付巨头集体抢Agent支付接口
+- AI时代真正印钞机在中间层，模型层还在烧钱、还在融资
+- 50人公司撑起70亿估值，核心是数据驱动的网络效应而非人力堆叠
+- Alex Atallah两次创业核心一致：找到最大供需错配，做中间层赚信息差
+🔮 彩蛋预告：
+下期｜当AI智能体开始自主下单付费，谁来守住你的账户安全？
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_137.jpg"/>
+</item>
 </channel>
 </rss>
