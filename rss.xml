@@ -3889,5 +3889,64 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_137.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP138｜悄悄OpenAI自研芯片首测曝光——3.2倍碾压英伟达推理成本直降60%]]></title>
+<description><![CDATA[本期主题：OpenAI 自研芯片 Jalapeno 首测 3.2 倍性能碾压英伟达 Blackwell，推理成本直降 60%。
+金句钩子：「一家模型公司做出比芯片霸主还猛的芯片，这件事本身就值得拆开看。」
+完整摘要（3句）：]]></description>
+<pubDate>Wed, 26 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP138</guid>
+<enclosure url="https://daikexing.work/episodes/ep138.mp3" type="audio/mpeg" length="8354987"/>
+<itunes:duration>08:09</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI 自研芯片 Jalapeno 首测 3.2 倍性能碾压英伟达 Blackwell，推理成本直降 60%。
+金句钩子：「一家模型公司做出比芯片霸主还猛的芯片，这件事本身就值得拆开看。」
+完整摘要（3句）：
+- OpenAI 与博通合作 16 个月推出自研推理芯片 Jalapeno，3.2 倍每瓦性能、60% 成本下降，剑指英伟达 Blackwell。
+- Codex 用户已达 2000 万，ChatGPT 与 Codex 将融合为高度个人化的 AGI 形态，OpenAI 全面向全栈 AI 基础设施公司转型。
+- 同日英伟达 Vera Rubin 首测数据也曝光，DeepSeek 吞吐量暴涨 30 倍，推理成本战全面开打。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：模型公司为何突然跑去造芯片
+- [00:10] 抛出核心数字：3.2 倍、60%、16 个月
+- [00:30] 解读 OpenAI 全栈战略：芯片到原生设备的六层布局
+- [01:00] 60% 成本下降的现实含义：免费用户也能用 Agent
+- [01:30] 展开 Jalapeno 技术细节：3 纳米、HBM、interposer
+- [02:00] 实测成绩：GPT‑OSS、DeepSeek R1、Kimi K2
+- [02:30] SemiAnalysis 判断：优于 GB300，HN 引发 184 条讨论
+- [03:00] 转折：这是 OpenAI 全栈转身的开始
+- [03:30] 全栈图谱：TPU、Trainium、MTIA、Jalapeno 并列
+- [04:00] 英伟达的应对：1050 亿租赁担保、Vera Rubin 反制
+- [04:30] 引出 Agent 时代：Codex 负责人 Tibo 的路线图
+- [05:00] 细节：2000 万用户、语音优先、记忆机制消失
+- [05:30] 递归式自我改进：CUDA 内核提速 60%
+- [06:00] 60% 成本下降对行业的三层冲击
+- [06:30] 开源模型进入美国供应链 vs 闭源头部自研芯片的双重挤压
+- [07:00] 国内千问 Qwen3.8‑Flash‑Next 跟进，三线作战开始
+- [07:30] 对 AI 创业者和从业者的实际信号
+- [08:00] Jalapeno 真正目的：抢 Agent 落地的时间窗
+- [08:30] 同日 Vera Rubin 数据曝光：30 倍吞吐、35 倍成本下降
+- [09:00] Groq 3 LPX 量产、Vera CPU 升空，推理战全面开打
+- [09:30] 结尾：推理战的三阶段，真正的商业核心是工作流重写
+核心要点（5+ 条）：
+- OpenAI 与博通 16 个月联合研发的首颗自研推理芯片 Jalapeno 首测：3.2 倍每瓦性能、60% 服务成本下降。
+- Jalapeno 采用 TSMC 3 纳米工艺，把 HBM 直接做在 interposer 上，专门优化自回归生成的内存瓶颈。
+- SemiAnalysis 分析认为在特定推理负载上 Jalapeno 已优于英伟达旗舰 GB300。
+- OpenAI 全面对标 Google TPU、亚马逊 Trainium、Meta MTIA，向全栈 AI 基础设施公司转型。
+- Codex 用户已达 2000 万，OpenAI 明确 ChatGPT 与 Codex 将融合为高度个人化的 AGI 形态。
+- 下一代 Agent 的核心是让 skill、记忆、子 Agent 机制「消失」，变成持续理解用户的伙伴。
+- OpenAI 通过递归式自我改进优化推理栈与 CUDA 内核，速度较三个月前提升约 60%。
+- 同日英伟达 Vera Rubin 首测数据曝光：DeepSeek‑V4‑Pro 每兆瓦吞吐量提升 30 倍、每百万 token 成本最高降 35 倍。
+- Groq 3 LPX 全面量产，长上下文输出每秒 3400 token；Vera CPU 已被 SpaceXAI 部署并计划送上太空。
+- 推理成本战的真正含义：未来 12 个月，决定 AI 产品生死的不再是模型本身，而是谁能跑得起 Agent。
+🔮 彩蛋预告：
+下期｜一个正在悄悄重写 AI 商业规则的变量，我们找到了它的入口。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_138.jpg"/>
+</item>
 </channel>
 </rss>
