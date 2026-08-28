@@ -4001,5 +4001,55 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_139.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP140｜凭什么阿里智谱掀翻Claude——6B激活参数训练成本直降90%]]></title>
+<description><![CDATA[本期主题：阿里智谱同天开源Flash模型，掀翻Claude定价
+金句钩子：「6B激活参数撬动全量模型，中国大模型把Claude砍到1/40价格」
+完整摘要（3句）：]]></description>
+<pubDate>Thu, 27 Aug 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP140</guid>
+<enclosure url="https://daikexing.work/episodes/ep140.mp3" type="audio/mpeg" length="8616936"/>
+<itunes:duration>08:24</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：阿里智谱同天开源Flash模型，掀翻Claude定价
+金句钩子：「6B激活参数撬动全量模型，中国大模型把Claude砍到1/40价格」
+完整摘要（3句）：
+- 8月26日阿里开源Qwen3.8-Flash，125B总参数仅激活6B，超越Claude Opus 4.6，训练成本砍掉90%。
+- 智谱同天开源GLM-5.3-Flash，320B-A18B原生多模态，综合智能指数与Claude Opus 4.8持平。
+- 两家模型API定价分别是Claude的1/3和1/40，背后是模型架构创新叠加国产算力替代。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「同一天两家中国公司出手」
+- [00:08] 转折抛出，「这是巧合吗?不是」
+- [00:20] 阿里的牌：Qwen3.8-Flash 125B激活6B
+- [00:50] 关键数字：「5%激活参数撬动全量模型」
+- [01:30] 训练成本砍90%的产业意义
+- [02:10] 定价：1元/3元 per M tokens，是DeepSeek的1/3
+- [02:50] 智谱的牌：认领Ox Alpha，GLM-5.3-Flash
+- [03:30] 定价炸点：1/40 Claude Opus 4.8
+- [04:00] 国产芯片集群首次跑GLM-5.3-Flash
+- [04:30] 同天出手的三个战略意图
+- [05:30] 分水岭：性能持平+1/40价格的产业意义
+- [06:30] 对创业者：API成本模型重做
+- [07:00] 对投资人：看单位Token成本曲线
+- [07:30] 对开发者：今晚就能本地部署
+- [08:00] 结尾+行动号召
+核心要点（5+ 条）：
+- 阿里Qwen3.8-Flash总参125B激活6B，性能超过Claude Opus 4.6
+- 训练成本相比Qwen3.7-Plus下降近90%
+- API定价输入1元/输出3元每百万Token，仅DeepSeek-V4-Flash的1/3
+- 智谱GLM-5.3-Flash总参320B激活180B，综合指数与Claude Opus 4.8持平
+- GLM-5.3-Flash定价是Claude的1/40，首次跑在国产芯片集群上
+- 单Token推理成本与英伟达GPU集群打平
+- 同天出手对应财报窗口期、开发者心智战、定价压力三件事
+🔮 彩蛋预告：
+下期｜一个被所有人忽略的发布细节，可能藏着一场算力市场的地震。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_140.jpg"/>
+</item>
 </channel>
 </rss>
