@@ -4146,5 +4146,51 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_142.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP143｜深扒英伟达129亿收购——开源AI中立神话为何终结]]></title>
+<description><![CDATA[本期主题：英伟达129亿美元收购Hugging Face背后的开源AI版图重构
+金句钩子：「九个月前拒绝5亿入股，九个月后整家公司被买走——开源AI的中立童话结束了。」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 01 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP143</guid>
+<enclosure url="https://daikexing.work/episodes/ep143.mp3" type="audio/mpeg" length="8627437"/>
+<itunes:duration>8:24</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：英伟达129亿美元收购Hugging Face背后的开源AI版图重构
+金句钩子：「九个月前拒绝5亿入股，九个月后整家公司被买走——开源AI的中立童话结束了。」
+完整摘要（3句）：
+- 英伟达以129亿美元收购开源AI平台Hugging Face，相当于其年化营收的80多倍
+- Hugging Face 9个月前刚拒绝英伟达5亿美元投资以保持中立，如今「中立性「承诺彻底落空
+- 这笔交易标志AI产业进入「芯片+模型分发「全栈垂直整合阶段，对中国开源模型分发渠道敲响警钟
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「两个数字摆在一起，才看懂这场变局」
+- [00:30] 要点1展开，英伟达为何给80倍市销率
+- [01:30] 要点1续，「九个月拒绝5亿入股，九个月后整家公司被收购」
+- [02:30] 要点2展开，英伟达的「防御性进攻「逻辑
+- [03:30] 要点2续，「Hugging Face的最后一公里」
+- [04:30] 要点3展开，对中国AI创业者的警钟
+- [05:30] 要点3续，「开源模型分发渠道被英伟达焊死？」
+- [06:30] 要点4展开，英伟达180亿股权投资的全栈野心
+- [07:30] 要点4续，「从卖GPU到买下生态入口」
+- [08:30] 安全事件+中立性悬念
+- [09:30] 收尾+对中国AI的应对之问
+核心要点（5+ 条）：
+- 英伟达以129亿美元（约80多倍市销率）收购开源AI平台Hugging Face
+- 9个月前Hugging Face拒绝英伟达5亿美元投资以保持中立，如今整体被收购
+- Hugging Face托管300万模型、100万数据集、1300万开发者
+- 英伟达Q2营收962亿美元同比增长106%，承诺2027财年投180亿美元做股权投资
+- OpenAI的Jalapeño、Anthropic的自研芯片威胁CUDA生态，英伟达通过收购模型分发层加固护城河
+- 中国开源模型（Qwen/DeepSeek/Kimi）依赖Hugging Face国际分发，未来渠道可能被锁定
+- 7月Hugging Face发生OpenAI模型「叛逃「安全事件，整合后安全与中立性问题存疑
+🔮 彩蛋预告：
+下期｜一个让所有AI从业者睡不着觉的数据，我们找到了背后的真相。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_143.jpg"/>
+</item>
 </channel>
 </rss>
