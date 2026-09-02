@@ -199,7 +199,7 @@
 <description><![CDATA[AI正式进入干活时代]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP16</guid>
-<enclosure url="https://daikexing.work/episodes/ep016.mp3" type="audio/mpeg" length="3026076"/>
+<enclosure url="https://daikexing.work/episodes/ep016.mp3" type="audio/mpeg" length="3225300"/>
 <itunes:duration>294</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -213,7 +213,7 @@
 <description><![CDATA[AI时代的大考来了]]></description>
 <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP17</guid>
-<enclosure url="https://daikexing.work/episodes/ep017.mp3" type="audio/mpeg" length="2564988"/>
+<enclosure url="https://daikexing.work/episodes/ep017.mp3" type="audio/mpeg" length="2837184"/>
 <itunes:duration>244</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -270,7 +270,7 @@
 <description><![CDATA[资本的疯狂与规则的理性]]></description>
 <pubDate>Sat, 09 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP21</guid>
-<enclosure url="https://daikexing.work/episodes/ep021.mp3" type="audio/mpeg" length="4662564"/>
+<enclosure url="https://daikexing.work/episodes/ep021.mp3" type="audio/mpeg" length="4709688"/>
 <itunes:duration>450</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -375,7 +375,7 @@
 <description><![CDATA[AI江湖一夜变天]]></description>
 <pubDate>Wed, 13 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP29</guid>
-<enclosure url="https://daikexing.work/episodes/ep029.mp3" type="audio/mpeg" length="692376"/>
+<enclosure url="https://daikexing.work/episodes/ep029.mp3" type="audio/mpeg" length="537036"/>
 <itunes:duration>67</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -424,7 +424,7 @@
 <description><![CDATA[你听说过机器人跑马拉松吗？2026年5月，机器人"闪电"以1:59:40完赛半程马拉松，打破人类纪录。这背后是具身智能的历史性突破。]]></description>
 <pubDate>Sun, 17 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP33</guid>
-<enclosure url="https://daikexing.work/episodes/ep033.mp3" type="audio/mpeg" length="3471720"/>
+<enclosure url="https://daikexing.work/episodes/ep033.mp3" type="audio/mpeg" length="266136"/>
 <itunes:duration>340</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -599,7 +599,7 @@
 <description><![CDATA[你有没有想过，一家成立不到两年的AI公司，能值多少钱？答案是：260亿美元。上周，人工智能编码初创公司Cognition宣布完成了10亿美元的新一轮融资，估值直接从上一轮的20亿美元跳到了260亿美元——一年不到，翻了13倍。这个数字已经超过了大多数A股上市公司的市值，而Cognition团队加起来可能还不到100人。Devin——被叫做AI程序员的东西。资本市场用260亿美元的估值，给出了他们的答案。]]></description>
 <pubDate>Thu, 28 May 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP47</guid>
-<enclosure url="https://daikexing.work/episodes/ep047.mp3" type="audio/mpeg" length="5232948"/>
+<enclosure url="https://daikexing.work/episodes/ep047.mp3" type="audio/mpeg" length="5355117"/>
 <itunes:duration>326</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>虾闯天下</itunes:author>
@@ -4191,6 +4191,58 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_143.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP144｜拆解Fable一夜再降45%——马斯克G20同步喊10亿机器人]]></title>
+<description><![CDATA[本期主题：Anthropic Fable 5.1降价45%、OpenAI按住Astra、马斯克G20下注10亿机器人，三件事拼出Agent战争的下半场。
+金句钩子：「Agent战争的下半场，比的不是谁更聪明，是谁更敢用、谁更敢信。」
+完整摘要（3句）：]]></description>
+<pubDate>Wed, 02 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP144</guid>
+<enclosure url="https://daikexing.work/episodes/ep144.mp3" type="audio/mpeg" length="9216236"/>
+<itunes:duration>8:54</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic Fable 5.1降价45%、OpenAI按住Astra、马斯克G20下注10亿机器人，三件事拼出Agent战争的下半场。
+金句钩子：「Agent战争的下半场，比的不是谁更聪明，是谁更敢用、谁更敢信。」
+完整摘要（3句）：
+- Anthropic发布Fable 5.1，典型任务使用成本直降25%，Agent化深度任务最高降45%，把Agent工作流的入场券打成「街边奶茶「。
+- OpenAI承认Astra已达网络安全Critical阈值，但选择受限发布，守住的是「AI Agent的责任边界「这条新红线。
+- 马斯克在G20放话：未来十年10亿人形机器人、20-30%全球GDP增量、15吉瓦电力缺口，倒逼各国产业政策加码。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「反常识的事发生了」
+- [00:10] 转折/问题抛出，「Anthropic刚刚做了一件反常识的事」
+- [00:30] 关键数字甩出，「25% / 75% / 45%三组定价」
+- [01:00] 要点1展开，「Anthropic的阳谋：赌Token吞吐量」
+- [01:40] 要点1续，「缓存价格打骨折的真实意图」
+- [02:20] 要点2展开，「Fable 5.1多步任务能力跃升」
+- [03:00] 要点2续，「组合拳把对手挤出成本舒适区」
+- [03:40] 要点3展开，「隔壁OpenAI按住Astra不发」
+- [04:30] 要点3续，「Astra网络安全Critical阈值的真实含义」
+- [05:10] 要点4展开，「一个向左，一个向右」
+- [05:50] 要点4续，「责任边界才是下一个战场」
+- [06:30] 要点5展开，「马斯克G20三组激进数字」
+- [07:20] 要点5续，「20-30% GDP、10亿机器人、15吉瓦电力缺口」
+- [08:10] 要点6展开，「马斯克不是预测，是喊话」
+- [08:50] 要点6续，「Anthropic和OpenAI都在为算力鸿沟抢跑」
+- [09:30] 结尾+行动号召，「Agent战争的下半场，比的是敢用和敢信」
+核心要点（5+ 条）：
+- Anthropic Fable 5.1典型任务使用成本降25%，Agent化深度任务最高降45%，缓存读取价降75%。
+- Fable 5.1主打「可连续数小时自主完成任务并自我验证「，把模型定位从「答题者「切换为「干活者「。
+- OpenAI的Astra在Preparedness Framework下达到网络安全Critical阈值，是首个被评到该级别的模型。
+- OpenAI对Astra选择受限发布，说明头部实验室已经把「AI Agent的责任边界「作为新的竞争壁垒。
+- 马斯克在G20相关会议上预测：未来十年10亿台人形机器人、全球GDP年增20-30%、2027年至少15吉瓦电力缺口。
+- 马斯克同时预计2027年底AI将能完成几乎所有不涉及操作实体物品的数字化工作，明年AI编程可达Stockfish级。
+- Anthropic降价、OpenAI按住Astra、马斯克放话，本质都在为即将到来的「算力+电力「双鸿沟抢跑。
+- 真正的Agent战争下半场的胜负手，是「信任建立速度「，不是模型能力上限。
+🔮 彩蛋预告：
+下期｜一个让所有AI公司开始重新算账的变量，它已经在路上了。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_144.jpg"/>
 </item>
 </channel>
 </rss>
