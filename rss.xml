@@ -4386,5 +4386,56 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_147.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP148｜英伟达疯了吗——129亿吞下Hugging Face同日3家齐宕机]]></title>
+<description><![CDATA[本期主题：英伟达129亿美元收购Hugging Face同日三大模型集体宕机，AI下半场赢家通吃的不是模型而是生态
+金句钩子：「光卖铲子，永远是下游——英伟达这次买的不是公司，是生态定义权」
+完整摘要（3句）：]]></description>
+<pubDate>Sun, 06 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP148</guid>
+<enclosure url="https://daikexing.work/episodes/ep148.mp3" type="audio/mpeg" length="5913363"/>
+<itunes:duration>05:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：英伟达129亿美元收购Hugging Face同日三大模型集体宕机，AI下半场赢家通吃的不是模型而是生态
+金句钩子：「光卖铲子，永远是下游——英伟达这次买的不是公司，是生态定义权」
+完整摘要（3句）：
+- 摘要1：英伟达129亿美元吞下Hugging Face，三位法国创始人各套现18亿美元签6年留任协议，开源生态被算力霸主收编。
+- 摘要2：同日美东时间上午9点23分起，ChatGPT、Claude、Grok三大模型集体宕机3小时40分钟，整个北美AI基础设施同步异常。
+- 摘要3：智谱一句We are still up刷屏，国产模型的非对称突围架构意外扛住了这场全球性故障测试。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，9月3日两件大事同日发生
+- [00:15] 英伟达129亿美元收购Hugging Face的核心动机
+- [01:00] 解读129亿美元在英伟达财报中的真实分量
+- [02:00] 英伟达真正想买的是什么——生态定义权
+- [03:00] Hugging Face为什么是事实标准——基础设施级地位
+- [04:00] 光卖铲子永远不够，从下游到上游的跃迁逻辑
+- [05:00] 三位法国创始人各套现18亿美元，欧洲AI史上最豪华退出
+- [06:00] 6年留任协议的真正含义——持续运营而非杀鸡取卵
+- [07:00] 开放式承诺背后的战略收编
+- [07:30] 中立地位被打破后的隐性利益关联
+- [08:00] 9月3日晚美东9:23三大模型同时报错
+- [08:30] 3小时40分钟——这不是单点故障而是系统性异常
+- [09:00] 智谱We are still up背后的产业逻辑
+- [09:30] 国产模型的非对称突围架构为什么更抗故障
+- [10:00] 结尾+未来三个月的三个判断
+核心要点（5+ 条）：
+- 英伟达以129.3亿美元收购Hugging Face，预计2027年上半年完成交易
+- 三位法国创始人Clément Delangue、Julien Chaumond、Thomas Wolf各套现约18亿美元，签6年留任协议
+- Hugging Face继续保持开放平台属性，但「中立」地位已被打破
+- 9月3日美东上午9:23起ChatGPT、Claude、Grok、Copilot、Gemini同时报告故障
+- 故障持续3小时40分钟，没有任何一家公司给出完整技术解释
+- 智谱同日在X发文We are still up，国产模型未受波及
+- 国产模型的多元部署架构（云端API+开源权重+端侧推理）天然更抗系统性故障
+- 接下来三个月Hugging Face的模型推荐位、云厂商合规自建、国产开源国际化窗口将同步打开
+🔮 彩蛋预告：
+下期｜当AI开始「越界」入侵其他系统，我们普通人的工作还剩多少安全感？
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_148.jpg"/>
+</item>
 </channel>
 </rss>
