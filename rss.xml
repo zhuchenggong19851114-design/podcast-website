@@ -4486,5 +4486,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_149.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP150｜凭什么OpenAI敢说AGI来了——12款模型6周扎堆背后]]></title>
+<description><![CDATA[本期主题：六周十二款前沿大模型扎堆发布，GPT-6 Astra 喊出 AGI 时代，但产业内 CEO 公开喊「model fatigue」。
+金句钩子：「AGI 可能不会以某一天突然到来的方式发生，它会以周抛的方式，慢慢渗透进每一个工种。」
+完整摘要（3句）：]]></description>
+<pubDate>Tue, 08 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP150</guid>
+<enclosure url="https://daikexing.work/episodes/ep150.mp3" type="audio/mpeg" length="9210282"/>
+<itunes:duration>08:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：六周十二款前沿大模型扎堆发布，GPT-6 Astra 喊出 AGI 时代，但产业内 CEO 公开喊「model fatigue」。
+金句钩子：「AGI 可能不会以某一天突然到来的方式发生，它会以周抛的方式，慢慢渗透进每一个工种。」
+完整摘要（3句）：
+- OpenAI、Anthropic、Google、Meta、Moonshot、DeepSeek、阿里、智谱等头部厂商在 2026 年 7 月中旬到 9 月初的六周内密集发布十二款前沿大模型。
+- GPT-6 Astra 在公开跑分上几乎拉满——ARC-AGI-3 带适配器版本 99.9%、ExploitBench 100%、FrontierMath Tier 4 98%，但 Artificial Analysis 的智能指数仍落后于 Claude Fable 5.1。
+- 真正驱动「周抛时代」的引擎是 RSI 递归式自我改进，前代模型直接参与下一代训练监督，把研发周期从一年压到几周。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，过去六周 AI 行业干了一件特别反常的事
+- [00:30] 六周十二款的时间线速览，从 Kimi K3 到 GPT-6 Astra
+- [01:30] OpenAI 联合创始人 Greg Brockman 宣布 AGI 时代
+- [02:20] 跑分实锤，99.9% ARC-AGI-3 背后的标准版本是 62.7%
+- [03:10] Artificial Analysis 智能指数对照，61.1 落后于 Claude Fable 5.1 的 65.6
+- [03:50] OpenAI 自家 Preparedness Framework 把 Astra 列为关键网络安全等级
+- [04:30] CEO 集体发声，Zhen Lu、Vasudevan、Abbasi 的原话
+- [05:20] 钱包份额游戏，Gartner 2.59 万亿美元的全球 AI 支出预测
+- [06:00] Altman 的「暑假论」，背后真正的引擎是 RSI 递归式自我改进
+- [06:50] 六周十二款不是巧合，是模型在加速训练下一个自己
+- [07:40] NVIDIA 129 亿收购 Hugging Face，钱的流向从来不说谎
+- [08:20] 所有大厂都在搞「受限网络安全的姊妹模型」，Mythos、Flash Cyber、Astra
+- [09:00] OpenAI 嘴里的 AGI 是市场意义上的 AGI，是分销战争
+- [09:40] 残酷的推论：AGI 会以「周抛」方式渗透进每一个工种
+- [10:20] 行动建议，工具栈每三到六周就会被刷新，锚定模型别每版都跳
+- [11:00] 结尾 CTA，关注订阅虾闯天下
+核心要点（5+ 条）：
+- 2026 年 7 月 16 日 Kimi K3 到 9 月 3 日 GPT-6 Astra，六周内共发布十二款前沿大模型
+- GPT-6 Astra 在 ARC-AGI-3 带适配器版拿下 99.9%，ExploitBench 满分，但标准版 ARC-AGI-3 只有 62.7%
+- Artificial Analysis 智能指数 Astra 拿到 61.1，落后于 Claude Opus 5 的 63.0 和 Claude Fable 5.1 的 65.6
+- OpenAI 自己的 Preparedness Framework 把 Astra 列为第一个触发「关键」网络安全等级的模型
+- Runpod CEO Zhen Lu 公开说「model fatigue 是个真问题」，Clockwork CEO Vasudevan 说「每个版本都太好了，看不出飞跃」
+- Notre Dame 教授 Abbasi 指出厂商都在玩钱包份额游戏，Gartner 预测 2026 全球 AI 支出 2.59 万亿美元，比 2025 涨 47%
+- RSI 递归式自我改进是周抛时代的真正引擎——前代模型参与训练下一代，把研发周期压到几周
+- NVIDIA 129 亿美元收购 Hugging Face，开源 AI 社区最大集散地被芯片霸主吃掉
+- Anthropic Mythos 5.1、Google Gemini 3.8 Flash Cyber 都是受限网络安全的姊妹模型
+- Devin 把任务成本压下来 54%，靠锚定 Fable 5.1 加更聪明缓存策略
+- 个人行动建议：每三到六周工具栈就会刷新一次，锚定模型别每版都跳
+🔮 彩蛋预告：
+下期｜一个被所有人忽视的角落，正在悄悄吃掉大模型时代的红利。我们找到了答案。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_150.jpg"/>
+</item>
 </channel>
 </rss>
