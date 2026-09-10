@@ -4591,7 +4591,10 @@ Timeline（精细时间戳，可跳着听）：
 <title><![CDATA[EP152｜突发！FBI点名6家中国AI——1600万次偷师Claude掀底]]></title>
 <description><![CDATA[本期主题：FBI联合NSA、CISA点名6家中国AI公司，指控其开展工业级知识蒸馏
 金句钩子：「当联邦公告把企业行为画成行为画像，技术问题就成了地缘筹码」
-完整摘要（3句）：]]></description>
+完整摘要（3句）：
+- 9月8日FBI联合NSA、CISA发布18页公告，是首次由情报、执法、网络安全三家机构联合点名中国AI公司，DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰、智谱AI六家被指控以工业规模蒸馏美国前沿模型
+- 操作手法包括虚假账号、第三方聚合商、灰色代理、24小时运行，Anthropic数据显示仅DeepSeek等三家就动用了24000个虚假账号、1600万次交互，每家公司蒸馏方向被精准定位
+- 公告发布于特朗普-习近平9月24日会晤前两周，预计成为美中AI安全对话前置议题，中国AI公司低成本追赶捷径被堵，合规成本上升，自研路径强化]]></description>
 <pubDate>Thu, 10 Sep 2026 12:00:00 +0800</pubDate>
 <guid isPermaLink="false">EP152</guid>
 <enclosure url="https://daikexing.work/episodes/ep152.mp3" type="audio/mpeg" length="9857838"/>
