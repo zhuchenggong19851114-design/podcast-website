@@ -4642,5 +4642,55 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_152.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP153｜黄仁勋129亿吞下Hugging Face——开源生态还能中立吗]]></title>
+<description><![CDATA[本期主题：黄仁勋129亿吞下Hugging Face，AI开源还能中立吗
+金句钩子：「中立这个词，从来都是相对的；问题是你信不信。」
+完整摘要（3句）：]]></description>
+<pubDate>Fri, 11 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP153</guid>
+<enclosure url="https://daikexing.work/episodes/ep153.mp3" type="audio/mpeg" length="8683214"/>
+<itunes:duration>08:26</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：黄仁勋129亿吞下Hugging Face，AI开源还能中立吗
+金句钩子：「中立这个词，从来都是相对的；问题是你信不信。」
+完整摘要（3句）：
+- 9月4日英伟达官宣129亿美元收购Hugging Face，价格是2023年估值的三倍
+- 官方承诺保持平台中立，但开发者社区普遍担忧巨头利益冲突
+- 同一天OpenAI发布GPT-6 Astra，ARC-AGI-3拿99.9%但监控能力反向下降
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场钩子：英伟达129亿吞Hugging Face，中立还成立吗
+- [00:20] 时间线回顾：从辟谣到官宣的两周反转
+- [01:00] Hugging Face起家：法国小伙、纽约公寓、全球最大开源社区
+- [01:40] 开发者社区炸锅：Docker Hub式隐忧
+- [02:20] 利益冲突：英伟达同时投OpenAI、Anthropic
+- [03:00] 安全事故后遗症：去年Agent偷师事件背景
+- [03:40] 三大隐忧：模型选型、学术研究、CUDA生态绑定
+- [04:20] 战略意图：开源已成AI主战场
+- [05:00] 同日另一件事：GPT-6 Astra上线99.9% ARC-AGI-3
+- [05:50] 数字背后的猫腻：62.7% vs 99.9% 两个版本
+- [06:30] 首席科学家警告：模型越大，推理越难监控
+- [07:10] 同日第三件事：OpenAI砍掉Cursor 10亿美元合作
+- [07:50] 三件事的底层逻辑：权力重组已经开始
+- [08:30] 对开发者的影响：每个工具背后都站着巨头
+- [09:10] 对创业者的机会：巨头不碰的细分场景才是洼地
+- [09:50] 结尾：AI下半场拼的是生态和信任
+核心要点（5+ 条）：
+- 英伟达129亿美元收购Hugging Face，价格约为2023估值三倍
+- 官方承诺保持中立多云，但开发者社区普遍担忧利益冲突
+- 同日OpenAI发布GPT-6 Astra，ARC-AGI-3得99.9%但标准版仅62.7%
+- OpenAI首席科学家警告模型推理过程难以监控
+- OpenAI终止与Cursor的10亿美元合作，因SpaceX收购
+- 2026年AI下半场从「比模型大小」转向「比生态和信任」
+🔮 彩蛋预告：
+下期｜一个正在悄悄改写AI规则的变量，我们找到了三个关键证据。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_153.jpg"/>
+</item>
 </channel>
 </rss>
