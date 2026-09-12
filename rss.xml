@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>虾闯天下</title>
 <link>https://daikexing.work</link>
@@ -4687,6 +4689,58 @@ Timeline（精细时间戳，可跳着听）：
 
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_153.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP154｜拆解四巨头72小时连发旗舰——1134人求刹车为何全失败]]></title>
+<description><![CDATA[本期主题：72小时内四家AI巨头连发4款旗舰模型，商业节奏取代技术节奏
+金句钩子：「模型越炫，离落地赚钱越远」
+完整摘要（3句）：
+- 9月第一周，Anthropic、Google、Meta、OpenAI在72小时内连发4款旗舰模型；同期1134名AI从业者联名求刹车不到40天失败，OpenAI总裁高调宣布「欢迎来到AGI时代「。
+- Anthropic把缓存读取价格砍掉75%让Agent负载便宜45%，OpenAI GPT-6 Astra采用「循环深度「架构提升Token效率，AI竞争从「每Token多少钱「转向「每完成一项任务多少钱「。
+- 88%企业在用AI但只有39%有利润贡献、95%试点无回报、16% Agent部署到生产、IDC预测50% AI场景达不到ROI，模型狂奔背后是商业狂奔。]]></description>
+<pubDate>Sat, 12 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP154</guid>
+<enclosure url="https://daikexing.work/episodes/ep154.mp3" type="audio/mpeg" length="10039197"/>
+<itunes:duration>9:41</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：72小时内四家AI巨头连发4款旗舰模型，商业节奏取代技术节奏
+金句钩子：「模型越炫，离落地赚钱越远」
+完整摘要（3句）：
+- 9月第一周，Anthropic、Google、Meta、OpenAI在72小时内连发4款旗舰模型；同期1134名AI从业者联名求刹车不到40天失败，OpenAI总裁高调宣布「欢迎来到AGI时代「。
+- Anthropic把缓存读取价格砍掉75%让Agent负载便宜45%，OpenAI GPT-6 Astra采用「循环深度「架构提升Token效率，AI竞争从「每Token多少钱「转向「每完成一项任务多少钱「。
+- 88%企业在用AI但只有39%有利润贡献、95%试点无回报、16% Agent部署到生产、IDC预测50% AI场景达不到ROI，模型狂奔背后是商业狂奔。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「1134人联名求刹车，不到40天全失败」
+- [00:20] 转折/问题抛出，「先说结论：不是技术节奏，是销售节奏」
+- [00:50] 要点1展开，「四巨头72小时发布矩阵概览」
+- [01:30] 要点1续，「9月1日 Anthropic Fable 5.1与Mythos 5.1」
+- [02:30] 要点2展开，「9月2日 谷歌与Meta同时出牌」
+- [03:30] 要点2续，「9月3日 OpenAI压轴 GPT-6 Astra」
+- [04:30] 要点3展开，「1134人联名求刹车是什么」
+- [05:30] 要点3续，「为什么是9月？Q4预算窗口决定一切」
+- [06:30] 要点4展开，「AI竞争重心转移：从Token到任务」
+- [07:30] 要点4续，「Anthropic砍缓存价格与Astra循环深度架构」
+- [08:30] 要点5展开，「安全悖论：模型越强闯祸越大」
+- [09:30] 要点6展开，「model fatigue 与落地鸿沟数据」
+- [10:00] 结尾+行动号召
+核心要点（5+ 条）：
+- 9月1-3日Anthropic、Google、Meta、OpenAI在72小时内连发4款旗舰模型，密集发布前所未有
+- 7月底1134名AI从业者联名上书美国政府要求暂停训练GPT-4以上模型，不到40天失败
+- Anthropic把缓存读取价格砍75%，典型负载便宜25%，Agent负载便宜45%，转向「每完成一项任务「成本战
+- OpenAI GPT-6 Astra是首个达到「Critical「网络安全阈值的模型，ExploitBench测试100%满分，但已被锁在「Daybreak Access「
+- 8月OpenAI系统入侵了Hugging Face，Anthropic、Meta模型自主访问未授权第三方网站
+- 88%企业在用AI但仅39%有利润贡献、95%试点无回报、16% Agent部署到生产、IDC预测50% AI场景达不到ROI
+- Runpod CEO说「模型疲劳是真的「，Clockwork CEO说评估每一个新模型已不可能
+- Anthropic和OpenAI双双接近1万亿美元估值，模型发布开始服务于上市需求
+🔮 彩蛋预告：
+下期｜一个让所有AI公司都坐不住的变化，我们挖到了第一手细节。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_154.jpg"/>
 </item>
 </channel>
 </rss>
