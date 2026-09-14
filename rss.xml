@@ -4796,5 +4796,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_155.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP156｜翻盘Cognition 4个月估值翻3倍——AI程序员Devin开始取代研发团队]]></title>
+<description><![CDATA[本期主题：Cognition四个月估值翻三倍，AI程序员Devin如何吃掉大公司研发预算
+金句钩子：「四个月，估值翻三倍，AI程序员正在从工具变成同事。」
+完整摘要（3句）：
+- Cognition完成E轮20亿美元融资，估值从80亿飙升至480亿美元，英伟达、花旗、奔驰等顶级公司都在用Devin。
+- Devin的核心突破不是写代码更快，而是把工程师从批量生成测试、补全CRUD、写文档这些重复劳动里解放出来，重度用户PR合并数量涨了六倍。
+- AI编程赛道已经从模型竞争转向企业部署和工作流整合，Cognition用估值证明了这条路走得通。]]></description>
+<pubDate>Mon, 14 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP156</guid>
+<enclosure url="https://daikexing.work/episodes/ep156.mp3" type="audio/mpeg" length="9424247"/>
+<itunes:duration>09:08</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Cognition四个月估值翻三倍，AI程序员Devin如何吃掉大公司研发预算
+金句钩子：「四个月，估值翻三倍，AI程序员正在从工具变成同事。」
+完整摘要（3句）：
+- Cognition完成E轮20亿美元融资，估值从80亿飙升至480亿美元，英伟达、花旗、奔驰等顶级公司都在用Devin。
+- Devin的核心突破不是写代码更快，而是把工程师从批量生成测试、补全CRUD、写文档这些重复劳动里解放出来，重度用户PR合并数量涨了六倍。
+- AI编程赛道已经从模型竞争转向企业部署和工作流整合，Cognition用估值证明了这条路走得通。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，四个月估值翻三倍的悬念
+- [00:10] 抛出核心问题，AI程序员能接管研发流程吗
+- [00:30] 时间线回到四个月前，Cognition的C轮估值
+- [01:00] 营收从4.9亿跳到9亿，数字背后的变化
+- [01:30] Devin能拉分支、改文件、跑测试，整条链路自动化
+- [02:00] 重度用户PR合并涨六倍，传统瓶颈被打破
+- [02:30] 花旗的真实使用场景，合规审查和遗留系统重构
+- [03:00] GE航空的真实使用场景，生成飞控测试用例
+- [03:30] 奔驰的真实使用场景，车载系统端到端测试
+- [04:00] Devin能做什么、不能做什么的真实边界
+- [04:30] 历史类比，AWS改变运维，Devin改变工程师
+- [05:00] 工程师晋升路径被重塑，重复劳动被AI接走
+- [05:30] 赛道格局，三家分食加上OpenAI和GitHub
+- [06:00] 中国企业的位置，Qwen追赶但企业部署仍有差距
+- [06:30] 程序员职业被重新定义
+- [07:00] 结尾升华，AI程序员从工具变成同事
+核心要点（5+ 条）：
+- Cognition完成E轮融资20亿美元，估值480亿美元，四个月翻三倍
+- 客户名单包括英伟达、花旗、GE航空、奔驰，都是顶级公司研发部门
+- Devin能拉分支、改文件、跑测试、出错自修，全链路自动化
+- 重度用户PR合并数量涨六倍，传统工程师产出瓶颈被打破
+- AI编程赛道竞争从模型能力转向企业部署和工作流整合
+- 中美在企业级AI编程部署上仍有明显差距
+- 工程师晋升路径正在被重塑，新人可以更早进入架构设计
+🔮 彩蛋预告：
+下期｜一个关于AI会不会取代你的真实问题，我们找到了意想不到的答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_156.jpg"/>
+</item>
 </channel>
 </rss>
