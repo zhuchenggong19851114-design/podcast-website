@@ -4904,5 +4904,57 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_157.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP158｜深挖Anthropic连发两款新模型——AI智能体开始操控显微镜]]></title>
+<description><![CDATA[本期主题：Anthropic九月连发两款新模型，AI智能体首次能操控显微镜
+金句钩子：「AI智能体的下一站，不是更会说话，而是更能动手」
+完整摘要（3句）：
+- Anthropic在9月1日连发Claude Fable 5.1和Mythos 5.1，缓存价格砍掉75%，并与HHMI合作推出MHS硬件接口，让AI智能体首次能操控显微镜和机械臂
+- OpenAI的GPT-5.6 Sol新增ultra档位支持多智能体并行协作，自身披露Agent化token用量半年增长22倍
+- Cognition AI以470亿美元估值融资10亿美元，国产模型Kimi K3与Claude Opus 5并驾齐驱，AI智能体从云端走入物理世界的拐点已经到来]]></description>
+<pubDate>Wed, 16 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP158</guid>
+<enclosure url="https://daikexing.work/episodes/ep158.mp3" type="audio/mpeg" length="9915289"/>
+<itunes:duration>09:37</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic九月连发两款新模型，AI智能体首次能操控显微镜
+金句钩子：「AI智能体的下一站，不是更会说话，而是更能动手」
+完整摘要（3句）：
+- Anthropic在9月1日连发Claude Fable 5.1和Mythos 5.1，缓存价格砍掉75%，并与HHMI合作推出MHS硬件接口，让AI智能体首次能操控显微镜和机械臂
+- OpenAI的GPT-5.6 Sol新增ultra档位支持多智能体并行协作，自身披露Agent化token用量半年增长22倍
+- Cognition AI以470亿美元估值融资10亿美元，国产模型Kimi K3与Claude Opus 5并驾齐驱，AI智能体从云端走入物理世界的拐点已经到来
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，AI智能体走进物理世界的画面
+- [00:30] Anthropic连发两款新模型，Fable 5.1与Mythos 5.1的区别
+- [01:30] 75%降价背后的算账逻辑，Agent负载成本最高降45%
+- [02:30] MHS硬件接口发布，AI首次能操控显微镜和机械臂
+- [03:30] HHMI合作背后的科学自动化野心
+- [04:30] OpenAI的GPT-5.6 Sol，ultra档位与11.4分领先
+- [05:30] OpenAI内部数据：编码推理算力半年增长100倍
+- [06:30] Cognition估值翻倍，AI编程赛道彻底爆发
+- [07:30] 国产模型Kimi K3跻身全球头部阵营
+- [08:00] 努比亚AI智能体手机量产，硬件栈同步成熟
+- [08:30] 企业级落地：工行62%欺诈识别、德勤5000+审计项目
+- [09:00] MHS的真正意义：从虚拟到物理的接口突破
+- [09:30] 结尾+行动号召
+核心要点（5+ 条）：
+- Anthropic 9月1日连发Claude Fable 5.1与Mythos 5.1，缓存读取价格下调75%
+- MHS硬件控制接口预览版由Anthropic与HHMI联合开发，让AI智能体首次能操控显微镜与机械臂
+- GPT-5.6 Sol新增ultra档位支持多智能体并行协作，中等推理强度下领先Fable 5约11.4分
+- OpenAI披露过去半年内部Agent化token用量增长约22倍、编码推理算力占比增长100倍
+- Cognition AI以470亿美元估值融资10亿美元，4个月估值几乎翻倍
+- 国产模型Kimi K3在多项基准测试中跻身全球头部，与Claude Opus 5并驾齐驱
+- 工商银行部署交易风控智能体，新型欺诈识别率提升62%
+- 德勤Zora AI多智能体集群已应用于5000余个审计项目
+🔮 彩蛋预告：
+下期｜一个正在悄悄重塑整个行业的趋势，可能比Agent本身更值得警惕。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_158.jpg"/>
+</item>
 </channel>
 </rss>
