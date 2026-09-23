@@ -5321,6 +5321,57 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_164.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP165｜凭什么10000个AI Agent 88小时破解90年数学难题——Navier-Stokes悬案被改写]]></title>
+<description><![CDATA[本期主题：OpenAI 用一万个 AI Agent 协作 88 小时，破解了悬而未决 90 年的 Navier-Stokes 千禧年数学难题，AI 正式进入自己研究自己证明的新阶段。
+金句钩子：「一万个 AI Agent、八十八小时、九十年的数学悬案——这不是科幻，这是 OpenAI 这个月刚发生的事。」
+完整摘要（3句）：
+- OpenAI 用新一代模型和 10000 个协调 Agent，在 88 小时内给出 Navier-Stokes 存在性与光滑性问题的完整证明，并附 Lean 形式化版本。
+- 该成果意味着 AI 不再只是辅助工具，而是能在严肃数学领域端到端产出可验证的研究工作，研究助理升级为合作者。
+- 行业竞争焦点从单一模型跑分转向大规模 Agent 协作，谁能调度一群 AI 像队伍一样交付成果，谁就占据下一阶段红利。]]></description>
+<pubDate>Wed, 23 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP165</guid>
+<enclosure url="https://daikexing.work/episodes/ep165.mp3" type="audio/mpeg" length="9352277"/>
+<itunes:duration>9:03</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI 用一万个 AI Agent 协作 88 小时，破解了悬而未决 90 年的 Navier-Stokes 千禧年数学难题，AI 正式进入自己研究自己证明的新阶段。
+金句钩子：「一万个 AI Agent、八十八小时、九十年的数学悬案——这不是科幻，这是 OpenAI 这个月刚发生的事。」
+完整摘要（3句）：
+- OpenAI 用新一代模型和 10000 个协调 Agent，在 88 小时内给出 Navier-Stokes 存在性与光滑性问题的完整证明，并附 Lean 形式化版本。
+- 该成果意味着 AI 不再只是辅助工具，而是能在严肃数学领域端到端产出可验证的研究工作，研究助理升级为合作者。
+- 行业竞争焦点从单一模型跑分转向大规模 Agent 协作，谁能调度一群 AI 像队伍一样交付成果，谁就占据下一阶段红利。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一万个 AI Agent 八十八小时破解九十年数学难题」
+- [00:10] 转折抛出，「先说结论：AI 已经能自己证明数学猜想」
+- [00:30] Navier-Stokes 难题背景，克雷数学研究所百万悬赏
+- [01:00] OpenAI 9 月 8 日公布的完整成果，包含分析证明与 Lean 形式化
+- [01:30] 10000 个 Agent 的分工与流水线，答题加批改一步到位
+- [02:00] 内部数据补刀，研究员每天为 Agent 烧 600 美元
+- [02:30] 数学界两种声音，合作者派 vs 用力过猛派
+- [03:00] 意义 1，跑分时代结束，长程逻辑链才是新赛点
+- [03:30] 意义 2，Agent 协调才是下一个红利
+- [04:00] 意义 3，AI 加科学边界再被推远
+- [04:30] 给创业者的三条提示，协作、自证、交付可验收成果
+- [05:00] 有意思的对比，OpenAI 在冲 Anthropic 在喊刹车
+- [05:30] 收尾，AI 只是玩具这句话，可以和九十年八十八小时放在一起念
+核心要点（5+ 条）：
+- OpenAI 在 2026 年 9 月 8 日宣布用新一代模型和 10000 个协调 AI Agent，在 88 小时内给出 Navier-Stokes 存在性与光滑性问题的完整证明。
+- Navier-Stokes 是克雷数学研究所 2010 年公布的七个千禧年难题之一，每个悬赏 100 万美元，悬而未决近 90 年。
+- 这次成果同时给出分析证明与 Lean 形式化版本，相当于让 AI 自己答题又自己批改。
+- 10000 个 Agent 被分工协作，推演、验证、检查逻辑漏洞，把数学研究拆成流水线。
+- OpenAI 内部研究员使用 Agent 的中位花费，到 2026 年 8 月已涨到每天 600 美元以上，Agent 已是研究流程的标配。
+- 行业意义：跑分时代结束，Agent 协调能力成为下一阶段竞争焦点。
+- 对创业者：真正的机会是让一群 AI 协作完成完整任务并交付可验收成果，自检、自洽、自证的产品比单纯 AI 写代码值钱十倍。
+- 反差点：OpenAI 在用极限能力往前冲，Anthropic CEO 同期公开喊话 AI 发展太快需要踩刹车。
+🔮 彩蛋预告：
+下期｜一个让全行业都坐不住的数字，我们找到了它背后的真实故事。
+先关注，别迷路，准时来听。
 
+更多 AI 创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_165.jpg"/>
+</item>
 </channel>
 </rss>
