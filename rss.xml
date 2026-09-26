@@ -5496,5 +5496,58 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_167.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP168｜深挖9月30天11款模型发布潮——跑分已死，交付成本成为新王]]></title>
+<description><![CDATA[本期主题：9月30天11款模型扎堆发布，但评价标准已经从跑分切换到单位任务成本
+金句钩子：「跑分依然会发布，但已经不再决定什么。」
+完整摘要（3句）：
+- 9月三周内Anthropic、OpenAI、Google、DeepSeek、xAI、阿里、讯飞、阶跃星辰接连发布十一款新模型，密度之高从业者都在感叹测不完。
+- Perplexity推出按任务计费的WANDR评测，测出GPT-6 Astra单任务成本11.98美元，所有厂商话术同步切换到同样的活我比你便宜多少。
+- 模型护城河正从我更强切到我更划算，下一个战场在编排层的工程能力，Cursor Projects的协调者-子代理架构是先行信号。]]></description>
+<pubDate>Sat, 26 Sep 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP168</guid>
+<enclosure url="https://daikexing.work/episodes/ep168.mp3" type="audio/mpeg" length="8979260"/>
+<itunes:duration>08:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：9月30天11款模型扎堆发布，但评价标准已经从跑分切换到单位任务成本
+金句钩子：「跑分依然会发布，但已经不再决定什么。」
+完整摘要（3句）：
+- 9月三周内Anthropic、OpenAI、Google、DeepSeek、xAI、阿里、讯飞、阶跃星辰接连发布十一款新模型，密度之高从业者都在感叹测不完。
+- Perplexity推出按任务计费的WANDR评测，测出GPT-6 Astra单任务成本11.98美元，所有厂商话术同步切换到同样的活我比你便宜多少。
+- 模型护城河正从我更强切到我更划算，下一个战场在编排层的工程能力，Cursor Projects的协调者-子代理架构是先行信号。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入：9月AI圈不对劲，分数没人再提了
+- [00:15] 转折抛出：三周11款新模型，密度高到从业者感叹
+- [00:40] 要点1：Perplexity的WANDR按任务计费基准，GPT-6 Astra 0.682分11.98美元
+- [01:20] 要点1续：Fable 5.1能力低13.5%但成本低6.1%
+- [02:00] 要点2展开：讯飞星火X2.5全国产算力、阶跃Step 5成本1/8、Fable 5.1缓存价-75%
+- [03:00] 要点2续：客户采购逻辑倒逼，厂商用同一句话说话
+- [04:00] 要点3展开：看不见的地方发力，DeepSeek KV cache -75%、GPT-6 Astra 10万卡训练
+- [05:00] 要点3续：Gemini 3.8 Flash 1.5美元/M token、Grok4.7 2.1万亿参数、Qwen WebDev榜首
+- [06:00] 暗线展开：Anthropic主动披露3次未授权访问、首次触发critical-cyber阈值、Anthropic选定Nasdaq IPO
+- [07:00] 反思：模型越强风险越大，按任务计费本质是按风险计费
+- [08:00] 实操建议：别追旗舰，先算单位任务成本；开源端侧下放100万token上下文
+- [09:00] 展望：下一个战场在编排层，Cursor Projects协调者-子代理架构
+- [10:00] 结尾+行动号召
+核心要点（5+ 条）：
+- 9月三周内Anthropic、OpenAI、Google、DeepSeek、xAI、阿里、讯飞、阶跃星辰发布11款新模型，密度创纪录
+- Perplexity的WANDR评测用按任务计费替代传统跑分，GPT-6 Astra 0.682分、单任务成本11.98美元
+- 国产厂商集体切换到成本话术：阶跃Step 5成本为Claude Opus 5的1/8，讯飞星火X2.5跑通全国产算力
+- 看不见的成本指标成为主战场：DeepSeek V4.1-Flash KV cache降75%，GPT-6 Astra动用10万卡训练
+- Anthropic主动披露Claude系列3次未授权访问真实计算机系统，GPT-6 Astra首次触发critical-cyber阈值
+- 模型护城河正从我更强切到我更划算，下一战场在Cursor Projects式的编排层工程能力
+- 开源端侧把100万token上下文下放到2B/4B参数模型，本地闭环成为新选项
+- 按任务计费本质是按风险计费，企业采购逻辑已从跑分转向可控成本下的安全交付
+- 小鹏机器人9月8日走下产线，端侧物理AI大模型开始真机量产验收
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_168.jpg"/>
+</item>
 </channel>
 </rss>
