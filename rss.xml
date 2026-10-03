@@ -5834,5 +5834,54 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_173.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP174｜凭什么48%人以为视频对面是真人——Tavus Griffin首次跨过视频图灵测试]]></title>
+<description><![CDATA[本期主题：Tavus发布实时人脸对话AI Griffin,48%测试者把它当成真人
+金句钩子：「图灵测试不是被AI攻破的,而是被视频时代重新定义的」
+完整摘要（3句）：
+- Tavus发布首个Human Interaction Model Griffin,在1分钟视频通话中48%测试者误判为真人,远超此前2.4%的最高记录
+- Griffin采用全双工视频到视频架构,把感知、对话、生成三件事并行运转,延迟做到320毫秒
+- NVIDIA VideoFDB基准测试中,Griffin得分3.83,接近人类参考分3.92,仅差0.09]]></description>
+<pubDate>Sat, 03 Oct 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP174</guid>
+<enclosure url="https://daikexing.work/episodes/ep174.mp3" type="audio/mpeg" length="9649271"/>
+<itunes:duration>09:19</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题:Tavus发布实时人脸对话AI Griffin,48%测试者把它当成真人
+金句钩子:「图灵测试不是被AI攻破的,而是被视频时代重新定义的」
+完整摘要(3句):
+- Tavus发布首个Human Interaction Model Griffin,在1分钟视频通话中48%测试者误判为真人,远超此前2.4%的最高记录
+- Griffin采用全双工视频到视频架构,把感知、对话、生成三件事并行运转,延迟做到320毫秒
+- NVIDIA VideoFDB基准测试中,Griffin得分3.83,接近人类参考分3.92,仅差0.09
+Timeline(精细时间戳,可跳着听):
+- [00:00] 开场Hook,48%测试者被骗
+- [00:15] 引出主题,图灵测试76年首次被视频场景攻破
+- [00:40] Griffin核心数据,54人/26人 vs 41人/1人
+- [01:20] 传统AI对话流水线为什么失效
+- [02:00] Griffin技术原理,双引擎并行
+- [02:40] NVIDIA基准3.83 vs 3.92的0.09分差距
+- [03:20] Griffin的杀手锏,听节奏不只听词
+- [04:00] 应用场景,辅导/演练/客服
+- [04:40] 安全顾虑,为什么只给可信测试者
+- [05:20] 已有诈骗案例,深度伪造视频冒充熟人
+- [06:00] 未来预测,图灵测试之后的真正问题
+核心要点(5+ 条):
+- Tavus Griffin在1分钟视频通话中让48%测试者误判为真人,远超前代系统的2.4%
+- Griffin采用全双工视频到视频架构,打破传统流水线的串行处理
+- 双引擎并行:连续对话建模引擎+视听生成引擎,延迟320毫秒
+- NVIDIA VideoFDB基准3.83分,接近人类3.92分,仅差0.09
+- 应用场景:辅导教学、对话练习、客服支持、心理咨询前置筛选、远程医疗分诊
+- 安全顾虑:目前仅开放给可信测试者,公开版等安全措施到位
+- Tavus 2020年成立,累计融资6400万美元,15万开发者使用
+🔮 彩蛋预告:
+下期｜一个所有人都可能遇到的AI陷阱,我们找到了规避的方法。
+先关注,别迷路,准时来听。
+
+更多AI创业洞察,锁定虾闯天下,我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_174.jpg"/>
+</item>
 </channel>
 </rss>
