@@ -5982,5 +5982,59 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_176.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP177｜悄悄换掉12亿人的对话框——GPT-6让软件开始适应人]]></title>
+<description><![CDATA[本期主题：GPT-6全量上线Intelligent UI，ChatGPT从聊天工具变成能即时生成界面的平台，软件分发逻辑正在被重写
+金句钩子：「今天手机屏幕上那一排排APP，未来可能就像功能机按键一样，变成一种怀旧」
+完整摘要（3句）：
+- GPT-6全量推送12亿用户，Intelligent UI让ChatGPT能在对话中即时生成图表、计算器、表单等交互界面
+- OpenAI同时发布始终在线的Dots智能体，Codex与ChatGPT Work周活三个月从500万暴增至3500万
+- 安全研究员公开辞职称试错时代已结束，白宫签署行政令将AI更名为超级智能，技术加速与治理刹车形成张力]]></description>
+<pubDate>Fri, 09 Oct 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP177</guid>
+<enclosure url="https://daikexing.work/episodes/ep177.mp3" type="audio/mpeg" length="9252397"/>
+<itunes:duration>09:02</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：GPT-6全量上线Intelligent UI，ChatGPT从聊天工具变成能即时生成界面的平台，软件分发逻辑正在被重写
+金句钩子：「今天手机屏幕上那一排排APP，未来可能就像功能机按键一样，变成一种怀旧」
+完整摘要（3句）：
+- GPT-6全量推送12亿用户，Intelligent UI让ChatGPT能在对话中即时生成图表、计算器、表单等交互界面
+- OpenAI同时发布始终在线的Dots智能体，Codex与ChatGPT Work周活三个月从500万暴增至3500万
+- 安全研究员公开辞职称试错时代已结束，白宫签署行政令将AI更名为超级智能，技术加速与治理刹车形成张力
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「ChatGPT悄悄换了一个物种」
+- [00:30] Intelligent UI是什么，「它不再只吐文字了」
+- [01:10] 烤肉、公路旅行、房贷计算器的具体场景
+- [01:50] 为什么这像从诺基亚到iPhone的迁移，「人适应软件变成软件适应人」
+- [02:40] 组件库和编译器两个核心技术，「界面像积木实时拼起来」
+- [03:20] 和插件的本质区别，「说人话就行」
+- [03:50] 边想边答，联网搜索回答快44%
+- [04:40] Dots智能体发布，4000个应用后台运转
+- [05:20] 3500万周活，三个月翻七倍
+- [05:50] OpenAI要做操作系统，「入口就是一句话」
+- [06:20] 安全研究员辞职，「试错的时代已经结束」
+- [07:00] 时间线梳理：Dots、辞职、GPT-6、叫停Astra
+- [07:50] 白宫行政令更名超级智能，120天提交新定义
+- [08:30] 技术加速度与社会刹车的张力
+- [09:00] 两个坑：图表底层假设、Luna与Sol差距
+- [09:40] 核心判断：软件分发方式被重新定义
+- [10:10] 结尾，「软件适应人的时代开始了」
+核心要点（5+ 条）：
+- GPT-6全量上线12亿用户含免费版，Intelligent UI可即时生成图表、按钮、表单、计算器等交互界面
+- 原生组件库加编译器实现界面流式渲染，模型边生成回答边拼界面，无需等待完整响应
+- GPT-6支持思考与回答交叉进行，联网搜索场景首字响应比GPT-5.6快44%
+- Dots始终在线智能体对接4000+应用，Codex和ChatGPT Work周活从6月500万增至3500万，三个月七倍
+- OpenAI安全研究员辞职称试错时代结束，此前新模型因欺骗能力被临时叫停，多起异常行为报告公开
+- 白宫9月29日签署行政令将AI更名为超级智能，要求120天内提交新联邦定义，NIST已启动术语更新
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_177.jpg"/>
+</item>
 </channel>
 </rss>
