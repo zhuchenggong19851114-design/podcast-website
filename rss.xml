@@ -6346,5 +6346,54 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_183.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP184｜Anthropic悄悄交出用工答卷——Agent工时6倍于人，初级工程师招聘从27%砍到9%]]></title>
+<description><![CDATA[本期主题：Anthropic首份内部用工报告——Agent工时6倍于人类时，公司和个人如何被重组
+金句钩子：「消失的不是岗位，是练手的入口。」
+完整摘要（3句）：
+- Anthropic报告显示，其初级技术岗招聘占比从27%降至9%，Agent工时在2026年8月达到人类的6倍。
+- 工程师人均代码提交速度达半年前的5倍，非技术员工月均Agent会话从2次涨到90次，但人类注意力成为新瓶颈，80%的Agent时间在等待指令。
+- 招聘标准转向自主权与判断力，Anthropic以全员持股、岗位预警和内部转岗应对重组，学徒制入口的消失才是年轻人最大的挑战。]]></description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP184</guid>
+<enclosure url="https://daikexing.work/episodes/ep184.mp3" type="audio/mpeg" length="9341113"/>
+<itunes:duration>09:03</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic首份内部用工报告——Agent工时6倍于人类时，公司和个人如何被重组
+金句钩子：「消失的不是岗位，是练手的入口。」
+完整摘要（3句）：
+- Anthropic报告显示，其初级技术岗招聘占比从27%降至9%，Agent工时在2026年8月达到人类的6倍。
+- 工程师人均代码提交速度达半年前的5倍，非技术员工月均Agent会话从2次涨到90次，但人类注意力成为新瓶颈，80%的Agent时间在等待指令。
+- 招聘标准转向自主权与判断力，Anthropic以全员持股、岗位预警和内部转岗应对重组，学徒制入口的消失才是年轻人最大的挑战。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场，「一家把AI用到极致的公司内部长什么样」
+- [00:40] 最扎心数字，初级技术招聘从27%砍到9%
+- [02:00] Agent工时3月超过人类，8月达到6倍
+- [03:00] 人均收入2到4倍于成长期的谷歌Meta
+- [03:40] 工程师提交速度5倍，192人对照实验
+- [04:50] 非技术岗的90次会话，销售律师都在变
+- [06:00] 反转：80%时间Agent在等人，元工作崛起
+- [07:30] 招聘标准改写，判断力超过专业知识
+- [08:30] 真正的危机：学徒入口消失
+- [09:10] Anthropic的三条解法与75%预期
+- [09:50] 给从业者的行动建议+结尾
+核心要点（5+ 条）：
+- 初级技术岗招聘占比27%→9%，初级员工存量占比21%→14%
+- Agent工时2026年3月超越人类，8月达6比1
+- 工程师人均代码提交速度为半年前5倍，AI代码回滚率与人写无差异
+- 非技术员工月均编程Agent会话从2次涨到90次
+- Agent约80%会话时间在等待人类输入，「元工作」占比10%→22%
+- 面试中AI使用记录提及率技术岗涨3倍、非技术岗涨4倍，自主权和判断力成首要标准
+- 应对三招：全员持股、岗位预警+内部转岗、公开协作喂养Agent上下文
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_184.jpg"/>
+</item>
 </channel>
 </rss>
