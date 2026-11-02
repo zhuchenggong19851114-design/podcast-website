@@ -6644,5 +6644,58 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_189.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP190｜深挖：DeepSeek超级智能体来了——AI助手要变成24小时不打烊的同事了]]></title>
+<description><![CDATA[本期主题：DeepSeek发布Super-agent设计探索，AI正从一问一答的工具，变成跨会话、多任务并行、不需要人盯着的连续实体。
+金句钩子：「多任务的天花板，从来不是模型不够聪明，而是你的注意力不够用。」
+完整摘要（3句）：
+- 10月31日晚，DeepSeek Harness团队发布技术文章《Super-agent设计探索》，提出把Agent从单次会话工具变成连续实体的系统架构。
+- 方案核心是双层架构、事件驱动、异步多信道交互、存算分离与外部Watchdog五条思路，让人从执行细节上移到决策与验收，内部实例已在持续运行。
+- 同期五大巨头承诺投入超3万亿美元建AI基础设施而资本市场大幅回调，DeepSeek选择用架构创新替代算力堆砌，把Agent竞赛推向编排层。]]></description>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP190</guid>
+<enclosure url="https://daikexing.work/episodes/ep190.mp3" type="audio/mpeg" length="6064187"/>
+<itunes:duration>05:58</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：DeepSeek发布Super-agent设计探索，AI正从一问一答的工具，变成跨会话、多任务并行、不需要人盯着的连续实体。
+金句钩子：「多任务的天花板，从来不是模型不够聪明，而是你的注意力不够用。」
+完整摘要（3句）：
+- 10月31日晚，DeepSeek Harness团队发布技术文章《Super-agent设计探索》，提出把Agent从单次会话工具变成连续实体的系统架构。
+- 方案核心是双层架构、事件驱动、异步多信道交互、存算分离与外部Watchdog五条思路，让人从执行细节上移到决策与验收，内部实例已在持续运行。
+- 同期五大巨头承诺投入超3万亿美元建AI基础设施而资本市场大幅回调，DeepSeek选择用架构创新替代算力堆砌，把Agent竞赛推向编排层。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场算账，「你一天花多少时间盯着AI干活」
+- [00:20] 监工困境，「表面AI帮你，实际你给AI当监工」
+- [00:50] 事件引入，「10月31日DeepSeek发布Super-agent设计探索」
+- [01:30] 核心判断，「多任务上限取决于人的注意力」
+- [02:10] 方案总纲，「从一问一答工具变成连续实体」
+- [02:50] 技术拆解1，「双层架构，前台交互后台执行」
+- [03:30] 技术拆解2，「事件驱动与异步多信道交互」
+- [04:10] 技术拆解3，「存算分离加外部Watchdog看门人」
+- [04:50] 关键转变，「人类上移到决策与验收」
+- [05:30] 已在运行，「内部实例参与代码审查与自我迭代」
+- [06:10] 行业背景，「五巨头承诺超3万亿美元投AI基建」
+- [06:50] 市场信号，「纳斯达克大跌，英特尔Reddit暴跌29%」
+- [07:30] 路线对比，「别人拼算力，DeepSeek拼架构效率」
+- [08:10] 从业者启示，「会用AI的标准从提示词走向编排层」
+- [08:50] 本质收束，「下一阶段不是更聪明的模型」
+- [09:30] 结尾提问，「AI变成同事后，稀缺的是判断力」
+核心要点（5+ 条）：
+- DeepSeek Harness团队10月31日发布《Super-agent设计探索：迈向更自主的Agent系统》，核心是打破Agent与单次会话的绑定。
+- 现有主流Agent的多任务上限取决于人的注意力，Super-agent的答案是跨会话保持上下文、多任务并行互不干扰的连续实体。
+- 五条技术思路：双层架构、事件驱动、异步多信道交互、存算分离、外部Watchdog。
+- 人类角色从执行细节上移到决策与验收，内部Super-agent实例已持续运行，参与问题修复、代码审查与Harness自身迭代。
+- 同期五大巨头承诺超3万亿美元投入数据中心，而纳斯达克创6月以来最大单日跌幅，算力军备竞赛与资本焦虑并存。
+- DeepSeek用架构创新对冲算力堆砌，AI编程竞赛焦点正从模型层转向编排层。
+🔮 彩蛋预告：
+下期｜一个你可能每天都在犯的错误，正在悄悄毁掉你和AI的协作效率，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_190.jpg"/>
+</item>
 </channel>
 </rss>
