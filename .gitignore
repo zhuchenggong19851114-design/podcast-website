@@ -1,1 +1,9 @@
 .vercel
+
+# ── 本地构建产物，不入库 ──────────────────────────────────
+# TTS 缝合中间产物：ffmpeg 缝合 intro+body+outro 的输出，
+# Step3 会 cp 成 ep{N}.mp3（成品）。与成品字节完全相同，无需入库。
+episodes/*_full.mp3
+
+# 封面底图模板：本地 PIL 生成 ai_{N}.jpg 的底图，不是发布内容
+episodes/covers/base_cover*.jpg
