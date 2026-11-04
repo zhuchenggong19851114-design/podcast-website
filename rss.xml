@@ -6752,5 +6752,54 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_191.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP192｜MIT实验曝光：GPT跳过训练直接改权重——只动0.016%，数学暴涨6倍]]></title>
+<description><![CDATA[本期主题：MIT团队让GPT-6 Astra跳过训练直接改写Qwen小模型权重，仅改动0.016%，数学成绩暴涨约6倍。
+金句钩子：「以前是重新炼钢，现在是直接给发动机拧几颗螺丝。」
+完整摘要（3句）：
+- MIT团队提出「权重空间编程」，让GPT-6 Astra不用梯度下降，直接读写并修改Qwen3.5-0.8B的权重。
+- 模型MATH-500准确率从7.9%升至48.1%，GSM8K与IFEval同样数倍提升，实际只改动约0.016%的参数。
+- 团队公开全部提示词、代码、评测与权重差分；这可能让定制小模型从「工厂重训」走向「对话式微创手术」。]]></description>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP192</guid>
+<enclosure url="https://daikexing.work/episodes/ep192.mp3" type="audio/mpeg" length="5008022"/>
+<itunes:duration>05:41</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：MIT团队让GPT-6 Astra跳过训练直接改写Qwen小模型权重，仅改动0.016%，数学成绩暴涨约6倍。
+金句钩子：「以前是重新炼钢，现在是直接给发动机拧几颗螺丝。」
+完整摘要（3句）：
+- MIT团队提出「权重空间编程」，让GPT-6 Astra不用梯度下降，直接读写并修改Qwen3.5-0.8B的权重。
+- 模型MATH-500准确率从7.9%升至48.1%，GSM8K与IFEval同样数倍提升，实际只改动约0.016%的参数。
+- 团队公开全部提示词、代码、评测与权重差分；这可能让定制小模型从「工厂重训」走向「对话式微创手术」。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场钩子，「不训练、不喂数据，AI直接改AI的大脑」
+- [00:40] 事件概述，MIT团队与GPT-6 Astra、Qwen小模型
+- [01:30] 传统微调怎么做，梯度下降为什么又贵又慢
+- [02:20] 实验全过程，Python环境、50次前向调用
+- [03:10] GPT的「手术」落点，第15、19层与重复推理
+- [04:00] 成绩揭晓，7.9%到48.1%的6倍跃升
+- [05:20] 为什么可信，全部代码与权重差分公开
+- [06:30] 第一层意义，权重黑盒被推开一条缝
+- [07:40] 第二层意义，模型改造模型的递归雏形
+- [08:40] 同周对照，Astra一周设计出语音硬件
+- [09:20] 对AI创业的实在影响与冷静提醒
+- [09:50] 结尾，发令枪已响，门后是什么
+核心要点（5+ 条）：
+- MIT团队提出「权重空间编程」，用GPT-6 Astra直接编辑Qwen3.5-0.8B权重
+- 全程不用梯度下降、不用训练循环，只给Python环境和练习材料
+- MATH-500从7.9%升至48.1%，约6倍；GSM8K、IFEval同步数倍提升
+- 仅改动约0.016%权重，集中在第15、19层，削弱重复推理方向
+- 提示词、代码、评测、权重差分全部公开，支持复现
+- 若技术成立，垂直小模型定制成本可能断崖式下降
+🔮 彩蛋预告：
+下期｜一个正在悄悄改变行业成本结构的新玩法，很多人还没反应过来。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_192.jpg"/>
+</item>
 </channel>
 </rss>
