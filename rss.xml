@@ -6967,5 +6967,107 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_195.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP196｜深挖GPT-6 Cyber：948个漏洞背后——AI要抢白帽黑客的饭碗？]]></title>
+<description><![CDATA[本期主题：OpenAI发布网络安全专用模型GPT-6 Cyber，一口气复现1724个Linux内核漏洞、写出948个提权程序，AI白帽正在改写网络安全行业的人效逻辑。
+金句钩子：「能力越强，缰绳就得越牢。」
+完整摘要（3句）：
+- GPT-6 Cyber在ExploitGym测试得分48.5%，较上一代32.1%提升51%，复现1724个Linux内核漏洞并为948个生成提权程序，还挖出81个火狐高危漏洞。
+- 模型在无安全提示下99.93%不越权、开启提示后100%规避越界攻击，OpenAI用Daybreak Red审核制、沙箱隔离与人工复核四层机制管控关键级风险。
+- 同期METR报告显示Anthropic模型能力提升速度约达此前两倍，AI能力加速与安全护栏赛跑，垂直安全赛道成为AI创业的高价值增量。]]></description>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP196</guid>
+<enclosure url="https://daikexing.work/episodes/ep196.mp3" type="audio/mpeg" length="5835656"/>
+<itunes:duration>05:38</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI发布网络安全专用模型GPT-6 Cyber，一口气复现1724个Linux内核漏洞、写出948个提权程序，AI白帽正在改写网络安全行业的人效逻辑。
+金句钩子：「能力越强，缰绳就得越牢。」
+完整摘要（3句）：
+- GPT-6 Cyber在ExploitGym测试得分48.5%，较上一代32.1%提升51%，复现1724个Linux内核漏洞并为948个生成提权程序，还挖出81个火狐高危漏洞。
+- 模型在无安全提示下99.93%不越权、开启提示后100%规避越界攻击，OpenAI用Daybreak Red审核制、沙箱隔离与人工复核四层机制管控关键级风险。
+- 同期METR报告显示Anthropic模型能力提升速度约达此前两倍，AI能力加速与安全护栏赛跑，垂直安全赛道成为AI创业的高价值增量。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一个AI写出948个提权程序」
+- [00:15] 先抛结论，GPT-6 Cyber是什么
+- [00:40] 硬数据展开，ExploitGym跑分48.5%对32.1%
+- [01:20] 安全约束，99.93%与100%背后的缰绳
+- [02:00] 实战战绩，1724个漏洞与火狐81个高危
+- [03:00] 行业痛点，网络安全为什么卡在人效
+- [04:00] 创业视角，垂直安全赛道的范式迁移
+- [05:00] 另一面，METR报告Anthropic能力翻倍
+- [06:00] 张力，能力前冲与护栏后追
+- [07:00] 管控四层，Daybreak Red与漏洞赏金
+- [08:20] 普通人视角，攻防转向人机协同
+- [09:20] 结尾升华，能力越强缰绳越牢
+核心要点（5+ 条）：
+- GPT-6 Cyber是OpenAI面向网络安全的专用模型，ExploitGym跑分48.5%，同比上代提升51%。
+- 实战复现1724个Linux内核漏洞，为948个生成可用提权程序，挖出81个火狐未公开高危漏洞。
+- 安全约束表现：无提示99.93%不越权，开启提示后100%规避越界攻击。
+- OpenAI将其风险定为关键级，仅对Daybreak Red审核客户开放，配套沙箱、人工复核与高风险操作拦截。
+- METR独立评估显示Anthropic模型能力提升速度约达此前两倍，主因是AI辅助研发而非单纯堆算力。
+- 网络安全正从人海战术转向人机协同，垂直安全场景是通用大模型之外的高价值创业方向。
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_196.jpg"/>
+</item>
+<item>
+<title><![CDATA[EP197｜别只盯着跑分榜，594B模型要开源——Mira Murati这步棋押的是什么]]></title>
+<description><![CDATA[本期主题：Mira Murati 的 Thinking Machines Lab 放出第二代模型 Inkling 2 Small，5940亿总参、170亿激活，AA 指数 31 分，权重下周按 Apache 2.0 全量开放。
+金句钩子：「名字叫Small，实际是5940亿参数——这家公司想抢的不是榜单，是自托管加微调的企业市场。」
+完整摘要（3句）：
+- 11月5日 Thinking Machines Lab 发布第二代 Inkling 2 Small，混合专家架构5940亿总参170亿激活，上下文100万token，Artificial Analysis 智能指数从上代13分跳到31分。
+- 成绩提升有代价：输出token是上代四倍，单次基准任务成本从0.2美元涨到1.18美元；幻觉率倒是从61%降到27%。
+- 训练上最值得盯的是一次联合强化学习——1075步、1700万次rollout、9天、2048块GPU一锅端，而不是分科训练再蒸馏合并。]]></description>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP197</guid>
+<enclosure url="https://daikexing.work/episodes/ep197.mp3" type="audio/mpeg" length="7251362"/>
+<itunes:duration>07:01</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Mira Murati 的 Thinking Machines Lab 放出第二代模型 Inkling 2 Small，5940亿总参、170亿激活，AA 指数 31 分，权重下周按 Apache 2.0 全量开放。
+金句钩子：「名字叫Small，实际是5940亿参数——这家公司想抢的不是榜单，是自托管加微调的企业市场。」
+完整摘要（3句）：
+- 11月5日 Thinking Machines Lab 发布第二代 Inkling 2 Small，混合专家架构5940亿总参170亿激活，上下文100万token，Artificial Analysis 智能指数从上代13分跳到31分。
+- 成绩提升有代价：输出token是上代四倍，单次基准任务成本从0.2美元涨到1.18美元；幻觉率倒是从61%降到27%。
+- 训练上最值得盯的是一次联合强化学习——1075步、1700万次rollout、9天、2048块GPU一锅端，而不是分科训练再蒸馏合并。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场引入，「一个叫Small的模型，实际5940亿参数」
+- [00:10] 转折，「11月5日放模型，权重下周开源」
+- [00:30] 背景拆解，「Mira Murati 一年四连发」
+- [01:00] 配置解读，「5940亿总参，170亿激活怎么理解」
+- [01:40] 分数拆解，「AutomationBench-AA 从5%到46%」
+- [02:20] 成本账本，「输出token四倍，任务成本1.18美元」
+- [03:00] 预训练四阶段，「68小时跑完GB300机架」
+- [04:00] 联合RL细节，「1075步、1700万次rollout」
+- [05:00] 编码三巧思，「Fledge-Alpha匿名参赛」
+- [05:45] 可定制性，「75步追上上一代训到底」
+- [06:30] 四个演示，「能启动Linux内核的PC模拟器」
+- [07:15] 工厂叙事，「4.5小时426美元训出翻倍分数」
+- [08:00] 安全与开放节奏，「先闭门测，再放权重」
+- [09:00] 商业逻辑，「50亿美元融资与Tinker生意」
+- [09:40] 行动建议，「这周先上Tinker摸一遍能力」
+核心要点（5+ 条）：
+- Inkling 2 Small 是5940亿总参、170亿激活的混合专家模型，AA 智能指数31分，上一代13分。
+- 智能体编码基准从5%提升到46%，幻觉率从61%降到27%，是这一代最硬的两项指标。
+- 代价是输出token四倍，单次基准任务成本从0.2美元涨到1.18美元。
+- 预训练四阶段共约12.5万亿token以上，GB300机架68小时原生NVFP4完成第一阶段。
+- 一次联合强化学习替代分科训练加多教师蒸馏，1075步、1700万次rollout、9天、2048块GPU。
+- 权重开放是「先闭门跑安全评测、再按 Apache 2.0 放出」，节奏与 Inkling-Small 一致。
+- 对做企业定制的团队，可定制性提升比榜单分数更值得看。
+🔮 彩蛋预告：
+下期｜一件所有人都以为稳了的事，最近悄悄变了风向，我们把它挖了出来。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_197.jpg"/>
+</item>
 </channel>
 </rss>
