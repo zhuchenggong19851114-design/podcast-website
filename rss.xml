@@ -7119,5 +7119,55 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_198.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP199｜OpenAI重锤落下，76天缓冲今日到期——600亿买来的Cursor被断供之后]]></title>
+<description><![CDATA[本期主题：OpenAI对马斯克AI帝国挥出合规重锤，76天缓冲期今日到期，Cursor被正式断供模型
+金句钩子：「在AI基础设施这张牌桌上，规则由模型所有人制定，不遵守，就出局。」
+完整摘要（3句）：
+- 11月12日OpenAI终止函正式生效，SpaceX花600亿美元收购的Cursor失去全部GPT模型接入，连Critical级新模型Astra也拿不到。
+- 触发点是控制权变更条款，加上马斯克庭审承认xAI蒸馏OpenAI模型训练Grok，服务条款从法律文本变成精确打击武器。
+- Cursor核心能力后端全靠GPT，断供等于引擎被拆，模型即产品时代，接入权正成为重塑AI竞争格局的关键杠杆。]]></description>
+<pubDate>Thu, 12 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP199</guid>
+<enclosure url="https://daikexing.work/episodes/ep199.mp3" type="audio/mpeg" length="6337250"/>
+<itunes:duration>07:08</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：OpenAI对马斯克AI帝国挥出合规重锤，76天缓冲期今日到期，Cursor被正式断供模型
+金句钩子：「在AI基础设施这张牌桌上，规则由模型所有人制定，不遵守，就出局。」
+完整摘要（3句）：
+- 11月12日OpenAI终止函正式生效，SpaceX花600亿美元收购的Cursor失去全部GPT模型接入，连Critical级新模型Astra也拿不到。
+- 触发点是控制权变更条款，加上马斯克庭审承认xAI蒸馏OpenAI模型训练Grok，服务条款从法律文本变成精确打击武器。
+- Cursor核心能力后端全靠GPT，断供等于引擎被拆，模型即产品时代，接入权正成为重塑AI竞争格局的关键杠杆。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场，「今天一封76天前的终止函正式生效」
+- [00:18] 抛出冲击，「20亿ARR的Cursor一夜被抽掉底层模型」
+- [00:45] 时间线展开，「控制权变更条款是怎么被激活的」
+- [01:30] 1.25万亿并购，「SpaceX并xAI再收Cursor」
+- [02:20] 关键证据，「马斯克庭审承认蒸馏，部分有」
+- [03:10] 什么是蒸馏，「把大模型当老师模仿学习」
+- [03:50] 76天缓冲期，「刻意的体面，结果没商量」
+- [04:40] 这一刀多狠，「三大核心能力后端全靠GPT」
+- [05:40] 算力不等于模型，「Codex正在抢企业市场」
+- [06:20] 十年关系变质，「从共同创始人到死敌」
+- [07:40] 深层信号，「服务条款变成精确制导的刀」
+- [08:50] 残酷等式与破局，「xAI能否在Colossus上跑出替代模型」
+- [09:40] 结尾留问，「下一个被条款卡住的会是谁」
+核心要点（5+ 条）：
+- 11月12日OpenAI正式断供Cursor，Astra等新模型同步关闭接入
+- 合同依据是控制权变更终止条款，由SpaceX 600亿收购Cursor触发
+- 马斯克庭审承认xAI蒸馏OpenAI模型训练Grok，成为关键违规证据
+- Cursor的Tab补全、多行编辑、Agent模式后端全部基于GPT系列
+- 76天是合同允许的最长通知期，合规不退让但给足过渡时间
+- Anthropic去年已对OpenAI用过同类条款，模型接入权正成为竞争杠杆
+🔮 彩蛋预告：
+下期｜一个你可能正在用的AI工具，背后的供应链正在悄悄洗牌。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_199.jpg"/>
+</item>
 </channel>
 </rss>
