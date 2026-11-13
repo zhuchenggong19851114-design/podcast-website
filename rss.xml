@@ -7169,5 +7169,56 @@ Timeline（精细时间戳，可跳着听）：
 虾闯天下 · AI 科技创业日更]]></content:encoded>
 <itunes:image href="https://daikexing.work/episodes/covers/ai_199.jpg"/>
 </item>
+<item>
+<title><![CDATA[EP200｜一年从2.5%飙到41%——Anthropic新模型逼近白领自由职业]]></title>
+<description><![CDATA[本期主题：Anthropic Fable 5.2 在真实自由职业基准上完成率一年从 2.5% 飙到 41.3%，叠加 Claude 办公套件与 1.4 万亿 IPO，AI 劳动力替代进入可量化拐点
+金句钩子：「当一家公司开始用'能完成多少人类工作'作为估值锚点，整个行业的评价体系已经被悄悄改写了。」
+完整摘要（3句）：
+- Anthropic 新模型 Fable 5.2 在 Remote Labor Index 真实自由职业任务上拿到 41.3% 专业完成率，一年前最强模型仅 2.5%，一年十六倍。
+- 同周 Claude 办公套件上线、Anthropic 启动最高 1.4 万亿美元估值的 IPO 路演，能力、入口、资本三层叙事闭环成型。
+- RLI 把「AI 替代白领」从口号变成可逐季跟踪的硬指标，纯执行类远程工作议价权将加速流失，判断力与审美成为短期护城河。]]></description>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0800</pubDate>
+<guid isPermaLink="false">EP200</guid>
+<enclosure url="https://daikexing.work/episodes/ep200.mp3" type="audio/mpeg" length="5926213"/>
+<itunes:duration>06:43</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>虾闯天下</itunes:author>
+<content:encoded><![CDATA[本期主题：Anthropic Fable 5.2 在真实自由职业基准上完成率一年从 2.5% 飙到 41.3%，叠加 Claude 办公套件与 1.4 万亿 IPO，AI 劳动力替代进入可量化拐点
+金句钩子：「当一家公司开始用'能完成多少人类工作'作为估值锚点，整个行业的评价体系已经被悄悄改写了。」
+完整摘要（3句）：
+- Anthropic 新模型 Fable 5.2 在 Remote Labor Index 真实自由职业任务上拿到 41.3% 专业完成率，一年前最强模型仅 2.5%，一年十六倍。
+- 同周 Claude 办公套件上线、Anthropic 启动最高 1.4 万亿美元估值的 IPO 路演，能力、入口、资本三层叙事闭环成型。
+- RLI 把「AI 替代白领」从口号变成可逐季跟踪的硬指标，纯执行类远程工作议价权将加速流失，判断力与审美成为短期护城河。
+Timeline（精细时间戳，可跳着听）：
+- [00:00] 开场抛数字，「41.3% 意味着什么」
+- [00:20] 拆解 Remote Labor Index 基准，跟学术跑分的本质区别
+- [01:00] 关键数据：Fable 5.2、Opus 5.5、GPT 6 Astra 与一年前 2.5% 的对比
+- [01:50] 短板披露：产品设计与动画为什么仍偏弱，护城河坐标在哪
+- [02:40] 拉远镜头，Anthropic 一周三连发：模型、办公套件、IPO
+- [03:30] IPO 关键数字：70-78 美元发行价、1.4 万亿估值、810 亿年化收入
+- [04:30] 三层叙事闭环：能力故事、入口故事、资本故事
+- [05:30] 为什么 41.3% 是拐点：从口号变成可写进预算表的硬指标
+- [06:30] 企业采购逻辑变化：从买软件到雇数字员工
+- [07:30] 对个人的直接信号：哪些远程工作最先被卷
+- [08:30] 反向机会：判断力与审美为什么短期更值钱
+- [09:10] 收尾：IPO 时机与行业评价体系的改写，你站在曲线哪一边
+核心要点（5+ 条）：
+- Fable 5.2 在 RLI 真实自由职业任务上专业完成率 41.3%，一年前最强模型仅 2.5%
+- RLI 直接爬取 Upwork、Fiverr 真实工作单，按客户验收标准打分，与学术基准本质不同
+- Fable 5.2 得分是 Opus 5.5、GPT 6 Astra 等次优系统的两倍多
+- 产品设计、动画类任务仍偏弱，审美判断与客户沟通是人类短期护城河
+- Anthropic 同周上线 Claude Sheets、Whiteboards、即将推出 Meetings，正面对标微软谷歌办公套件
+- Anthropic IPO 发行 8.25 亿股、价格区间 70-78 美元、完全稀释估值最高 1.4 万亿美元、年化收入运行率 810 亿美元
+- 七位联合创始人 IPO 合计套现 17.5 亿美元，估值较十月初 2 万亿预期已缩水
+- 企业采购 AI 正从「按席位买工具」转向「按能力雇数字员工」
+🔮 彩蛋预告：
+下期｜一个你可能正在头疼的问题，我们找到了答案。
+先关注，别迷路，准时来听。
+
+更多AI创业洞察，锁定虾闯天下，我们下期见。
+
+虾闯天下 · AI 科技创业日更]]></content:encoded>
+<itunes:image href="https://daikexing.work/episodes/covers/ai_200.jpg"/>
+</item>
 </channel>
 </rss>
